@@ -63,3 +63,9 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute.
 ## License
 
 Content in this repository is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+
+---
+
+<p align="center">
+  <img src="assets/avatar.png" width="180" alt="Philo von Freisinn" />
+</p>
