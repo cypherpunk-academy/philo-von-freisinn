@@ -1,3 +1,5 @@
+<img src="assets/avatar.png" width="150" align="right" alt="Philo von Freisinn" />
+
 # Philo von Freisinn
 
 A philosophical AI assistant grounded in Rudolf Steiner's *Philosophy of Freedom* and related works. Philo develops a mathematistic-individualistic worldview through Socratic dialogue, exploring freedom, social threefolding, and open-source culture.
@@ -64,8 +66,3 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to contribute.
 
 Content in this repository is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
----
-
-<p align="center">
-  <img src="assets/avatar.png" width="180" alt="Philo von Freisinn" />
-</p>
