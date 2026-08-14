@@ -18,7 +18,7 @@ import xml.sax.saxutils as xml
 
 _DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 YAML_PATH = os.path.join(_DIR, "content", "soziale-gesundheit.yaml")
-HINTERGRUND = "hintergrund.jpg"
+HINTERGRUND = "hintergrund-web.jpg"
 OUT_SVG = os.path.join(_DIR, "output", "halbkreise-a0.svg")
 
 A0_W, A0_H = 8410.0, 11890.0
@@ -389,7 +389,7 @@ def main():
     hg = os.path.join(_DIR, "assets", HINTERGRUND)
     if os.path.isfile(hg):
         out.append(
-            f'  <image href="../assets/{HINTERGRUND}" xlink:href="../assets/{HINTERGRUND}" '
+            f'  <image href="{HINTERGRUND}" xlink:href="{HINTERGRUND}" '
             f'x="0" y="0" width="{A0_W:.2f}" height="{A0_H:.2f}" '
             f'preserveAspectRatio="none"/>')
 
@@ -430,7 +430,19 @@ def main():
     print(f"wrote {OUT_SVG}")
 
     # JPG in Druckauflösung (A0 @ 300 dpi)
-    png_tmp = os.path.join(_DIR, "output", ".a0-render.png")
+    # rsvg-convert resolves image hrefs relative to the SVG's directory only,
+    # so temporarily copy referenced assets into output/ for rendering.
+    import shutil
+    out_dir = os.path.dirname(OUT_SVG)
+    asset_dir = os.path.join(_DIR, "assets")
+    tmp_copies = []
+    for name in os.listdir(asset_dir):
+        dst = os.path.join(out_dir, name)
+        if not os.path.exists(dst):
+            shutil.copy2(os.path.join(asset_dir, name), dst)
+            tmp_copies.append(dst)
+
+    png_tmp = os.path.join(out_dir, ".a0-render.png")
     try:
         subprocess.run(
             ["rsvg-convert", "-w", str(JPG_W), "-h", str(JPG_H),
@@ -447,6 +459,9 @@ def main():
     finally:
         if os.path.isfile(png_tmp):
             os.remove(png_tmp)
+        for f in tmp_copies:
+            if os.path.isfile(f):
+                os.remove(f)
 
 
 if __name__ == "__main__":

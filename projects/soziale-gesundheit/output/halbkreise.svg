@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 4200.00 5940.00" width="4200" height="5940">
   <rect x="0" y="0" width="4200.00" height="5940.00" fill="#f4f1ea"/>
-  <image href="../assets/hintergrund.jpg" xlink:href="../assets/hintergrund.jpg" x="0" y="0" width="4200.00" height="5940.00" preserveAspectRatio="none"/>
+  <image href="hintergrund-web.jpg" xlink:href="hintergrund-web.jpg" x="0" y="0" width="4200.00" height="5940.00" preserveAspectRatio="none"/>
   <text x="2100.00" y="805.44" font-family="Georgia, 'Times New Roman', serif" font-size="228.85" font-weight="bold" fill="#ddd9ce" text-anchor="middle" dominant-baseline="central" letter-spacing="2">Krankheit</text>
   <text x="2100.00" y="3368.03" font-family="Georgia, 'Times New Roman', serif" font-size="228.85" font-weight="bold" fill="#ddd9ce" text-anchor="middle" dominant-baseline="central" letter-spacing="2">Gesundheit</text>
   <text x="2100.00" y="205.87" font-family="Georgia, 'Times New Roman', serif" font-size="228.85" font-weight="bold" fill="#2b2b2b" text-anchor="middle" dominant-baseline="central" letter-spacing="2"><tspan x="2100.00" dy="0.00">Gesundheit und Krankheit</tspan><tspan x="2100.00" dy="256.31">des sozialen Zusammenlebens</tspan></text>
@@ -8,7 +8,7 @@
     <clipPath id="clip-krankheit">
       <polygon points="2094.98,1182.82 1426.01,2341.50 2763.94,2341.50"/>
     </clipPath>
-    <image href="../assets/dreieck-krankheit.png" xlink:href="../assets/dreieck-krankheit.png" x="1426.01" y="1182.82" width="1337.93" height="1158.68" preserveAspectRatio="none" clip-path="url(#clip-krankheit)"/>
+    <image href="dreieck-krankheit-web.png" xlink:href="dreieck-krankheit-web.png" x="1426.01" y="1182.82" width="1337.93" height="1158.68" preserveAspectRatio="none" clip-path="url(#clip-krankheit)"/>
     <polygon points="2094.98,1182.82 1426.01,2341.50 2763.94,2341.50" fill="none" stroke="#6f6f6f" stroke-width="3"/>
     <g font-family="Georgia, 'Times New Roman', serif" font-weight="bold" fill="#2b2b2b" dominant-baseline="central" letter-spacing="1">
       <text x="0" y="0" text-anchor="start" dominant-baseline="alphabetic" font-size="116.34170908473814" transform="translate(1506.29,2432.25) rotate(0.00)">Wettbewerb</text>
@@ -153,7 +153,7 @@
     <clipPath id="clip-gesundheit">
       <polygon points="1999.87,3745.41 1330.91,4904.09 2668.84,4904.09"/>
     </clipPath>
-    <image href="../assets/dreieck-gesundheit.png" xlink:href="../assets/dreieck-gesundheit.png" x="1330.91" y="3745.41" width="1337.93" height="1158.68" preserveAspectRatio="none" clip-path="url(#clip-gesundheit)"/>
+    <image href="dreieck-gesundheit-web.png" xlink:href="dreieck-gesundheit-web.png" x="1330.91" y="3745.41" width="1337.93" height="1158.68" preserveAspectRatio="none" clip-path="url(#clip-gesundheit)"/>
     <polygon points="1999.87,3745.41 1330.91,4904.09 2668.84,4904.09" fill="none" stroke="#6f6f6f" stroke-width="3"/>
     <g font-family="Georgia, 'Times New Roman', serif" font-weight="bold" fill="#2b2b2b" dominant-baseline="central" letter-spacing="1">
       <text x="0" y="0" text-anchor="start" dominant-baseline="alphabetic" font-size="116.34170908473814" transform="translate(1411.18,4994.84) rotate(0.00)">Brüderlichkeit</text>

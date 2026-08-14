@@ -37,7 +37,7 @@ Die Bombe auf Salina ist die Initialzündung — aber sie heilt asymmetrisch:
 
 ## Der Antagonist
 
-Nicht „die Wirtschaft", sondern der **verhärtete Wirtschafts-Sicherheits-Komplex** — Feld 9 der Doppelmatrix (Recht + Wirtschaft → Geist: Geheimnis plus Lärm) als Person(en). Die Institutionenbrücke: Der „Geheimdienst im Geheimdienst" aus „2064" ist der Kern dieses Komplexes.
+Nicht „die Wirtschaft", sondern der **verhärtete Wirtschafts-Sicherheits-Komplex** — Feld 9 der Sozialen Gesundheit (Recht + Wirtschaft → Geist: Geheimnis plus Lärm) als Person(en). Die Institutionenbrücke: Der „Geheimdienst im Geheimdienst" aus „2064" ist der Kern dieses Komplexes.
 
 Die Tragik ist keine Niederlage der Idee, sondern: **Geist und Recht waren schon halb gewonnen, die Wirtschaft war die letzte Festung, und die schlug zurück.**
 
@@ -92,7 +92,7 @@ Figurenkeim (aus Dokument 01): Das älteste Mitglied hat das W€-Prinzip um 200
 ## Struktur- und Erzählprinzipien
 
 - **Chronik statt Thriller:** Vier Jahrzehnte, Zeitsprünge zwischen den Teilen, alternde Figuren. Jeder Teil braucht einen eigenen dramatischen Bogen, verbunden durch die Figuren und die eine große Linie.
-- **Die Matrix als Eskalationslogik:** Die Felder der Doppelmatrix liefern die Dramaturgie der Angriffe — von den einfachen Übergriffen (4, 5, 6) zu den verschärften Kombinationen (8, 9). Die gesunden Felder werden in Teil I gelebt, die kranken treiben Teil II–IV.
+- **Soziale Gesundheit als Eskalationslogik:** Die Felder liefern die Dramaturgie der Angriffe — von den einfachen Übergriffen (4, 5, 6) zu den verschärften Kombinationen (8, 9). Die gesunden Felder werden in Teil I gelebt, die kranken treiben Teil II–IV.
 - **Kein Vokabular-Zwang:** Das Wort „Dreigliederung" muss im Roman nicht fallen; die Struktur zeigt sich im Handeln.
 
 ---

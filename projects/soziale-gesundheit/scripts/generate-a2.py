@@ -65,9 +65,9 @@ SECTION_WATERMARK = "#ddd9ce"
 TRI_FILL   = "#9b9b9b"
 TRI_STROKE = "#6f6f6f"
 _DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-TRI_IMAGE_KRANK = os.path.join(_DIR, "assets", "dreieck-krankheit.png")
-TRI_IMAGE_GESUND = os.path.join(_DIR, "assets", "dreieck-gesundheit.png")
-BG_IMAGE = os.path.join(_DIR, "assets", "hintergrund.jpg")
+TRI_IMAGE_KRANK = os.path.join(_DIR, "assets", "dreieck-krankheit-web.png")
+TRI_IMAGE_GESUND = os.path.join(_DIR, "assets", "dreieck-gesundheit-web.png")
+BG_IMAGE = os.path.join(_DIR, "assets", "hintergrund-web.jpg")
 ARC_COLOR  = "#2b2b2b"
 TXT_COLOR  = "#2b2b2b"
 FONT       = "Georgia, 'Times New Roman', serif"
@@ -689,7 +689,7 @@ def render_panel(out, gid, a, b, c, arcs, verts,
         ymin = min(a[1], b[1], c[1])
         ymax = max(a[1], b[1], c[1])
         clip_id = f"clip-{gid}"
-        href = "../assets/" + os.path.basename(fill_image)
+        href = os.path.basename(fill_image)
         out.append(f'    <clipPath id="{clip_id}">')
         out.append(f'      <polygon points="{pts}"/>')
         out.append(f'    </clipPath>')
@@ -1317,7 +1317,7 @@ def build_a2(write_files=True):
         out.append(f'  <rect x="0" y="0" width="{PAGE_W:.2f}" height="{PAGE_H:.2f}" '
                    f'fill="{BG}"/>')
         if os.path.isfile(BG_IMAGE):
-            href = "../assets/" + os.path.basename(BG_IMAGE)
+            href = os.path.basename(BG_IMAGE)
             out.append(
                 f'  <image href="{href}" xlink:href="{href}" '
                 f'x="0" y="0" width="{PAGE_W:.2f}" height="{PAGE_H:.2f}" '
@@ -1401,7 +1401,7 @@ def build_a2(write_files=True):
         inner_start = 1
         while inner_start < len(out) and (
             out[inner_start].lstrip().startswith("<rect ")
-            or "hintergrund.jpg" in out[inner_start]
+            or "hintergrund" in out[inner_start]
         ):
             inner_start += 1
         inner = "\n".join(out[inner_start:-1])

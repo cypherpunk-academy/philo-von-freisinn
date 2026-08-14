@@ -36,7 +36,7 @@ writings/
 
 ```
 projects/
-  doppelmatrix/    Health & Illness of Social Coexistence (visual matrix)
+  soziale-gesundheit/  Soziale Gesundheit — health and illness of social coexistence
   korn-currency/   KORN — A liberating currency concept
   die-assoziation/ Novel — The Association
   git-party/       GIT — Cooperative, Initiative, Transparent (political concept)
