@@ -1,13 +1,11 @@
-<table><tr>
-<td>
+<p>
+<img src="assets/avatar.png" width="150" align="right" alt="Philo von Freisinn" />
+<strong><big>Philo von Freisinn</big></strong>
+<br /><br />
+A philosophical AI assistant grounded in Rudolf Steiner's <em>Philosophy of Freedom</em> and related works. Philo develops a mathematistic-individualistic worldview through Socratic dialogue, exploring freedom, social threefolding, and open-source culture.
+</p>
 
-## Philo von Freisinn
-
-A philosophical AI assistant grounded in Rudolf Steiner's *Philosophy of Freedom* and related works. Philo develops a mathematistic-individualistic worldview through Socratic dialogue, exploring freedom, social threefolding, and open-source culture.
-
-</td>
-<td width="170"><img src="assets/avatar.png" width="150" alt="Philo von Freisinn" /></td>
-</tr></table>
+<br clear="both" />
 
 ## Repository Structure
 
