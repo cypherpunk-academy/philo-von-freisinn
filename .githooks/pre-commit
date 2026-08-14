@@ -1,0 +1,15 @@
+#!/usr/bin/env bash
+# Pre-commit hook: regenerate output when YAML source changes
+
+if git diff --cached --name-only | grep -q 'projects/soziale-gesundheit/content/.*\.yaml'; then
+  echo "▶ Soziale Gesundheit YAML changed — regenerating SVG/JPG..."
+  cd projects/soziale-gesundheit
+  python scripts/generate-a2.py && python scripts/generate-a0.py
+  if [ $? -eq 0 ]; then
+    git add output/
+    echo "✓ Output regenerated and staged"
+  else
+    echo "✗ Generation failed — commit aborted"
+    exit 1
+  fi
+fi
