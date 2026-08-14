@@ -1,0 +1,25 @@
+# Ist die Dreigliederung gescheitert?
+
+Mein KI-Begleiter Philo hat neulich geantwortet: Ja – gescheitert an den realen Machtverhältnissen. Eine ehrliche Antwort. Und eine zu kurze. Was Steiner 1919 gelegt hat, war kein Gebäude, das einstürzen konnte. Es war ein Samenkorn. Und ein Samenkorn muss in die Erde fallen und sterben, damit etwas wächst (Joh 12,24). Ich behaupte: Die Pflanze wächst heute – in der Open-Source-Kultur. Aber jetzt kommt das Eigentliche.
+
+## Wo lebt die Dreigliederung dort konkret?
+
+Schaut auf die drei Ideale. Freiheit im Geistesleben: Niemand braucht eine Erlaubnis, ein Diplom, eine Stellung. Jeder darf beitragen, jeder darf jedes Projekt kopieren und in eine eigene Richtung weiterführen – das „Forken" ist die institutionalisierte Freiheit. Autorität entsteht allein durch die Qualität der Arbeit, nicht durch Amt oder Besitz. Gleichheit im Rechtsleben: Die Lizenz ist das Rechtsverhältnis – und sie gilt für alle gleich. Die GPL macht keinen Unterschied zwischen der Studentin in Lagos und dem Billionen-Konzern in Seattle: Beide dürfen nutzen, beide müssen dieselben Bedingungen einhalten. Ein Recht, das nicht käuflich ist. Brüderlichkeit im Wirtschaftsleben: Es wird nicht für den eigenen Gewinn produziert, sondern für den Bedarf der anderen. Wer eine Bibliothek schreibt und verschenkt, arbeitet für Menschen, die er nie sehen wird – weltweit, ohne jemanden auszuschließen. Genau das nannte Steiner das Grundgesetz des sozialen Lebens: dass es den Menschen umso besser geht, je mehr der Einzelne die Erträge seiner Arbeit an die Gemeinschaft abgibt (GA 34). Drei Sphären, drei Ideale – und alle drei werden dort nicht gepredigt, sondern täglich praktiziert.
+
+## Ist in der Open-Source-Bewegung die Dreigliederung vollständig verwirklicht?
+
+Nein. Auf keinen Fall. Wer das behauptet, verklärt. Open Source ist kein fertiger dreigegliederter Organismus – es ist ein Ringen. Es gibt erbitterte interne Auseinandersetzungen. Es gibt Projekte, die den „benevolent dictator" abschaffen, demokratischere Strukturen suchen – und dann erstaunt bemerken, wie viel Streit plötzlich hereinkommt, wie schwer Freiheit und Ordnung zusammenzuhalten sind. Es gibt Maintainer, die ausbrennen. Und es gibt die Konzerne, die weiterhin Kontrolle wollen – die Lizenzen zurückdrehen, Stiftungen unterwandern, das Gemeinsame wieder einzäunen möchten. Aus ihrer Art heraus können sie gar nicht anders wollen.
+
+## Was ist dann das Bemerkenswerte?
+
+Die Widerstandsfähigkeit. Immer wenn ein Konzern das Gemeinsame einzäunt, forkt die Gemeinschaft – und arbeitet weiter. Die Entwickler wählen die Zusammenarbeit. Nicht einmal, sondern immer wieder, jeden Tag neu. Warum? Nicht aus Ideologie. Die meisten haben von Anthroposophie nie gehört; manche sind jeder „Lehre" gegenüber regelrecht allergisch, sehen darin eine Kirche, die ihrem Lebensstil widerspricht. Und trotzdem entdecken sie zwei Dinge: wie viel Leben darin steckt, anderen zu helfen, für den Bedarf anderer zu arbeiten. Und wie viel Leben darin steckt, frei zu sein – zu bauen, was man will, mit sofortiger Wirkung in die ganze Welt. Brüderlichkeit und Freiheit, nicht gepredigt, sondern erfahren.
+
+## Hat Steiner das kommen sehen?
+
+Hört diese Stelle. Juni 1920, vor Studenten der Technischen Hochschule Stuttgart: Die Welt der Natur sei „seelisch undurchsichtig" – aber „die Welt des Technischen ist so wie ein durchsichtiger Kristall, natürlich seelisch verstanden" (GA 73a, 17.6.1920). In der Technik steckt nichts Verborgenes, nichts Dämonisches – nur das, was wir vollständig überschauen können. Und gerade deshalb, sagt Steiner, muss der Mensch den Geist selbst hereinbringen, aus der eigenen Seele. Das technische Erleben als Vorbereitung zum reinen Erleben der Geistigkeit. Was ist Quellcode anderes als die durchsichtigste aller technischen Welten? „Open Source" heißt wörtlich: durchschaubar für alle. Und genau in dieser vollkommen geistleeren, gläsernen Welt fangen Menschen an, aus sich heraus Geist hineinzutragen – als Zusammenarbeit, als Schenken, als Freude am Tun für andere.
+
+## Und der Kampf?
+
+Er läuft. Jeden Tag. Zwischen Geld und Zusammenarbeit, zwischen Egoismus und Altruismus. Die wertvollsten Konzerne der Welt bauen ihr Lebensblut auf diese frei geschenkte Arbeit – und ringen zugleich darum, sie wieder unter Kontrolle zu bringen. Die Pflanze wächst nicht im Gewächshaus. Sie wächst im Sturm. Aber sie wächst.
+Eine Frage bleibt: Wo habt ihr das selbst schon erlebt – dass Zusammenarbeit mehr Leben gibt als Konkurrenz? Und was müsste geschehen, damit diese Kultur den Kampf gegen das Geld nicht verliert?
+Bildprompt (Leonardo.ai): Hilma af Klint style, a luminous threefold plant growing through a storm, three intertwining stems in blue, rose and gold, transparent crystal structures surrounding the plant like glass, dark clouds and golden coins pressing from above, yet the plant's crown opens into a radiant network of human hands connected across a globe, tempera texture, sacred geometry, soft pastel and deep indigo, 1907 aesthetic
