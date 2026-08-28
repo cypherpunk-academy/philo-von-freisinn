@@ -95,6 +95,10 @@ BLOCK_FIT_NUDGE_FRAC_KRANK = {
     1: (-0.25, -0.15),  # dm-05k
 }
 BLOCK_FIT_NUDGE_GESUND = {}
+# dm-05g (Bogen 1): fx = Anteil Blockbreite, fy_lh = Zeilenhöhen (dy<0 oben)
+BLOCK_FIT_NUDGE_LH_GESUND = {
+    1: (0.15, -1),
+}
 
 # Rahmen um die 7-Zeilen-Bloecke (wie A0-Karten)
 BLOCK_FRAME_STROKE = "#b7b1a6"
@@ -530,6 +534,31 @@ def nudge_blocks_frac(blocks, frac_map):
             fx, fy = frac_map[idx]
             bx += fx * max_w
             by += fy * h
+        out.append((idx, bx, by, w, t))
+    return out
+
+
+def nudge_blocks_lh(blocks, lh_map, lh):
+    """Feinschliff: fx × Blockbreite, fy_lh × Zeilenhöhe (dy<0 = nach oben)."""
+    if not lh_map:
+        return blocks
+    dims = {}
+    by_arc = {}
+    for item in blocks:
+        idx, bx, by, w, t = item
+        by_arc.setdefault(idx, []).append((bx, by, w, t))
+    for idx in lh_map:
+        rows = by_arc.get(idx, [])
+        if not rows:
+            continue
+        dims[idx] = max(line_w(w, t) for _bx, _by, w, t in rows)
+    out = []
+    for item in blocks:
+        idx, bx, by, w, t = item
+        if idx in lh_map and idx in dims:
+            fx, fy_lh = lh_map[idx]
+            bx += fx * dims[idx]
+            by += fy_lh * lh
         out.append((idx, bx, by, w, t))
     return out
 
@@ -1169,13 +1198,18 @@ def build_a2(write_files=False):
             8: [],
         }
         # Bevorzugte Seite der 7-Zeilen; fit_blocks faellt auf freie Seite zurueck
-        BLOCK_PLACE = {
+        BLOCK_PLACE_KRANK = {
             0: "above",
             1: "below",
             3: "left",
             4: "right",
             6: "right",
             7: "right",
+        }
+        BLOCK_PLACE_GESUND = {
+            **BLOCK_PLACE_KRANK,
+            3: "below",  # dm-06g unter dem Strahlenhalbkreis
+            7: "below",  # dm-01g unter dem Strahlenhalbkreis
         }
 
 
@@ -1208,9 +1242,11 @@ def build_a2(write_files=False):
             return arc_zoom
 
 
-        def equalize_block_pair_y(blocks, pair):
+        def equalize_block_pair_y(blocks, pair, skip=frozenset()):
             """7-Zeiler eines Paares auf dieselbe erste Zeile setzen."""
             a, b = pair
+            if a in skip or b in skip:
+                return blocks
             first = {}
             for item in blocks:
                 idx, _bx, by, _w, _t = item
@@ -1230,7 +1266,7 @@ def build_a2(write_files=False):
             return out
 
 
-        def fit_blocks_to_zoomed_arcs(blocks, arcs, radials, arc_zoom):
+        def fit_blocks_to_zoomed_arcs(blocks, arcs, radials, arc_zoom, block_place):
             """7 Einzeiler neben/ueber/unter den gezoomten Halbkreisen neu setzen."""
             def rad_w(word, z):
                 return 0.65 * RAD_FONT * z * len(word)
@@ -1313,7 +1349,7 @@ def build_a2(write_files=False):
                 x0, x1, y0, y1 = fan_box(idx)
                 max_w = max(line_w(w, t) for w, t in entries)
                 n = len(entries)
-                preferred = BLOCK_PLACE.get(idx, "left")
+                preferred = block_place.get(idx, "left")
                 if preferred == "left":
                     order = ("left", "above", "below")
                 elif preferred == "right":
@@ -1350,6 +1386,46 @@ def build_a2(write_files=False):
             return out
 
 
+        def refit_below_centered(blocks, arc_idx, arcs, radials, arc_zoom,
+                                 extra_lh=0):
+            """7-Zeiler mittig unter fan_box, optional zusaetzliche lh nach unten."""
+            def rad_w(word, z):
+                return 0.65 * RAD_FONT * z * len(word)
+
+            def fan_box(idx):
+                origin, z, shift = arc_zoom[idx]
+                center, chord, bulge, n, off = arcs[idx]
+                xs, ys = [], []
+                for p in arc_points(center, chord, bulge, off, n):
+                    q = css_zoom_point(p, origin, z, shift)
+                    xs.append(q[0]); ys.append(q[1])
+                for item in radials:
+                    if item[0] != idx:
+                        continue
+                    (px, py), _a, _an, word, d = item[1], item[2], item[3], item[4], item[5]
+                    p0 = css_zoom_point((px, py), origin, z, shift)
+                    wlen = rad_w(word, z)
+                    p1 = add(p0, mul(d, wlen))
+                    p2 = add(p0, mul(d, -wlen))
+                    xs += [p0[0], p1[0], p2[0]]
+                    ys += [p0[1], p1[1], p2[1]]
+                return min(xs), max(xs), min(ys), max(ys)
+
+            entries = [(w, t) for idx, _bx, _by, w, t in blocks if idx == arc_idx]
+            if not entries or arc_idx not in arc_zoom:
+                return blocks
+            x0, x1, _y0, y1 = fan_box(arc_idx)
+            mid_x = (x0 + x1) / 2.0
+            max_w = max(line_w(w, t) for w, t in entries)
+            bx = mid_x - max_w / 2.0
+            by0 = y1 + BLOCK_PAD + extra_lh * BLOCK_LH
+            rest = [item for item in blocks if item[0] != arc_idx]
+            rest.extend(
+                (arc_idx, bx, by0 + i * BLOCK_LH, w, t)
+                for i, (w, t) in enumerate(entries))
+            return rest
+
+
         def nudge_blocks(blocks, nudge_map):
             """Optionale (dx, dy)-Korrektur pro Bogen nach dem Fit."""
             if not nudge_map:
@@ -1366,7 +1442,7 @@ def build_a2(write_files=False):
             kra_arcs, kra_labels_t, kra_radial_t, kra_inner_t, ARC_CLEAR_KRANK)
         equalize_arc_pair_shift(kra_arc_zoom, kra_arcs, BASE_ARC_PAIR)
         kra_blocks_t = fit_blocks_to_zoomed_arcs(
-            kra_blocks_t, kra_arcs, kra_radial_t, kra_arc_zoom)
+            kra_blocks_t, kra_arcs, kra_radial_t, kra_arc_zoom, BLOCK_PLACE_KRANK)
         kra_blocks_t = equalize_block_pair_y(kra_blocks_t, BASE_ARC_PAIR)
         kra_blocks_t = nudge_blocks(kra_blocks_t, BLOCK_FIT_NUDGE_KRANK)
         kra_blocks_t = nudge_blocks_frac(kra_blocks_t, BLOCK_FIT_NUDGE_FRAC_KRANK)
@@ -1375,9 +1451,12 @@ def build_a2(write_files=False):
             ges_arcs, ges_labels_t, ges_radial_t, ges_inner_t, ARC_CLEAR_GESUND)
         equalize_arc_pair_shift(ges_arc_zoom, ges_arcs, BASE_ARC_PAIR)
         ges_blocks_t = fit_blocks_to_zoomed_arcs(
-            ges_blocks_t, ges_arcs, ges_radial_t, ges_arc_zoom)
-        ges_blocks_t = equalize_block_pair_y(ges_blocks_t, BASE_ARC_PAIR)
+            ges_blocks_t, ges_arcs, ges_radial_t, ges_arc_zoom, BLOCK_PLACE_GESUND)
+        ges_blocks_t = refit_below_centered(
+            ges_blocks_t, 3, ges_arcs, ges_radial_t, ges_arc_zoom, extra_lh=3)
+        ges_blocks_t = equalize_block_pair_y(ges_blocks_t, BASE_ARC_PAIR, skip={3})
         ges_blocks_t = nudge_blocks(ges_blocks_t, BLOCK_FIT_NUDGE_GESUND)
+        ges_blocks_t = nudge_blocks_lh(ges_blocks_t, BLOCK_FIT_NUDGE_LH_GESUND, BLOCK_LH)
 
         # ---------------------------------------------------------------- SVG schreiben
         out = []
