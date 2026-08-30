@@ -154,15 +154,18 @@ PARA_GAP = 1.15  # Abstand zwischen den 7 Aspekten (in lh)
 TITLE_BODY_GAP = 0.15  # kleiner Zusatz nach der Titelzeile
 FILL_OPACITY = 0.2
 
-# Fächer-Layout (linke Halbkreise Krankheit + Gesundheit)
+# Fächer-Layout (linke + rechte Halbkreise Krankheit/Gesundheit)
 FAN_LEFT_Y_SHIFT = -260.0    # dm-04k nach oben (dm-04g nutzt Abstand zu dm-05k)
 FAN_ORDER = (
     "dm-04k", "dm-05k", "dm-06k",
+    "dm-03k", "dm-01k", "dm-02k",
     "dm-04g", "dm-05g", "dm-06g",
+    "dm-03g", "dm-01g", "dm-02g",
 )
 FAN_GROUPS = {
+    # --- Krankheit links ---
     "dm-04k": {
-        "panel": "kra",
+        "panel": "kra", "side": "left",
         "arc": 0, "open": "left", "y_mode": "center",
         "heading_room": True,
         "y_shift": FAN_LEFT_Y_SHIFT,
@@ -172,14 +175,14 @@ FAN_GROUPS = {
         "heading_x": "first_block",
     },
     "dm-05k": {
-        "panel": "kra",
+        "panel": "kra", "side": "left",
         "arc": 1, "open": "right", "y_mode": "top_at_sibling_center",
         "relative_to": "dm-04k",
         "x_shift": 1280.0,
         "heading_lines": ["Das Geld kauft", "das Recht"],
     },
     "dm-06k": {
-        "panel": "kra",
+        "panel": "kra", "side": "left",
         "arc": 3, "open": "left", "y_mode": "below",
         "below": "dm-04k",
         "heading_room": True,
@@ -190,8 +193,39 @@ FAN_GROUPS = {
         "heading_lines": ["Der Profit kauft", "die Wahrheit"],
         "heading_x": "first_block",
     },
+    # --- Krankheit rechts (spiegelbildlich zu 04/05/06k) ---
+    "dm-03k": {
+        "panel": "kra", "side": "right",
+        "arc": 6, "open": "right", "y_mode": "center",
+        "heading_room": True,
+        "y_shift": FAN_LEFT_Y_SHIFT,
+        "y_shift_heading_lh": 0.5,
+        "x_shift": 780.0,
+        "heading_lines": ["Die Macht beherrscht", "den Geist"],
+        "heading_x": "first_block",
+    },
+    "dm-01k": {
+        "panel": "kra", "side": "right",
+        "arc": 7, "open": "left", "y_mode": "top_at_sibling_center",
+        "relative_to": "dm-03k",
+        "x_shift": 1280.0,
+        "heading_lines": ["Ideologie macht sich", "zum Gesetz"],
+    },
+    "dm-02k": {
+        "panel": "kra", "side": "right",
+        "arc": 4, "open": "right", "y_mode": "below",
+        "below": "dm-03k",
+        "heading_room": True,
+        "v_align": "top",
+        "y_shift_heading_lh": 1.0,
+        "x_shift": 780.0,
+        "x_shift_text_frac": -0.2,   # spiegelbildlich zu dm-06k (+0.2)
+        "heading_lines": ["Das Dogma diktiert", "die Produktion"],
+        "heading_x": "first_block",
+    },
+    # --- Gesundheit links ---
     "dm-04g": {
-        "panel": "ges",
+        "panel": "ges", "side": "left",
         "arc": 0, "open": "right", "y_mode": "heading_gap",
         "ref_bottom": "dm-05k",
         "heading_gap_ref": ("dm-06k", "dm-04k"),
@@ -203,7 +237,7 @@ FAN_GROUPS = {
         "heading_x": "first_block",
     },
     "dm-05g": {
-        "panel": "ges",
+        "panel": "ges", "side": "left",
         "arc": 1, "open": "left", "y_mode": "top_at_sibling_center",
         "relative_to": "dm-04g",
         "y_shift_block": 1,  # eine Textbox-Höhe nach oben (gegenüber 2)
@@ -213,7 +247,7 @@ FAN_GROUPS = {
         "heading_lines": ["Die Wirtschaft trägt", "den Staat"],
     },
     "dm-06g": {
-        "panel": "ges",
+        "panel": "ges", "side": "left",
         "arc": 3, "open": "right", "y_mode": "below",
         "below": "dm-04g",
         "heading_room": True,
@@ -222,6 +256,43 @@ FAN_GROUPS = {
         "x_shift": 1280.0,
         "x_shift_text_frac": -0.2,   # 20 % Textbreite nach links
         "heading_lines": ["Die Wirtschaft versorgt", "den Geist"],
+        "heading_x": "first_block",
+    },
+    # --- Gesundheit rechts (spiegelbildlich zu 04/05/06g) ---
+    "dm-03g": {
+        "panel": "ges", "side": "right",
+        "arc": 6, "open": "left", "y_mode": "heading_gap",
+        "ref_bottom": "dm-01k",
+        "heading_gap_ref": ("dm-02k", "dm-03k"),
+        "heading_room": True,
+        "y_shift_heading_lh": 0.5,
+        "y_shift_block": 2.5,  # +0.5 Texthöhe nach unten
+        "x_shift": 1280.0,
+        "heading_lines": ["Der Staat bewahrt", "die Freiheit des Einzelnen"],
+        "heading_x": "first_block",
+    },
+    "dm-01g": {
+        "panel": "ges", "side": "right",
+        "arc": 7, "open": "right", "y_mode": "top_at_sibling_center",
+        "relative_to": "dm-03g",
+        "y_shift_block": 0,  # eine Texthöhe nach oben (war 1)
+        "y_shift_tri_frac": 1.0,  # eine Dreieckshöhe nach unten
+        "x_shift": 780.0,
+        "x_shift_text_frac": -0.15,  # spiegelbildlich zu dm-05g (+0.15)
+        "heading_x_compensate_text_frac": True,
+        "heading_lines": ["Sachkenntnis prägt", "das Recht"],
+    },
+    "dm-02g": {
+        "panel": "ges", "side": "right",
+        "arc": 4, "open": "left", "y_mode": "below",
+        "below": "dm-03g",
+        "heading_room": True,
+        "v_align": "top",
+        "y_shift_heading_lh": 1.0,
+        "y_shift_tri_frac": 1.0,  # eine Dreieckshöhe nach unten
+        "x_shift": 1280.0,
+        "x_shift_text_frac": 0.2,    # spiegelbildlich zu dm-06g (−0.2)
+        "heading_lines": ["Fähigkeiten befruchten", "die Wirtschaft"],
         "heading_x": "first_block",
     },
 }
@@ -413,10 +484,16 @@ def _ray_center_y(radial, arc_idx, panel_dy):
     return (min(ys) + max(ys)) / 2.0
 
 
-def place_fan(blocks, *, open_side, y_top, gutter_right, col_w,
+def place_fan(blocks, *, open_side, y_top, gutter_edge, col_w,
               arc_height, arc_bulge, x_shift, font, lh, meta,
-              v_align="center"):
-    """Sieben Aspekte entlang eines Halbkreis-Fächers platzieren."""
+              v_align="center", side="left"):
+    """Sieben Aspekte entlang eines Halbkreis-Fächers platzieren.
+
+    side=left:  gutter_edge = rechter Rand des linken Gutters
+    side=right: gutter_edge = linker Rand des rechten Gutters (spiegelbildlich)
+    open_side: Öffnungsrichtung des Bogens (visuell)
+    x_shift > 0: zum Diagramm hin
+    """
     n = len(blocks)
     heights = [fan_block_height(b, font, lh) for b in blocks]
     stack_h = sum(heights) + max(0, n - 1) * FAN_ASPECT_GAP * lh
@@ -427,13 +504,22 @@ def place_fan(blocks, *, open_side, y_top, gutter_right, col_w,
     items = []
     for i in range(n):
         t = math.pi * i / (n - 1) if n > 1 else math.pi / 2
-        if open_side == "left":
-            bx = (gutter_right - col_w
-                  - arc_bulge * (1.0 - math.sin(t)) + x_shift)
+        if side == "left":
+            if open_side == "left":
+                bx = (gutter_edge - col_w
+                      - arc_bulge * (1.0 - math.sin(t)) + x_shift)
+            else:
+                right_edge = (gutter_edge - col_w - arc_bulge
+                              - FAN_PAIR_GAP + x_shift)
+                bx = right_edge - col_w - arc_bulge * math.sin(t)
         else:
-            right_edge = (gutter_right - col_w - arc_bulge
-                          - FAN_PAIR_GAP + x_shift)
-            bx = right_edge - col_w - arc_bulge * math.sin(t)
+            # Spiegelung der linken Formeln um die Seitenmitte
+            if open_side == "right":
+                bx = (gutter_edge
+                      + arc_bulge * (1.0 - math.sin(t)) - x_shift)
+            else:
+                bx = (gutter_edge + col_w + arc_bulge + FAN_PAIR_GAP
+                      - x_shift + arc_bulge * math.sin(t))
         bh = heights[i]
         items.append({
             "x": bx, "y": y_cursor, "w": col_w, "h": bh,
@@ -445,8 +531,8 @@ def place_fan(blocks, *, open_side, y_top, gutter_right, col_w,
     return items, center_y
 
 
-def clamp_fan_margin(placed, *, x_min=PAGE_MARGIN, y_max=None):
-    """Fächer-Aspekte in die Seite clampen (linker Rand / unterer Rand)."""
+def clamp_fan_margin(placed, *, x_min=PAGE_MARGIN, x_max=None, y_max=None):
+    """Fächer-Aspekte in die Seite clampen (linker/rechter/unterer Rand)."""
     if not placed:
         return
     min_x = min(p["x"] for p in placed)
@@ -454,6 +540,12 @@ def clamp_fan_margin(placed, *, x_min=PAGE_MARGIN, y_max=None):
         dx = x_min - min_x
         for p in placed:
             p["x"] += dx
+    if x_max is not None:
+        max_r = max(p["x"] + p["w"] for p in placed)
+        if max_r > x_max:
+            dx = max_r - x_max
+            for p in placed:
+                p["x"] -= dx
     if y_max is not None:
         overflow = max(p["y"] + p["h"] for p in placed) - y_max
         if overflow > 0:
@@ -603,17 +695,19 @@ def main():
     def gutter_x(side):
         return left_x if side == "left" else right_x
 
-    # --- Fächer-Layout dm-04k/05k/06k + dm-04g/05g/06g ---
+    # --- Fächer-Layout links + rechts (Krankheit/Gesundheit) ---
     fan_items = []
     fan_headings = []
     fan_by_id = {g["yaml_id"]: g for g in prepared if g["yaml_id"] in FAN_GROUPS}
     regular = [g for g in prepared if g["yaml_id"] not in FAN_GROUPS]
-    gutter_right = shift_x - 40
+    gutter_right_left = shift_x - 40          # rechter Rand linker Gutter
+    gutter_left_right = A0_W - gutter_right_left  # spiegelbildlich
     inner_w = col_w - 2 * CARD_PAD
     fan_centers = {}
     fan_bottom = {}
     fan_heading_top = {}
     leit_font = a2.get("kra_leit_font", font * 2.0)
+    tri_h = a2.get("tri_h", 0.0)
 
     for yaml_id in FAN_ORDER:
         fg = fan_by_id.get(yaml_id)
@@ -625,6 +719,7 @@ def main():
         head_lh = leit_font * 1.12
         head_block_h = leit_font + head_lh
         panel = cfg.get("panel", "kra")
+        fan_side = cfg.get("side", "left")
         panel_dy = kra_dy if panel == "kra" else ges_dy
         radial = a2["kra_radial"] if panel == "kra" else a2["ges_radial"]
         y_mode = cfg.get("y_mode", "center")
@@ -648,14 +743,17 @@ def main():
                               head_block_h, lh)
         y_top += cfg.get("y_shift_heading_lh", 0.0) * head_lh
         y_top += cfg.get("y_shift_block", 0) * fan_block_height(blocks[0], font, lh)
+        y_top += cfg.get("y_shift_tri_frac", 0.0) * tri_h
         text_dx = cfg.get("x_shift_text_frac", 0.0) * col_w
         x_shift = cfg.get("x_shift", 0.0)
         meta = {"anchor": fg["anchor"], "side": fg["side"]}
+        gutter_edge = (gutter_right_left if fan_side == "left"
+                       else gutter_left_right)
         placed, center_y = place_fan(
             blocks,
             open_side=cfg["open"],
             y_top=y_top,
-            gutter_right=gutter_right,
+            gutter_edge=gutter_edge,
             col_w=col_w,
             arc_height=FAN_ARC_HEIGHT,
             arc_bulge=FAN_ARC_BULGE,
@@ -664,11 +762,17 @@ def main():
             lh=lh,
             meta=meta,
             v_align=v_align,
+            side=fan_side,
         )
         if text_dx:
             for p in placed:
                 p["x"] += text_dx
-        clamp_fan_margin(placed, y_max=y_limit)
+        if fan_side == "left":
+            clamp_fan_margin(placed, y_max=y_limit)
+        else:
+            clamp_fan_margin(
+                placed, x_min=gutter_left_right - FAN_ARC_BULGE * 2,
+                x_max=A0_W - PAGE_MARGIN, y_max=y_limit)
         fan_items.extend(placed)
         fan_centers[yaml_id] = center_y
         fan_bottom[yaml_id] = max(p["y"] + p["h"] for p in placed)
@@ -770,7 +874,8 @@ def main():
     print(f"kra_dy={kra_dy:.0f}  ges_dy={ges_dy:.0f}  "
           f"ges {ges_top_a2 + ges_dy:.0f}…{ges_bot_a2 + ges_dy:.0f}  "
           f"free≈{(ges_top_a2 + ges_dy) - kra_bot:.0f}")
-    print(f"7er-Bloecke: {len(seven)}  Gruppen: {len(clusters)}")
+    print(f"7er-Bloecke: {len(seven)}  Gruppen: {len(clusters)}  "
+          f"Faecher: {len(fan_headings)}")
     print(f"Ueberlauf unten: {len(overflow)}")
     # JPG in Druckauflösung (A0 @ 300 dpi)
     # rsvg-convert resolves image hrefs relative to the SVG's directory only,
