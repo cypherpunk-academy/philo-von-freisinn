@@ -638,8 +638,10 @@ def main():
     seven = a2["seven_blocks"]
     a2_w, a2_h = a2["page_w"], a2["page_h"]
     shift_x = (A0_W - a2_w) / 2.0
+    leit_font = a2.get("kra_leit_font", a2["block_font"] * 2.0)
+    heading_text_h = leit_font * 1.12  # eine Überschrift-Zeilenhöhe
 
-    kra_dy = KRA_NUDGE_Y
+    kra_dy = KRA_NUDGE_Y + heading_text_h
     # Gesundheit so, dass Freiraum unter beiden Tafeln (7er-Bloecke) gleich ist
     kra_bot = max(b["y1"] for b in a2["kra_blocks"]) + kra_dy
     ges_top_a2 = min(b["y0"] for b in a2["ges_blocks"])
@@ -649,6 +651,19 @@ def main():
 
     inner = _shift_panel(inner, "krankheit", kra_dy, watermark="Krankheit")
     inner = _shift_panel(inner, "gesundheit", ges_dy, watermark="Gesundheit")
+
+    # Hintergrundschriften: Farbe am finalen A0-Ort (BG − 10 %)
+    hg = os.path.join(_DIR, "assets", HINTERGRUND)
+    krank_y_a0 = SHIFT_Y + a2.get("krank_wm_y", 0.0) + kra_dy
+    ges_y_a0 = SHIFT_Y + a2.get("ges_wm_y", 0.0) + ges_dy
+    wm_x_a0 = shift_x + a2_w / 2.0
+    krank_fill = A2.sample_bg_darker(hg, A0_W, A0_H, wm_x_a0, krank_y_a0)
+    ges_fill = A2.sample_bg_darker(hg, A0_W, A0_H, wm_x_a0, ges_y_a0)
+    inner = A2.recolor_watermark(inner, "Krankheit", krank_fill)
+    inner = A2.recolor_watermark(inner, "Gesundheit", ges_fill)
+    print(f"Wasserzeichen  Krankheit@{krank_y_a0:.0f}→{krank_fill}  "
+          f"Gesundheit@{ges_y_a0:.0f}→{ges_fill}")
+
     fields = load_yaml_fields()
 
     by_first = {(b["panel"], b["words"][0]): b for b in seven}
@@ -706,7 +721,6 @@ def main():
     fan_centers = {}
     fan_bottom = {}
     fan_heading_top = {}
-    leit_font = a2.get("kra_leit_font", font * 2.0)
     tri_h = a2.get("tri_h", 0.0)
 
     for yaml_id in FAN_ORDER:

@@ -35,6 +35,8 @@ statt der Beige-Flaeche (DIN-A, z. B. A0-Zuschnitt).
 """
 import math
 import os
+import re
+import subprocess
 
 # ---------------------------------------------------------------- Seite (DIN A2 Hochformat)
 # 1 SVG-Einheit = 0.1 mm  →  A2 = 420×594 mm = 4200×5940 Einheiten
@@ -59,8 +61,10 @@ ROTATE_LABELS = False
 LABEL_ARC_PAD = 10.0
 
 BG         = "#f4f1ea"
-# Kaum sichtbar: etwas dunkleres Beige, bleibt Hintergrund
+# Fallback, falls Hintergrundbild nicht lesbar ist
 SECTION_WATERMARK = "#ddd9ce"
+WATERMARK_SCALE = 2.0        # Hintergrundworte relativ zur Hauptueberschrift
+WATERMARK_DARKEN = 0.05      # 5 % dunkler als die BG-Farbe an der Textstelle
 TRI_FILL   = "#9b9b9b"
 TRI_STROKE = "#6f6f6f"
 _DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -414,6 +418,62 @@ def arc_points(center, chord, bulge, offset, n, steps=48):
 
 def text_w(t, size, bold=False):
     return (0.58 if bold else 0.52) * size * len(t)
+
+
+def _parse_hex_rgb(hex_color):
+    h = hex_color.lstrip("#")
+    if len(h) != 6:
+        return (221, 217, 206)
+    return tuple(int(h[i:i + 2], 16) for i in (0, 2, 4))
+
+
+def darken_rgb(rgb, frac=WATERMARK_DARKEN):
+    """RGB um frac abdunkeln (1.0 = schwarz)."""
+    k = max(0.0, 1.0 - frac)
+    return tuple(max(0, min(255, int(round(c * k)))) for c in rgb)
+
+
+def rgb_to_hex(rgb):
+    return "#{:02x}{:02x}{:02x}".format(*rgb)
+
+
+def sample_bg_darker(img_path, page_w, page_h, x, y,
+                     darken=WATERMARK_DARKEN, fallback=SECTION_WATERMARK):
+    """Farbe der auf page_w×page_h gestreckten BG-Datei an (x,y), abgedunkelt."""
+    if not img_path or not os.path.isfile(img_path):
+        return rgb_to_hex(darken_rgb(_parse_hex_rgb(fallback), darken))
+    try:
+        geom = subprocess.check_output(
+            ["magick", "identify", "-format", "%w %h", img_path],
+            text=True,
+        ).strip()
+        iw, ih = map(int, geom.split())
+        px = max(0, min(iw - 1, int(round(x / page_w * (iw - 1)))))
+        py = max(0, min(ih - 1, int(round(y / page_h * (ih - 1)))))
+        raw = subprocess.check_output(
+            ["magick", img_path,
+             "-crop", f"1x1+{px}+{py}", "+repage",
+             "-format",
+             "%[fx:int(255*u.r)],%[fx:int(255*u.g)],%[fx:int(255*u.b)]",
+             "info:"],
+            text=True,
+        ).strip()
+        rgb = tuple(int(v) for v in raw.split(","))
+        if len(rgb) != 3:
+            raise ValueError(raw)
+        return rgb_to_hex(darken_rgb(rgb, darken))
+    except (OSError, subprocess.CalledProcessError, ValueError):
+        return rgb_to_hex(darken_rgb(_parse_hex_rgb(fallback), darken))
+
+
+def recolor_watermark(svg_text, word, fill):
+    """fill-Attribut der Hintergrundschrift <word> setzen."""
+    return re.sub(
+        rf'(<text\b[^>]*\bfill=")[^"]+("[^>]*>{re.escape(word)}</text>)',
+        rf'\g<1>{fill}\2',
+        svg_text,
+        count=1,
+    )
 
 
 def label_pos(center, chord, bulge, offset, n, lines, centroid):
@@ -1635,21 +1695,28 @@ def build_a2(write_files=False):
             f'<tspan x="{PAGE_W / 2:.2f}" dy="{0 if i == 0 else MAIN_TITLE_LINE_H:.2f}">{line}</tspan>'
             for i, line in enumerate(MAIN_TITLE_LINES))
 
-        # Sektionsworte als Hintergrund (gleiche Groesse, nichts anderes verschieben)
-        krank_wm_y = main_title_y + MAIN_TITLE_LINE_H * 2 + MAIN_TITLE_FONT * 0.38
+        # Sektionsworte als Hintergrund (2× Titelgroesse; Farbe = BG − 5 %)
+        wm_font = MAIN_TITLE_FONT * WATERMARK_SCALE
+        krank_wm_y = (main_title_y + MAIN_TITLE_LINE_H * 2 + MAIN_TITLE_FONT * 0.38
+                      - 0.8 * wm_font)  # 80 % Texthöhe nach oben
         ges_wm_y = ges_a[1] - (kra_a[1] - krank_wm_y)
+        bg_for_sample = BG_IMAGE if os.path.isfile(BG_IMAGE) else None
+        krank_wm_fill = sample_bg_darker(
+            bg_for_sample, PAGE_W, PAGE_H, PAGE_W / 2, krank_wm_y)
+        ges_wm_fill = sample_bg_darker(
+            bg_for_sample, PAGE_W, PAGE_H, PAGE_W / 2, ges_wm_y)
 
 
-        def watermark(txt, y):
+        def watermark(txt, y, fill):
             out.append(f'  <text x="{PAGE_W / 2:.2f}" y="{y:.2f}" '
-                       f'font-family="{FONT}" font-size="{MAIN_TITLE_FONT:.2f}" '
-                       f'font-weight="bold" fill="{SECTION_WATERMARK}" '
+                       f'font-family="{FONT}" font-size="{wm_font:.2f}" '
+                       f'font-weight="bold" fill="{fill}" '
                        f'text-anchor="middle" dominant-baseline="central" '
                        f'letter-spacing="2">{txt}</text>')
 
 
-        watermark("Krankheit", krank_wm_y)
-        watermark("Gesundheit", ges_wm_y)
+        watermark("Krankheit", krank_wm_y, krank_wm_fill)
+        watermark("Gesundheit", ges_wm_y, ges_wm_fill)
 
         out.append(f'  <text x="{PAGE_W / 2:.2f}" y="{main_title_y:.2f}" '
                    f'font-family="{FONT}" font-size="{MAIN_TITLE_FONT:.2f}" '
@@ -1719,6 +1786,8 @@ def build_a2(write_files=False):
             "block_font": BLOCK_FONT,
             "block_lh": BLOCK_LH,
             "tri_h": SIDE * math.sqrt(3) / 2 * scale,
+            "krank_wm_y": krank_wm_y,
+            "ges_wm_y": ges_wm_y,
             "kra_blocks": kra_blocks,
             "ges_blocks": ges_blocks,
             "seven_blocks": kra_blocks + ges_blocks,
