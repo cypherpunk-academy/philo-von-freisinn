@@ -1,4 +1,5 @@
 # Stell dir vor, du wählst deinen Richter selbst
+<!-- version: 26. August 2026 | autor: Claude Opus -->
 
 Nicht der Staat weist dir einen zu. Kein Aktenzeichen entscheidet, wer über dich urteilt. Du wählst selbst.
 Klingt utopisch? Rudolf Steiner hat es in den „Kernpunkten der sozialen Frage" konkret skizziert. Und es ist durchdachter, als man auf den ersten Blick denkt.

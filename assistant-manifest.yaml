@@ -7,9 +7,9 @@ description: Auf der Grundlage der Philosophie der Freiheit und Werken, die in
 paths:
   talks: writings/talks
   quotes: sources/quotes
-
   concepts: sources/concepts
   typologies: sources/typologies
+  thoughts: sources/thoughts
   co-created-quotes: writings/co-created/quotes
   co-created-summaries: writings/co-created/summaries
   generated: .generated
@@ -87,6 +87,27 @@ secondary-lectures:
   - GA 333, Gedankenfreiheit und soziale Kräfte
   - GA 338, Wie wirkt man für den Impuls der Dreigliederung des sozialen
     Organismus?
+thought-themes:
+  - freiheit
+  - gleichheit
+  - bruederlichkeit
+  - dreigliederung
+  - sozialer-organismus
+  - erkenntnistheorie
+  - freie-paedagogik
+  - freie-juristerei
+  - freie-wirtschaft
+  - freie-politik
+  - individuelle-entwicklung
+  - gemeinschaft
+  - bewusstsein
+  - willensfreiheit
+  - ethischer-individualismus
+  - geist-materie
+  - kunst-aesthetik
+  - soziale-verantwortung
+  - menschenbild
+  - selbsterkenntnis
 augmentation-types:
   - summaries
   - quotes

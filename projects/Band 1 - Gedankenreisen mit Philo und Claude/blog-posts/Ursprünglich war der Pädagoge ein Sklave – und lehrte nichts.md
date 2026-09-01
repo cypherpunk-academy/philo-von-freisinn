@@ -1,4 +1,6 @@
 # Traduttore, traditore, Übersetzer sind Verräter
+<!-- version: 26. August 2026 | autor: Claude Opus -->
+
 Diesmal nicht in der Bibel, sondern mitten in unserem Schulsystem.
 
 ## Was machte ein Pädagoge im alten Athen?

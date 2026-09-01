@@ -1,0 +1,87 @@
+{
+  "source_file": "/Users/michael/Reniets/Ai/ragrun/ragkeep/assistants/philo-von-freisinn/projects/Band 1 - Gedankenreisen mit Philo und Claude/blog-posts/Ist Technik \"ahrimanisch\".md",
+  "source_title": "Ist Technik ahrimanisch?",
+  "assistant": "philo-von-freisinn",
+  "extracted_at": "2026-08-21T10:05:32.294Z",
+  "explained_at": null,
+  "associated_at": null,
+  "model": "deepseek-chat",
+  "themes_used": [
+    "freiheit",
+    "gleichheit",
+    "bruederlichkeit",
+    "dreigliederung",
+    "sozialer-organismus",
+    "erkenntnistheorie",
+    "freie-paedagogik",
+    "freie-juristerei",
+    "freie-wirtschaft",
+    "freie-politik",
+    "individuelle-entwicklung",
+    "gemeinschaft",
+    "bewusstsein",
+    "willensfreiheit",
+    "ethischer-individualismus",
+    "geist-materie",
+    "kunst-aesthetik",
+    "soziale-verantwortung",
+    "menschenbild",
+    "selbsterkenntnis"
+  ],
+  "thoughts": [
+    {
+      "id": "af0333a4-12ec-494f-90b9-dbfa95be0e33",
+      "index": 1,
+      "text": "Die Technik ist nicht an sich ahrimanisch, sondern nur dort, wo sie den Menschen zwingt, einschränkt und unterwirft; dieser Zwang ist ein Zeichen ihrer Unvollkommenheit, nicht ihr Wesensmerkmal.",
+      "theme": "geist-materie",
+      "alignment": "uebereinstimmend",
+      "quote": "Ahrimanisch ist nicht die Technik als solche — sondern die Qualität, die entsteht, wenn Technik uns zwingt, einschränkt, unterwirft.",
+      "references": []
+    },
+    {
+      "id": "0df671f3-ae4c-4f6d-b73c-34c9548741fd",
+      "index": 2,
+      "text": "Technik wird luziferisch, wenn sie unsichtbar wird und dabei das Bewusstsein stiehlt, sodass das Ich glaubt, eine Fähigkeit zu besitzen, die es gar nicht mehr hat.",
+      "theme": "bewusstsein",
+      "alignment": "uebereinstimmend",
+      "quote": "Technik wird luziferisch, wo sie unsichtbar wird — und dabei das Bewusstsein stiehlt.",
+      "references": []
+    },
+    {
+      "id": "1dfbdf4f-8025-48a0-8a8f-f2703dff5102",
+      "index": 3,
+      "text": "Der Maßstab für den rechten Umgang mit Technik ist, ob man durch sie mehr oder weniger denkt; wenn mehr, wächst das Ich, wenn weniger, schläft es ein.",
+      "theme": "individuelle-entwicklung",
+      "alignment": "uebereinstimmend",
+      "quote": "Die Frage ist eigentlich ganz einfach: Denke ich durch die Technik mehr — oder weniger?",
+      "references": []
+    },
+    {
+      "id": "25e57537-cbf8-4ae8-a814-ff8082c2fdd3",
+      "index": 4,
+      "text": "Wer mit einem Werkzeug spielen kann, hat es wirklich durchdrungen, während bloßes Nehmen, was kommt, bedeutet, dass man noch nicht wirklich dabei ist.",
+      "theme": "erkenntnistheorie",
+      "alignment": "uebereinstimmend",
+      "quote": "Wer spielen kann, hat das Werkzeug wirklich durchdrungen.",
+      "references": []
+    },
+    {
+      "id": "78ccbc1f-b53c-4b67-abc4-def240cc0053",
+      "index": 5,
+      "text": "Das bewusste Untertauchen in die Technik formt die Seele auf eine bestimmte Art, nicht trotz der Technik, sondern durch sie hindurch.",
+      "theme": "individuelle-entwicklung",
+      "alignment": "uebereinstimmend",
+      "quote": "das bewusste Untertauchen in sie die Seele auf eine bestimmte Art formt",
+      "references": []
+    },
+    {
+      "id": "006f2a58-55f2-4d2a-ba83-95a7bba30e9c",
+      "index": 6,
+      "text": "Der Fehler ist nicht, Technik zu benutzen, sondern dabei aufzuhören zu denken.",
+      "theme": "bewusstsein",
+      "alignment": "uebereinstimmend",
+      "quote": "Der Fehler ist nicht, Technik zu benutzen. Der Fehler ist, dabei aufzuhören zu denken.",
+      "references": []
+    }
+  ]
+}
