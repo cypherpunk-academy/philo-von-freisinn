@@ -1,0 +1,463 @@
+# ============================================================
+# FÜNF SIEGEL — FÜNF PROJEKTE
+# Mangeldiagnose und Therapie für die Zusatzliteratur zu Filo
+# ============================================================
+# Schema-Konvention analog zur Dreigliederungs-Übergriffs-Matrix:
+# vier Ebenen (Schlagwort, Schlagsatz, Fließtext, Zitate),
+# hier zusätzlich gespiegelt in zwei Sprachen.
+# Die ersten vier Siegel haben Reiter; das fünfte nicht.
+# ------------------------------------------------------------
+
+meta:
+  id: vrvp
+  version: 0.3
+  stand: 2026-08-26
+  quellen_geprueft:
+    - "GA 104, Die Apokalypse des Johannes, Nürnberg 1908 (PDF, Uranos-Archiv)"
+    - "GA 104a, Aus der Bilderschrift der Apokalypse des Johannes (PDF, Uranos-Archiv)"
+    - "GA 23, Die Kernpunkte der sozialen Frage, S. 137–139 (PDF, Uranos-Archiv) — Rechtspflege, freie Richterwahl"
+  quellen_offen:
+    - "GA 340/341, Nationalökonomischer Kurs — Anschluss Korn (noch nicht verifiziert)"
+  hinweis: >
+    Die Projektnamen sind Arbeitsbegriffe. Aktuelle Sprechweise:
+    01 Neue Schule / 02 Initiative Demokratie, Demokratie nächste Stufe /
+    03 Korn / 04 Freie Richter, freie Menschen /
+    05 Medien der Vollständigkeit und der Wahrheit verpflichtet.
+
+grundprinzip:
+  struktur: "(3 + 1) + 1"
+  erlaeuterung: >
+    Die Vier ist bei Steiner keine Vier neben der Drei, sondern drei Sphären
+    plus die Ich-Position. Position 4 ist der Wendepunkt: der Ort, an dem sich
+    das soziale Ökosystem an einen einzelnen Menschen wendet. Position 5 ist
+    das fünfte Siegel — kein Reiter mehr, sondern die Seelen unter dem Altar,
+    die nach Wahrheit rufen. Hier tritt das Medienprojekt ein.
+  rahmung: >
+    Der erste Reiter trägt einen Bogen. ἁμαρτία heißt Zielverfehlung —
+    Bogenschützenmetapher. Damit steht am Anfang die Schule als der Ort, wo
+    das Zielen gelernt wird, und am Ende der Richter als der Ort, wo nach dem
+    Verfehlen neu ausgerichtet wird. Positionen 1 und 4 klammern 2 und 3 ein.
+    Position 5 steht jenseits der Reiter: kein Pferd, kein Werkzeug, kein
+    Kampf — nur ein Ruf und ein weißes Kleid.
+  krankheitsbegriff: >
+    Nicht die Epochen sind der Mangel, sondern die Epoche im Stillstand.
+    GA 104, S. 149: die Bilder sind trostlos, weil dort die Menschen
+    herauskommen, die bei den vier vorbereitenden Kulturen stehenbleiben
+    wollen. Ihnen fehlt das Prinzip, "das die Iche zusammenführt, das aus
+    den Menschen Gemeinschaften macht"; sie haben stattdessen "die
+    auseinandertreibenden Kräfte, die auseinandersplitternden Kräfte".
+  pruefkriterium: >
+    Jede der fünf Antworten muss sich fragen lassen: Führt sie Iche zusammen,
+    oder sortiert sie sie auseinander?
+
+# ============================================================
+
+felder:
+
+  # ----------------------------------------------------------
+  - id: vrvp-01
+    siegel: 1
+    pferd: weiß
+    reiter: "Bogen, Krone; zog aus zu überwinden, und daß er siegte"
+    stelle: "Apk 6,1–2"
+    epoche: altindisch
+    projekt: "Die Dreigliederungsschule"
+    sphaere: Kultursphäre
+
+    sprache_apokalypse:
+      schlagwort: "Der Sieg, der die Erde verlässt"
+      schlagsatz: >
+        Ein Reiter, der siegt, indem er die Welt für Schein erklärt —
+        und ihr damit das Feld überlässt.
+      krankheit: >
+        Geistigkeit als Weltflucht. Steiner beschreibt die indische Frucht
+        als die Seele, die reif geworden ist, "Sieger zu sein über alles in
+        der sinnlichen Welt"; das Äußere erscheint "noch nicht von Händen
+        berührt". Der Sieg ist echt, aber er wird zum Mangel, sobald er
+        stehenbleibt: eine Kultur, die weiß, worauf es ankommt, und
+        deshalb nicht mehr eingreift.
+      therapie: >
+        Eine Schule, die das Zielen lehrt, nicht das Wegsehen. Der Bogen
+        ist das Instrument des ersten Reiters — und ἁμαρτία, die
+        Zielverfehlung, ist die Bogenschützenmetapher. Wer zielen kann,
+        braucht die Welt.
+      fliesstext: >
+        Der erste Reiter ist der einzige, dem der Text uneingeschränkt
+        Sieg zuspricht — und gerade er ist die schwierigste Diagnose. Die
+        Krankheit sieht aus wie Gesundheit. Eine Kultursphäre, die sich
+        ganz auf das Innere zurückzieht, produziert reife Seelen und
+        überlässt gleichzeitig Geld, Politik und Recht denen, die sich
+        um Reife nicht kümmern. In der Erzählung ist das der Zustand vor
+        der Assoziation: Menschen, die alles verstanden haben und nichts
+        gebaut haben.
+
+    sprache_dreigliederung:
+      schlagwort: "Kultursphäre ohne Handhabe"
+      schlagsatz: >
+        Freiheit, die sich nicht in die Welt hinein verlängert,
+        wird zur Privatangelegenheit.
+      krankheit: >
+        Die Kultursphäre entspricht im umgekehrten Organismusbild dem
+        Stoffwechselsystem, also dem produktiven Pol. Erkrankt sie, wird
+        aus dem produktiven Pol ein kontemplativer: Weltanschauung ohne
+        Produkt. Die Waldorfschule heutiger Prägung ist an genau dieser
+        Stelle angreifbar — sie bildet Innerlichkeit aus und liefert
+        ihre Absolventen an ein Wirtschaftsleben aus, dessen Bauart sie
+        nie zum Gegenstand gemacht hat.
+      therapie: >
+        Eine Schule, in der die drei Sphären selbst Lerngegenstand sind
+        und in der die Schüler an realen Projekten des sozialen Ökosystems
+        mitarbeiten. Nicht Menschenkunde plus Handwerk, sondern
+        Gewaltenteilung 2.0 als Curriculum.
+      fliesstext: >
+        Der Unterschied zur bestehenden Waldorfpädagogik ist kein
+        methodischer, sondern ein gegenständlicher. Freiheit als Ideal
+        der Kultursphäre meint nicht nur die Freiheit des Lehrers vom
+        Staat, sondern die Fähigkeit des Schülers, das soziale Ökosystem
+        als etwas Gemachtes und daher Änderbares zu sehen. Eine Schule,
+        die das nicht leistet, erfüllt die Bedingung der Dreigliederung
+        formal und verfehlt sie inhaltlich.
+
+  # ----------------------------------------------------------
+  - id: vrvp-02
+    siegel: 2
+    pferd: rot
+    reiter: "großes Schwert; nahm den Frieden von der Erde"
+    stelle: "Apk 6,3–4"
+    epoche: urpersisch
+    projekt: "Das Projektbuffet"
+    sphaere: "Politik und Recht"
+
+    sprache_apokalypse:
+      schlagwort: "Der Kampf als einzige Verbindung"
+      schlagsatz: >
+        Wo der Frieden von der Erde genommen ist, bleibt nur ein Modus,
+        miteinander in Beziehung zu treten: gegeneinander.
+      krankheit: >
+        "Daß sie sich untereinander erwürgeten." Steiner liest das zweite
+        Pferd als die Seele, die "die Früchte des Egoismus mitbringt" —
+        nicht mehr im weißen Unschuldskleid, sondern im Kampf ums Dasein.
+        Der Mangel ist nicht der Konflikt, sondern die Formlosigkeit des
+        Konflikts: Es gibt keine Institution, die aus Gegnerschaft
+        Zusammenarbeit machen könnte.
+      therapie: >
+        Ein Buffet von Projekten statt eines Ringens um Positionen. Man
+        wählt eine Aufgabe, nicht einen Gegner. Das Schwert wird nicht
+        verboten, es bekommt einen anderen Adressaten: die Sache.
+      fliesstext: >
+        Steiner hält ausdrücklich fest, dass es "weder im alten Indien,
+        noch im alten Persien" jene sozialen Einrichtungen gab, durch die
+        der Mensch nach staatlich-sozialen Ordnungen den Besitz zumisst.
+        Das zweite Pferd trägt die politische Ordnung also nicht — es
+        erzeugt ihr Bedürfnis. Erzählerisch ist das die stärkere Position:
+        Das Projektbuffet erscheint nicht als Idee, sondern als Antwort
+        auf einen unerträglichen Zustand.
+
+    sprache_dreigliederung:
+      schlagwort: "Politik ohne Ausgleich"
+      schlagsatz: >
+        Wenn Politik nur noch Machtverteilung ist, hat sie ihr eigenes
+        Prinzip verloren.
+      krankheit: >
+        Politik und Recht entsprechen dem rhythmischen System, dem
+        ausgleichenden Organ. Erkrankt es, verwandelt sich Ausgleich in
+        Wettbewerb um Zugriff. Parteien, die Positionen besetzen, statt
+        Aufgaben zu verteilen; Mehrheiten, die nicht ausgleichen, sondern
+        überstimmen. Gleichheit wird zur Verfahrensgleichheit im Kampf
+        statt zur Gleichheit im Beschließen.
+      therapie: >
+        Genossenschaftlich, initiativ, transparent: Das Projektbuffet
+        organisiert Politik als Initiativraum. Nicht "wer regiert?",
+        sondern "welche Aufgabe übernimmt wer, sichtbar für alle?" —
+        Politik nach dem Vorbild offener Entwicklung.
+      fliesstext: >
+        Das rhythmische System produziert nichts und speichert nichts;
+        es stellt fortwährend Gleichgewicht her. Eine politische Ordnung,
+        die diesem Bild folgt, misst sich nicht an dem, was sie
+        durchsetzt, sondern an dem, was sie in Balance hält. Das
+        Projektbuffet ist der institutionelle Versuch, den Rhythmus
+        wieder herzustellen, den der zweite Reiter zerschlagen hat.
+
+  # ----------------------------------------------------------
+  - id: vrvp-03
+    siegel: 3
+    pferd: schwarz
+    reiter: "Waage; ein Maß Weizen um einen Groschen; Öl und Wein nicht beschädigen"
+    stelle: "Apk 6,5–6"
+    epoche: "ägyptisch-chaldäisch"
+    projekt: "Korn"
+    sphaere: Wirtschaftsleben
+
+    sprache_apokalypse:
+      schlagwort: "Die Waage, die den Überfluss schont"
+      schlagsatz: >
+        Ein Tagelohn für ein Brot — und die Luxusgüter bleiben unangetastet.
+      krankheit: >
+        Der Text spricht einen Getreidepreis aus. In der Exegese gilt er
+        als Hungerpreis: ein voller Arbeitstag für die Tagesration, während
+        im selben Satz Öl und Wein ausdrücklich geschont werden. Der Mangel
+        ist nicht das Messen an sich, sondern ein Messen, das die
+        Grundversorgung an die Existenzgrenze presst und den Überfluss
+        verschont. Steiner ordnet dem dritten Zeitraum die Epoche zu, in
+        der "die Teilung von Besitz und Gut von der Intelligenz
+        nachgerechnet zu werden anfing".
+      therapie: >
+        Eine Währung, die nicht gestapelt werden kann. Das Korn altert,
+        trägt seinen Jahrgang, ist nicht handelbar und nicht
+        spekulierbar, und durchläuft die Zustände Kaufgeld, Leihgeld,
+        Schenkgeld. Damit ist die Waage nicht abgeschafft, sondern
+        entwaffnet.
+      fliesstext: >
+        Von allen vier Zuordnungen ist diese die wörtlichste: Apk 6,6 ist
+        eine Kursnotierung für Korn. Die Währung des Romans und das Bild,
+        in dem die Apokalypse das Zumessen verhandelt, tragen denselben
+        Namen. Steiner liest die Waage zusätzlich als Läuterung des
+        Astralleibs — der ungeläuterte kennt nur sich, dem geläuterten
+        "soll alles mit der rechten Waage erteilt sein", und aus den
+        gerechten Taten der Gegenwart erwächst ein Organ.
+
+    sprache_dreigliederung:
+      schlagwort: "Preis als Machtinstrument"
+      schlagsatz: >
+        Ein Preis, der nicht mehr Bedarf ausdrückt, sondern Zugriff,
+        ist kein Preis mehr.
+      krankheit: >
+        Das Wirtschaftsleben entspricht dem Nerven-Sinnes-System: dem
+        wahrnehmenden Pol. Es soll Bedürfnisse abbilden. Erkrankt es,
+        bildet es nicht mehr ab, sondern erzeugt — der Preis wird zum
+        Hebel. Brüderlichkeit als Prinzip der Wirtschaftssphäre ist genau
+        dort verletzt, wo Grundgüter teuer und Überflussgüter geschützt
+        sind.
+      therapie: >
+        Das Korn als Produkt der EVG: naturverankert, alternd, vom Staat
+        geschützt, aber von der Assoziation emittiert. Kein
+        Wertaufbewahrungsmittel, sondern ein Wahrnehmungsorgan für Bedarf.
+      fliesstext: >
+        Die Assoziation umfasst höchstens zwanzig Menschen, im Kern zehn
+        bis zwölf — das Maintainer-Modell. Genau diese Größe ist die
+        Bedingung dafür, dass Brüderlichkeit kein Appell bleibt: Erzeuger
+        und Verwender müssen einander kennen können, sonst wird die Waage
+        wieder anonym und damit wieder zur Waffe.
+
+  # ----------------------------------------------------------
+  - id: vrvp-04
+    siegel: 4
+    pferd: fahl
+    reiter: "des Name hieß Tod, und die Hölle folgete ihm nach"
+    stelle: "Apk 6,7–8"
+    epoche: "griechisch-lateinisch / römisch"
+    projekt: "Die freien Richter"
+    sphaere: "Ich-Position — Rechtspflege aus der Kultursphäre in das Rechtsleben hinein"
+
+    sprache_apokalypse:
+      schlagwort: "Das Scheiden"
+      schlagsatz: >
+        κρίνειν heißt trennen. Der vierte Reiter ist das Gericht,
+        das Menschen sortiert, statt sie auszurichten.
+      krankheit: >
+        Steiner setzt den Rechtsbegriff ausdrücklich nach Rom: dort erst
+        tritt der Mensch als Bürger auf, dort entsteht das Testament,
+        "weil da erst der einzelne Mensch maßgebend sein sollte in seinem
+        egoistischen Willen". Die Mosaischen Gebote nennt er dagegen "das
+        alte Gesetz" — etwas anderes als Recht. Der Mangel des vierten
+        Reiters ist also das vereinzelte Ich, das sein Recht über den Tod
+        hinaus festschreibt, und ein Gericht, das dieses Vereinzeln
+        vollstreckt.
+      therapie: >
+        Ein Richter, der berichtigt. Richten, Recht, Richtung, Richtschnur,
+        aufrichten, berichtigen gehören zu einer Wortfamilie: gerade
+        machen, lenken. Wenn Verfehlung heißt, dass die Richtung nicht
+        stimmt, dann heißt Richten, die Richtung wieder stimmig zu machen.
+      fliesstext: >
+        Die Gründungsszene steht bereits im Text: Die Menge will Strafe
+        nach Gesetz, und die Antwort lautet οὐδὲ ἐγώ σε κατακρίνω·
+        πορεύου, μηκέτι ἁμάρτανε — keine Verurteilung, sondern eine
+        Richtungsangabe. Der frei gewählte Richter der Assoziation ist
+        die Institutionalisierung dieses Satzes. Er sitzt auf Position
+        vier, weil vier bei Steiner immer die Ich-Position ist: die
+        einzige der vier Einrichtungen, die sich nicht an Verhältnisse
+        wendet, sondern an einen Menschen.
+
+    sprache_dreigliederung:
+      schlagwort: "Recht ohne Rechtspflege"
+      schlagsatz: >
+        Der Staat setzt das Recht — aber wer es anwendet,
+        darf nicht sein Beamter sein.
+      krankheit: >
+        Wird die Rechtspflege in die Politik eingegliedert, verliert sie
+        die Fähigkeit, den Einzelfall zu sehen. Sie subsumiert dann nur
+        noch: Sachverhalt unter Norm, Mensch unter Kategorie. Das ist
+        institutionalisiertes Auseinandertreiben — genau die Kraft, die
+        Steiner den ersten vier Siegeln zuschreibt.
+      therapie: >
+        Steiner nennt es die "Loslösung der richterlichen Tätigkeit von den
+        staatlichen Einrichtungen" (GA 23, S. 137). Der Richter wird für
+        eine bestimmte Zeit frei gewählt, aus der geistigen Organisation
+        heraus bestellt, und kennt die Lebensverhältnisse derer, über deren
+        Fälle er urteilt. Er wirkt ins Rechtsleben hinein, ohne ihm
+        anzugehören.
+      fliesstext: >
+        Die Abgrenzung zur Schule verläuft zeitlich, nicht sachlich:
+        Die Schule bildet den Weg, bevor er gegangen wird; der Richter
+        stellt ihn wieder her, nachdem er verlassen wurde. Beide arbeiten
+        am einzelnen Ich, aber von verschiedenen Seiten der Tat aus. Ohne
+        diese Unterscheidung klappt die Vierheit auf drei zusammen.
+      status: verifiziert
+
+    # --- Verifizierter Befund GA 23, S. 137–139 ---------------
+    ga23:
+      stelle: "GA 23, Die Kernpunkte der sozialen Frage, S. 137–139"
+      dreiteilung:
+        rechtsetzung: >
+          Beim Staat. Ihm obliegt es, "die Rechte festzulegen, welche
+          zwischen Menschen oder Menschengruppen zu bestehen haben".
+        urteilsfindung: >
+          In der geistigen Organisation. "Die Urteilsfindungen selbst aber
+          liegen in Einrichtungen, die aus der geistigen Organisation
+          heraus gebildet sind."
+        urteilsvollstreckung: >
+          Wieder beim Staat. "Die Urteilsvollstreckung fällt dem
+          Rechtsstaate zu."
+      bestellung: >
+        Die Verwaltung der geistigen Organisation stellt die Richter auf.
+        Sie werden "aus den verschiedensten geistigen Berufsklassen heraus
+        genommen" und kehren nach Ablauf einer gewissen Zeit wieder in
+        ihre eigenen Berufe zurück. Der Richter steht dem Amt "nur eine
+        Zeitlang" vor; sein Leben außerhalb des Amtes ist die Bedingung
+        dafür, dass er mit den Lebenskreisen der zu Richtenden vertraut
+        wird.
+      freie_wahl: >
+        Jeder Mensch kann sich unter den Aufgestellten "für fünf oder
+        zehn Jahre" die Persönlichkeit wählen, zu der er so viel
+        Vertrauen hat, dass er von ihr die Entscheidung in einem privaten
+        oder strafrechtlichen Fall entgegennehmen will. Im Umkreis jedes
+        Wohnortes sollen so viele Richtende sein, dass die Wahl Bedeutung
+        hat.
+      wahlrecht_liegt_beim_beklagten: >
+        "Ein Kläger hat sich dann stets an den für einen Angeklagten
+        zuständigen Richter zu wenden." Die Wahl gehört dem, über den
+        geurteilt wird — nicht dem, der anklagt.
+      fachwissen_getrennt_vom_urteil: >
+        "Für die engere Gesetzeskenntnis" stehen den Richtern Beamte zur
+        Seite, "die aber nicht selbst zu richten haben". Steiner trennt
+        Gesetzeskunde und Urteil. Appellationsgerichte werden aus
+        derselben Verwaltung gebildet.
+      begruendung_vertrauen: >
+        Die Urteilsfindung ist "in hohem Maße abhängig von der
+        Möglichkeit, daß der Richtende Sinn und Verständnis habe für die
+        individuelle Lage eines zu Richtenden". Deshalb müssen dieselben
+        Vertrauensbande, die den Menschen an die Einrichtungen der
+        geistigen Organisation binden, auch für die Einsetzung der
+        Gerichte maßgebend sein.
+      friedensfunktion: >
+        Steiners eigenes Beispiel ist Österreich-Ungarn: In
+        gemischtsprachigen Gegenden hätte der Angehörige jeder
+        Nationalität "sich einen Richter seines Volkes erwählen können".
+        Er sieht darin einen Beitrag "zum Ausgleich im Leben der
+        Nationalitäten" — und fügt hinzu, dass es außer der Nationalität
+        weite Lebensgebiete gibt, für die dasselbe gilt.
+      romanverwendung:
+        - "Die Wahl gehört dem Beklagten — erzählerisch die stärkste Einzelregel."
+        - "Fünf oder zehn Jahre: die Wahl ist eine Bindung, keine Wahl pro Fall."
+        - "Der Richter hat einen Beruf außerhalb des Amtes und kehrt dorthin zurück."
+        - "Der Gesetzeskundige darf nicht richten."
+        - "Vollstreckung bleibt beim Staat — die Assoziation vollstreckt nicht."
+
+  # ----------------------------------------------------------
+  - id: vrvp-05
+    siegel: 5
+    pferd: ~
+    reiter: ~
+    bild: "Seelen unter dem Altar; weißes Kleid; Ruf nach Wahrheit und Gerechtigkeit"
+    stelle: "Apk 6,9–11"
+    epoche: ~
+    projekt: "Medien der Vollständigkeit und der Wahrheit verpflichtet"
+    sphaere: "Kultursphäre — Wahrnehmungsorgan der Öffentlichkeit"
+
+    sprache_apokalypse:
+      schlagwort: "Der Ruf unter dem Altar"
+      schlagsatz: >
+        Die Seelen, die für die Wahrheit gestorben sind, rufen: Wie lange
+        noch? — und bekommen kein Schwert, sondern ein weißes Kleid.
+      krankheit: >
+        Das fünfte Siegel bricht mit der Reiter-Reihe. Kein Pferd, kein
+        Werkzeug, kein Ausritt — nur Seelen, die „geschlachtet waren um des
+        Wortes Gottes willen und um des Zeugnisses willen". Ihr Ruf ist nicht
+        nach Vergeltung, sondern nach Offenbarwerden: „Wie lange richtest du
+        nicht und rächest nicht unser Blut?" Der Mangel ist das Verstummen
+        der Wahrheit in einer Welt, die alle vier Krankheiten produziert hat,
+        aber keine Instanz besitzt, die sie vollständig und unverzerrt
+        sichtbar macht.
+      therapie: >
+        Ein Medium, das der Vollständigkeit und der Wahrheit verpflichtet ist.
+        Nicht Meinung, nicht Kommentar, nicht Unterhaltung — sondern die
+        Pflicht, das Ganze zu zeigen. Das weiße Kleid ist kein Lohn, sondern
+        eine Aufgabe: Reinheit der Darstellung als Prinzip.
+      fliesstext: >
+        Die vier Reiter diagnostizieren Krankheiten. Aber keine Diagnose wirkt,
+        wenn sie nicht gehört wird. Das fünfte Siegel ist der Ort, an dem das
+        Zeugnis selbst zum Thema wird: Wer spricht? Für wen? Und vor allem:
+        Was wird verschwiegen? In der Apokalypse ist die Antwort keine
+        Institution, sondern eine Zusage — „ruhet noch eine kleine Zeit".
+        Die Medien der Vollständigkeit übersetzen diese Zusage in eine Struktur:
+        ein Organ, das nicht urteilt, sondern zeigt, und dessen einzige Pflicht
+        die Vollständigkeit ist.
+
+    sprache_dreigliederung:
+      schlagwort: "Öffentlichkeit ohne Wahrheitsorgan"
+      schlagsatz: >
+        Wo die Medien weder dem Staat noch der Wirtschaft noch dem freien
+        Geistesleben angehören, gehören sie niemandem — und dienen jedem
+        Auftraggeber.
+      krankheit: >
+        Medien sind heute weder frei (Kultursphäre) noch staatlich geordnet
+        (Rechtssphäre) noch wirtschaftlich assoziiert (Wirtschaftssphäre).
+        Sie hängen zwischen allen Sphären und werden von jeder instrumentalisiert.
+        Das Ergebnis ist nicht Lüge im groben Sinn, sondern Unvollständigkeit:
+        Was nicht in das Geschäftsmodell passt, wird nicht berichtet. Was nicht
+        in die politische Linie passt, wird gerahmt. Was nicht unterhält, wird
+        übergangen. Die Krankheit heißt nicht Falschheit, sondern Auslassung.
+      therapie: >
+        Ein Medium, das in der Kultursphäre verankert ist und durch freie
+        Zuwendung getragen wird — wie die Projekte im GIT-Netz. Seine
+        Verpflichtung gilt nicht dem Publikum als Kunden, sondern der
+        Vollständigkeit als Prinzip. Die Redaktion arbeitet wie ein Maintainer:
+        verantwortlich, öffentlich, versioniert, korrigierbar. Jede Auslassung
+        ist sichtbar, jede Korrektur nachvollziehbar, jede Quelle offen.
+      fliesstext: >
+        Die Dreigliederung kennt kein eigenes Medienprinzip, aber sie kennt
+        die Bedingung: Was aus dem freien Geistesleben kommt, darf weder vom
+        Staat vorgeschrieben noch vom Markt geformt werden. Ein Medium, das
+        diesem Anspruch genügt, ist kein Geschäft und kein Amt, sondern eine
+        geistige Einrichtung mit wirtschaftlicher Grundlage — getragen von
+        denen, die es für notwendig halten, nicht von denen, die es
+        konsumieren. Die Vollständigkeit ist dabei keine journalistische
+        Tugend, sondern ein strukturelles Merkmal: Das Medium zeigt alles,
+        was es weiß, oder es sagt, was es nicht weiß.
+
+# ============================================================
+
+zusammenfassung:
+  diagnoseform: >
+    Alle fünf Mängel sind Formen von Auseinandertreiben oder Verstummen.
+    Die fünf Projekte sind daher keine fünf Vorschläge, sondern fünf
+    Therapien — und jede braucht ihre benannte Krankheit, sonst liest sich
+    das Ganze als Utopie statt als Antwort.
+  ideale:
+    01: "Freiheit — Kultursphäre"
+    02: "Gleichheit — Politik und Recht"
+    03: "Brüderlichkeit — Wirtschaftsleben"
+    04: >
+      kein eigenes Ideal. Position vier ist der Ort, an dem die drei
+      Ideale auf einen einzelnen Menschen treffen.
+    05: >
+      Wahrheit und Vollständigkeit — das Organ, das die Wirkung der
+      anderen vier sichtbar macht. Ohne es bleibt jede Therapie stumm.
+  verhaeltnis_zur_matrix: >
+    Die Dreigliederungs-Matrix bleibt 3×3. Die Ich-Position bekommt keine
+    eigene Zeile und Spalte — sie ist bei Steiner kein viertes Glied neben
+    dreien, sondern das, was die drei durchdringt. Die vier Reiter stehen
+    nebeneinander, nicht in der Matrix: als eigene Reihe für die
+    Zusatzliteratur. Das fünfte Siegel steht jenseits der Reiter — es ist
+    das Zeugnis, nicht die Tat. Es braucht keine eigene Sphäre, weil es
+    alle drei durchleuchtet.
