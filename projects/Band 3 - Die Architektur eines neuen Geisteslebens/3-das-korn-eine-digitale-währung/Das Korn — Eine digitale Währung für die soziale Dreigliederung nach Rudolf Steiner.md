@@ -4,7 +4,7 @@
 
 ---
 
-## I. Warum eine neue Währung Sinn macht?
+## I. Warum eine neue Währung Sinn macht
 
 ### Warum überhaupt eine neue Währung?
 
@@ -12,7 +12,7 @@ Weil das heutige Geld lügt.
 
 Alle Waren altern. Brot wird hart, Holz verrottet, Maschinen verschleißen. Nur das Geld macht diesen Verzehr nicht mit — es nutzt sich nicht ab. Damit verschafft es sich einen Vorteil gegenüber allem, was es angeblich abbildet. Wer Geld hortet, gewinnt; wer Waren hat, verliert. Das ist keine Marktverzerrung, sondern eine systematische Verzerrung im Fundament: Die Bilanz, die Regeln der doppelten Buchführung selbst tun so, als hätten Vermögenswerte einen festen Geldwert, der sich nie verzehrt. Keine Abschreibungen nach drei oder 30 Jahren. Geld, das nicht altert, wie ein Holzschuppen, der auf dem Hof verrottet, wird immer mehr Wert, ohne einen Beitrag zu leisten.
 
-Daraus folgt alles Weitere. Der *Zins* — denn wer Geld verleiht, gibt etwas Beständiges weg und verlangt einen Preis für diesen Verzicht. Die *Spekulation* — denn was nicht altert, lässt sich stapeln und gegen die Zeit ausspielen. Das Sparen, Investieren, die Schatzbildung — denn wer genug hat, braucht nichts mehr zu tun, und das Geld "arbeitet" für ihn. Und am Ende die Entkopplung: Eine Geldmenge, die sich von dem löst, was sie abbilden soll, bis niemand mehr weiß, was ein Preis eigentlich aussagt.
+Daraus folgt alles Weitere. Der *Zins* — denn wer Geld verleiht, gibt etwas Beständiges weg und verlangt einen Preis für diesen Verzicht. Die *Spekulation* — denn was nicht altert, lässt sich stapeln und gegen die Zeit ausspielen. Das Sparen, Investieren, die Schatzbildung — denn wer genug hat, braucht nichts mehr zu tun, und das Geld “arbeitet“ für ihn. Und am Ende die Entkopplung: Eine Geldmenge, die sich von dem löst, was sie abbilden soll, bis niemand mehr weiß, was ein Preis eigentlich aussagt.
 
 Diese Diagnose ist nicht neu. Rudolf Steiner hat sie 1922 gestellt — in vierzehn Vorträgen über Nationalökonomie, in denen er nicht nur die Krankheit beschreibt, sondern auch die Therapie. Was er damals entwarf, war eine Währung, die altert wie die Waren, die sie abbildet, die drei Verwendungsarten kennt und die nicht vom Staat, sondern von wirtschaftlichen Gemeinschaften getragen wird. Die nicht in Zentralbanken geschaffen wird, sondern an der Naturgrundlage entspringt. Was ihm fehlte, war ein Medium, das diese Idee verwirklichen konnte.
 
@@ -20,7 +20,7 @@ Hundert Jahre später gibt es dieses Medium.
 
 ### Warum digital?
 
-Steiner wollte, dass das Geld altert wie die Waren. Er verwarf aber sofort den bürokratischen Weg: Coupons, die abgerissen werden müssten, Ämter, die abstempeln — „dadurch würde ein sehr komplizierter bürokratischer Apparat herauskommen." Stattdessen wollte er, „dass der reale Verlauf der Dinge von selbst diese Wertigkeit bewirkt."
+Steiner wollte, dass das Geld altert wie die Waren. Er verwarf aber sofort den bürokratischen Weg: Coupons, die abgerissen werden müssten, Ämter, die abstempeln — „dadurch würde ein sehr komplizierter bürokratischer Apparat herauskommen.“ Stattdessen wollte er, „dass der reale Verlauf der Dinge von selbst diese Wertigkeit bewirkt.“
 
 Programmierbares Geld ist genau dieses *von selbst*. Alterung und Auffrischung werden zu Protokollereignissen, die auf ökonomische Tatsachen reagieren, nicht auf Amtsgänge. Die digitale Form ist nicht Mittel zum Zweck — sie ist die Bedingung dafür, dass dieser Kerngedanke überhaupt verwirklicht werden kann.
 
@@ -30,7 +30,7 @@ Bitcoin und Ethereum haben bewiesen, dass eine staatsfreie Weltwährung technisc
 
 Bitcoin und Ethereum haben das Geld vom Staat gelöst — und es dabei umso vollständiger dem Kapitalmarkt überlassen (ETFs, Staking-Rendite, tokenisierte Staatsanleihen). Die Währung, die hier vorgestellt wird, löst es von beidem.
 
-Ein weiterer wichtiger Aspekt dieser Währung wird sein, dass man als Käufer und Verkäufer anonym bleiben kann, und trotzdem kaufen und verkaufen und Steuern an den Staat bezahlen kann. Das steht nicht im Widerspruch zu der weitgehenden Öffentlichkeit, die weiter hinten beschrieben wird: Offengelegt wird, was fließt — Preise, Kosten, Portfolios, Einkommen aus Leistung. Nicht offengelegt wird der einzelne Vorgang. → Kapitel VI, „Was öffentlich ist und was nicht". 
+Ein weiterer wichtiger Aspekt dieser Währung wird sein, dass man als Käufer und Verkäufer anonym bleiben kann, und trotzdem kaufen und verkaufen und Steuern an den Staat bezahlen kann. Das steht nicht im Widerspruch zu der weitgehenden Öffentlichkeit, die weiter hinten beschrieben wird: Offengelegt wird, was fließt — Preise, Kosten, Portfolios, Einkommen aus Leistung. Nicht offengelegt wird der einzelne Vorgang. → Kapitel VI, „Was öffentlich ist und was nicht“. 
 
 ### Warum die Naturgrundlage als Basis für die Währung?
 
@@ -38,17 +38,15 @@ Weil der Anker etwas sein muss, das niemand beschließen kann.
 
 Jede Währung hat eine Stelle, an der festgestellt wird, wie viel Geld es gibt. Beim heutigen Geld ist es ein Gremium, das setzen und verstellen kann. Bei Bitcoin ist es eine Zahl im Protokoll — die kann niemand verstellen, dafür weiß sie von der Welt auch nichts. Ein Anker darf weder das eine sein noch das andere: nicht beschließbar und trotzdem eine Aussage.
 
-Steiner sucht deshalb nicht nach einer Zahl, sondern nach einem Bestand: Geld könne nichts anderes sein „als lediglich ein Ausdruck für die Summe der brauchbaren Produktionsmittel, die in irgendeinem Gebiet sind" — und eben diese Summe sei „die einzige gesunde Währung." Der Schwerpunkt liege vorzugsweise bei Grund und Boden, denn die Maschine habe eine begrenzte Lebensdauer und müsse aufgezehrt werden, der Boden nicht.
+Steiner sucht deshalb nicht nach einer Zahl, sondern nach einem Bestand: Geld könne nichts anderes sein „als lediglich ein Ausdruck für die Summe der brauchbaren Produktionsmittel, die in irgendeinem Gebiet sind“ — und eben diese Summe sei „die einzige gesunde Währung.“ Der Schwerpunkt liege vorzugsweise bei Grund und Boden, denn die Maschine habe eine begrenzte Lebensdauer und müsse aufgezehrt werden, der Boden nicht.
 
 Was wir Naturgrundlage nennen, ist keine engere Auswahl daraus, sondern dieselbe Summe von der anderen Seite gesehen. Steiners entscheidendes Wort ist *brauchbar*. Ein Bohrer, der nirgends Wasser findet, ist kein brauchbares Produktionsmittel, gleich was er gekostet hat — und ein guter Bohrer zeigt sich nicht an sich selbst, sondern an dem Wasser, das kommt. Wer keinen hat, erreicht die Quelle nicht; wer den besten hat, bekommt das meiste.
 
 Deshalb wird die Summe der brauchbaren Produktionsmittel nicht an den Produktionsmitteln gemessen, sondern an dem, was sie aus der Natur herausholen: am Ertrag des Feldes, am geförderten Erz, am geborenen Kalb. Die Fähigkeiten der Menschen und die in Maschinen eingefrorenen Fähigkeiten sind darin enthalten — sie sind der Grund, warum überhaupt etwas herauskommt.
 
-Und diese Messung hat die Eigenschaft, auf die es ankommt: Maschinen kann man beschließen, aber nicht, dass Wasser kommt.
+Und diese Messung hat die Eigenschaft, auf die es ankommt: Maschinen kann man beschließen, aber nicht, dass Wasser kommt. Entscheidend ist hier nur die eine Eigenschaft: Die Ernte lässt sich nicht vorhersagen. Was man vorhersagen kann, kann man ausrechnen, und wovor man sich rechtzeitig stellen kann, davon lebt die Spekulation. Die Unberechenbarkeit der Natur ist kein Mangel des Ankers. Sie ist sein Sinn.
 
-Entscheidend ist hier nur die eine Eigenschaft: Die Ernte lässt sich nicht vorhersagen. Was man vorhersagen kann, kann man ausrechnen, und wovor man sich rechtzeitig stellen kann, davon lebt die Spekulation. Die Unberechenbarkeit der Natur ist kein Mangel des Ankers. Sie ist sein Sinn.
-
-Wie eine solche Währung aussehen würde, sagt Steiner selbst: Statt eines Goldgehalts solle auf dem Geld ein Naturwert stehen. Er wählt dafür ein Beispiel und schreibt es an die Tafel: so und so viel Weizen. Und er schreibt es nicht für ein Gebiet an die Tafel, sondern als Aufschrift auf allem Geld — es ist ein Maß für die ganze Welt. Der Name der neuen Währung war damit, denke ich, schon vorgegeben. Für diesen Text heißt sie „Korn".
+Wie eine solche Währung aussehen würde, sagt Steiner selbst: Statt eines Goldgehalts solle auf dem Geld ein Naturwert stehen. Er wählt dafür ein Beispiel und schreibt es an die Tafel: so und so viel Weizen. Und er schreibt es nicht für ein Gebiet an die Tafel, sondern als Aufschrift auf allem Geld — es ist ein Maß für die ganze Welt. Der Name der neuen Währung war damit, denke ich, schon vorgegeben. Für diesen Text heißt sie „Korn“.
 
 ### Was ist mit den vielen anderen Versuchen?
 
@@ -72,11 +70,9 @@ Was hat Korn, was sie nicht haben? Fast alle diese Versuche haben genau eine Eig
 
 **[Grassroots Economics / Sarafu](→)** hat als einziges Projekt eine echte Deckung: die Leistungszusagen der beteiligten Produzenten, im Alltag kenianischer Gemeinden über Jahre erprobt — aber gedeckt wird durch das, was Menschen versprechen, nicht durch das, was die Natur gibt, und damit hängt der Anker wieder an Entscheidungen.
 
-**[Circles / Aboutcircles](→)** bindet das Geld an Menschen statt an Konten — jeder gibt seine eigene Währung aus, Vertrauen verbindet sie, und sie altert sogar — aber ausgegeben wird pro Person und nicht an einer Naturgrundlage, und über Tauschbörsen wurde daraus schnell wieder ein handelbarer Kurs.
+**[Circles / Aboutcircles](→)** bindet das Geld an Menschen statt an Konten — jeder gibt seine eigene Währung aus, Vertrauen verbindet sie, und sie altert sogar — aber ausgegeben wird pro Person und nicht an einer Naturgrundlage, und über Tauschbörsen wurde daraus schnell wieder ein handelbarer Kurs. Was das Korn von jedem dieser Versuche unterscheidet, ist deshalb nicht eine Eigenschaft, sondern die Kombination: Es altert *und* es hat einen Anker, den niemand beschließen kann, *und* es ist nicht handelbar.
 
-Was das Korn von jedem dieser Versuche unterscheidet, ist deshalb nicht eine Eigenschaft, sondern die Kombination: Es altert *und* es hat einen Anker, den niemand beschließen kann, *und* es ist nicht handelbar.
-
-## II. Die Eigenschaften des "Korn"
+## II. Die Eigenschaften des “Korn“
 
 **Fünf Wörter vorweg**
 
@@ -93,7 +89,7 @@ Am Beispiel: Ein Sack Weizen überschreitet die Naturgrundlage, daraus entsteht 
 
 ### 1. Wie das Korn entsteht und warum es altert
 
-Jede Einheit trägt ein Ablaufdatum — digital aufgedruckt und im Protokoll geführt. Mit jedem Tag schrumpft die Restlaufzeit. Am Ende erlischt die Einheit. „Immer-näher-Kommen seinem Sterben" nennt Steiner das, und gerade dadurch werde dem Geld ein Wert aufgedrückt „wie dem Menschen durch sein Altwerden". Damit hört das Geld auf, die Ausnahme zu sein, die nicht stirbt wie alles andere. Es altert allerdings anders als das Brot. Was altert, ist nicht der Betrag. Ein Korn mit zwei Jahren Restlaufzeit kauft dieselbe Menge Brot wie ein frisch ausgegebenes. Was schrumpft, ist allein die Restlaufzeit — und damit die Reichweite in der Zeit. Ein Vorhaben auf zwanzig Jahre lässt sich nicht mit Korn finanzieren, das in fünf Jahren erlischt.
+Jede Einheit trägt ein Ablaufdatum — digital aufgedruckt und im Protokoll geführt. Mit jedem Tag schrumpft die Restlaufzeit. Am Ende erlischt die Einheit. „Immer-näher-Kommen seinem Sterben“ nennt Steiner das, und gerade dadurch werde dem Geld ein Wert aufgedrückt „wie dem Menschen durch sein Altwerden“. Damit hört das Geld auf, die Ausnahme zu sein, die nicht stirbt wie alles andere. Es altert allerdings anders als das Brot. Was altert, ist nicht der Betrag. Ein Korn mit zwei Jahren Restlaufzeit kauft dieselbe Menge Brot wie ein frisch ausgegebenes. Was schrumpft, ist allein die Restlaufzeit — und damit die Reichweite in der Zeit. Ein Vorhaben auf zwanzig Jahre lässt sich nicht mit Korn finanzieren, das in fünf Jahren erlischt.
 
 Die Geldmenge im Korn-System ist träge stabil — wie das Blutvolumen im Körper. Blut entsteht im Knochenmark und wird in etwa der Rate ersetzt, in der alte Zellen im Körper absterben und neue hinzukommen. Die Gesamtmenge bleibt konstant, solange der Organismus gesund ist und sich Körpergröße und -leistung gleich bleiben. Und sie wird nirgends gemessen: Der Körper kennt keine Sollmenge Blut, er kennt nur den Sauerstoff- und Nahrungsmangel im Gewebe und antwortet darauf. Bestand ist immer Ergebnis, nie Ziel.
 
@@ -129,7 +125,7 @@ Und wie das Blut nicht dort bleibt, wo es entsteht, sondern zurückkehrt, ist au
 
 ### 2. Kaufgeld, Leihgeld, Schenkgeld: Drei Verwendungsarten, nicht drei Sorten
 
-Kaufgeld, Leihgeld, Schenkgeld — das sind keine drei Geldsorten, sondern drei Gebrauchsweisen desselben Geldes. Das Korn wird zur jeweiligen Art „erst im Moment, wo es eben eintritt in den volkswirtschaftlichen Prozess oder von einer Art in eine andere übertritt." Der Halter wählt die Verwendung, nicht die Uhr.
+Kaufgeld, Leihgeld, Schenkgeld — das sind keine drei Geldsorten, sondern drei Gebrauchsweisen desselben Geldes. Das Korn wird zur jeweiligen Art „erst im Moment, wo es eben eintritt in den volkswirtschaftlichen Prozess oder von einer Art in eine andere übertritt.“ Der Halter wählt die Verwendung, nicht die Uhr.
 
 Jede Korn-Einheit trägt zwei Angaben, und nur zwei:
 
@@ -138,7 +134,7 @@ Jede Korn-Einheit trägt zwei Angaben, und nur zwei:
 
 Die Verwendungsart ist keine dritte Angabe. Sie ist der Zustand, in dem das Korn gerade gebraucht wird, und der kann sich in jedem Augenblick ändern, ohne dass sich an der Einheit selbst etwas ändert.
 
-Junges Korn kann alles drei: kaufen, leihen, schenken. Mit dem Altern fällt zuerst das lange Leihen weg, dann das kurze. Am Ende bleibt nur noch das Schenken. Der einzige Sortenwechsel, den das Protokoll selbst auslöst, ist der Übergang zu Schenkgeld an der Sterbegrenze.
+Junges Korn kann alles drei: kaufen, leihen, schenken. Mit dem Altern fällt zuerst das lange Leihen weg, dann das kurze. Das Kaufen fällt nie weg — der Betrag schrumpft ja nicht. Was mit der Frist schwindet, ist nicht die Kaufkraft, sondern die Bereitschaft, das Korn anzunehmen, und deshalb bleibt zuletzt das Schenken als die einzige Verwendung, die sicher trägt. Sicher trägt außerdem noch ein Weg: der zum Naturbetrieb, der als einziger auffrischen darf. Dorthin wandert sterbendes Korn, und wer rechtzeitig ankommt, kauft nicht nur ein, sondern rettet es. → Kapitel II.1. Der einzige Sortenwechsel, den das Protokoll selbst auslöst, ist der Übergang zu Schenkgeld an der Sterbegrenze.
 
 **Kaufgeld** ist Korn im Augenblick des Tauschs. Es wechselt den Besitzer, und dafür geht eine Ware oder Leistung in die andere Richtung. Der Betrag schrumpft dabei nie — ein Korn kauft am letzten Tag dieselbe Menge Brot wie am ersten. Was der Empfänger mit übernimmt, ist die Restlaufzeit. Deshalb wird Korn mit knapper Frist nur annehmen, wer es rasch weitergeben kann. Nicht der Wert sinkt, sondern die Bereitschaft, es anzunehmen.
 
@@ -150,7 +146,7 @@ Einen Ansturm auf das jüngste Korn gibt es dabei nicht. Junges Korn kauft nicht
 
 Und die Frage an den Geber ist nicht: Was bringt mir das an Rendite? Sondern: Will ich, dass dieses Vorhaben entsteht? Eine durchaus spannendere Frage als die Frage nach einer bloßen Zahl.
 
-**Schenkgeld** ist Korn, das ohne Gegenleistung gegeben wird — für Erziehung, Bildung, Kunst, Forschung. In einem alternden Geldsystem erreicht jede Einheit irgendwann die Restlaufzeit null. Dann ist sie Schenkgeld — nicht weil jemand es so bestimmt hat, sondern weil nichts anderes mehr möglich ist. Aber auch junges Korn kann geschenkt werden. Wer in einem Vortrag Gedanken hört, die sein Leben verändern, kann frisches Korn schenken — und dieses behält seine Jahreszahl.
+**Schenkgeld** ist Korn, das ohne Gegenleistung gegeben wird — für Erziehung, Bildung, Kunst, Forschung. In einem alternden Geldsystem läuft jede Einheit irgendwann auf die Restlaufzeit null zu. Auf der letzten Strecke davor ist sie Schenkgeld — nicht weil jemand es so bestimmt hat, sondern weil kaum noch jemand sie annimmt. Bei null ist sie nichts mehr: Sie erlischt. Schenkgeld ist die letzte Verwendung, kein Zustand danach. Aber auch junges Korn kann geschenkt werden. Wer in einem Vortrag Gedanken hört, die sein Leben verändern, kann frisches Korn schenken — und dieses behält seine Jahreszahl.
 
 ### 3. Korn ist nicht handelbar
 
@@ -182,7 +178,7 @@ Schenkgeld wandert dabei am freiesten. Es trägt keinen Anspruch zurück, und se
 
 **Und nach außen**
 
-Zu Wirtschaften, die kein Korn kennen, gilt eine einzige Regel: Waren dürfen die Grenze überqueren, Geld nicht. Der Naturbetrieb verkauft einen Teil seiner Ernte nach außen und nimmt Euro ein; denselben Weizen gibt er nach innen gegen Korn. Damit überquert nie eine Geldeinheit die Grenze. Praktisch bündelt man das an einer Stelle: Eine Import-Assoziation hält den Außenkontakt, kauft draußen ein und übergibt das Produktionsmittel nach innen gegen Korn. Innen kennt niemand Euro.
+Zu Wirtschaften, die kein Korn kennen, gilt eine einzige Regel: Waren dürfen die Grenze überqueren, Geld nicht. Der Naturbetrieb verkauft einen Teil seiner Ernte nach außen und nimmt Euro ein; denselben Weizen gibt er nach innen gegen Korn. Damit überquert nie eine Geldeinheit die Grenze. Praktisch bündelt man das an einer Stelle: Die Clearingstelle hält den Außenkontakt. Sie hält Euro draußen und Korn drinnen und gibt nach innen weiter, was sie draußen gekauft hat — Produktionsmittel wie Waren. Zweierlei begrenzt sie, und beides ist Mechanik, keine Vorschrift. Sie kann nach innen nur so viel Korn weiterreichen, wie ihr vorher für Importe gegeben wurde; sie schöpft nichts, sie gleicht ab. Und sie sieht auf das Alter: Das Korn muss zu dem passen, was dafür hereinkommt. Verderbliche Ware wird nicht mit fünfzehnjährigem Korn bezahlt, eine Maschine nicht mit zweijährigem, und mehr Korn hilft nicht, wenn die Frist nicht stimmt. Restlaufzeit wird auch an der Membran gesucht und nicht bezahlt. Innen kennt niemand Euro.
 
 Die Membran ist ein Organ, kein Loch — durchlässig für Stoffe, dicht für Geld. Sie ist die einzige Grenze im ganzen System, und wie sie beschaffen ist, steht in Kapitel IV.
 
@@ -194,7 +190,7 @@ Bleibt die Frage, die jeder Markt beantwortet und die hier kein Markt mehr beant
 
 Preise werden im Korn weder ausgehandelt noch angeordnet. Es gibt einen dritten Weg, und er ist der einzige, den dieses System kennt: Sie werden gerechnet, und die Rechnung liegt offen.
 
-Gerechnet wird dort, wo Erzeuger, Handel und Verwender zusammensitzen — in der Assoziation. Wer verkauft, weist aus, woraus sein Preis sich zusammensetzt: was die Produktionsmittel an Erneuerung kosten, was die Arbeit kostet, was zugekauft werden musste. Wer kauft, kann nachrechnen. Damit ist der Preis kein Ergebnis von Macht, sondern eine Aussage, die jeder prüfen kann — und erst dadurch wird aus „gerechnet" mehr als eine Behauptung.
+Gerechnet wird dort, wo Erzeuger, Handel und Verwender zusammensitzen — in der Assoziation. Wer verkauft, weist aus, woraus sein Preis sich zusammensetzt: was die Produktionsmittel an Erneuerung kosten, was die Arbeit kostet, was zugekauft werden musste. Wer kauft, kann nachrechnen. Damit ist der Preis kein Ergebnis von Macht, sondern eine Aussage, die jeder prüfen kann — und erst dadurch wird aus „gerechnet“ mehr als eine Behauptung.
 
 Eine Stelle, die Preise festsetzt, gibt es nirgends im ganzen System — auch keine zentrale.
 
@@ -220,7 +216,9 @@ Ansparen für den Nachfolger gibt es nicht. In einem Geld, das altert, lässt si
 
 Das hat eine sichtbare Folge: Ein Betrieb, der gerade neu ausgestattet hat, rechnet höher als einer, dessen Maschinen abgetragen sind. Der Preis zeigt also auch, wo im Erneuerungszyklus ein Betrieb steht — und das ist keine Verzerrung, sondern wieder eine Aussage.
 
-**Vorleistungen** — was zugekauft werden musste: Energie, Futter, Material, Saatgut. Jedes davon bringt seinen eigenen Preis mit, und in dem stecken wieder Arbeit, Lebensunterhalt, Abschreibung und Vorleistungen. Der Preis eines Brotes enthält so die halbe Wirtschaft, Glied für Glied zurück bis zum Feld. Stammt das Material aus einem nicht nachwachsenden Bestand, trägt es zusätzlich den Entnahmepreis.
+**Vorleistungen** — was zugekauft werden musste: Energie, Futter, Material, Saatgut, und was der Weg kostet, sie herzubringen. Jedes davon bringt seinen eigenen Preis mit, und in dem stecken wieder Arbeit, Lebensunterhalt, Abschreibung und Vorleistungen. Der Preis eines Brotes enthält so die halbe Wirtschaft, Glied für Glied zurück bis zum Feld. Stammt das Material aus einem nicht nachwachsenden Bestand, trägt es zusätzlich den Entnahmepreis.
+
+Was der Weg kostet, bleibt in diesem Posten — er ist eine Vorleistung wie jede andere. Was eigens mitgeführt wird, ist die Entfernung: Jede Stufe gibt weiter, wie weit das Gut und was darin steckt schon gereist sind. Zwei Güter zum gleichen Preis können sehr verschieden weit gekommen sein; die akkumulierte Transportentfernung macht das sichtbar, ohne den Preis zu spalten. Ob etwas aus der Region kommt oder von weit her, ist keine Rechenfrage, sondern eine Wahl — und die Assoziation kann sie nur treffen, wenn die Strecke neben dem Betrag dasteht.
 
 **Der Anteil für das Weiterkommen** — der einzige Posten, der nicht die Wiederholung deckt, sondern das, was darüber hinausgeht. Er geht in zwei Richtungen: in die Weiterentwicklung der Fähigkeiten, also ins Geistesleben, und in die Ausweitung der Produktion, also in die Wirtschaft. Wie groß er ist und wohin er geht, hängt am Produkt und wird in der Assoziation entschieden.
 
@@ -248,7 +246,7 @@ Der Preis hört damit auf, ein Hebel zu sein, und wird eine Anzeige. Was auf ihn
 
 Man rührt das Thermometer nicht an. Man heizt — und geheizt wird mit Einladung, nicht mit Zuteilung.
 
-### 5. Die einzige Steuer: Verkaufsteuer (nicht Mehrwertsteuer!)
+### 5. Wovon der Staat lebt. Die einzige Steuer: Verkaufsteuer
 
 Die Abgrenzung im Titel ist Steiners eigene. In den Leitsätzen für die Dreigliederungsarbeit heißt es, die allgemeinen Steuern sollen Ausgabensteuern sein — ausdrücklich nicht zu verwechseln mit indirekten Steuern. Einnahmen als solche werden nicht steuerpflichtig; sie werden es in dem Augenblick, wo die Allgemeinheit dafür Interesse hat, also beim Übertritt in die Verkehrszirkulation.
 
@@ -258,65 +256,430 @@ Das passt zum Korn genauer als zu jedem anderen Geld. Besteuert wird nicht, was 
 
 **Warum das Dreigliederung ist.** Die Anzeige gehört ins Wirtschaftsleben, die Sicherung des Daseins in Politik und Recht. Hätte die Emission eine soziale Nebenaufgabe, würde am Thermometer gedreht — aus dem sympathischsten Motiv, aber mit demselben Ergebnis wie bei jedem anderen Eingriff. Steiner ordnet das Steuerwesen entsprechend zu: Was der Staat für seine Erhaltung fordert, wird durch das Steuerrecht aufgebracht, das sich aus einer Harmonisierung des Rechtsbewusstseins mit den Forderungen des Wirtschaftslebens bildet. Die Verteilung der Steuerforderungen auf die einzelnen Wirtschaftsgebiete obliegt dabei den Assoziationen, die Regelung des Bedarfs dem Rechtsleben.
 
-**Was offenliegt.** Einnahmen, Verwendung und die Regel sind öffentlich. → Kapitel VI, „Was öffentlich ist und was nicht".
+**Was offenliegt.** Einnahmen, Verwendung und die Regel sind öffentlich. → Kapitel VI, „Was öffentlich ist und was nicht“.
 
 *Ausarbeitung steht aus.* Steuersatz, Bemessungsgrundlage und die Frage, ob Grundbedürfnisse anders behandelt werden als anderes, sind nicht bestimmt.
 
 Damit stehen die Eigenschaften beisammen: woher das Korn kommt, wie es gebraucht wird, was es nicht darf, wie ein Preis entsteht und wovon der Staat lebt. Wie sich das anfühlt, wenn Menschen darin wirtschaften, zeigt sich am besten an Beispielen.
 
-## III. Das Korn in der Praxis (wie wäre das?)
+## III. Wie lebt es sich mit Korn?
 
-### Ein Haus entsteht
+### Die Rutsche (oder wie man sich eine Wohnung kauft)
 
-Nicht mit Geld fängt ein Haus an. Es fängt mit jemandem an, der etwas kann.
+Der September war einer von den freundlichen. Die Sonne stand schon tief über den Dächern und legte sich flach über den Sandkasten, so dass jede Schaufel einen langen Schatten warf. Jule saß auf der Kante, die Jacke im Schoß, und sah zu, wie Leon einen Kuchen baute, der jedes Mal zusammenfiel, bevor er fertig war. Mika hing kopfüber im Klettergerüst und behauptete, das sei Training.
 
-Da ist ein Mensch, der eine Architektur im Kopf hat. Damit er diese Fähigkeit überhaupt entwickeln konnte, hat er über Jahre Schenkgeld bekommen — Korn, für das niemand eine Gegenleistung erwartet hat. Man kann nicht kreativ werden, während man beweist, dass man es schon ist.
+Anton kam über den Kies, zwei Becher in der Hand, und setzte sich neben sie.
 
-Jetzt entwirft er. Und rechnet: Bauzeit ein Jahr, Kosten eine Million Korn. Zehn Menschen sollen darin wohnen, und mit zehn Menschen ist diese Million in fünfzehn Jahren zurückzuzahlen. Dann sagt er einen Satz, der im heutigen System keinen Sinn ergäbe: *Ich brauche Korn, das noch mindestens fünfzehn Jahre lebt. Und hier ist der Plan.*
+„Du musst dir was ansehen“, sagte er.
 
-Wer gibt das Korn? Die Erzeuger-Verwender-Gemeinschaften — die Assoziationen. Was sie über das Jahr an Überschuss erwirtschaftet haben, liegt in ihrer Geldtasche, und dieses Korn hat unterschiedliche Ablaufdaten. Sie suchen heraus, was zu diesem Plan passt: möglichst genau die fünfzehn Jahre. Zuerst im eigenen Bestand, dann im Netz — fünfzehnjähriges Korn kann aus jedem Portfolio der Welt stammen, das so lange baut, und es kommt ohne Umrechnung an. Die Frage lautet nicht: Was bringt uns das an Rendite? Sie lautet: Wollen wir, dass dieses Haus dort entsteht?
+Sie sah ihn an: „Guten Morgen!“
 
-Die zehn Bewohner einigen sich, wie die Rückzahlung gestaffelt wird. Jeder geht zu seiner eigenen Assoziation und sagt: Um meine Arbeit weiter machen zu können, brauche ich Leihgeld. Fürs erste Jahr welches mit fünfzehn Jahren Restlaufzeit. Fürs zweite vierzehn. Fürs dritte dreizehn. So weiter. Es ist nicht der Einzelne, der eine Schuld abträgt. Es sind die produktiven Gemeinschaften, in denen diese Menschen arbeiten, die das Wohnen tragen.
+Er nickte: „Moin. Du musst dir das ansehen.“
 
-Das Korn kommt älter zurück, als es hingegangen ist. Mit vierzehn Jahren lässt sich das nächste Haus mittragen. Mit fünf eine Werkstatt. Mit zwei eine Anschaffung, die sich schnell rechtfertigt. Es entsteht eine Kaskade: Korn wandert im Lauf seines Lebens von den langen zu den kurzen Vorhaben, weil es gar nicht anders kann.
+Er hielt ihr sein Telefon hin. Ein Foto, ein Eckhaus, Stuck über den Fenstern, ein Erker, der wie ein Ausrufezeichen in die Kreuzung ragte. Über dem Erdgeschoss noch die Reste einer alten Ladenbeschriftung.
 
-Und der Zins? Er hat einfach nichts mehr zu tun.
+„Das kenne ich, das hat Charakter“, sagte Jule. „Das ist zwei Straßen weiter. Wo unten die Bretter drin sind.“
 
-### Import von Getreide — zwei Fälle
+„Nicht mehr lange.“
 
-Eine Region braucht Weizen. Der eigene Boden gibt nicht genug her. Zwei Nachbarregionen können liefern.
+Anton wischte weiter. Grundrisse, ein Schnitt durchs Treppenhaus, eine Ansicht von der Straße, auf der die Kastanie eingezeichnet war, die tatsächlich dort steht. Dann eine Seite mit Zahlen.
 
-**Fall 1: Beide Regionen arbeiten mit Korn.**
+„Ein Architekt hat das auf die Plattform gestellt. Hakan Ceylan. Sagt dir wahrscheinlich nichts. Aber er hat die Ausschreibung gewonnen. Er hat das Haus für den Ausbau zugesprochen bekommen.“
 
-Das eine Gebiet kauft Weizen beim Naturbetrieb des anderen — ein Kauf wie jeder andere. Das Korn behält dabei die Frist, mit der es geboren wurde; der Weizenbauer erhält also unter Umständen Korn mit anderer Restlaufzeit als das eigene, und das ist der Normalfall in einer Welt mit einer Währung. Die Auffrischung ist ein getrennter, späterer Vorgang beim Naturbetrieb. Ein realer Warenfluss also: Weizen hierher, Korn dorthin. Die importierende Region verliert Kaufgeld; der Verlust drückt auf die Leih- und Schenksphäre. Die exportierende Region gewinnt frisches Korn; der Überschuss drängt in die Schenkung. → Kapitel VII, Sechstens.
+„Er sagt mir nichts. Aber ist noch etwas frei?“
 
-**Fall 2: Die exportierende Region arbeitet nicht mit Korn.**
+„Fast alles. Ich habe angefangen zu lesen, und dann habe ich zwei Stunden gelesen.“ Er zeigte auf den Schnitt. „Er nimmt das Haus komplett auseinander. Wirklich von Grund auf. Fundament, Leitungen, Dach. Was bleibt, ist die Fassade und die Treppe. Zehn Parteien, alle unterschiedlich groß. Ganz unten zwei große mit Zugang zum Hof, oben zwei kleine, und dazwischen alles, was man sich vorstellen kann. Er baut mit Naturmaterialien, Lehm innen. Das Haus wird atmen.“
 
-Der Weizenbauer in dieser Region nimmt kein Korn an — er kennt es nicht, er braucht es nicht, er lebt in Euro. Also muss ein anderer Weg gefunden werden.
+Jule nahm sein Telefon und scrollte selbst weiter. Sie blieb bei einer Stelle hängen, an der stand, wie lange er an dem Entwurf gesessen hatte.
 
-Hier greift die Schenkung. Die importierende Region kann Schenkgeld an Menschen oder Einrichtungen der anderen Region geben — an eine Schule, eine Forschungsstelle, eine Ausbildungswerkstatt. Der Beschenkte kauft damit beim Weizenbauern. Der Bauer hat sein Euro-Äquivalent, die importierende Region hat ihren Weizen, und das Schenkgeld hat seinen letzten Dienst getan. Es ist kein Handel, sondern ein Dreischritt: Schenken, Kaufen, Liefern.
+„Vier Jahre?“
 
-Dieser Weg ist langsamer, indirekter und teurer als der erste. Das ist gewollt. Er erzeugt den Druck, den Nachbarn ins Korn-System einzuladen — nicht durch Zwang, sondern durch den Vorteil, den die direkte Verbindung bietet. Und er macht sichtbar, was in einer Welt ohne Korn unsichtbar bleibt: dass jeder Import eine Beziehung ist, nicht eine Transaktion.
+„An diesem einen Haus zwei. Vorher war er lange Assistent. Aber er hat für sich immer wieder Sachen gezeichnet, die aber nie gebaut wurden.“
 
----
+„Aber jetzt ist er an der Reihe. Cool. Er kann was, das kann man sehen. Und Materialien, die er verbauen will, sind super. Wovon hat er in der Zeit gelebt?“
 
-### Eine Erbschaft von 21 Milliarden Franken
+„Ganz normal, Schenkgeld.“ Anton zuckte die Schultern. „Steht auch drin. Zwölf Jahre lang Korn, für das keiner was zurückwollte. Er schreibt einen Satz dazu, den ich mir aufgeschrieben habe: Man kann nicht kreativ werden, während man gleichzeitig beweisen muss, dass man es schon ist.“
 
-## IV. Das Wesen des neuen Geldes
+Jule sah auf den Erker im Foto. „Und jetzt kommt dabei so ein Haus raus.“
 
-Das Korn ist kein Ding. Es ist eine Nachricht.
+„Er hat als Student ein paar Preise gewonnen. Er ist auch einige Jahre in Dubai und Sydney gewesen, aber er wollte einfach seine Dinge in seiner Stadt machen. Und jetzt kommt dabei so ein Haus raus.“
 
-Jede Korn-Einheit sagt: Irgendwo hat ein Mensch etwas hervorgebracht, das ein anderer Mensch braucht. Der Betrag sagt, wie viel. Das Ablaufdatum sagt, wie lange die Nachricht gilt. Die Verwendungsart sagt, in welcher Beziehung die beiden zueinander stehen — Tausch, Zusammenarbeit oder Geschenk.
+„Das ist das Schöne“, sagte Anton. „Er rechnet es einfach vor. Bauzeit ein Jahr. Eine Million Korn. Zehn Parteien wohnen drin, und mit zehn Parteien kriegt man diese Million in fünfzehn Jahren zurück ins Netz. 15 Jahre, da braucht man Korn, das nicht älter ist als drei Jahre. 18 bekommt gerade frische Korn, nicht?“
 
-Das ist keine Metapher. Steiner nennt Geld „fliegende Buchhaltung der Weltwirtschaft." Es bildet ab, was Menschen können und was sie brauchen — und wenn es gut funktioniert, sorgt es dafür, dass beides zusammenfindet. Ein Preis ist dann kein Machtinstrument, sondern eine Nachricht: Hier fehlt etwas. Dort ist etwas da.
+Sie nickte.
 
-Er geht noch weiter und dehnt die Buchhaltung ausdrücklich auf die ganze Weltwirtschaft aus: eine Generalbuchhaltung. Und er sagt dort den Satz, an dem dieses Kapitel und das über den Preis zusammenhängen — in dieser Generalbuchhaltung entstehe der Preis. Auf den Einwand, Gold gäbe doch einen Maßstab, antwortet er: Das könne nicht der Fall sein, und wenn doch, übe es sich in dieser Buchhaltung selbst aus. Das Wesentliche sei, dass der ganze Geldverkehr in eine Führung der Buchhaltung übergehe.
+„Also, ich glaube, ich versuche das. Ich frage meine Assoziation, ob die da mitmachen.“
+
+Leon kam angelaufen und legt ihr eine schöne Vogelfeder auf den Schoß. Sie nahm sie, ohne sie anzuschauen.
+
+„Wie sieht es bei euch aus?“
+
+„Gut.“ Anton grinste kurz. „Sehr gut sogar. Wir hatten ein starkes Jahr, die Obstwiesen im Osten haben geliefert wie lange nicht, wir konnten jede Menge Korn frisch datieren. Der Naturanteil bei Äpfeln ist 70%. Alles Korn mit achtzehn Jahren Restlaufzeit. Ich habe gestern in die Geldtasche geschaut, er ist bei weitem mehr, als wir für unseren Plan brauchen und große Unfälle sind auch nicht passiert. Und der Rest muss ja weg. Der kann ja nicht einfach rumliegen und vor sich hin altern. Warum dann nicht in ein Haus stecken, das um die Ecke ist und einen Mitarbeiter im Team ein Zuhause gibt.“
+
+Er sah sie an. „Ich glaube, ich habe eine gute Chance, dass sie mitgehen. Das sieht cool aus, was der Architekt da vorschlägt.“
+
+„Willst du nach dem ganzen Betrag fragen, eine Million über 15 Jahre?“
+
+„Erst einmal mein Anteil ungefähr. Das ist ja immer die Frage, ob die Assoziation das gibt als freies Geld, das ich ausgeben kann, oder ob sie einfach selbst ein Projekt draus machen und direkt ins Haus investieren. Ich denke eher, dass ich nur meinen Teil bekomme und dass sie das andere überschüssige Korn an ein Lieferanten-Projekt geben oder an den Mitmach-Supermarkt bei uns um die Ecke. Aber das kommt schon zusammen. Fünfzehnjähriges Korn kann ja von überall her kommen.“ Er trank einen Schluck. „Wahrscheinlich wird es sowieso ein Flickenteppich. Ein Stück von uns, ein Stück von den Holzleuten, ein Stück von irgendwoher.“
+
+**„Ich wollte eigentlich weniger melden“**
+
+Jule schwieg eine Weile. Mika war inzwischen vom Klettergerüst geklettert und verhandelte mit einem anderen Kind über die Nutzungsrechte an einer Schaufel. Sie dachte: „Produktionsmittel sind frei. Sie sollen immer in der Hand von dem sein, der sie am besten einsetzen kann. Mal sehen, ob sie herausfinden, wer das ist.“
+
+„Weißt du, was lustig ist“, sagte sie dann und schaute Anton an. „Ich wollte diese Woche sowieso zu meiner Assoziation. Sagen, dass ich weniger brauche.“
+
+„Weniger?“
+
+„Ole arbeitet ja wieder. Seit sechs Wochen, in der Tischlerei an der Bahn, und es läuft gut.“ Sie machte eine Handbewegung, die Leon, den Sandkasten und ungefähr das ganze Leben umfasste. „Die letzten zwei Jahre hing das hier komplett an mir. Er war raus, wegen der Kinder, und was ich bekommen habe, war für vier Leute gerechnet. So ist die Regel ja: du kriegst, was du brauchst, um deine Sache nächstes Jahr wieder machen zu können — du und die, die an dir hängen.“
+
+„Und jetzt hängt er nicht mehr an dir.“
+
+„Jetzt hängt er an seiner Assoziation, zu 60 Prozent und sucht noch für den Rest.“ Jule zuckte die Schultern. „Also gehe ich hin und sage: ein bisschen weniger bitte. Das ist ja keine Großzügigkeit. Es stimmt einfach nicht mehr, wenn ich für vier ansetze.“
+
+„Und ausgerechnet jetzt komme ich mit meinem Telefon, und du bekommst Ideen, verstehe.“
+
+„Und jetzt kommst du mit deinem Telefon.“
+
+Jule drehte den Becher in den Händen. „Ich finde das Projekt gut. Und besser noch, wenn wir in einem Haus wohnen können. Ich gehe morgen hin. Ich sage nur zwei Sätze statt einem.“ Sie hob den Daumen. „Erstens: mein laufendes Korn wird kleiner. Ganz normale Frist, wie immer, wie bei jedem — nur weniger davon, weil ich nicht mehr für vier ansetzen muss.“
+
+Der Zeigefinger kam dazu.
+
+„Zweitens: dazu, extra, obendrauf, brauche ich Korn mit fünfzehn Jahren.“
+
+Er nickte. „Ja, es muss so alt werden können wie das, was daraus wird.“
+
+Sie sah ihn an. „Mit dem Korn, von dem ich morgen Milch kaufe, musst du kein Haus bauen können. Und mit dem Korn, das dein Haus baut, würde ich morgen keine Milch kaufen wollen, das wäre ja Verschwendung.“ Sie hielt kurz inne. „Außer der Mitmach-Supermarkt will selbst was bauen. Dann gebe ich es genau da hin.“
+
+„Die wollen die Kühlung neu machen. Reden seit einem Jahr davon.“
+
+„Na also. Dann wäre es keine Verschwendung, dann wäre es genau richtig.“ Jule zog die Schultern hoch. „Wenn ich das Korn nicht für eine Wohnung brauche.“
+
+„Und im nächsten Jahr fragst du dann nach Korn mit vierzehn Jahren.“
+
+„Und im dritten nach dreizehn, ja, ich habe das Prinzip verstanden.“ Sie schüttelte den Kopf. „Es ist trotzdem jedes Mal seltsam. Es fühlt sich an wie Schulden, und es sind keine.“
+
+„Es sind keine“, sagte Anton. „Du trägst das nicht allein. Du gehst jedes Jahr zu deinen Leuten und sagst: damit ich meine Arbeit weitermachen kann, brauche ich das. Und ich gehe zu meinen. Am Ende sind es zehn Assoziationen, die das Haus tragen, und nicht zehn Leute, die abstottern.“
+
+„Und das Korn kommt älter zurück, als es losgegangen ist.“
+
+„Genau. Was nach einem Jahr zurückfließt, hat noch vierzehn. Damit kann man das nächste Haus mitbauen. Mit fünf eine Werkstatt. Mit zwei eine Maschine, die sich in zwei Jahren rechtfertigt.“ Er stellte den Becher in den Sand. „Es rutscht von den langen Sachen zu den kurzen, ganz von selbst. Das kann gar nicht anders.“
+
+„Und der Zins?“
+
+„Der sitzt arbeitslos zu Hause.“
+
+**Die Rutsche**
+
+„Okay!“, meinte Jule. „Welche Wohnung willst du?“
+
+Anton wischte, ohne zu zögern, zur vorletzten Seite. Eine kleine, zweieinhalb Zimmer, und darüber ein Streifen Dachterrasse, der über die ganze Breite ging.
+
+„Die.“
+
+„Die ist klein.“
+
+„Ich bin einer. Ich brauche keine fünf Zimmer, ich brauche Himmel.“ Er zeigte auf die Fläche. „Da stehen dann Tomaten. Und ein Tisch für vier Leute, falls mal vier Leute da sind.“
+
+„Ja, Dachgarten ist cool.“
+
+Jule nahm ihm das Telefon aus der Hand und blätterte zurück, ganz nach vorn, zum Erdgeschoss. Zwei große Fenster zur Straße, tief runtergezogen, fast bis zum Boden. Dahinter ein Raum, in den man Fahrräder stellen könnte oder ein Klavier oder beides.
+
+„Das hier könnte für mich sein.“
+
+„Unten? An der Straße?“
+
+„Anton.“ Sie tippte auf das linke Fenster. „Guck dir das an. Da geht dann eine Rutsche raus.“
+
+„Eine was?“
+
+„Eine Rutsche. Aus dem Fenster auf den Gehweg. Man macht das Fenster auf, das Kind setzt sich rein, wusch, unten steht es auf dem Bürgersteig und geht zur Schule.“ Sie sagte es vollkommen ernst.
+
+„Das lässt der Architekt dir nie durchgehen.“
+
+„Der Mann hat zwölf Jahre Schenkgeld bekommen, damit er sich Sachen ausdenkt, die es noch nicht gibt.“ Jule gab ihm das Telefon zurück. „Der wird mit einer Rutsche umgehen können.“
+
+Auf dem Rückweg gingen sie den Umweg, zwei Straßen weiter, und blieben an der Ecke stehen. Das Haus stand da, wie es seit hundertzwanzig Jahren dastand, mit den Brettern unten und dem Erker oben und der Kastanie davor, die auf dem Plan eingezeichnet war.
+
+Mika fragte, was sie da machen.
+
+„Wir gucken uns was an“, sagte Anton.
+
+Jule sagte nichts. Sie sah auf das linke Fenster im Erdgeschoss und rechnete nach, wie hoch das über dem Gehweg war, und ob das für eine Rutsche reichte.
+
+Es reichte.
+
+Dann entdeckte sie das Schild neben der Eingangstür. Ein Blatt in einer Klarsichthülle, mit Kabelbindern an den Handlauf gebunden, vom letzten Regen schon wellig. *Kennenlerntag für alle, die hier wohnen wollen. Donnerstag, 17 Uhr, im Hof. Bringen Sie Fragen mit.*
+
+Sie zeigte drauf.
+
+„Gehen wir übermorgen zusammen zum Kennenlerntag. Ich will den Architekten mal kennenlernen.“
+
+„Ich bin schon angemeldet“, sagte Anton.
+
+„Natürlich bist du das.“
+
+### Die Lieferung - Chaos im Mitmach-Supermarkt
+
+Fünf Studenten hatten vor nun 20 Jahren diesen Mitmach-Supermarkt aufgebaut. 3000 Menschen kaufen dort regelmäßig ein, und fast jeder machte alle vier Wochen eine Dreistunden-Schicht. Vordergründig um die Personalkosten niedrig zu halten, aber in Wirklichkeit, weil die Schichten in aller Regel cool Treffen mit wachen, hilfsbereiten und netten Leuten waren, und weil man anders mit einer Sache verbunden ist, wenn man dort mitarbeitet.
+
+Der Supermarkt hatte nach der großen Währungskrise die Umstellung auf Korn von Anfang an mitgemacht. Er war zwar nicht ein „Naturbetrieb“ geworden, der Korn auffrischen konnte, aber er hatte jede Menge Lieferanten, die das konnten. Und so war es noch nicht einmal vorgekommen, dass altes Schenkgeld nicht angenommen wurde. Manchmal war jemand noch kurz vor Mitternacht zu einem Bauern herausgefahren, um für am nächsten Tag verfallendes Schenkgeld Kartoffeln zu kaufen.
+
+Er lief gut. Durch die globale Finanzkrise war viel zu wenig Geld im Umlauf. Es gab genug Lebensmittel und die meisten anderen Waren, aber es gab nicht genug Geld. Die Banken stoppten die Auszahlungen, weil sie aufgrund der verrückten Forderungen des Finanzmarkts alles aufbringen mussten, um nicht in den Sog und damit in die Zahlungsunfähigkeit gesaugt zu werden. Sie hielten sich gerade so über Wasser, mehr ging nicht. Deswegen waren die Geldautomaten leer und man konnte auch kein Geld überweisen. „Kurzfristig gesperrt" stand bei vielen Funktionen, die sonst völlig normal und alltäglich waren.
+
+Und da kam das erste Korn-Netzwerk ins Spiel, das schon fünf Jahre auf dem Buckel hatte. Viele Naturbetriebe hatten sich angeschlossen — nicht nur, weil ein Korn-Netzwerk zunächst die lebensnotwendigen Dinge braucht, sondern weil neues Korn nur dort entstehen kann, wo ein Naturprodukt in die Arbeit übergeht. Ohne Naturbetriebe kein Geld.
+
+Die Clearingstelle, über die man Produktionsmittel aus dem Euro-Raum hereinholen konnte, hatte in ihren ersten drei Jahren zwanzig Millionen Euro bewegt. Das lag zum einen an drei Großschenkungen von Leuten, die mit Open-Source-Software ein Vermögen gemacht hatten und zurückgeben wollten, zum anderen daran, dass draußen immer öfter Menschen mit Euro überschüssige Waren aus dem Kornraum kaufen wollten. Dabei ging nie eine Geldeinheit über die Grenze. Waren gingen hinaus, Produktionsmittel kamen herein, und die Stelle konnte nach innen nur so viel Korn weitergeben, wie vorher jemand für einen Import bei ihr eingezahlt hatte. Sie schöpfte nichts. Sie glich ab.
+
+Geschenkt bekam sie nichts. Wer ein Produktionsmittel wollte, brachte Korn für dieses eine Produktionsmittel, und die Stelle sah zuerst auf das Alter. Eine Maschine, die zwölf Jahre arbeiten würde, war mit zweijährigem Korn nicht zu haben, auch nicht mit doppelt so viel davon. Wie viel Restlaufzeit wofür genügt, war eine der Fragen, an denen die Korn-Assoziationen der einzelnen Gebiete in diesen Jahren am längsten saßen.
+
+Und was an Euro liegen blieb, blieb nicht liegen. Man hatte der Stelle von Anfang an eine Frist mitgegeben, die der Euro selbst nicht hat: Was über den absehbaren Importbedarf der nächsten Jahre hinausging, wurde verschenkt, nach Regel und nicht nach Beschluss. Vorzugsweise an Open-Source-Projekte draußen.
+
+Und an diesem Morgen passierte etwas überraschendes: Ein großer landwirtschaftlicher Betrieb hatte aufgegeben. Er hatte morgens um 6 Uhr bei dem Mitmach-Supermarkt angerufen und seinen gesamten Lagerbestand für einen Euro zum Verkauf angeboten. Er hatte mit diesem Anruf Ludger im Bett erwischt und der hatte verschlafen geantwortet: „Klar nehmen wir das. Aber warum alles an uns?“ „Ich schicke als nächstes die Konkursanzeige raus. Und dann wir alles gesperrt. Und mit euch hatte ich einmal einen Vertrag gemacht, dass ihr überschüssige Ware für einen Euro bekommt, bevor sie schlecht wird. Und jetzt ist alles überschüssig. Und ich mag euer Projekt und Korn sehr gerne. Es sind etwa vier Lastwagen voll.“ Ludger nickte und wollte sagen, dass das doch zu viel sei, aber dann sagte er es nicht, sondern: „Ja, wir schicken die Lastwagen.“ Der Landwirt legte auf. Ludger bat die anderen Mitglieder der Assoziation um ein dringendes Zoom-Treffen um acht Uhr. 
+
+„Das ist kein Kornbetrieb, das geht nicht so einfach!“, meinte Frank. 
+Ludger: „Meinst du wir bekommen an der Clearingstelle den einen Euro nicht?“
+Anita: „Ja, ich denke, das wird kein Problem. Schwieriger wird sicherlich alles loszuwerden.“
+Ludger: „Ich fahre raus und nehme das ganz normal in unseren Bestand. Dann sehen wir automatisch, wo wir zuviel haben. Und dann können wir einen Aufruf über Slack machen und das über unsere Mitglieder verteilen. Der Berliner Tisch nimmt sicherlich auf etwas.“
+Anita: „Das war kein Kornbetrieb. Wir kennen für ihn die Aufteilung nicht — Arbeit und Lebensunterhalt, Produktionsmittel, Vorleistungen, Anteil fürs Weiterkommen. Und die Entfernung kennen wir für nichts davon. Ohne die Angaben können wir das nicht in unser System nehmen.“
+Ludger: „Wir schätzen erst einmal. In den nächsten Wochen können wir das dann grade ziehen.“
+Anita: „Vier Lastwagen schätzen.“
+Ludger: „Vier Lastwagen schätzen.“
+Frank: „Und woher nehmen wir um acht Uhr fünfundzwanzig vier Lastwagen?“
+
+**Neun Uhr**
+
+Sie nahmen drei. Der vierte war eine Spedition aus dem Netzwerk, die zusagte, aber erst ab zwei. Ludger fuhr voraus, und als er in den Hof einbog, stand der Landwirt schon da, mit einer handgeschriebenen Liste auf einem Klemmbrett, und die Liste war zwei Seiten lang. Elf Paletten Zwiebeln. Achthundert Kilo Möhren. Vier Kubikmeter Kartoffeln, teils gewaschen, teils nicht. Rapsöl in Kanistern. Sechzig Laibe Käse in einem Reifekeller, der um achtzehn Uhr versiegelt würde. Zwei Tonnen Saatgetreide. Neun Kisten Eier von heute.
+
+Ganz unten, in anderer Schrift, als wäre es später dazugekommen: *Und die Hühner.*
+
+Ludger sah hoch. „Was für Hühner?“
+
+„Vierhundertzwölf.“ Der Landwirt schaute an ihm vorbei auf den Stall. „Lebend. Der Verwalter kann vieles versiegeln, aber ein Tier muss jemand füttern. Wenn sie um achtzehn Uhr noch hier sind, sind sie ein Problem, das keiner haben will.“
+
+„Wir sind ein Supermarkt.“
+
+„Ihr seid ein Mitmach-Supermarkt“, sagte der Landwirt.
+
+**Elf Uhr**
+
+Der Käse war das erste, was nicht aufging. Sechzig Laibe wollen kühl stehen, und im Laden gab es zwölf Meter Kühlregal und zwei Kühlräume, in dem an einem normalen Dienstag schon zu wenig Platz war. Die Spedition, die um zwei kommen sollte, hatte einen Kühlwagen, aber der Kühlwagen kühlte seit dem Frühjahr nur noch auf neun Grad, was für Bier reicht und für nichts sonst. Anita saß zu Hause vor zwei Bildschirmen und telefonierte einen Metzger, eine Kita und ein Restaurant durch, das seit vier Jahren in Korn abrechnete, und der Restaurantkoch sagte: „Ich habe Platz für zwanzig Laibe und keinen Anlass, zwanzig Laibe zu verarbeiten.“
+
+Anita: „Den Anlass suchen wir noch.“
+
+Verladen wurde ohne Rampe. Die Hühner kamen zuletzt, in Kisten, die für Hühner gebaut waren und für dreißig Jahre Gebrauch nicht mehr.
+
+**Halb eins**
+
+Der Laden hat keinen Hof. Er hat einen Parkplatz mit sieben Stellplätzen und eine Zufahrt, die für einen Lieferwagen gedacht ist. Der erste Lastwagen setzte zurück, der zweite wartete auf der Straße, und der dritte stand in zweiter Reihe vor der Apotheke. Der Hubwagen mit den Zwiebeln sank in den Kies ein und stand.
+
+Dann brach die dritte Hühnerkiste.
+
+Es waren, wie sich später herausstellte, nur elf Tiere, aber elf Hühner auf einem Parkplatz sehen aus wie sechzig, und Hühner laufen nicht weg, sie laufen hinein. Die automatische Tür machte, wofür sie gebaut ist. Ein Huhn saß binnen zwei Minuten auf der Kassenwaage, die 2,1 kg anzeigte und darauf wartete, dass jemand die Produktgruppe wählt. Eines stand in den Haferflocken, eines lief den Gang mit den Nudeln hoch und runter, als suche es etwas Bestimmtes, und eines ging in den offenen Kühlraum und wollte nicht mehr heraus, was der Einzige war, für den man Verständnis hatte.
+
+Eine Frau aus der Vormittagsschicht, die eigentlich Regale einräumte, machte ein Foto von dem Huhn auf der Waage und stellte es in Slack.
+
+**Zwei Uhr**
+
+Der Kanal hatte dreitausend Mitglieder. Das Foto hatte innerhalb einer halben Stunde zweihundert Reaktionen und, was schlimmer war, achtzig Menschen, die schrieben: *Ich komme.*
+
+Sie kamen. Sie kamen mit Fahrradanhängern, mit Bollerwagen, mit einem Lastenrad, in dem sonst zwei Kinder sitzen, und zwei kamen mit einem Kombi und der ehrlichen Absicht zu helfen. Die Zufahrt war um Viertel nach zwei dicht, die Straße um halb drei, und um Viertel vor drei stand ein Mitarbeiter des Ordnungsamts auf dem Parkplatz und sagte den Satz, den man in solchen Lagen sagt, nämlich dass das hier so nicht gehe. Ludger gab ihm recht. Das entwaffnete ihn kurz, aber nicht lange.
+
+Der Berliner Tisch schrieb, er nehme zwei Paletten Möhren und die Kartoffeln, aber keine lebenden Tiere, unter keinen Umständen, das sei mehrfach besprochen worden.
+
+**Vier Uhr**
+
+Anita hatte inzwischen den Bestand offen und war bei Position 34 von 60. Jede Position will vier Angaben: Arbeit und Lebensunterhalt, Produktionsmittel, Vorleistungen, Anteil fürs Weiterkommen. Dazu die Entfernung. Sie hatte für nichts davon Zahlen, sie hatte einen Landwirt am Telefon, der aus dem Kopf schätzte, während er seinen Reifekeller ausräumte, und sie hatte eine Eingabemaske, die für „Huhn, lebend“ keine Produktgruppe kannte. Sie legte es unter *Sonstiges, lebend* an und trug bei Haltbarkeit acht Jahre ein, weil ein Huhn acht Jahre alt wird, und merkte im selben Moment, dass sie damit gerade ein Tier als Dauergut in einen Warenbestand geschrieben hatte, und ließ es trotzdem stehen.
+
+Frank rief an. Frank hatte gerechnet.
+
+„Ludger. Wir haben das für einen Euro gekauft.“
+
+„Ich weiß.“
+
+„Wenn wir das zu unseren Preisen in den Laden stellen, machen wir daraus einunddreißigtausend Korn. Für einen Euro und drei Lastwagen.“
+
+Ludger stand zwischen zwei Paletten Zwiebeln und sah zu, wie zwei Leute versuchten, ein Huhn mit einem Wäschekorb zu fangen. „Und?“
+
+„Und unsere Kostenrechnung ist öffentlich“, sagte Frank. „Jeder kann nachsehen, woraus ein Preis bei uns entsteht. Und da steht dann: Einkauf ein Euro, Preis einunddreißigtausend. Das ist kein Preis. Das ist eine Behauptung.“
+
+Es war still in der Leitung. Es war der Moment, in dem die Sache kippte, und beide merkten es.
+
+„Dann dürfen wir es nicht verkaufen“, sagte Ludger.
+
+„Nein“, sagte Frank. „Dürfen wir nicht.“
+
+„Dann verschenken wir es.“
+
+„An dreitausend Mitglieder? Das isst die Straße nicht auf, bevor es schlecht wird.“
+
+**Sechs Uhr**
+
+Draußen war es inzwischen auch angekommen. Nicht nur in Slack — in der Straße. Vor dem Laden standen Leute, die keine Mitglieder waren und nie welche gewesen waren, die Nachbarin aus dem Haus gegenüber, zwei Handwerker, eine Familie, die zufällig vorbeikam, und sie alle wollten dasselbe: Möhren, Käse, und, in mindestens vier Fällen, ein Huhn. Und sie hielten Euro in der Hand.
+
+Und an dieser Stelle steht die Regel, die man nicht biegt: Waren dürfen die Grenze überqueren, Geld nicht. Niemand kauft sich in Korn ein. Wer Korn gegen Euro verkauft, ist am nächsten Tag kein Mitglied mehr.
+
+Anita sagte es im zweiten Zoom des Tages, um zehn nach sechs, in einem Satz: „Wir machen ein Fest.“
+
+Frank: „Wir machen was?“
+
+Anita: „Ein Fest. Samstag. Alles kommt auf Tische. Es wird nichts verkauft, es wird gekocht und ausgegeben. Und am Eingang stehen zwei Tische.“
+
+Frank: „Warum zwei?“
+
+Anita: „Weil sie nichts miteinander zu tun haben dürfen.“
+
+**Samstag**
+
+Sie hatten die Straße. Der Mann vom Ordnungsamt hatte am Donnerstag eine Sondernutzung ausgestellt und am Samstag zwei Hühner mit nach Hause genommen, in einem Karton, auf dem *Rapsöl 5 l* stand.
+
+Der Restaurantkoch hatte seinen Anlass bekommen und stand seit sechs Uhr morgens über zwanzig Laiben Käse. Vierzig Meter Tapeziertisch, geliehen aus drei Kirchengemeinden und einem Sportverein. Zwei Feuerschalen. Kartoffeln in Mengen, die man nicht mehr in Kilo denkt, sondern in Kubikmetern. Möhren roh, Möhren geschmort, Möhrenkuchen, weil eine Frau aus der Donnerstagsschicht beschlossen hatte, dass es Möhrenkuchen geben müsse, und dreihundert Stück gebacken hatte. Jemand hatte ein Klavier auf den Gehweg gestellt. Es kamen elfhundert Menschen.
+
+Am ersten Tisch stand eine Holzkiste mit Schlitz. Wer wollte, gab Euro hinein, und das Geld ging an die Clearingstelle. Es blieb draußen, wo es hingehört: Was die Kiste einnahm, konnte die Stelle später an Produktionsmitteln hereinholen. Waren gingen hinaus — als Abendessen, in Bäuchen, in Körben. Geld ging nicht hinein. Die Stelle schöpfte nichts. Sie glich ab.
+
+Am zweiten Tisch standen zwei Laptops und vier Leute, die erklärten. Dort trat man ein. Eintritt kostete nichts, denn Mitgliedschaft ist nicht käuflich; sie kostete eine halbe Stunde Zuhören und eine Unterschrift unter vier Regeln, von denen die vierte lautet, dass man Korn nicht verkauft. Und wer eingetreten war, bekam sein erstes Kornpaket: bemessen am Produktstrauß dieses Gebiets, dem, was die Region an Grundnahrungsmitteln und Grundproduktionsmitteln hervorbringt, zusammengefasst und in Korn ausgedrückt. Ein Strauß, eine Woche. Junges Korn, zweijähriges. Man konnte davon Milch kaufen und kein Haus bauen, und das war genau die Absicht.
+
+Zwischen den beiden Tischen war keine Linie, die man hätte ziehen können, und darauf hatte Anita bestanden. Niemand fragte am zweiten Tisch, ob jemand am ersten etwas gegeben hatte. Man konnte nichts in die Kiste tun und trotzdem eintreten. Man konnte zweihundert Euro in die Kiste tun und wieder nach Hause gehen. Hätte das eine am anderen gehangen, wäre es ein Verkauf von Korn gegen Euro gewesen, und der Laden wäre am Montag kein Mitglied mehr gewesen. Frank hatte vorhergesagt, dass dann die Hälfte nichts gibt.
+
+In der Kiste waren am Ende neuntausendvierhundert Euro.
+
+Dreihundertachtzig Menschen traten an diesem Abend ein. Von den vierhundertzwölf Hühnern gingen dreihundertneunundneunzig weg, meist zu zweit, in Kartons, Weinkisten und einem Kinderwagen; dreizehn blieben, weil sie sich hinter dem Altglascontainer versteckt hatten und niemand mehr Kraft hatte. Der Käse war weg. Das Saatgetreide war weg, das war das Erste, was weg war, weil Saatgetreide unter Leuten, die verstanden haben, wie Korn entsteht, das begehrteste Ding auf so einem Tisch ist.
+
+Der Landwirt saß gegen zehn an einem der Tapeziertische, mit einem Teller Kartoffeln, und hörte einer Frau zu, die ihm erklärte, wie das mit dem Auffrischen funktioniert, ohne zu wissen, wer er war. Später ging er zum zweiten Tisch, hörte die halbe Stunde zu, unterschrieb die vier Regeln und bekam sein erstes Kornpaket, bemessen am Produktstrauß der Region, in der sein Hof lag, der seit achtzehn Uhr am Mittwoch versiegelt war. Er nahm zwei Hühner mit.
+
+**Montag**
+
+Anita zog die Schätzungen gerade. Es dauerte drei Wochen und nicht die vier, die sie befürchtet hatte, und zwei Positionen ließen sich nie klären; sie blieben als Schätzung im Bestand stehen, sichtbar als Schätzung, was der einzige ehrliche Umgang damit war.
+
+In der Post der Assoziation lag ein Antrag auf Anerkennung als Naturbetrieb. Betriebsgröße: zwei Hühner. Standort: Balkon, zweiter Stock, Südseite. Die Assoziation lehnte ab und schrieb drei Sätze dazu, warum, und der Antragsteller stellte den Brief gerahmt in sein Fenster.
+
+Von den neuntausendvierhundert Euro holte die Clearingstelle im November eine gebrauchte Kühlanlage aus dem Euroraum herein. Sie steht jetzt im Keller des Mitmach-Supermarkts und hält den Kühlraum auf zwei Grad. Sie ist das Einzige an diesem ganzen Vorgang, das genau das Problem gelöst hat, das um elf Uhr an jenem Mittwoch als erstes nicht aufgegangen war.
+
+Mika kam am Samstagabend mit einem Huhn nach Hause. Es hieß von da an Kastanie, wie der Baum vor dem Haus, in das sie ziehen wollten, und Jule stellte nur die eine Frage, ob ein Huhn eine Rutsche benutzen könne.
+
+### Der Wunderkoch - eine Parabel darüber, was Geld eigentlich ist
+
+Es gab einen Koch, den nannten alle nur den Wunderkoch. Nicht, weil er zauberte. Sondern weil die Leute nach seinen Essen still wurden und nicht genau sagen konnten, warum.
+
+Eines Tages kam eine Einladung. Ein Reeder wollte auf seinem Schiff ein Bankett geben, ein Buffet für zweihundert Gäste. Der Auftrag war schlicht: So gut, wie du nur kannst. Ein Jahr Zeit.
+
+Der Wunderkoch sagte zu. Er stellte nur eine Bedingung: Er wollte von jedem Gast ein kleines Dossier. Woher er kommt. Was er im Leben macht. Wie sein Leben bisher war. Was ihm zugestoßen ist und was er daraus gemacht hat.
+
+Der Gastgeber lachte, hielt es für eine Marotte — und ließ die Mappen anfertigen.
+
+**Neun Monate über den Mappen**
+
+Neun Monate saß der Wunderkoch über diesen Papieren. Er las, und wenn ihm etwas fehlte, schickte er seinen Assistenten los, der trug nach, was aufzutreiben war. Manchmal war es eine Kleinigkeit: dass einer als Kind auf einem Hof aufgewachsen war. Dass eine ihre Mutter früh verloren hatte. Dass einer nie satt geworden ist, obwohl immer genug da war. Am Ende hatte er ein Bild. Nicht von zweihundert Namen, sondern von zweihundert Menschen.
+
+Dann fing er an zu planen. Und das machte er nicht mit dem Kopf. Er machte es aus dem Gefühl, aus den vielen Jahren, in denen er gekocht und dabei seine Gäste kennengelernt hatte. Bei einigen spekulierte er. Er wusste das. Und er hatte seinen Spaß daran, die Dinge nicht zu genau zu machen.
+
+**Das Bild vom Buffet**
+
+Was am Ende vor ihm stand, war kein Menü, sondern ein Bild: ein riesiges Buffet in Gängen, das sich über den Abend verwandeln würde. Etwas würde verschwinden, anderes würde nachwachsen. Es sollte atmen.
+
+Jetzt suchte er sich die Köche zusammen — die, die genau das können würden, was er sich vorgestellt hatte. Mit ihnen ging er beides durch: die Menschen und die Speisen. Wer kommt. Was nach und nach erscheinen soll. In welcher Reihenfolge.
+
+Drei Tage vor dem Ereignis begannen sie einzukaufen. Auf Märkten, bei Höfen, bei Leuten, die sie kannten. Es wurde gefeilscht und geflucht und wieder gut gemacht.
+
+Alles, was sie in ihre Kisten legten, hatte vorher gelebt oder gestanden. Der Fisch war geschwommen. Der Weizen hatte ein Jahr lang auf einem Feld gestanden und dabei Regen abbekommen und Trockenheit. Das Lamm hatte einen Namen gehabt, den auf dem Markt niemand mehr wusste.
+Dann lief das Schiff in den Hafen ein. Das Kochteam ging an Bord und hatte vierundzwanzig Stunden. Zwei kamen noch dazu, die nur für das Aussehen zuständig waren: dass das Buffet sinnvoll zugänglich ist, dass es sich wandeln kann, dass es geschmückt ist, ohne sich wichtig zu machen.
+
+**Der Abend**
+
+Am Abend sprach zuerst der Gastgeber. Dann der Koch. Nicht lang. Gerade so, dass die meisten Lust bekamen, das alles zu probieren.
+Er sagte kein Wort davon, dass er sie studiert hatte. Kein Wort davon, dass er neun Monate lang überlegt hatte, was für wen auf diesen Tisch kommt. Die Leute schauten mit glänzenden Augen auf das Buffet. Dann setzte die Musik ein, und das Buffet war eröffnet.
+
+Und dann, dann stürzten sie sich darauf. Es wurde eine Materialschlacht. Leute drängten, Leute räumten ab. Etwas fiel zu Boden. Einer hatte viel zu viel auf dem Teller und ließ die Hälfte liegen. Einem wurde schlecht. Manche bekamen nicht genug von dem, was sie wollten, weil ein anderer es leer gemacht hatte — einer, dem es gar nichts sagte, der es nur nahm, weil es gerade dastand. Denn das Buffet war nicht übermäßig voll. Es war genau auf die Anwesenden berechnet, vielleicht einen Tick mehr. Aber genug für alle — aber nur, wenn jeder das genommen hätte, was für ihn da war. Es passierte alles, was man sich vorstellen kann. Und es passierte tatsächlich.
+
+**Danach**
+
+Danach sah es aus wie nach einer Schlacht. Die Leute räumten auf. Was an diesem Abend in die Kübel ging — von den Tellern gekratzt, vom Boden aufgesammelt, angebrochen und stehengelassen —, hätte die Mannschaft des Schiffes drei Tage lang satt gemacht.
+
+Der Vizekoch kam zu ihm, schaute ihn traurig an und sagte: „Wir haben so viel Aufwand und Liebe da reingesteckt. In jedes einzelne Ding. Und sie haben es einfach verschlungen. Jeder hat genommen, so viel er wollte.“
+
+Der Wunderkoch nickte. Er schaute in den leeren Saal und sagte: „Ich bin ganz zufrieden damit, wie es ausgegangen ist. Eigentlich wollte ich diesen Auftrag gar nicht annehmen. Schiffsbuffets sind oft so. Aber dann kam mir etwas. Mich hat interessiert, wie es den Göttern dabei geht:
+Sie geben uns Menschen die Fähigkeiten und die Talente, die wir entwickeln können. Und allen zusammen genau die Fähigkeiten und Talente, die jeder braucht, um die Bedürfnisse aller anderen zu erfüllen. Es ist ein wunderbares Netzwerk aus Fähigkeiten und Bedürfnissen, eines ins andere gepasst. Es ist immer genug für alle da. Es ist genau abgemessen.
+
+Und dann, kommt der Egoismus dazwischen. Das ist der Mensch, und mir geht es gut damit. Es ist der Mensch auf dem Weg.“
+
+Er schwieg. Der Vizekoch schaute ihn an.
+
+Dann meinte er zum Vizekoch: „Ich denke, den Göttern geht es ein wenig genauso, wie uns heute. Und das wollte ich einmal erfahren.“
+
+Der Vizekoch schaute ihn erstaunt an: „Ja! Fähigkeiten, Bedürfnisse, du meinst — das Buffet, das waren die Fähigkeiten. Für alles, was wir brauchen, bietet das Leben uns Menschen, die uns das geben können, nur a) wissen wir nicht so recht, was wir wirklich brauchen und b) ...“
+
+„... haben wir nicht das Vertrauen, dass da jemand draußen ist, der uns das geben kann. Genau!“
+
+„Und deswegen nehmen wir, was wir bekommen, und auch eher mehr davon.“ 
+
+
+## IV. Korn, das neue Geld
+
+Ein Korn ist kein Ding. Und auch keine Vereinbarung. Es ist eine Nachricht. Wer eines hat, hat es bekommen, weil er seine Fähigkeiten eingesetzt hat — oder weil er lebt und etwas braucht. Steiner nennt Geld die fliegende Buchhaltung der Weltwirtschaft, und er meint es wörtlich: Das Geld *ist* die Buchhaltung, nicht das, was man dazu aufschreibt. Eine Zahlung wird nicht anschließend verbucht. Sie ist die Buchung, und sie wandert von einem Ort zum nächsten. In einer dreigliedrigen Gesellschaft gehört sie allein der Wirtschaft an; das Rechtsleben hat an ihr keinen Anteil.
+
+**Fähigkeit**
+
+Zwei Strömungen laufen durch diese Buchhaltung, von entgegengesetzten Seiten. Die eine geht von der Natur aus: Arbeit wird an einem Naturprodukt aufgewendet, und dabei entsteht Wert — sie verteuert. Die andere kommt vom Geist: Eine geistige Leistung ist so viel wert, wie sie an Arbeit erspart — sie verbilligt.
+
+Fähigkeit ist in beiden. Sie steht nur verschieden darin. Wer arbeitet, bringt sein Können in die Arbeit hinein — es steckt in ihr, und am Ende steckt es im Produkt. Wer etwas erdacht hat, hält sein Können der Arbeit entgegen: Es steht neben ihr und macht sie überflüssig. Dieselbe Fähigkeit also einmal in der Arbeit, einmal gegen sie.
+
+Und weil in beiden Fällen Arbeit vorkommt, hat man etwas Vergleichbares in der Hand. Erst dadurch lassen sich die Dinge überhaupt zueinander in Beziehung setzen. Man kann nicht fragen, wie viele Nüsse eine Kartoffel wert ist; die Dinge haben in Wirklichkeit kein Verhältnis zueinander. Ein Verhältnis hat nur, was an ihnen getan oder durch sie erspart wurde.
+
+Rein tritt keine der beiden Seiten auf. Wer beim Brombeerpflücken die bessere Stelle findet, hat schon etwas erdacht und erntet in derselben Zeit mehr; und auch der Maler muss den Pinsel in die Hand nehmen. Jeder wirkliche Fall liegt dazwischen und neigt nur zu der einen oder der anderen Seite. Deshalb, sagt Steiner, lassen sich diese Dinge nicht sauber quantitativ fassen, sondern nur im Geschehen — die Begriffe müssen in Bewegung bleiben.
+
+**Bedürfnis**
+
+Bis hierher sah es aus, als läge der Wert in der Fähigkeit. Er liegt aber nicht in ihr. Eine Fähigkeit, die niemand braucht, erspart niemandem Arbeit und hat volkswirtschaftlich keinen Wert — nicht weil sie geringer wäre, sondern weil es nichts gibt, woran sie sich bemisst. Gäbe es keinen Bedarf an Unterricht, müsste der Lehrer selbst auf dem Feld stehen, und die Frage nach dem Wert seines Unterrichts käme gar nicht auf.
+
+So sind Bedürfnisse die Grundlage dafür, dass Fähigkeiten überhaupt etwas wert sind. Das macht Bedürfnisse zum dem großen Geschenk, das man bekommen kann, wenn man Fähigkeiten hat. Das ist die Triebfeder der Zusammenarbeit, der Kern der Brüderlichkeit im Wirtschaftsleben. Bedürfnisse sind der eigentliche Schatz der Gesellschaft.
+
+Der Wert entsteht also nicht bei den Fähigkeiten, aber auch nicht bei den Bedürfnissen, sondern zwischen ihnen. Das Geld bildet ab, was Menschen können und was sie brauchen, und wenn es gut arbeitet, sorgt es dafür, dass beides immer wieder zusammenfindet. Das ist seine ganze Aufgabe.
+
+**Preis**
+
+Der Punkt, an dem es zusammenfindet, an dem es das harmonische Gleichgewicht bildet, dass heute in der Weltwirtschaft alle Menschen miteinander verbindet, ist der Preis. Steiner fragt, wo die beiden Strömungen sich ausgleichen, und antwortet: In der Buchhaltung der ganzen Wirtschaft heben sie sich gegeneinander auf, und genau dort entsteht der Preis. Er wird also nicht gesetzt, nicht ausgehandelt und nicht von außen gemessen. Er ist das Abbild eines wunderbares Netzwerks aus Fähigkeiten und Bedürfnissen in der Menschheit.
+
+Wenn man den Preis mutwillig setzt, nach oben oder nach unten, dann verzerrt man diese Harmonie. Der Preis ist nichts, was man in der Wirklich setzen kann. Man muss ihn berechnen. Die einfach Formel lautet: "Der Preis muss so hoch sein, dass die beteiligten Menschen die gleich Ware oder Dienstleistung wieder erbringen können."
+
+Damit hört der Preis auf, ein Machtinstrument zu sein, an dem sich nach oben oder unten drehen lässt.
+
+**Geldbasis**
+
+Auch Geld und Macht werden in einer dreigliedrigen sozialen Ordnung voneinander getrennt. Der Dollar und der Euro sind so genannte Fiat-Währungen. Das Wort kommt aus dem Lateinischen und heißt „es werde" — es bezeichnet Geld, das gilt, weil es für gültig erklärt wurde. Seine Grundlage ist kein Gold in einem Keller, sondern eine Anordnung: Der Staat bestimmt es zum gesetzlichen Zahlungsmittel, jeder muss es als Zahlung annehmen, und Steuern lassen sich in nichts anderem entrichten. Wer es nicht will, muss trotzdem.
+
+Damit steht die Deckung dieses Geldes dort, wo sie nach der Dreigliederung am wenigsten hingehört: bei der Macht. Nicht die Wirtschaft trägt es, sondern das Recht — und zwar nicht, indem es Verträge sichert, sondern indem es Geltung verordnet. Politik und Recht haben in diesem System nicht nur Anteil an der Verwaltung des Geldes; sie sind seine Grundlage.
+
+Das Korn hat seine Grundlage in der Wirtschaft selbst. Es entsteht, wo ein Naturprodukt in die Arbeit übergeht, und es gilt, solange dieser Übergang trägt. Niemand muss es annehmen. Es gilt nicht, weil es angeordnet wurde, sondern weil dahinter etwas gewachsen ist. Man kann es nur gegen reale Werte tauschen, etwas, was menschliche Arbeit enthält, nicht Gold oder anderes Geld, Wertpapiere, Rechte.
+
+Damit hört das Geld auf, ein Machtinstrument zu sein, das man horten kann, an das man Bedingungen knüpfen kann.
+
+**Lebensdauer**
+
+Das neue Geld, Korn, bildet das nach, was zwischen Menschen an Waren fließt. bzw. das, was als menschliche Arbeit darin enthalten ist. Die Waren haben aber eine Eigenschaft, die Geld nicht ohne weiteres hat und was die Harmonie von Geben und Nehmen auf Dauer verzerren kann: Waren sind nicht unbegrenzt haltbar. Korn hängt an dem Wachstum von Naturprodukten, diese altern, und deswegen muss Korn auch altern.Jede Einheit Korn trägt ein Ablaufdatum, das sagt, wie lange die Nachricht gilt. Das führt auch dazu, dass Menschen, die sehr viel Geld haben, nach einiger Zeit doch wieder ihre Fähigkeiten für andere einsetzen müssen und arbeiten, in einem Korn-Währungsraum hat selbst ein Multimillionär nach so und so vielen Jahren, wenn er nicht arbeitet, wieder Null.
+
+**Geldmenge**
+
+Auch die Menge wird nicht gesetzt. Die vertraute Antwort auf die Frage nach einem Maßstab war ursprünglich Gold. Aber Gold ist ein Ding wie andere Dinge; dass es viel wert ist, beruht darauf, dass Menschen sich darauf geeinigt haben, und man kann diese Übereinkunft aufkündigen. Beim Weizen gibt es nichts aufzukündigen. Niemand kann sich darauf einigen, ihn nicht zu brauchen.
+
+An diesem Nicht-Aufkündbaren hängt die Geldmenge in zwei Gliedern. Die Existenzgrundlage ist das Recht darauf: Jedem Bewohner steht zu, was er zum Leben braucht — geschöpft, nicht umverteilt. Das ist das Volumen, das der Kreislauf braucht, um überhaupt zu laufen, Zahl der Menschen mal diesem Recht, und es ändert sich langsam. Das Mehr ist das, was darüber hinausgeht, und dafür steht das Portfolio: die Liste der Naturerträge und Grundproduktionsmittel eines Gebiets. Korn entsteht dort, wo eines davon in die Arbeit übergeht. Dazu ein einziges Maß, überall gleich: so und so viel Korn je Einheit dessen, was in die Arbeit übergeht. Die Region entscheidet, was in ihr Portfolio gehört; gerechnet wird nach demselben Maß.
+
+Die Geldmenge ist damit nicht festgesetzt, sondern angebunden — unten an die Menschen, die zu leben haben, oben an das, was die Natur hergibt. Jede Einheit zeigt auf etwas, das man benennen kann. Gold zeigte auf eine Übereinkunft.
+
+
+----------
+
+**Portfolio und Maß**
+
+Im Korn steht dafür zweierlei. Das Portfolio sagt, was ein Posten bedeutet: die Liste der Naturerträge und Grundproduktionsmittel eines Gebiets. Korn entsteht nur dort, wo eines davon in die Arbeit übergeht, und jede Einheit zeigt damit auf etwas, das man benennen kann.
+
+Das eine Maß sagt, wie sich diese Bedeutungen zueinander verhalten: so und so viel Korn je Einheit dessen, was in die Arbeit übergeht, überall gleich — damit Nuss und Kartoffel überhaupt in derselben Rechnung stehen können.
+
+Die Region entscheidet, was in ihr Portfolio gehört; umgerechnet wird es überall nach demselben Maß. Steiners zwei Forderungen, auf zwei Stellen verteilt.
 
 Daraus folgt etwas, das kürzer und tiefer begründet, warum es nur ein Korn geben kann als jede Effizienzüberlegung: Wenn Geld Buchhaltung ist, kann es davon nur eine geben. Zwei Buchhaltungen über denselben Vorgang sind keine Buchhaltung, sondern zwei Meinungen.
 
-Steiner hat diese Buchhaltung in einer Zeile aufgeschrieben. Oben steht die Ware — das, was die Arbeit aus der Natur gehoben hat. Unten steht das Geld — das, was der Geist aus der Arbeit gemacht hat. Und über den Bruch schreibt er nicht „Preisniveau", sondern **Gesundheit**.
+Steiner hat diese Buchhaltung in einer Zeile aufgeschrieben. Oben steht die Ware — das, was die Arbeit aus der Natur gehoben hat. Unten steht das Geld — das, was der Geist aus der Arbeit gemacht hat. Und über den Bruch schreibt er nicht „Preisniveau“, sondern **Gesundheit**.
 
-![Steiners Bruch: Gesundheit gleich Ware durch Geld](bilder/steiner-bruch.svg)
+![Die zwei Richtungen der Wertbildung — Wert gleich Natur mal Arbeit, Wert gleich Geist minus Arbeit — und Steiners Bruch: Gesundheit gleich Ware durch Geld](bilder/steiner-wertformeln-2.svg)
 
 Das Geld steht dort nicht als Menge, sondern als das Teilende: Es schält den Naturwert in die Arbeitsteilung auseinander. Und daraus folgt die Bedingung, an der das ganze Korn hängt. Ein Bruch bleibt nur gesund, wenn der Nenner nicht anschwillt. Steiner sagt, wie das geschieht: Überschüssiges Kapital darf nicht in Grund und Boden fixiert werden, sondern muss in freie geistige Unternehmungen übergehen, wo es bis auf den Rest verschwindet, der als Samen weiterbestehen soll.
 
@@ -330,7 +693,7 @@ Und deshalb ist die Statistik der Baum-Stufe (Kapitel V) nicht nur ein Dashboard
 
 **Produktionsmittel sind geronnene Fähigkeit**
 
-Ein Produktionsmittel ist nichts anderes als eingefrorenes Können. Jemand konnte etwas — eine Schmiede bauen, eine Maschine entwerfen, eine Software schreiben — und dieses Können steht jetzt als Werkzeug da und kann von anderen benutzt werden. Deshalb erspart die Maschine Arbeit: In ihr steckt Geist, der bereits aufgewendet wurde. → Kapitel II.4, „Geist minus Arbeit."
+Ein Produktionsmittel ist nichts anderes als eingefrorenes Können. Jemand konnte etwas — eine Schmiede bauen, eine Maschine entwerfen, eine Software schreiben — und dieses Können steht jetzt als Werkzeug da und kann von anderen benutzt werden. Deshalb erspart die Maschine Arbeit: In ihr steckt Geist, der bereits aufgewendet wurde. → weiter unten in diesem Kapitel, „Die zwei Richtungen, aus denen Wert entsteht.“
 
 Eine ungenutzte Maschine ist deshalb kein Effizienzproblem, sondern ein Verlust. Da liegt geronnene Fähigkeit brach, die andere brauchen könnten.
 
@@ -352,7 +715,7 @@ Der ernsteste Einwand gegen eine Parallelwährung lautet: Eine Korn-Ökonomie ba
 
 Die Schwelle liegt allerdings nicht dort, wo sie zuerst scheint. Sie liegt zwischen Material und Arbeit. Wer eine Halle baut, braucht Stahl von draußen — aber die Hälfte der Bausumme oder mehr ist Arbeit, und die wird in Korn bezahlt, sobald die Handwerker im System sind. Beim Traktor dasselbe: Kauf in Euro, aber Wartung, Reparatur, Umbau in Korn. Was von außen kommen muss, ist nicht der Kapitalbedarf, sondern nur dessen importierter Materialkern. Er schrumpft mit jeder Fertigkeit, die ins System hineinwächst.
 
-Die Membran verläuft dabei nicht an Staatsgrenzen, sondern an der Mitgliedschaft. Ein Land ist nicht als Ganzes drinnen oder draußen; drinnen sind die Assoziationen und ihre Mitglieder. Sie läuft mitten durch jede Stadt, und die Import-Assoziation ist kein Zollamt an einer Linie, sondern eine Schnittstelle am Rand der Mitgliedschaft.
+Die Membran verläuft dabei nicht an Staatsgrenzen, sondern an der Mitgliedschaft. Ein Land ist nicht als Ganzes drinnen oder draußen; drinnen sind die Assoziationen und ihre Mitglieder. Sie läuft mitten durch jede Stadt, und die Clearingstelle ist kein Zollamt an einer Linie, sondern eine Schnittstelle am Rand der Mitgliedschaft.
 
 Sie ist außerdem ein Übergangsorgan. Das Außen schrumpft, je mehr Gebiete dazukommen, und auf der letzten Stufe gibt es keines mehr. Die Membran ist eine Schale: nötig, solange etwas wächst, überflüssig, wenn es gewachsen ist. Und je größer die Korn-Welt wird, desto kleiner der Anteil des Handels, der sie überhaupt berührt.
 
@@ -409,6 +772,8 @@ Die erste Richtung verteuert. Arbeit muss an die Natur herangebracht werden, sie
 Effizienz, Erfindung, Maschine, KI liegen zunächst auf der zweiten Seite: Sie ersparen Arbeit, und deshalb machen sie die Waren billiger und nicht das Geld mehr. Soweit sie aber an der Naturgrundlage angreifen — der Bohrer, der die Quelle erreicht, das Verfahren, das den Boden fruchtbarer macht —, bringen sie mehr herein, und dann wächst die Geldmenge mit. Nicht weil eine Maschine dasteht, sondern weil mehr durch die Schwelle geht. Ein Auffrischungsanlass ist immer nur der Ertrag, nie das Gerät.
 
 **Wo die Geldmenge hineinspielt**
+
+![Beide Wertformeln füllen den Zähler Warenmenge, nur die Natur füllt den Nenner Geldmenge](bilder/steiner-wertformeln.svg)
 
 Wächst die Produktivität durch Geist, während die Naturgrundlage bleibt, wo sie ist, dann wächst die Warenmenge, und die Geldmenge rührt sich nicht — sie entsteht ja nur an der Naturgrundlage. Dasselbe Korn kauft mehr. Die gewachsene Produktionskapazität erscheint nicht als mehr Geld, sondern als sinkender Preis. Das ist die richtige Buchung. Warum das Geld in Steiners Bruch überhaupt unten steht — und was daraus folgt —, steht am Anfang dieses Kapitels.
 
@@ -506,7 +871,7 @@ Verhandelt wird zwischen den drei Seiten der Assoziation — Produktion, Verteil
 
 Damit steht am Preis eine Behauptung über die Zukunft, und ein Jahr später steht daneben, was daraus geworden ist. Das ist mehr Information über eine Wirtschaft, als ein Marktpreis je enthalten hat, und sie entsteht ohne Wettbewerb — allein daraus, dass beides offenliegt.
 
-Zwei Sätze gehören dazu, sonst wäre der Anteil ein Gewinnzuschlag unter anderem Namen. Er kann nie zu Vermögen werden: Fällt das Ergebnis besser aus als erwartet, bleibt Korn übrig, und das altert und drängt in die Schenkung. Und „ohne Wertung" hält nicht auf Dauer durch — eine Reihe von Erwartungen und Ergebnissen über zehn Jahre ist ein Ruf, ob jemand ihn so nennt oder nicht. Genauer gesagt: Es wird nicht bewertet, es wird gelesen.
+Zwei Sätze gehören dazu, sonst wäre der Anteil ein Gewinnzuschlag unter anderem Namen. Er kann nie zu Vermögen werden: Fällt das Ergebnis besser aus als erwartet, bleibt Korn übrig, und das altert und drängt in die Schenkung. Und „ohne Wertung“ hält nicht auf Dauer durch — eine Reihe von Erwartungen und Ergebnissen über zehn Jahre ist ein Ruf, ob jemand ihn so nennt oder nicht. Genauer gesagt: Es wird nicht bewertet, es wird gelesen.
 
 *Ausarbeitung steht aus.* Was geschieht, wenn die drei Seiten sich nicht einigen — unterbleibt der Anteil, und das Neue wird nicht versucht? Und läuft er aus? Trägt das Neue, sind seine Kosten in der nächsten Runde reguläre Kosten; bleibt der Aufschlag darüber stehen, ist er eine dauerhafte Marge.
 
@@ -524,11 +889,11 @@ Eines gehört dabei ausdrücklich auf die andere Seite. Dass der eine Pflücker 
 
 Der Unterschied zwischen Natur- und Menschenprodukten liegt nicht in der Formel, sondern in der Menge, durch die geteilt wird. Dieselbe Abschreibung und dieselbe Arbeit verteilen sich auf das, was tatsächlich herauskommt — und beim Naturprodukt beschließt das niemand. Fällt die Ernte auf die Hälfte, verteilen sich dieselben Kosten auf halb so viele Kilogramm, und der Stückpreis steigt entsprechend. Niemand schlägt etwas auf. Das Preisgesetz stimmt hier sogar genauer als anderswo: Der Bauer muss von diesem Erlös bis zur nächsten Ernte leben und dann wieder säen können.
 
-**Offene Kalkulation statt Konkurrenz.** Jeder produziert, was er will, und weist dafür seine genauen Kosten aus — auch die Kosten der Menschen, die dort arbeiten. Erst das macht „der Preis wird gerechnet" überprüfbar; ohne offene Kalkulation wäre es eine Behauptung.
+**Offene Kalkulation statt Konkurrenz.** Jeder produziert, was er will, und weist dafür seine genauen Kosten aus — auch die Kosten der Menschen, die dort arbeiten. Erst das macht „der Preis wird gerechnet“ überprüfbar; ohne offene Kalkulation wäre es eine Behauptung.
 
 Damit fällt der Wettbewerb über den Preis weg. Unterschiede gibt es weiterhin, aber nur in der Sache: wer besser anbaut, wer die bessere Frucht findet, wer sorgfältiger arbeitet. Nur erkennt man sie nicht mehr am Preisschild.
 
-Dafür braucht es kein Marktsignal, sondern ein Informationssystem, das solche Qualitäten darstellen kann — mit verschiedenen Weltsichten und Attributen wie „bio" oder „handgemacht". Wie das aussehen könnte, gehört nicht in dieses Buch; es ist der Gegenstand des fünften, bei der Weiterentwicklung der Wikipedia. Hier steht nur die Frage, der ein Leser sonst allein gegenübersteht: Woran erkenne ich das Bessere, wenn der Preis es nicht mehr sagt?
+Dafür braucht es kein Marktsignal, sondern ein Informationssystem, das solche Qualitäten darstellen kann — mit verschiedenen Weltsichten und Attributen wie „bio“ oder „handgemacht“. Wie das aussehen könnte, gehört nicht in dieses Buch; es ist der Gegenstand des fünften, bei der Weiterentwicklung der Wikipedia. Hier steht nur die Frage, der ein Leser sonst allein gegenübersteht: Woran erkenne ich das Bessere, wenn der Preis es nicht mehr sagt?
 
 **Die Bodenrente und was mit ihr geschieht**
 
@@ -554,7 +919,7 @@ Steiner nennt daneben zwei Wege, und er nennt sie gleichrangig. Steige die Zahl 
 
 Und hier gehört kein Trost hin, sondern eine nüchterne Feststellung. Nach der Formel *Geist minus Arbeit* erspart dieselbe Fähigkeit dort mehr, wo noch wenig eingespart ist. Die zwölfte Verbesserung in einem dichten Feld bringt wenig, die erste in einem dünnen viel. Heute ist es umgekehrt bezahlt, weil das Einkommen nicht an der ersparten Arbeit hängt, sondern daran, wieviel Kapital daneben steht. Das Korn dreht das nicht aus Gerechtigkeit um, sondern weil es die Zahl richtig bildet. Ein dünn besetztes Feld ist die Stelle, an der eine Fähigkeit am meisten ausrichtet — und weil Produktionsmittel nicht gekauft, sondern an Fähige übertragen werden, ist es zugleich der leichtere Einstieg: Es steht niemand davor.
 
-**Warum das kein Ratschlag von außen ist.** Der Hinweis kommt nicht allein, sondern mit einem Schenkstrom — Ausbildung, Produktionsmittel, Einsicht. Und die Adresse vergibt der Empfänger, nicht der Geber. Ohne die Empfängerregel wäre „macht etwas anderes" eine Anweisung. Mit ihr ist es eine Einladung.
+**Warum das kein Ratschlag von außen ist.** Der Hinweis kommt nicht allein, sondern mit einem Schenkstrom — Ausbildung, Produktionsmittel, Einsicht. Und die Adresse vergibt der Empfänger, nicht der Geber. Ohne die Empfängerregel wäre „macht etwas anderes“ eine Anweisung. Mit ihr ist es eine Einladung.
 
 **Warum das Korn das kann.** Weil ein Überschuss nicht mehr zum Anspruch wird. Wer dauerhaft mehr leistet, sammelt alterndes Korn an, und alterndes Korn hat am Ende nur noch eine Verwendung. Aus Überlegenheit wird Ausstrahlung.
 
@@ -596,7 +961,7 @@ Ausweitung auf die ganze Region: alle Menschen dort in die Gemeinschaft einladen
 
 Es entsteht eine regionale, für jeden sichtbare, laufende Statistik: was hier als Grundbedürfnis gilt, wie gut es gedeckt wird, was übrig ist, was fehlt, was zugekauft werden muss. Die Statistik zeigt Bedarf, Fähigkeiten und die Auslastung der Produktionsmittel — nie Menschen. Diese Statistik ist das Wahrnehmungsorgan der Assoziation — sie macht das Sehen kollektiv.
 
-Aber Steiner warnt: Selbst eine ganz neue Statistik gelte nur für ein Jahr, im nächsten sei sie „wiederum ein Plunder"; was über den Konsum zu sagen sei, müsse „fortwährend in lebendiger Weise aufgefasst werden." Eine Statistik, die niemand liest, ist Plunder. Das Dashboard rechtfertigt sich nur dadurch, dass Menschen laufend hineinschauen und Konsequenzen ziehen.
+Aber Steiner warnt: Selbst eine ganz neue Statistik gelte nur für ein Jahr, im nächsten sei sie „wiederum ein Plunder“; was über den Konsum zu sagen sei, müsse „fortwährend in lebendiger Weise aufgefasst werden.“ Eine Statistik, die niemand liest, ist Plunder. Das Dashboard rechtfertigt sich nur dadurch, dass Menschen laufend hineinschauen und Konsequenzen ziehen.
 
 Meilenstein: **Alle Grundbedürfnisse der Region sind in Korn deckbar** — noch als Möglichkeit, nicht als Pflicht.
 
@@ -618,7 +983,7 @@ Erst hier wird der Preisspiegel aussagekräftig, weil genug Gebiete darin stehen
 
 Zusammen wachsen die Verrechnung und das Regelwerk. Nicht zusammen wachsen die Portfolios: Jedes Gebiet behält sein Selbstporträt und seine Definition der Grundbedürfnisse. Der Verbund ist ein Netz von Assoziationen, keine Zentralbank in groß.
 
-Warum sollte eine Region sich anschließen? Nicht primär aus ökonomischem Vorteil, sondern aus demselben Grund, der das Korn überhaupt trägt: um die eigenen Fähigkeiten in eine größere Welt ausstrahlen zu können — und die eigenen Bedürfnisse offenlegen zu dürfen, damit andere ihre Fähigkeiten daran ausüben. → Kapitel IV, „Der Gleichklang."
+Warum sollte eine Region sich anschließen? Nicht primär aus ökonomischem Vorteil, sondern aus demselben Grund, der das Korn überhaupt trägt: um die eigenen Fähigkeiten in eine größere Welt ausstrahlen zu können — und die eigenen Bedürfnisse offenlegen zu dürfen, damit andere ihre Fähigkeiten daran ausüben. → Kapitel IV, „Der Gleichklang.“
 
 ### 7. Erde
 
@@ -707,7 +1072,7 @@ Der Preisspiegel geht über alle Gebiete hinweg die systemrelevanten Produkte du
 
 Ein Preisunterschied ist der Anlass einer Untersuchung, nicht ihr Ergebnis. Die Frage lautet: Woran liegt es? Fehlen an dem einen Ort Hände, sind an dem anderen zu viele — oder liegt es gar nicht an Menschen, sondern an Maschinen, die verbessert werden müssten?
 
-Der Name „Ausgleich" wäre hier falsch, denn es wird nichts ausgeglichen. Der Preisspiegel verschiebt keine Menschen. Er stellt eine Frage. Was folgt, entscheiden die Menschen und die Assoziationen selbst — mit Einladung, nicht mit Zuteilung: Schenkgeld für die Ausbildung, die dort gebraucht wird, Schenkgeld für Produktionsmittel. Nie Zuteilung. → Kapitel II.4, Kapitel IV.
+Der Name „Ausgleich“ wäre hier falsch, denn es wird nichts ausgeglichen. Der Preisspiegel verschiebt keine Menschen. Er stellt eine Frage. Was folgt, entscheiden die Menschen und die Assoziationen selbst — mit Einladung, nicht mit Zuteilung: Schenkgeld für die Ausbildung, die dort gebraucht wird, Schenkgeld für Produktionsmittel. Nie Zuteilung. → Kapitel II.4, Kapitel IV.
 
 **Der Entnahmepreis**
 
@@ -719,7 +1084,7 @@ Damit wird zuerst gehoben, was leicht zugänglich ist, und der Preisunterschied 
 
 Denn die Rente gehört nicht dem Förderer. Sie läuft als Überschuss durch die Assoziation, altert und geht ins Geistesleben. Nicht als Rückstellung für eine spätere Umstellung, sondern als Umwandlung: Was aus der Erde genommen wird und nie wiederkommt, wird in die einzige Form überführt, die nicht verschwindet. In Steiners Formel gehört das auf die Seite des Geistes — ein Verfahren, das ein Fass ersetzt, ist ein Fass wert. Der Substanzverzehr wird auf die verbilligende Seite gebucht.
 
-Zwei Adressen kommen dafür in Frage, beide in der Kultursphäre und beide unter der Empfängerregel: Der Geber entscheidet über Ob und Wieviel, der Empfänger über An-wen. „Effizienter machen" oder „ersetzen" darf keine Zweckvorgabe sein, sonst ist es Lenkung.
+Zwei Adressen kommen dafür in Frage, beide in der Kultursphäre und beide unter der Empfängerregel: Der Geber entscheidet über Ob und Wieviel, der Empfänger über An-wen. „Effizienter machen“ oder „ersetzen“ darf keine Zweckvorgabe sein, sonst ist es Lenkung.
 
 Die eine ist der Verwender, weil dort das Problem sitzt. Das begünstigt zunächst die verbrauchsstarken Gebiete — aber in einer offen arbeitenden Kultursphäre ist das eine Verzögerung und kein Gefälle: Wissen verbraucht sich nicht durch Weitergabe.
 
@@ -741,7 +1106,7 @@ Das trägt nur, wenn nicht gehortet wird. Nicht in Geld, denn das geht nicht meh
 
 Keine Überwachung. Keine Kontrolle von Personen. Was offen liegt, ist der Besitz an Produktionsmitteln und deren Auslastung — als Angabe, nicht als Aufsicht. Wer ein Produktionsmittel hält, das brachliegt, hält geronnene Fähigkeit fest, die andere brauchen könnten. Das muss man nicht verbieten. Es muss nur sichtbar sein.
 
-Sichtbarkeit allein trägt hier allerdings nicht. Sie hilft gegen die stillstehende Maschine, nicht gegen die gut ausgelastete, die alle paar Jahre den Besitzer wechselt und dabei jedes Mal festsitzendes Geld wieder jung macht. Dagegen hilft nur, dass Produktionsmittel nicht verkauft werden können, sondern an Fähige übertragen werden. → Kapitel II.3; Kapitel IV, „Produktionsmittel sind geronnene Fähigkeit"; Kapitel V, Stufe 4.
+Sichtbarkeit allein trägt hier allerdings nicht. Sie hilft gegen die stillstehende Maschine, nicht gegen die gut ausgelastete, die alle paar Jahre den Besitzer wechselt und dabei jedes Mal festsitzendes Geld wieder jung macht. Dagegen hilft nur, dass Produktionsmittel nicht verkauft werden können, sondern an Fähige übertragen werden. → Kapitel II.3; Kapitel IV, „Produktionsmittel sind geronnene Fähigkeit“; Kapitel V, Stufe 4.
 
 ### Was das Korn von allem unterscheidet, was vorher war
 
@@ -800,4 +1165,4 @@ Das ist der Satz, an dem die ganze Weltwirtschaft des Korn hängt. Ein Gebiet, d
 
 Die Mechanik läuft von selbst. Was angreifbar ist, ist die Frage, wer den Anker liest und wer auffrischen darf. Wer die Ernte fälscht, fälscht das Geld. Der Krieg gegen das Korn wird kein Krieg ums Geld, sondern ein Krieg um die Wahrheit über die Natur. Und genau darin liegt die letzte Eigenschaft des Korn: Es macht die Wahrheit zum ökonomischen Grundbedürfnis. Nicht als Ideal — als Überlebensbedingung.
 
-In der Aufbauzeit kommt eine zweite, vorübergehende Stelle hinzu: die zentrale Abwicklungsstelle, die altes Geld hält. Wem es gehört und wer es prüft — das ist noch offen. → Kapitel V.3.
+In der Aufbauzeit kommt eine zweite, vorübergehende Stelle hinzu: die Clearingstelle, die altes Geld hält. Was durch sie hindurchgeht, ist geregelt — wem der Bestand gehört und wer ihn prüft, ist es nicht. Das ist die zweite offene Stelle des Konzepts. → Kapitel II.3, „Und nach außen".
