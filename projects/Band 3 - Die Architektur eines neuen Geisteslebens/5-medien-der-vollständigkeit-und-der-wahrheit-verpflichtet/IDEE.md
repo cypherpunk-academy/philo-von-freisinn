@@ -1,0 +1,6 @@
+- Wikipedia als Vorbild und Startpunkt
+- Schrittweiser Umbau auf Maintainer-Modell
+- Ergänzung durch Weltsicht Attribute, so dass für ein Thema verschiedene Sichten parallel existieren können
+- Unzufriedenheit führt nicht zu Diskussionen und Glättung, sondern zu fork mit anderen Weltsicht-Attributen
+- Ziel: Sichtbarkeit der pluralistischen Weltsichten
+- Wahrheitswächter/Faktenchecker in den verschiedenen Weltsichten, die jeder für sich wählen kann

@@ -672,7 +672,121 @@ Neues Geld entsteht dort, wo auf der Naturgrundlage etwas hervorgebracht wird �
 
 Von dort aus altert das Geld auf seinem Weg durch die Wirtschaft. Junges Geld finanziert die langen Vorhaben. Was von der Rückzahlung kommt, trägt die kürzeren. Was am Ende übrig bleibt, wird geschenkt — und fließt so zurück an den Ursprung der Produktion. Dort, wo das Naturprodukt beginnt sich mit der Arbeit zu vereinigen, bekommt das wertlos gewordene Geld eine neue Jahreszahl und beginnt von vorn. Wie ein Korn: gesät, gewachsen, geerntet — und ein Teil der Ernte ist wieder Saatgut.
 
-# Warum es in der Dreigliederung keine Stiftungen geben kann
+
+
+# Warum es in einer gesunden Wirtschaft keine Provisionen geben kann
+
+Neulich fragte mich jemand: Wie sieht die soziale Dreigliederung eigentlich Empfehlungsprogramme? Also Multi-Level-Marketing und ähnliche Systeme, bei denen man Provisionen kassiert, wenn man jemanden weiterempfiehlt.
+
+Ich habe angefangen zu antworten und bin dabei auf etwas viel Größeres gestoßen.
+
+## Wofür wird eigentlich bezahlt?
+
+Nicht die Arbeit wird bezahlt. Arbeit ist keine Ware. Das ist einer der Kernsätze aus Steiners "Kernpunkten der sozialen Frage" (GA 23), und er ist radikaler, als er klingt. Man kann einen Menschen nicht stundenweise kaufen, auch nicht seine Kraft.
+
+Bezahlt wird etwas anderes: der Lebensunterhalt. Wer etwas beiträgt, soll so viel bekommen, dass er sich und die Seinen versorgen kann, bis er wieder das Gleiche beigetragen hat (Nationalökonomischer Kurs, GA 340).
+
+Der Maßstab ist also der Bedarf des Menschen, der leistet. Nicht die Größe des Geschäfts, an dem er beteiligt war.
+
+## Was macht ein Vermittler?
+
+In einer Erzeuger-Verwender-Gemeinschaft gibt es drei Rollen. Die einen stellen etwas her, die anderen brauchen es, und dazwischen stehen die, die beide zusammenbringen.
+
+Diese dritte Rolle ist keine Nebensache. Gute Vermittlung ist Beratung: Welches Produkt passt wirklich zu dem, was du brauchst? Damit erspart sie anderen viel Suchen, Vergleichen und Danebengreifen. Und genau darin liegt ihr Wert. Wirtschaftlicher Wert entsteht auf zwei Wegen: indem durch Arbeit etwas aus der Natur gewonnen wird, und indem der Geist diese Arbeit klüger macht und einspart. Diesen Maßstab brauchen wir später noch.
+
+Es geht sogar weiter. In einer Assoziation kennen sich ohnehin alle, Erzeuger und Verwender sitzen am selben Tisch. Aber der Vermittler ist der Einzige, der mit beiden Seiten regelmäßig umgeht. Er hört laufend, wo das Produkt im Alltag klemmt und was fehlt. Diese Kenntnis gehört zurück zum Erzeuger. Vermittlung ist keine Einbahnstraße vom Lager zum Kunden, sondern ein Kanal in beide Richtungen.
+
+Nur eben: Wie wird sie bezahlt?
+
+## Warum nicht pro Abschluss?
+
+Weil die beste Beratung manchmal lautet: Das passt nicht zu dir. Nimm lieber etwas anderes, auch wenn es nicht von uns ist.
+
+Wer pro Abschluss bezahlt wird, verdient an genau diesem Satz nichts. Er hat ein Interesse am Verkauf und nicht an dir. Jeder kennt das aus dem Gespräch mit einem Finanzberater auf Provisionsbasis.
+
+Und die Rückmeldung fällt gleich mit weg. Wer vom Abschluss lebt, meldet keine Mängel. Er redet sie klein. Der Kanal ist in beide Richtungen verstopft.
+
+Deshalb muss ein Vermittler von der Erzeuger-Verwender-Gemeinschaft getragen werden, in deren Zusammenhang er arbeitet. Er steht ja nicht neben ihr, er gehört dazu. Erst dann ist er frei, ehrlich zu beraten.
+
+## Und wenn ich dauerhaft mitverdiene?
+
+Das ist das eigentliche Kennzeichen von Multi-Level-Marketing. Ich verdiene immer wieder an dem, was die Leute umsetzen, die ich angeworben habe. Und an deren Angeworbenen. Über Jahre.
+
+Hier wird keine Leistung mehr bezahlt, sondern ein Anspruch bedient: Mir steht ein Anteil zu, weil ich diese Leute geworben habe.
+
+Das ist kein Produkt. Das ist ein Recht.
+
+Und Rechte gehören woandershin, nämlich in das, was Steiner Rechtsleben nennt und was ich lieber Politik und Recht nenne. Dort begegnen sich Menschen als Gleiche. Dort hat Geld nichts zu suchen, in keine Richtung. Ein Recht darf man nicht kaufen, und ein Recht darf kein Einkommen abwerfen.
+
+Das Muster kennen wir vom Grund und Boden: Ein bloßes Besitzrecht wirft dauerhaft Einkommen ab, ohne dass der Besitzer noch etwas tut. Die Downline ist eine Art Grundbesitz, aus dem man seine Rente bezieht.
+
+## Wie weit reicht das?
+
+Weit über MLM hinaus. Eine Provision ist nie der Preis für eine Handlung, sondern ein Anteil an einem fremden Strom.
+
+Als Stufenleiter, von der Leistung zum bloßen Recht:
+
+**Die Abschlussprovision.** Eine Leistung ist da, aber sie hängt am Verkauf. Die Beratungsfreiheit ist weg.
+
+**Die Bestandsprovision.** Einmal vermittelt, dauerhaft kassiert. Versicherungen zahlen Bestandscourtage über Jahrzehnte, auch wenn niemand mehr etwas tut.
+
+**Die Gebietsprovision.** Prozente von allem, was in meinem Bezirk umgesetzt wird. Auch von Geschäften, von denen ich nie gehört habe. Hier ist die Leistung verschwunden, übrig bleibt ein Revier.
+
+**Das Zugangsrecht.** Franchise, Lizenzen, Plattformen. Der App Store nimmt dreißig Prozent dafür, dass man durch dieses Tor gehen darf.
+
+**Der Zins.** Prozent dafür, dass Geld überhaupt da ist. Das Urbild aller Provision.
+
+Dass hier nichts Menschliches gemessen wird, zeigt ein einfacher Test: Ein Makler hat mit einer Wohnung für zweihunderttausend Euro dieselbe Arbeit wie mit einer für zwei Millionen. Er bekommt das Zehnfache. Ein Architekt rechnet nach Baukosten ab, also bringt teurer bauen mehr Honorar. Ein Anwalt rechnet nach Streitwert ab, also wird der Streit belohnt und nicht die Einigung.
+
+## Was ist das für ein Übergriff?
+
+Zunächst ein doppelter. Das Wirtschaftsleben greift in Politik und Recht hinein, indem es Rechte handelbar macht: Ein Gebiet, eine Position, ein Zugang bekommen einen Preis. Und Politik und Recht greifen zurück, indem aus dem Recht ein Einkommen fließt, dem keine Leistung entspricht.
+
+Doch es kommt noch ein drittes Glied dazu.
+
+## Warum ist ausgerechnet der Vertrieb so teuer?
+
+Der Vertrieb großer Unternehmen läuft fast vollständig über Provisionen, und dort werden mit die höchsten Einkommen erzielt. Höher als in der Entwicklung, höher als in der Produktion. Warum ist die Stelle am teuersten, an der nichts hergestellt wird?
+
+Die Antwort heißt Konkurrenz.
+
+Konkurrenz ist nichts Schlechtes, sie gehört nur woandershin. Ihr Ort ist die Kultursphäre, also alles, was mit Ideen und Können zu tun hat. Dort ist der Wettstreit richtig: um den besseren Gedanken, um das bessere Konzept. Wer da gewinnt, gewinnt durch Einsicht. Und alle anderen dürfen die bessere Idee sofort übernehmen. Deshalb schadet dieser Wettstreit niemandem.
+
+Im Wirtschaftsleben gilt etwas anderes. Da geht es darum, dass alle bekommen, was sie brauchen. Steiner nennt das Brüderlichkeit. Zwei Betriebe, die dasselbe herstellen, müssten sich verständigen, wie viel gebraucht wird und wer was übernimmt.
+
+Stattdessen kämpfen sie um denselben Kunden. Und weil die Produkte oft kaum unterscheidbar sind, entscheidet nicht die bessere Ware, sondern der stärkere Vertriebsapparat. Das Geld fließt nicht in das Produkt, sondern in den Kampf um den Kunden.
+
+Jetzt greift der Maßstab von vorhin. Wert entsteht auch dadurch, dass Arbeit erspart wird. Zwei Vertriebsapparate, die sich gegenseitig neutralisieren, ersparen keine Arbeit. Sie erzeugen welche. Millionen Arbeitsstunden, die einander aufheben.
+
+Und dieselbe Verschiebung läuft rückwärts. In der Kultursphäre, wo der freie Wettstreit hingehört, entscheidet inzwischen oft Geld darüber, welche Idee sich durchsetzt. Wer das Patent hält und das Budget hat, gewinnt. Nicht der, der recht hat.
+
+Damit sind alle drei Glieder beteiligt, und das Muster ist in beide Richtungen dasselbe.
+
+Das Wirtschaftsleben greift nach außen. Es macht Rechte käuflich, und es entscheidet mit Kapital darüber, welche Idee sich durchsetzt. In beiden Fällen legt es sich über etwas, das nach eigenen Gesetzen leben müsste.
+
+Und aus beiden Bereichen kommt etwas zurück, das in der Wirtschaft nichts zu suchen hat. Aus Politik und Recht ein Einkommen, dem keine Leistung entspricht. Aus der Kultursphäre die Konkurrenz, die dem Wettstreit der Gedanken gehört und nicht dem Kampf um Kunden.
+
+## Sind Prozente dann immer falsch?
+
+Nein, und das ist mir wichtig.
+
+Prozente als Rechenschlüssel sind in Ordnung. Wenn eine Erzeuger-Verwender-Gemeinschaft die Kosten der Vermittlung auf ihre Produkte umlegt, ist das eine Umlage: offen sichtbar, am tatsächlichen Bedarf bemessen, veränderlich, wenn sich der Bedarf ändert.
+
+Prozente als Anspruch sind das Problem. Da gehört der Anteil jemandem, unabhängig davon, ob er gebraucht wird und ob er noch etwas tut.
+
+Derselbe Prozentsatz, zwei vollkommen verschiedene Dinge.
+
+Und damit zum Schluss noch eine Beobachtung, die mir Mut macht.
+
+Je näher ein Betrieb an der Naturgrundlage arbeitet, desto weniger ist er von all dem befallen. Auf dem Acker, im Wald, im Handwerk gibt es kaum Gebietsprovisionen, kaum Downlines, kaum Vertriebsapparate, die gegeneinander anrennen. Dort wird noch etwas hervorgebracht statt umverteilt.
+
+Diese Betriebe stehen am Anfang der Wertschöpfung und am Ende der Einkommensskala. Das ist kein Zufall. Aber es heißt eben auch: Sie tragen am wenigsten zur Schieflage bei. Sie sind der gesündeste Teil unseres sozialen Ökosystems.
+
+Genau deshalb setzt ein neues Geldsystem für die Dreigliederung dort an. Nicht bei den Banken, nicht bei den Plattformen, sondern bei denen, die aus der Naturgrundlage heraus arbeiten. Wer dort anfängt, baut auf dem auf, was noch nicht krank ist.
+
+---
+
+Ich bin selbst noch am Denken, besonders bei der Frage, wo genau die Grenze zwischen Umlage und Anspruch verläuft. Wie seht ihr das? Und wo begegnet euch das in eurer eigenen Arbeit?# Warum es in der Dreigliederung keine Stiftungen geben kann
 <!-- version: 29. August 2026 | mitautor: Claude Opus -->
 
 Wenn ein sehr reicher Mensch stirbt und sein Vermögen einer gemeinnützigen Stiftung vermacht statt seinen Erben, gilt das als die anständige Lösung. Kein Streit unter Neffen, kein Vermögen, das in Immobilien verdunstet, stattdessen Forschung, Bildung, Kultur. Wer die Dreigliederung im Kopf hat, nickt oft mit: Das Kapital bleibt im Kreislauf, es geht an geistige Zwecke, so ungefähr war es doch gemeint.

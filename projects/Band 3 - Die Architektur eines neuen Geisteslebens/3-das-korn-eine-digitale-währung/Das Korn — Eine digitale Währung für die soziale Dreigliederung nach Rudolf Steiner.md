@@ -200,7 +200,7 @@ Gerechnet wird nach einem einzigen Gesetz, und es gilt für alles:
 
 Das lässt sich kalkulieren, auch beim Weizen. Vier Posten stehen darin, und jeder hat seine Eigenart.
 
-**Arbeit und Lebensunterhalt** — ein Posten, kein Stundenlohn. Was in die Rechnung eingeht, wird in der Assoziation vorab vereinbart und aus zwei Größen gebildet: aus dem, was ein Mensch zum Leben braucht — er und die, die von ihm abhängen —, und daraus, wieviel seiner Arbeitszeit er dem Betrieb zur Verfügung stellt. Wer halbtags mitarbeitet, bringt die Hälfte seines Bedarfs in die Rechnung ein.
+**Lebensunterhalt** — ein Posten, kein Stundenlohn. Was in die Rechnung eingeht, wird in der Assoziation vorab vereinbart und aus zwei Größen gebildet: aus dem, was ein Mensch zum Leben braucht — er und die, die von ihm abhängen —, und daraus, wieviel seiner Arbeitszeit er dem Betrieb zur Verfügung stellt. Wer halbtags mitarbeitet, bringt die Hälfte seines Bedarfs in die Rechnung ein.
 
 Das ist keine Bezahlung von Arbeit. Arbeit ist keine Ware und hat keinen Preis; was hier aussieht wie ein Lohn, ist ein Anteil, bemessen am Bedarf und an der eingebrachten Zeit. Steiner fasst das Preisgesetz genau so: Der Preis muss den Erzeuger und die Seinen befriedigen, bis er das gleiche Produkt wieder hergestellt hat.
 
@@ -220,7 +220,7 @@ Das hat eine sichtbare Folge: Ein Betrieb, der gerade neu ausgestattet hat, rech
 
 Was der Weg kostet, bleibt in diesem Posten — er ist eine Vorleistung wie jede andere. Was eigens mitgeführt wird, ist die Entfernung: Jede Stufe gibt weiter, wie weit das Gut und was darin steckt schon gereist sind. Zwei Güter zum gleichen Preis können sehr verschieden weit gekommen sein; die akkumulierte Transportentfernung macht das sichtbar, ohne den Preis zu spalten. Ob etwas aus der Region kommt oder von weit her, ist keine Rechenfrage, sondern eine Wahl — und die Assoziation kann sie nur treffen, wenn die Strecke neben dem Betrag dasteht.
 
-**Der Anteil für das Weiterkommen** — der einzige Posten, der nicht die Wiederholung deckt, sondern das, was darüber hinausgeht. Er geht in zwei Richtungen: in die Weiterentwicklung der Fähigkeiten, also ins Geistesleben, und in die Ausweitung der Produktion, also in die Wirtschaft. Wie groß er ist und wohin er geht, hängt am Produkt und wird in der Assoziation entschieden.
+**Spielraum für das Weiterkommen** — der einzige Posten, der nicht die Wiederholung deckt, sondern das, was darüber hinausgeht. Er geht in zwei Richtungen: in die Weiterentwicklung der Fähigkeiten, also ins Geistesleben, und in die Ausweitung der Produktion, also in die Wirtschaft. Wie groß er ist und wohin er geht, hängt am Produkt und wird in der Assoziation entschieden.
 
 Beides wäre sonst nicht finanziert. Die Rückzahlung deckt den Ersatz eines Produktionsmittels, nicht das Wachstum; und die Ausbildung eines Menschen kann ohnehin niemand in Rechnung stellen, sie kann nur ermöglicht werden. Deshalb steht dafür ein Anteil in jedem Preis, statt beides dem Zufall zu überlassen.
 
@@ -612,7 +612,7 @@ Der Vizekoch schaute ihn erstaunt an: „Ja! Fähigkeiten, Bedürfnisse, du mein
 „Und deswegen nehmen wir, was wir bekommen, und auch eher mehr davon.“ 
 
 
-## IV. Korn, das neue Geld
+## IV. Korn, eine neue Währung
 
 Ein Korn ist kein Ding. Und auch keine Vereinbarung. Es ist eine Nachricht. Wer eines hat, hat es bekommen, weil er seine Fähigkeiten eingesetzt hat — oder weil er lebt und etwas braucht. Steiner nennt Geld die fliegende Buchhaltung der Weltwirtschaft, und er meint es wörtlich: Das Geld *ist* die Buchhaltung, nicht das, was man dazu aufschreibt. Eine Zahlung wird nicht anschließend verbucht. Sie ist die Buchung, und sie wandert von einem Ort zum nächsten. In einer dreigliedrigen Gesellschaft gehört sie allein der Wirtschaft an; das Rechtsleben hat an ihr keinen Anteil.
 
@@ -624,48 +624,67 @@ Fähigkeit ist in beiden. Sie steht nur verschieden darin. Wer arbeitet, bringt 
 
 Und weil in beiden Fällen Arbeit vorkommt, hat man etwas Vergleichbares in der Hand. Erst dadurch lassen sich die Dinge überhaupt zueinander in Beziehung setzen. Man kann nicht fragen, wie viele Nüsse eine Kartoffel wert ist; die Dinge haben in Wirklichkeit kein Verhältnis zueinander. Ein Verhältnis hat nur, was an ihnen getan oder durch sie erspart wurde.
 
-Rein tritt keine der beiden Seiten auf. Wer beim Brombeerpflücken die bessere Stelle findet, hat schon etwas erdacht und erntet in derselben Zeit mehr; und auch der Maler muss den Pinsel in die Hand nehmen. Jeder wirkliche Fall liegt dazwischen und neigt nur zu der einen oder der anderen Seite. Deshalb, sagt Steiner, lassen sich diese Dinge nicht sauber quantitativ fassen, sondern nur im Geschehen — die Begriffe müssen in Bewegung bleiben.
+Rein tritt keine der beiden Seiten auf. Wer beim Brombeerpflücken die bessere Stelle findet, hat schon etwas erdacht und erntet in derselben Zeit mehr; und auch der Maler muss den Pinsel in die Hand nehmen. Jeder wirkliche Fall liegt dazwischen und neigt nur zu der einen oder der anderen Seite. Deshalb, sagt Steiner, lassen sich diese Dinge nicht im Vorhinein sauber quantitativ fassen, sondern nur im Geschehen — die Begriffe müssen in Bewegung bleiben.
+
+Und Fähigkeiten können gespeichert werden, quasi eingefroren. Dann werden sie zu Produktionsmitteln. Jemand erfindet eine Maschine, ein Verfahren, eine bessere Art zu arbeiten. Die Ware wird dadurch billiger. Dasselbe Korn kauft mehr.
 
 **Bedürfnis**
 
-Bis hierher sah es aus, als läge der Wert in der Fähigkeit. Er liegt aber nicht in ihr. Eine Fähigkeit, die niemand braucht, erspart niemandem Arbeit und hat volkswirtschaftlich keinen Wert — nicht weil sie geringer wäre, sondern weil es nichts gibt, woran sie sich bemisst. Gäbe es keinen Bedarf an Unterricht, müsste der Lehrer selbst auf dem Feld stehen, und die Frage nach dem Wert seines Unterrichts käme gar nicht auf.
+Bis hierher sah es aus, als läge der Wert in der Fähigkeit. Er liegt aber nicht in ihr. Eine Fähigkeit, die niemand braucht, erspart niemandem Arbeit und hat volkswirtschaftlich keinen Wert — nicht weil sie geringer wäre, sondern weil es nichts gibt, woran sie sich bemisst. Gäbe es keinen Bedarf an Unterricht, müsste der Lehrer selbst an der Werkbank stehen, und die Frage nach dem Wert seines Unterrichts käme gar nicht auf.
 
-So sind Bedürfnisse die Grundlage dafür, dass Fähigkeiten überhaupt etwas wert sind. Das macht Bedürfnisse zum dem großen Geschenk, das man bekommen kann, wenn man Fähigkeiten hat. Das ist die Triebfeder der Zusammenarbeit, der Kern der Brüderlichkeit im Wirtschaftsleben. Bedürfnisse sind der eigentliche Schatz der Gesellschaft.
+So sind Bedürfnisse die Grundlage dafür, dass Fähigkeiten überhaupt etwas wert sind. Das macht Bedürfnisse von anderen zum größten Geschenk, das man bekommen kann, wenn man Fähigkeiten hat. Das ist die Triebfeder der Zusammenarbeit, der Kern der Brüderlichkeit im Wirtschaftsleben, der Motor der Open Source-Kultur. Bedürfnisse sind der eigentliche Schatz der Gesellschaft.
 
-Der Wert entsteht also nicht bei den Fähigkeiten, aber auch nicht bei den Bedürfnissen, sondern zwischen ihnen. Das Geld bildet ab, was Menschen können und was sie brauchen, und wenn es gut arbeitet, sorgt es dafür, dass beides immer wieder zusammenfindet. Das ist seine ganze Aufgabe.
+Der Wert entsteht also nicht bei den Fähigkeiten, aber auch nicht bei den Bedürfnissen allein, sondern zwischen ihnen. Das Geld bildet ab, was Menschen können und was sie brauchen, und wenn es gut arbeitet, sorgt es dafür, dass beides immer wieder zusammenfindet. Das ist seine ganze Aufgabe.
 
 **Preis**
 
-Der Punkt, an dem es zusammenfindet, an dem es das harmonische Gleichgewicht bildet, dass heute in der Weltwirtschaft alle Menschen miteinander verbindet, ist der Preis. Steiner fragt, wo die beiden Strömungen sich ausgleichen, und antwortet: In der Buchhaltung der ganzen Wirtschaft heben sie sich gegeneinander auf, und genau dort entsteht der Preis. Er wird also nicht gesetzt, nicht ausgehandelt und nicht von außen gemessen. Er ist das Abbild eines wunderbares Netzwerks aus Fähigkeiten und Bedürfnissen in der Menschheit.
+Der Punkt, an dem es zusammenfindet, an dem es das harmonische Gleichgewicht bildet, dass heute in der Weltwirtschaft alle Menschen miteinander verbindet, ist der Preis. Steiner fragt, wo die beiden Strömungen sich ausgleichen, und antwortet: In der Buchhaltung der ganzen Wirtschaft heben sie sich gegeneinander auf, und genau dort entsteht der Preis. Er wird also nicht vom Verkäufer gesetzt, nicht ausgehandelt und nicht von außen bestimmt. Er ist das Abbild eines wunderbares Netzwerks aus Fähigkeiten und Bedürfnissen in der Menschheit. Er ist das Allerheiligste einer gesunden Wirtschaft.
 
-Wenn man den Preis mutwillig setzt, nach oben oder nach unten, dann verzerrt man diese Harmonie. Der Preis ist nichts, was man in der Wirklich setzen kann. Man muss ihn berechnen. Die einfach Formel lautet: "Der Preis muss so hoch sein, dass die beteiligten Menschen die gleich Ware oder Dienstleistung wieder erbringen können."
+Wenn man mit dem Preis manipuliert, wenn man ihn mutwillig setzt, zu hoch oder zu tief, dann verzerrt man diese Harmonie. Der Preis ist nichts, was man in der Wirklich setzen kann. Man muss ihn berechnen. Die einfach Formel lautet: "Der Preis muss so hoch sein, dass die beteiligten Menschen die gleich Ware oder Dienstleistung wieder erbringen können." Also die Summe von eingekauften Vorleistungen, benötigtem Lebensunterhalt, eingesetzen Produktionsmitteln und Spielraum für Entwicklung für das Produkt, das den Preis trägt.
 
 Damit hört der Preis auf, ein Machtinstrument zu sein, an dem sich nach oben oder unten drehen lässt.
 
-**Geldbasis**
+**Gelddeckung**
 
 Auch Geld und Macht werden in einer dreigliedrigen sozialen Ordnung voneinander getrennt. Der Dollar und der Euro sind so genannte Fiat-Währungen. Das Wort kommt aus dem Lateinischen und heißt „es werde" — es bezeichnet Geld, das gilt, weil es für gültig erklärt wurde. Seine Grundlage ist kein Gold in einem Keller, sondern eine Anordnung: Der Staat bestimmt es zum gesetzlichen Zahlungsmittel, jeder muss es als Zahlung annehmen, und Steuern lassen sich in nichts anderem entrichten. Wer es nicht will, muss trotzdem.
 
 Damit steht die Deckung dieses Geldes dort, wo sie nach der Dreigliederung am wenigsten hingehört: bei der Macht. Nicht die Wirtschaft trägt es, sondern das Recht — und zwar nicht, indem es Verträge sichert, sondern indem es Geltung verordnet. Politik und Recht haben in diesem System nicht nur Anteil an der Verwaltung des Geldes; sie sind seine Grundlage.
 
-Das Korn hat seine Grundlage in der Wirtschaft selbst. Es entsteht, wo ein Naturprodukt in die Arbeit übergeht, und es gilt, solange dieser Übergang trägt. Niemand muss es annehmen. Es gilt nicht, weil es angeordnet wurde, sondern weil dahinter etwas gewachsen ist. Man kann es nur gegen reale Werte tauschen, etwas, was menschliche Arbeit enthält, nicht Gold oder anderes Geld, Wertpapiere, Rechte.
+Die Währung Korn hat seine Grundlage in der Wirtschaft selbst. Es entsteht, wo ein Naturprodukt in die Arbeit übergeht, und es gilt, solange dieser Übergang trägt. Niemand muss es annehmen. Es gilt nicht, weil es angeordnet wurde, sondern weil dahinter etwas gewachsen ist, oder ein bedürftiger Mensch steht. Man kann es nur gegen reale Werte tauschen, etwas, was menschliche Arbeit enthält, nicht Gold oder anderes Geld, Wertpapiere oder andere Rechte.
 
 Damit hört das Geld auf, ein Machtinstrument zu sein, das man horten kann, an das man Bedingungen knüpfen kann.
 
 **Lebensdauer**
 
-Das neue Geld, Korn, bildet das nach, was zwischen Menschen an Waren fließt. bzw. das, was als menschliche Arbeit darin enthalten ist. Die Waren haben aber eine Eigenschaft, die Geld nicht ohne weiteres hat und was die Harmonie von Geben und Nehmen auf Dauer verzerren kann: Waren sind nicht unbegrenzt haltbar. Korn hängt an dem Wachstum von Naturprodukten, diese altern, und deswegen muss Korn auch altern.Jede Einheit Korn trägt ein Ablaufdatum, das sagt, wie lange die Nachricht gilt. Das führt auch dazu, dass Menschen, die sehr viel Geld haben, nach einiger Zeit doch wieder ihre Fähigkeiten für andere einsetzen müssen und arbeiten, in einem Korn-Währungsraum hat selbst ein Multimillionär nach so und so vielen Jahren, wenn er nicht arbeitet, wieder Null.
+Das neue Geld, Korn, bildet das nach, was zwischen Menschen an Waren fließt, bzw. das, was als menschliche Arbeit darin enthalten ist. Die Waren haben aber eine Eigenschaft, die Geld nicht ohne weiteres hat und was die Harmonie von Geben und Nehmen auf Dauer verzerrt: Waren sind nicht unbegrenzt haltbar. Korn hängt an dem Wachstum von Naturprodukten. Diese altern, und deswegen muss Korn auch altern. Jede Einheit Korn trägt ein Ablaufdatum, das sagt, wie lange die Nachricht gilt. Das führt dazu, dass auch Menschen, die sehr viel Geld haben, nach einiger Zeit doch wieder ihre Fähigkeiten für andere einsetzen müssen und arbeiten, in einem Korn-Währungsraum hat selbst ein Multimillionär nach so und so vielen Jahren, wenn er nicht arbeitet, wieder Null.
+
+Dass wachsende Fähigkeiten die Waren billiger machen, stand oben. Fallende Preise sind sonst das Gefährlichste, was einer Währung zustoßen kann: Wer weiß, dass sein Geld nächstes Jahr mehr kauft, hält es fest, und eine Wirtschaft kann daran ersticken, dass jeder Einzelne vernünftig rechnet. Im Korn kostet zu warten Lebenszeit. Damit gibt es keine Prämie für den, der am längsten stillhält, und der Fortschritt kommt bei allen an.
+
+Korn kennt drei Verwendungsarten: Kaufgeld, Leihgeld und Schenkgeld. Es ist jedesmal ganz normales Korn, immer mit der vollen Kaufkraft bis zu seinem Lebensende, aber die Rollen sind unterschiedlich. Kaufgeld ist Korn, mit dem etwas kauft. Und da wird es erst besonders, wenn das Korn alt wird und bald sterben wird. Ganz zuletzt können es nur noch sog. Naturbetriebe annehmen, weil sie alleine die Möglichkeit haben, eingenommenes Korn aufzufrischen. Deswegen kann es sein, dass man gegen Ende der Lebensdauer Korn bei einer wachsenden Anzahl an Stellen nicht mehr als Kaufgeld verwenden kann. Dann wird es zu Schenkgeld und geht vorzugsweise in das Geistesleben: Zu einem Architekten, einem Poeten oder einem Lehrer. Schenkgeld ist Geld ohne Gegenleistung. Es kann auch ganz junges Geld sein. Leihgeld ist Geld, dass große Vorhaben finanziert, die nicht ohne weiteres direkt bar bezahlt werden können. Man kann die Rückzahlung über soundso viele Jahre strecken. Deswegen brauchten man Korn, dass jung genug ist, um die Zeit zu überleben.
 
 **Geldmenge**
 
-Auch die Menge wird nicht gesetzt. Die vertraute Antwort auf die Frage nach einem Maßstab war ursprünglich Gold. Aber Gold ist ein Ding wie andere Dinge; dass es viel wert ist, beruht darauf, dass Menschen sich darauf geeinigt haben, und man kann diese Übereinkunft aufkündigen. Beim Weizen gibt es nichts aufzukündigen. Niemand kann sich darauf einigen, ihn nicht zu brauchen.
+Die Gesamtmenge des vorhandenen Geldes wird nicht gesetzt oder bestimmt. Die vertraute Antwort auf die Frage nach einem Maßstab war ursprünglich Gold. Aber Gold ist ein Ding wie andere Dinge; dass es viel wert ist, beruht darauf, dass Menschen sich darauf geeinigt haben, und man kann diese Übereinkunft aufkündigen. Bei Fiat-Währungen wurde diese Möglichkeit durch einen Machtspruch aufgekündigt: Man muss der Währung vertrauen. Beim Weizen als Naturgrundlage gibt es nichts aufzukündigen. Niemand kann sich darauf einigen, ihn nicht zu brauchen. Korn baut hierauf.
 
-An diesem Nicht-Aufkündbaren hängt die Geldmenge in zwei Gliedern. Die Existenzgrundlage ist das Recht darauf: Jedem Bewohner steht zu, was er zum Leben braucht — geschöpft, nicht umverteilt. Das ist das Volumen, das der Kreislauf braucht, um überhaupt zu laufen, Zahl der Menschen mal diesem Recht, und es ändert sich langsam. Das Mehr ist das, was darüber hinausgeht, und dafür steht das Portfolio: die Liste der Naturerträge und Grundproduktionsmittel eines Gebiets. Korn entsteht dort, wo eines davon in die Arbeit übergeht. Dazu ein einziges Maß, überall gleich: so und so viel Korn je Einheit dessen, was in die Arbeit übergeht. Die Region entscheidet, was in ihr Portfolio gehört; gerechnet wird nach demselben Maß.
+An diesem Nicht-Aufkündbaren hängt die Geldmenge in zwei Gliedern. Zum einen die Existenzgrundlage: Jedem Bewohner steht das Minimum zu, was er zum Leben braucht — geschöpft, nicht umverteilt, immer wieder neues Geld. Das ist das Volumen, das der Kreislauf braucht, um überhaupt zu laufen, Zahl der Menschen mal diesem Recht, und es ändert sich langsam. Das Mehr ist das, was darüber hinausgeht, und dafür steht das Portfolio: die Liste der Naturerträge und Grundproduktionsmittel eines Gebiets. Neues Korn entsteht dort, wo eines davon in die Arbeit übergeht. Dazu ein einziges Maß, überall gleich: so und so viel Korn je Einheit dessen, was in die Arbeit übergeht. Die Region entscheidet, was in ihr Portfolio gehört; gerechnet wird nach demselben Maß.
 
-Die Geldmenge ist damit nicht festgesetzt, sondern angebunden — unten an die Menschen, die zu leben haben, oben an das, was die Natur hergibt. Jede Einheit zeigt auf etwas, das man benennen kann. Gold zeigte auf eine Übereinkunft.
+Die Geldmenge ist damit nicht festgesetzt, sondern angebunden — unten an die Menschen, die zu leben haben, oben an das, was die Natur hergibt. Jede Einheit zeigt auf etwas, was man benennen kann. Gold zeigte auf eine Übereinkunft, eine Fiat-Währung auf eine Anordnung.
 
+Angebunden heißt nicht starr. Die Menge bewegt sich — nur nicht dort, wo man es erwartet. Am Fortschritt nicht: Korn entsteht ja nicht am Produktionsmittel. Eine gewachsene Fähigkeit erscheint deshalb als sinkender Preis und nicht als mehr Geld.
+
+Bewegt wird die Menge erst am Ende dieses Weges. Was billiger wird, wird mehr gekauft, und irgendwann steht diese Nachfrage am Feld, im Wald, an der Küste. Dort geht mehr Naturprodukt in die Arbeit über, und genau dort entsteht Korn. Die Menge wächst mit — nachlaufend, um eine Ernte versetzt, und ohne dass jemand sie erhöht hätte.
+
+**Steuerung**
+
+Der Preis wird berechnet, die Gelddeckung von der Natur abgelesen, die Lebensdauer auch, die Geldmenge berechnet. Das sind alles Dinge, die in einer Fiat-Währung durch die Politik, oft auf Druck der Wirtschaft, manipuliert werden. Dort spielen die Machtinteressen, der Egoismus einzelnen und der Egoismus von Staaten. Wo ist die Steuerung eines dreigliederigen sozialen Organismus?
+
+Die liegt im Rechtsleben. Aber nicht in einer Beeinflussung des Geldes, sondern in der Entscheidung aller Menschen gemeinsam, wie viel sie arbeiten wollen. Mehr Arbeit bedeutet mehr Wohlstand, weniger Arbeit bedeutet, mehr Selbstbestimmung. Das versteht jeder mündige Bürger. Darüber können alle gemeinsam abstimmen.
+
+Eine zweite form der Steuerung ist die Steuer.
 
 ----------
+
+### 
 
 **Portfolio und Maß**
 
