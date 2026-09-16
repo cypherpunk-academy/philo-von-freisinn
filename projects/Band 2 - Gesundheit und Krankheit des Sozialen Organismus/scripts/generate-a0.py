@@ -61,6 +61,8 @@ HAUPTSATZ_COLOR = "#7A4A6E"   # gedämpftes Violett (Klint-nah)
 HAUPTSATZ_FONT = 93.6         # war 104; −10 %
 HAUPTSATZ_WIDTH_FRAC = 0.5265 # war 0.585; −10 %
 HAUPTSATZ_LH = 1.69           # relativ zur Fontgröße
+HAUPTSATZ_AUTHOR = "Rudolf Steiner"
+HAUPTSATZ_AUTHOR_SCALE = 0.72  # Namenszeile etwas kleiner als das Zitat
 
 # Vorübergehend ausgeblendet (Layout folgt)
 HIDDEN_GROUPS = frozenset()
@@ -95,6 +97,7 @@ FONT = A2.FONT
 TXT_COLOR = A2.TXT_COLOR
 BG = A2.BG
 text_w = A2.text_w
+load_yaml_fields = A2.load_yaml_fields
 
 
 def wrap_text(text, size, max_w):
@@ -110,59 +113,6 @@ def wrap_text(text, size, max_w):
     if cur:
         lines.append(cur)
     return lines or [""]
-
-
-def _clean_aspect_text(raw):
-    """YAML-Fliesstext: Kommentarzeilen (# / ═══) und Artefakte entfernen."""
-    lines = []
-    for ln in raw.splitlines():
-        s = ln.strip()
-        if not s:
-            continue
-        if s.startswith("#"):
-            break
-        if set(s) <= set("═=-_─— "):
-            break
-        lines.append(s)
-    body = " ".join(lines)
-    # Trailing Einzel-# oder ' #' am Ende
-    body = re.sub(r"\s*#\s*$", "", body).strip()
-    return body
-
-
-def load_yaml_fields():
-    with open(YAML_PATH, encoding="utf-8") as f:
-        src = f.read()
-    fields = {}
-    for m in re.finditer(r"- id: (dm-\d+[gk])\n(.*?)(?=\n  - id: |\n\Z)", src, re.S):
-        fid, block = m.group(1), m.group(2)
-        titel_m = re.search(r"titel: \"([^\"]+)\"", block)
-        richtung_m = re.search(r"richtung: \"([^\"]+)\"", block)
-        aspects = []
-        for am in re.finditer(
-            r"- schlagwort: ([^\n]+)\n"
-            r"        schlagsatz: ([^\n]+)\n"
-            r"        text: >\s*\n"
-            r"(.*?)(?="
-            r"\n        zitate:"
-            r"|\n      - schlagwort:"
-            r"|\n  - id: "
-            r"|\n  #"
-            r"|\n\Z)",
-            block, re.S,
-        ):
-            body = _clean_aspect_text(am.group(3))
-            aspects.append({
-                "schlagwort": am.group(1).strip(),
-                "schlagsatz": am.group(2).strip(),
-                "text": body,
-            })
-        fields[fid] = {
-            "titel": titel_m.group(1) if titel_m else "",
-            "richtung": richtung_m.group(1) if richtung_m else "",
-            "aspects": aspects,
-        }
-    return fields
 
 
 PARA_GAP = 1.15  # Abstand zwischen den 7 Aspekten (in lh)
@@ -187,15 +137,14 @@ FAN_GROUPS = {
         "y_shift_heading_lh": 0.5,  # halbe Überschrift-Zeilenhöhe nach unten
         "y_shift_block": 1,  # eine Texthöhe nach unten → Überschrift knapp unter Gesamttitel
         "x_shift": 780.0,
-        "heading_lines": ["Die Politik entscheidet", "wer gewinnt"],
         "heading_x": "first_block",
+        "heading_align": "end",  # rechtsbündig zur unteren Zeile
     },
     "dm-05k": {
         "panel": "kra", "side": "left",
         "arc": 1, "open": "right", "y_mode": "top_at_sibling_center",
         "relative_to": "dm-04k",
         "x_shift": 1280.0,
-        "heading_lines": ["Die Wirtschaft kauft", "die Politik"],
     },
     "dm-06k": {
         "panel": "kra", "side": "left",
@@ -206,7 +155,6 @@ FAN_GROUPS = {
         "y_shift_heading_lh": 1.0,   # ganze Überschrift-Zeilenhöhe nach unten
         "x_shift": 780.0,
         "x_shift_text_frac": 0.2,    # 20 % Textbreite nach rechts
-        "heading_lines": ["Das Geld kontrolliert", "die Wahrheit"],
         "heading_x": "first_block",
     },
     # --- Krankheit rechts (spiegelbildlich zu 04/05/06k) ---
@@ -218,15 +166,15 @@ FAN_GROUPS = {
         "y_shift_heading_lh": 0.5,
         "y_shift_block": 1,  # eine Texthöhe nach unten (wie dm-04k; Relativfächer folgen)
         "x_shift": 780.0,
-        "heading_lines": ["Die Politik beeinflusst", "das Denken"],
         "heading_x": "first_block",
+        "heading_x_frac": 0.0,   # linker Textrand
+        "heading_align": "text-start",  # linksbündig mit dem Text
     },
     "dm-01k": {
         "panel": "kra", "side": "right",
         "arc": 7, "open": "left", "y_mode": "top_at_sibling_center",
         "relative_to": "dm-03k",
         "x_shift": 1280.0,
-        "heading_lines": ["Eine Weltsicht", "wird zum Gesetz"],
     },
     "dm-02k": {
         "panel": "kra", "side": "right",
@@ -237,7 +185,6 @@ FAN_GROUPS = {
         "y_shift_heading_lh": 1.0,
         "x_shift": 780.0,
         "x_shift_text_frac": -0.2,   # spiegelbildlich zu dm-06k (+0.2)
-        "heading_lines": ["Meinungen diktieren", "die Produktion"],
         "heading_x": "first_block",
     },
     # --- Gesundheit links ---
@@ -250,8 +197,9 @@ FAN_GROUPS = {
         "y_shift_heading_lh": 0.5,
         "y_shift_block": 2,  # zwei Textblöcke nach unten
         "x_shift": 1280.0,
-        "heading_lines": ["Das Gesetz sichert", "den fairen Rahmen"],
         "heading_x": "first_block",
+        "heading_x_frac": 1.0,   # rechter Textrand
+        "heading_align": "text-end",  # rechtsbündig mit dem Text
     },
     "dm-05g": {
         "panel": "ges", "side": "left",
@@ -261,7 +209,6 @@ FAN_GROUPS = {
         "x_shift": 780.0,
         "x_shift_text_frac": 0.15,   # 15 % Textbreite nach rechts (ohne Überschrift)
         "heading_x_compensate_text_frac": True,
-        "heading_lines": ["Die Wirtschaft trägt", "den Staat"],
         "heading_align": "end",  # rechtsbündig; „den Staat“ bleibt stehen
     },
     "dm-06g": {
@@ -273,7 +220,6 @@ FAN_GROUPS = {
         "y_shift_heading_lh": 1.0,
         "x_shift": 1280.0,
         "x_shift_text_frac": -0.2,   # 20 % Textbreite nach links
-        "heading_lines": ["Die Wirtschaft versorgt", "den Geist"],
         "heading_x": "first_block",
     },
     # --- Gesundheit rechts (spiegelbildlich zu 04/05/06g) ---
@@ -286,7 +232,6 @@ FAN_GROUPS = {
         "y_shift_heading_lh": 0.5,
         "y_shift_block": 2.5,  # +0.5 Texthöhe nach unten
         "x_shift": 1280.0,
-        "heading_lines": ["Der Staat bewahrt", "die Freiheit des Einzelnen"],
         "heading_x": "first_block",
     },
     "dm-01g": {
@@ -298,7 +243,6 @@ FAN_GROUPS = {
         "x_shift": 780.0,
         "x_shift_text_frac": -0.15,  # spiegelbildlich zu dm-05g (+0.15)
         "heading_x_compensate_text_frac": True,
-        "heading_lines": ["Sachkenntnis prägt", "das Recht"],
     },
     "dm-02g": {
         "panel": "ges", "side": "right",
@@ -310,7 +254,6 @@ FAN_GROUPS = {
         "y_shift_tri_frac": 1.0,  # eine Dreieckshöhe nach unten
         "x_shift": 1280.0,
         "x_shift_text_frac": 0.2,    # spiegelbildlich zu dm-06g (−0.2)
-        "heading_lines": ["Fähigkeiten befruchten", "die Wirtschaft"],
         "heading_x": "first_block",
     },
 }
@@ -415,15 +358,25 @@ def draw_fan_heading(cx, y, lines, font_size, align="middle"):
     align=middle: Zeilen zentriert um cx.
     align=end: rechtsbündig; cx ist weiterhin der Mittel-Anker der
     *letzten* Zeile (die bleibt stehen), die übrigen Zeilen rücken nach.
+    align=start: linksbündig zur letzten Zeile (letzte Zeile bleibt).
+    align=text-start: alle Zeilen am Anker cx linksbündig (Textrand).
+    align=text-end: alle Zeilen am Anker cx rechtsbündig (Textrand).
     """
     esc = xml.escape
     lh = font_size * 1.12
-    anchor = align if align in ("start", "middle", "end") else "middle"
-    x = cx
-    if anchor == "end" and lines:
-        x = cx + text_w(lines[-1], font_size, bold=True) / 2.0
-    elif anchor == "start" and lines:
-        x = cx - text_w(lines[-1], font_size, bold=True) / 2.0
+    if align == "text-start":
+        anchor = "start"
+        x = cx
+    elif align == "text-end":
+        anchor = "end"
+        x = cx
+    else:
+        anchor = align if align in ("start", "middle", "end") else "middle"
+        x = cx
+        if anchor == "end" and lines:
+            x = cx + text_w(lines[-1], font_size, bold=True) / 2.0
+        elif anchor == "start" and lines:
+            x = cx - text_w(lines[-1], font_size, bold=True) / 2.0
     parts = [
         f'    <text font-family="{A2.FONT_DERIVED}" font-size="{font_size:.2f}" '
         f'fill="{TXT_COLOR}" text-anchor="{anchor}" '
@@ -439,7 +392,7 @@ def draw_fan_heading(cx, y, lines, font_size, align="middle"):
     return "\n".join(parts)
 
 
-def draw_hauptsatz(cx, cy, lines, font_size, color):
+def draw_hauptsatz(cx, cy, lines, font_size, color, author=None):
     """Sozialen Hauptsatz zentriert, kursiv, in der freien Bandmitte."""
     esc = xml.escape
     lh = font_size * HAUPTSATZ_LH
@@ -457,6 +410,14 @@ def draw_hauptsatz(cx, cy, lines, font_size, color):
         if i + 1 < len(lines):
             cursor += lh
     parts.append("    </text>")
+    if author:
+        author_size = font_size * HAUPTSATZ_AUTHOR_SCALE
+        author_y = cursor + lh * 0.85
+        parts.append(
+            f'    <text x="{cx:.2f}" y="{author_y:.2f}" '
+            f'font-family="{FONT}" font-size="{author_size:.2f}" '
+            f'font-style="italic" fill="{color}" text-anchor="middle" '
+            f'dominant-baseline="central">{esc(author)}</text>')
     return "\n".join(parts)
 
 
@@ -781,7 +742,9 @@ def main():
             continue
         cfg = FAN_GROUPS[yaml_id]
         blocks = wrap_aspects(fg["aspects"], font, inner_w)
-        head_lines = cfg.get("heading_lines") or [fields[yaml_id]["titel"], ""]
+        head_max = text_w("Die Wirtschaft versorgt", heading_font)
+        head_lines = cfg.get("heading_lines") or wrap_text(
+            fields[yaml_id]["titel"], heading_font, head_max)
         head_lh = heading_font * 1.12
         head_block_h = heading_font + head_lh
         panel = cfg.get("panel", "kra")
@@ -940,7 +903,7 @@ def main():
         HAUPTSATZ, HAUPTSATZ_FONT, a2_w * HAUPTSATZ_WIDTH_FRAC)
     out.append(draw_hauptsatz(
         hauptsatz_cx, hauptsatz_cy, hauptsatz_lines,
-        HAUPTSATZ_FONT, HAUPTSATZ_COLOR))
+        HAUPTSATZ_FONT, HAUPTSATZ_COLOR, author=HAUPTSATZ_AUTHOR))
 
     out.append(f'  <g id="a2-content" transform="translate({shift_x:.2f},{SHIFT_Y:.2f})">')
     out.append(inner.rstrip())

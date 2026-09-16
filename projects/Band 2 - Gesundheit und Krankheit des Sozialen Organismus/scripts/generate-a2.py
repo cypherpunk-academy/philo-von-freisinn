@@ -5,13 +5,12 @@ Soziale Gesundheit — DIN-A2-Hochformat mit zwei Dreiecken untereinander.
   Obere Haelfte:  Krankheit
   Untere Haelfte: Gesundheit
 
-Zusammenhang mit soziale-gesundheit.yaml
+Zusammenhang mit der YAML
 -----------------------------------------
-Die YAML ist die inhaltliche Quelle (9 Richtungsfelder x gesund/krank,
-je 7 Aspekte mit schlagwort + schlagsatz bei den 6 Kantenfeldern;
-Medianfelder 07–09 nur Titel/Label).
+Die YAML ist die inhaltliche Quelle (Titel, Schlagwort, Schlagsatz).
+A2 und A0 lesen sie. Layout (Bogenindex, Seite, Zeilenumbruch) bleibt hier.
 
-Halbkreis-Index (LABELS/RADIAL/BLOCKS)  <->  YAML
+Halbkreis-Index  <->  YAML
   Gesund / Krank:
     7  Geist -> Recht                dm-01g / dm-01k
     4  Geist -> Wirtschaft           dm-02g / dm-02k
@@ -23,8 +22,6 @@ Halbkreis-Index (LABELS/RADIAL/BLOCKS)  <->  YAML
     5  Geist + Wirtschaft -> Recht   dm-08g / dm-08k  (nur Label)
     2  Recht + Wirtschaft -> Geist   dm-09g / dm-09k  (nur Label)
 
-RADIAL und BLOCKS hier manuell spiegeln — kein YAML-Import.
-Bei inhaltlichen Aenderungen zuerst die YAML, dann hier nachziehen.
 A0 ruft build_a2() als Bibliothek auf.
 
 Klint-Fuellungen (optional): dreieck-krankheit.png /
@@ -72,6 +69,8 @@ WATERMARK_OPACITY = 0.6      # Krankheit / Gesundheit
 TRI_FILL   = "#9b9b9b"
 TRI_STROKE = "#6f6f6f"
 _DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+YAML_PATH = os.path.join(
+    _DIR, "content", "Gesundheit und Krankheit des Sozialen Organismus.yaml")
 TRI_IMAGE_KRANK = os.path.join(_DIR, "assets", "dreieck-krankheit-web.png")
 TRI_IMAGE_GESUND = os.path.join(_DIR, "assets", "dreieck-gesundheit-web.png")
 BG_IMAGE = os.path.join(_DIR, "assets", "hintergrund-web.jpg")
@@ -124,230 +123,43 @@ BLOCK_FRAME_PAD = 10.0
 BLOCK_FRAME_SW = 1.0
 
 
-# Beschriftung in der Reihenfolge:
-# links oben / links unten / links Mitte(Median),
-# unten links / unten rechts / unten Mitte,
-# rechts oben / rechts unten / rechts Mitte
-LABELS = [
-    ["Recht \u2192", "Wirtschaft:",
-     "Das Gesetz", "sichert den", "fairen Rahmen"],
-    ["Wirtschaft \u2192", "Recht:",
-     "Die Wirtschaft", "tr\u00e4gt den Staat"],
-    ["Recht +", "Wirtschaft", "\u2192 Geist:",
-     "Schutz und", "Versorgung", "befreien", "den Geist"],
-    ["Wirtschaft \u2192", "Geist:",
-     "Die Wirtschaft", "versorgt", "den Geist"],
-    ["Geist \u2192", "Wirtschaft:",
-     "F\u00e4higkeiten", "befruchten die", "Wirtschaft"],
-    ["Geist +", "Wirtschaft", "\u2192 Recht:",
-     "Einsicht und", "Mittel tragen", "den Staat"],
-    ["Recht \u2192 Geist:",
-     "Der Staat", "bewahrt die", "Freiheit des", "Einzelnen"],
-    ["Geist \u2192 Recht:",
-     "Sachkenntnis", "pr\u00e4gt das", "Recht"],
-    ["Geist + Recht", "\u2192 Wirtschaft:",
-     "Bildung und", "Rahmen", "erm\u00f6glichen", "das Wirtschaften"],
-]
-
-RADIAL = {
-    7: ["Entfaltung", "Erfahrung", "Miturteil", "Verst\u00e4ndlichkeit",
-        "Mitwirken", "Zutrauen", "Rechtssinn"],
-    4: ["Bed\u00fcrfnisse", "Ideen", "Kapital", "Materialisierung",
-        "\u00dcberblick", "Aufgaben", "Korrektur"],
-    6: ["Freiheit", "Zugang", "Chancen", "Schenkung",
-        "Offenheit", "Richten", "Mitreden"],
-    0: ["Arbeit", "Boden", "Eigentum", "Vertrag",
-        "Haftung", "Grenze", "Einspruch"],
-    1: ["Ertrag", "Durchsetzung", "Sicherung", "Versorgung",
-        "Lieferung", "Freistellung", "Enthaltung"],
-    3: ["Unterhalt", "Werk- und Wirkungst\u00e4tten", "Verl\u00e4sslichkeit",
-        "Gabe", "Verzicht", "Fr\u00fcchte", "Br\u00fcderlichkeit"],
+# Bogenindex → YAML-IDs (gesund, krank). Nur Layout, kein Inhalt.
+ARC_FIELD = {
+    0: ("dm-04g", "dm-04k"),
+    1: ("dm-05g", "dm-05k"),
+    2: ("dm-09g", "dm-09k"),
+    3: ("dm-06g", "dm-06k"),
+    4: ("dm-02g", "dm-02k"),
+    5: ("dm-08g", "dm-08k"),
+    6: ("dm-03g", "dm-03k"),
+    7: ("dm-01g", "dm-01k"),
+    8: ("dm-07g", "dm-07k"),
 }
+# Zeilenumbruch der Richtung im Halbkreis (passt in den Bogen, nicht in die YAML).
+DIRECTION_PREFIX = {
+    0: ["Recht \u2192", "Wirtschaft:"],
+    1: ["Wirtschaft \u2192", "Recht:"],
+    2: ["Recht +", "Wirtschaft", "\u2192 Geist:"],
+    3: ["Wirtschaft \u2192", "Geist:"],
+    4: ["Geist \u2192", "Wirtschaft:"],
+    5: ["Geist +", "Wirtschaft", "\u2192 Recht:"],
+    6: ["Recht \u2192 Geist:"],
+    7: ["Geist \u2192 Recht:"],
+    8: ["Geist + Recht", "\u2192 Wirtschaft:"],
+}
+# 7-Zeiler: links oder rechts vom Bogen
+BLOCK_SIDE = {
+    7: "right", 4: "right", 6: "right",
+    0: "left", 1: "left", 3: "left",
+}
+LABEL_TITLE_MAX_W = 160.0
+
 RADIAL_REVERSE = False
 
-LABEL_NUDGE = {
-    6: (28, -88),
-    4: (40, 40),
-    3: (-40, 40),
-}
+# Titel, Schlagworte, Schlagsätze: yaml_arc_content() liest die YAML.
 
-BLOCKS = [
-    (7, "right", [
-        ("Entfaltung", "Jeder kann das werden, was in ihm steckt."),
-        ("Erfahrung", "Gesetze aus Erfahrung \u2014 nicht aus Mehrheiten."),
-        ("Miturteil", "Pr\u00fcfen, bevor es gilt."),
-        ("Verst\u00e4ndlichkeit",
-         "Gesetze muss jeder m\u00fcndige B\u00fcrger verstehen k\u00f6nnen."),
-        ("Mitwirken", "Einsprechen, nachdem es gilt."),
-        ("Zutrauen", "Richter aus Zutrauen \u2014 gew\u00e4hlt auf Zeit."),
-        ("Rechtssinn", "Wer einsieht, braucht keinen Zwang."),
-    ]),
-    (4, "right", [
-        ("Bed\u00fcrfnisse",
-         "Das Bed\u00fcrfnis ist der Anfang \u2014 und kommt nicht aus der Wirtschaft."),
-        ("Ideen", "Die Idee befeuert die Produktion \u2014 nicht Gewinn, nicht Zwang."),
-        ("Kapital", "Kapital ist geronnener Geist."),
-        ("Materialisierung",
-         "Der Gedanke vermehrt sich beim Teilen \u2014 das Brot nicht."),
-        ("\u00dcberblick", "Wer das Ganze \u00fcbersieht, arbeitet f\u00fcr andere."),
-        ("Aufgaben",
-         "F\u00e4higkeit trifft Aufgabe \u2014 besetzt nach K\u00f6nnen, "
-         "nicht nach Rang oder Ausbildung."),
-        ("Korrektur", "Pull Request statt Beschwerde \u2014 Kritik als Gabe."),
-    ]),
-    (6, "right", [
-        ("Freiheit", "Niemand greift dir ins Denken."),
-        ("Zugang", "Wissen ist Anspruch, nicht Gnade."),
-        ("Chancen", "Gleicher Boden f\u00fcr jede Gabe."),
-        ("Schenkung", "Die Wirtschaft gibt, ohne zu diktieren."),
-        ("Offenheit", "Quelloffen, nicht blo\u00df auditierbar."),
-        ("Richten", "Richten ohne Vorgabe."),
-        ("Mitreden", "Kein Einwand geht verloren."),
-    ]),
-    (0, "left", [
-        ("Arbeit", "Deine Arbeitskraft ist keine Ware."),
-        ("Boden", "Die Trennlinie im Boden."),
-        ("Eigentum", "Nutzen auf Zeit statt Besitz f\u00fcr immer."),
-        ("Vertrag", "Das Recht bindet, ohne zu bestimmen."),
-        ("Haftung", "Wer verursacht, tr\u00e4gt die Folgen."),
-        ("Grenze", "Nicht alles ist k\u00e4uflich."),
-        ("Einspruch", "Kein Missstand bleibt verborgen."),
-    ]),
-    (1, "left", [
-        ("Ertrag", "Ohne Ertrag kein Rechtsstaat."),
-        ("Durchsetzung", "Geltung braucht Werkzeuge."),
-        ("Sicherung", "Die Wirtschaft f\u00fcllt, das Recht verteilt."),
-        ("Versorgung", "Geld weist an \u2014 Brot tr\u00e4gt."),
-        ("Lieferung", "Das Recht bestellt, die Wirtschaft liefert."),
-        ("Freistellung", "Zeit ist die knappste Gabe."),
-        ("Enthaltung", "Wer zahlt, bestimmt nicht."),
-    ]),
-    (3, "left", [
-        ("Unterhalt", "Wer lehrt, muss essen."),
-        ("Werk- und Wirkungst\u00e4tten",
-         "Der Geist braucht Dach und Werkzeug."),
-        ("Verl\u00e4sslichkeit",
-         "Getragen wird in Jahren, nicht in Stunden."),
-        ("Gabe", "Geben, ohne zu bestellen."),
-        ("Verzicht", "Wer bestellt, bekommt nur Bestelltes."),
-        ("Fr\u00fcchte", "Die Ernte \u00fcbertrifft die Bestellung."),
-        ("Br\u00fcderlichkeit", "Wer versteht, braucht keine Rechnung."),
-    ]),
-]
-
-# ---------------------------------------------------------------- Krankheit (dm-…k)
-# Index = gleiche Halbkreis-Position wie Gesund.
-LABELS_KRANK = {
-    0: ["Recht \u2192", "Wirtschaft:",
-        "Die Politik", "entscheidet", "wer gewinnt"],
-    1: ["Wirtschaft \u2192", "Recht:",
-        "Die Wirtschaft", "kauft die", "Politik"],
-    2: ["Recht +", "Wirtschaft", "\u2192 Geist:",
-        "Macht und", "Geld formen", "den Geist"],
-    3: ["Wirtschaft \u2192", "Geist:",
-        "Das Geld", "kontrolliert", "die Wahrheit"],
-    4: ["Geist \u2192", "Wirtschaft:",
-        "Meinungen", "diktieren die", "Produktion"],
-    5: ["Geist +", "Wirtschaft", "\u2192 Recht:",
-        "Lehre und", "Kapital schreiben", "das Gesetz"],
-    6: ["Recht \u2192 Geist:",
-        "Die Politik", "beeinflusst", "das Denken"],
-    7: ["Geist \u2192 Recht:",
-        "Eine Weltsicht", "wird zum", "Gesetz"],
-    8: ["Geist + Recht", "\u2192 Wirtschaft:",
-        "Idee und Staat", "befehlen der", "Produktion"],
-}
-RADIAL_KRANK = {
-    7: ["Vorschrift", "Machtgesetz", "Scheinpr\u00fcfung", "Verklausulierung",
-        "Abweisung", "Expertokratie", "Desinformation"],      # Geist -> Recht
-    4: ["Verf\u00fchrung", "Dogma", "Erz\u00e4hlung", "Entgrenzung",
-        "Kennzahl", "Vermarktung", "Verk\u00fcmmerung"],       # Geist -> Wirtschaft
-    6: ["Verordnung", "Vorenthaltung", "Vermessung", "Zuteilung",
-        "Verriegelung", "Zulassung", "Dienstweg"],            # Recht -> Geist
-    0: ["Konzession", "Spekulation", "Papiermacht", "Vorrechte",
-        "Zwangsabgabe", "Zollwaffe", "Verschleierung"],       # Recht -> Wirtschaft
-    1: ["Erpressung", "L\u00e4hmung", "Schutzabbau", "Bestechung",
-        "Privatjustiz", "Dreht\u00fcr", "Lobbykauf"],          # Wirtschaft -> Recht
-    3: ["Zulieferung", "Dunkelkammer", "Kalk\u00fcl", "R\u00fcckkauf",
-        "Bestellung", "Einz\u00e4unung", "Berechnung"],       # Wirtschaft -> Geist
-}
-BLOCKS_KRANK = [
-    (7, "right", [
-        ("Vorschrift", "Die Lehre wird zum Gesetz."),
-        ("Machtgesetz", "Gesetze aus Macht \u2014 nicht aus Sachkenntnis."),
-        ("Scheinpr\u00fcfung", "Gepr\u00fcft wird nur, was bestehen soll."),
-        ("Verklausulierung",
-         "Gesetze, die keiner versteht."),
-        ("Abweisung", "Der Einwand kostet \u2014 die Korrektur entf\u00e4llt."),
-        ("Expertokratie", "Experten entscheiden \u2014 B\u00fcrger schauen zu."),
-        ("Desinformation", "Macht, als Wahrheit verkleidet."),
-    ]),
-    (4, "right", [
-        ("Verf\u00fchrung",
-         "Das Bed\u00fcrfnis wird gemacht \u2014 von dem, der es f\u00fcllt."),
-        ("Dogma", "Das Dogma diktiert \u2014 die Sache schweigt."),
-        ("Erz\u00e4hlung", "Kapital ist geronnener Glaube."),
-        ("Entgrenzung",
-         "Gerechnet wird, als vermehrte sich das Brot."),
-        ("Kennzahl",
-         "Wer die Zahl sieht, sieht die Sache nicht mehr."),
-        ("Vermarktung", "Besetzt wird nach Auftritt, nicht nach K\u00f6nnen."),
-        ("Verk\u00fcmmerung",
-         "Wer Bed\u00fcrfnisse macht, erkennt keine mehr."),
-    ]),
-    (6, "right", [
-        ("Verordnung", "Der Plan greift dir ins Denken."),
-        ("Vorenthaltung", "Wissen ist Entgegenkommen \u2014 kein Anspruch."),
-        ("Vermessung", "Gleiche Raster f\u00fcr verschiedene Menschen."),
-        ("Zuteilung", "Wer zahlt, bestimmt."),
-        ("Verriegelung",
-         "Der Einzelne wird gl\u00e4sern \u2014 der Apparat bleibt zu."),
-        ("Zulassung", "Die Akte entscheidet \u2014 nicht der Mensch."),
-        ("Dienstweg", "Jeder Einwand versandet."),
-    ]),
-    (0, "left", [
-        ("Konzession", "Arbeiten darf, wem es erlaubt wird."),
-        ("Spekulation",
-         "Wer wohnen muss, zahlt, was der Hortende verlangt."),
-        ("Papiermacht", "Papier verf\u00fcgt \u2014 K\u00f6nnen geht leer aus."),
-        ("Vorrechte", "Das Recht bestimmt, wer gewinnt."),
-        ("Zwangsabgabe",
-         "Bezahlt wird, was festgesetzt ist \u2014 nicht, was geschieht."),
-        ("Zollwaffe", "Der Handel wird zur Geisel."),
-        ("Verschleierung",
-         "Vor Gericht steht eine Konstruktion \u2014 kein Mensch."),
-    ]),
-    (1, "left", [
-        ("Erpressung", "Das Fundament droht dem Haus."),
-        ("L\u00e4hmung", "Zu gro\u00df, um belangt zu werden."),
-        ("Schutzabbau",
-         "Der Schutz f\u00e4llt, damit die Rendite steht."),
-        ("Bestechung", "Die Lieferung wird zur Anweisung."),
-        ("Privatjustiz",
-         "Die Wirtschaft liefert das Urteil gleich mit."),
-        ("Dreht\u00fcr",
-         "Die Zeit ist frei \u2014 das Urteil ist es nicht."),
-        ("Lobbykauf", "Wer zahlt, bestimmt doch."),
-    ]),
-    (3, "left", [
-        ("Zulieferung", "Wer lehrt, muss liefern."),
-        ("Dunkelkammer", "Das Dach wird zum Deckel."),
-        ("Kalk\u00fcl",
-         "Gerechnet wird in Quartalen, nicht in Jahren."),
-        ("R\u00fcckkauf", "Aus der Gabe wird eine Rechnung."),
-        ("Bestellung",
-         "Bestellt wird die Frage \u2014 und die Antwort dazu."),
-        ("Einz\u00e4unung",
-         "Wer den Zaun besitzt, hat den Baum nicht gepflanzt."),
-        ("Berechnung",
-         "Gerechnet wird mit dem Menschen, nicht f\u00fcr ihn."),
-    ]),
-]
-LABEL_NUDGE_KRANK = {
-    6: (0, -18),   # in die Bogenmulde; nicht in die Strahlen (war 28, −88)
-    4: (40, 40),
-    3: (-40, 40),
-}
+LABEL_NUDGE = {}
+LABEL_NUDGE_KRANK = {}
 BLOCK_NUDGE_KRANK = {
     0: (0, -150),
     6: (0, -150),
@@ -437,6 +249,113 @@ def arc_points(center, chord, bulge, offset, n, steps=48):
 
 def text_w(t, size, bold=False):
     return (0.58 if bold else 0.52) * size * len(t)
+
+
+def wrap_line(text, size, max_w, bold=False):
+    words = text.split()
+    lines, cur = [], ""
+    for w in words:
+        trial = (cur + " " + w).strip()
+        if text_w(trial, size, bold=bold) <= max_w or not cur:
+            cur = trial
+        else:
+            lines.append(cur)
+            cur = w
+    if cur:
+        lines.append(cur)
+    return lines or [""]
+
+
+def _clean_aspect_text(raw):
+    """YAML-Fliesstext: Kommentarzeilen (# / ═══) und Artefakte entfernen."""
+    lines = []
+    for ln in raw.splitlines():
+        s = ln.strip()
+        if not s:
+            continue
+        if s.startswith("#"):
+            break
+        if set(s) <= set("═=-_─— "):
+            break
+        lines.append(s)
+    body = " ".join(lines)
+    body = re.sub(r"\s*#\s*$", "", body).strip()
+    return body
+
+
+def _yaml_scalar(s):
+    s = s.strip()
+    if len(s) >= 2 and s[0] == s[-1] and s[0] in "\"'":
+        return s[1:-1]
+    return s
+
+
+def load_yaml_fields(path=None):
+    """Titel, Richtung, Aspekte (Schlagwort / Schlagsatz / Text) aus der YAML."""
+    with open(path or YAML_PATH, encoding="utf-8") as f:
+        src = f.read()
+    fields = {}
+    for m in re.finditer(r"- id: (dm-\d+[gk])\n(.*?)(?=\n  - id: |\Z)", src, re.S):
+        fid, block = m.group(1), m.group(2)
+        titel_m = re.search(r"titel: \"([^\"]+)\"", block)
+        richtung_m = re.search(r"richtung: \"([^\"]+)\"", block)
+        aspects = []
+        for am in re.finditer(
+            r"- schlagwort: ([^\n]+)\n"
+            r"        schlagsatz: ([^\n]+)\n"
+            r"        text: >\s*\n"
+            r"(.*?)(?="
+            r"\n        zitate:"
+            r"|\n      - schlagwort:"
+            r"|\n  - id: "
+            r"|\n  #"
+            r"|\n\Z)",
+            block, re.S,
+        ):
+            aspects.append({
+                "schlagwort": _yaml_scalar(am.group(1)),
+                "schlagsatz": _yaml_scalar(am.group(2)),
+                "text": _clean_aspect_text(am.group(3)),
+            })
+        fields[fid] = {
+            "titel": titel_m.group(1) if titel_m else "",
+            "richtung": richtung_m.group(1) if richtung_m else "",
+            "aspects": aspects,
+        }
+    return fields
+
+
+def yaml_arc_content():
+    """Halbkreis-Labels, Strahlen und 7-Zeiler aus der YAML."""
+    fields = load_yaml_fields()
+    missing = [fid for pair in ARC_FIELD.values() for fid in pair
+               if fid not in fields]
+    if missing:
+        raise SystemExit(f"YAML fehlt: {', '.join(missing)}")
+    labels_g, labels_k = [], {}
+    radial_g, radial_k = {}, {}
+    blocks_g, blocks_k = [], []
+    for idx in range(9):
+        gid, kid = ARC_FIELD[idx]
+        prefix = DIRECTION_PREFIX[idx]
+        g, k = fields[gid], fields[kid]
+        labels_g.append(
+            prefix + wrap_line(g["titel"], FONT_SIZE, LABEL_TITLE_MAX_W, bold=True))
+        labels_k[idx] = (
+            prefix + wrap_line(k["titel"], FONT_SIZE, LABEL_TITLE_MAX_W, bold=True))
+        if idx in BLOCK_SIDE:
+            if len(g["aspects"]) != 7 or len(k["aspects"]) != 7:
+                raise SystemExit(
+                    f"{gid}/{kid}: {len(g['aspects'])}/{len(k['aspects'])} "
+                    "Aspekte, erwartet 7")
+            gaspects = [(a["schlagwort"], a["schlagsatz"]) for a in g["aspects"]]
+            kaspects = [(a["schlagwort"], a["schlagsatz"]) for a in k["aspects"]]
+            radial_g[idx] = [a[0] for a in gaspects]
+            radial_k[idx] = [a[0] for a in kaspects]
+            side = BLOCK_SIDE[idx]
+            blocks_g.append((idx, side, gaspects))
+            blocks_k.append((idx, side, kaspects))
+    return labels_g, radial_g, blocks_g, labels_k, radial_k, blocks_k
 
 
 def font_face_svg():
@@ -556,7 +475,6 @@ def label_pos(center, chord, bulge, offset, n, lines, centroid):
     metrics = label_line_metrics(lines)
     c = add(center, mul(n, offset))
     stack_h = sum(m[3] for m in metrics[1:]) if metrics else 0.0
-    first_size = metrics[0][1] if metrics else FONT_SIZE
 
     if ROTATE_LABELS:
         ang = math.degrees(math.atan2(chord[1], chord[0]))
@@ -572,36 +490,9 @@ def label_pos(center, chord, bulge, offset, n, lines, centroid):
         return add(c, mul(bulge, depth)), ang
 
     ang = 0.0
-    half_h = stack_h / 2.0 + first_size * 0.35
-    half_w = max(
-        (text_w(t, sz, bold=b) for t, sz, b, _ in metrics), default=20) / 2.0
-    limit = R - LABEL_ARC_PAD
-
-    def hits_arc(mid):
-        for sx in (-half_w, 0.0, half_w):
-            for sy in (-half_h, 0.0, half_h):
-                p = (mid[0] + sx, mid[1] + sy)
-                v = sub(p, c)
-                if v[0] * bulge[0] + v[1] * bulge[1] < -1e-6:
-                    continue
-                if math.hypot(v[0], v[1]) > limit:
-                    return True
-        return False
-
-    toward = norm(add(norm(sub(centroid, c)), mul(bulge, -0.35)))
-    mid = c
-    if hits_arc(mid):
-        lo, hi = 0.0, R + half_w + half_h
-        for _ in range(24):
-            mid_shift = (lo + hi) / 2
-            cand = add(c, mul(toward, mid_shift))
-            if hits_arc(cand):
-                lo = mid_shift
-            else:
-                hi = mid_shift
-        mid = add(c, mul(toward, hi))
-
-    first = (mid[0], mid[1] - stack_h / 2.0)
+    # Im Bogenmittelpunkt halten. hits_arc schob lange Titel zum Dreieck
+    # und aus der Mulde (oben: nach unten, seitlich: nach links/rechts).
+    first = (c[0], c[1] - stack_h / 2.0)
     return first, ang
 
 
@@ -997,7 +888,8 @@ def render_panel(out, gid, a, b, c, arcs, verts,
                 spans.append(
                     f'<tspan x="0" dy="{dy:.2f}" font-size="{sz:.2f}" '
                     f'font-family="{family}" font-weight="{wt}">{t}</tspan>')
-            py = py + gap  # ueber dem Mini-Titel (richtung:)
+            extra = gap if n_dir else 0.0
+            py = py - extra / 2.0  # Abstand Mini-Titel/Schlagsatz, Block bleibt zentriert
             text = (f'<text x="0" y="0" '
                     f'transform="translate({px:.2f},{py:.2f}) '
                     f'rotate({ang:.2f})">{"".join(spans)}</text>')
@@ -1075,13 +967,15 @@ def build_a2(write_files=False, a2_page=False):
         local_arcs = build_arcs(la, lb, lc, lcentroid)
         local_verts = vertex_items(la, lb, lc, lcentroid)
 
+        labels, radial, blocks, labels_k, radial_k, blocks_k = yaml_arc_content()
+
         # Gesundheits-Inhalt in lokalen Koordinaten
         ges_labels, ges_radial, ges_radial_by_arc, ges_blocks = build_panel_content(
-            local_arcs, lcentroid, LABELS, RADIAL, BLOCKS, LABEL_NUDGE, BLOCK_NUDGE)
+            local_arcs, lcentroid, labels, radial, blocks, LABEL_NUDGE, BLOCK_NUDGE)
 
         # Krankheits-Inhalt (dm-01k … dm-09k)
         kra_labels, kra_radial, kra_radial_by_arc, kra_blocks = build_panel_content(
-            local_arcs, lcentroid, LABELS_KRANK, RADIAL_KRANK, BLOCKS_KRANK,
+            local_arcs, lcentroid, labels_k, radial_k, blocks_k,
             LABEL_NUDGE_KRANK, BLOCK_NUDGE_KRANK)
 
         # Leitprinzipien im Inneren (lokale Koordinaten, vor Font-Skalierung)
