@@ -67,7 +67,7 @@ felder:
     feld: 1
     richtung: "Geist -> Recht"
     pol: krank
-    titel: "Eine Weltsicht wird zum Gesetz"
+    titel: "Die Weltsicht wird zum Gesetz"
     aspekte:
       - schlagwort: Vorschrift
         schlagsatz: Die Überzeugung Einzelner wird zum Gesetz.
@@ -154,7 +154,7 @@ felder:
     feld: 2
     richtung: "Geist -> Wirtschaft"
     pol: krank
-    titel: "Glauben diktiert die Produktion"
+    titel: "Der Glaube diktiert die Produktion"
     aspekte:
       - schlagwort: Bedarfserfindung
         schlagsatz: Der Anbieter sucht nach einem Bedürfnis
@@ -852,142 +852,35 @@ felder:
     titel: "Die Wirtschaft kauft die Politik"
     aspekte:
       - schlagwort: Erpressung
-        schlagsatz: Das Fundament droht dem Haus.
+        schlagsatz: Wer Macht hat, droht dem Haus.
         text: >
-          Konzerne drohen mit Abwanderung, um Sonderregelungen,
-          Steuerbefreiungen oder die Absenkung von Sozialstandards zu
-          erzwingen — das Recht wird zum Verhandlungsobjekt. Die Abgabe, die
-          den Rechtsstaat tragen sollte, wird als Druckmittel eingesetzt:
-          Nicht der Beitrag verschafft Gewicht, sondern die Drohung, ihn zu
-          entziehen. Je größer der Zahler, desto lauter die Drohung — und
-          desto williger das Entgegenkommen: Gemeinden unterbieten einander
-          mit Gewerbesteuersätzen, Staaten konkurrieren um die niedrigsten
-          Standards, und wer am glaubwürdigsten gehen kann, diktiert den
-          Bleibenden die Bedingungen. Bezahlt wird das Entgegenkommen von
-          denen, die nicht drohen können: Der Handwerksbetrieb, die
-          Angestellte, die Bäckerei an der Ecke zahlen den vollen Satz und
-          tragen mit, was die Drohenden sich ersparen — sie sind an den Ort
-          gebunden, den der Konzern als Faustpfand hält. So kehrt sich das
-          Tragen um: Das Fundament trägt das Haus nicht mehr — es verhandelt
-          über die Statik und lässt gelegentlich spüren, dass es auch
-          nachgeben könnte.
-      - schlagwort: Lähmung
+          Konzerne drohen mit Abwanderung, um Sonderregelungen, Steuerbefreiungen oder die Absenkung von Sozialstandards zu erzwingen — das Recht wird zum Verhandlungsobjekt. Die Abgabe, die den Rechtsstaat tragen sollte, wird als Druckmittel eingesetzt: Nicht der Beitrag verschafft Gewicht, sondern die Drohung, ihn zu entziehen. Je größer der Zahler, desto lauter die Drohung — und desto williger das Entgegenkommen: Gemeinden unterbieten einander mit Gewerbesteuersätzen, Staaten konkurrieren um die niedrigsten Standards, Steueroasen bieten Briefkästen statt Standorte — und wer am glaubwürdigsten gehen kann, diktiert den Bleibenden die Bedingungen. Steiner nannte diese Konkurrenz zwischen Wirtschaftsgebieten eine Vorform des Krieges; sie beginnt beim Gewerbesteuersatz und geht über Sanktionen und Handelskriege bis zu militärischen Auseinandersetzungen. Bezahlt wird das Entgegenkommen von denen, die nicht drohen können: Der Handwerksbetrieb, die Angestellte, die Bäckerei an der Ecke zahlen den vollen Satz und tragen mit, was die Drohenden sich ersparen — sie sind an den Ort gebunden, den der Konzern als Faustpfand hält. So kehrt sich das Tragen um: Das Fundament trägt das Haus nicht mehr — es verhandelt über die Statik und lässt gelegentlich spüren, dass es auch nachgeben könnte.
+      - schlagwort: Machtspiel
         schlagsatz: Zu groß, um belangt zu werden.
         text: >
-          Wenn der Staat selbst auf die Steuereinnahmen oder Kredite großer
-          Wirtschaftsakteure angewiesen ist, fehlt ihm der Wille oder die
-          Kraft, gegen diese Akteure rechtlich vorzugehen. Die Bank, deren
-          Zusammenbruch das Land erschüttern würde, wird gerettet statt
-          bestraft; der Konzern, an dem eine Region hängt, wird geschont
-          statt geprüft; der Gläubiger, der die Anleihen hält, wird gefragt
-          statt verpflichtet. Die Werkzeuge der Geltung sind alle vorhanden —
-          Gerichte, Behörden, Paragraphen —, aber die Hand, die sie führen
-          müsste, gehorcht der Abhängigkeit: Man vollstreckt nicht gegen den,
-          von dem man lebt. So entsteht ein Recht mit Größenvorbehalt, das
-          nur noch nach unten durchgreift: Der Ladendieb wird verfolgt, der
-          Bilanzfälscher verglichen; die Schwarzfahrerin sitzt ein, der
-          Steuertrickser verhandelt. Die Gleichheit vor dem Gesetz endet
-          genau dort, wo die Abhängigkeit beginnt — und jeder im Land weiß
-          es. Nichts zersetzt den Rechtssinn gründlicher als Geltung, die
-          vor der Größe haltmacht.
-      - schlagwort: Schutzabbau
-        schlagsatz: Der Schutz fällt, damit die Rendite steht.
+          Wenn der Staat selbst auf die Steuereinnahmen oder Kredite großer Wirtschaftsakteure angewiesen ist, fehlt ihm der Wille oder die Kraft, gegen diese Akteure rechtlich vorzugehen. Die Bank, deren Zusammenbruch, durch Korruption verursacht wird, würde das Land erschüttern. Sie wird gerettet statt bestraft; der Konzern, an dem eine Region hängt, wird geschont statt geprüft; der Gläubiger, der die Anleihen hält, wird hofiert. Die Werkzeuge sind alle vorhanden — Gerichte, Behörden, Paragraphen —, aber die Hand, die sie führen müsste, gehorcht der Abhängigkeit: Man vollstreckt nicht gegen den, von dem man lebt. So entsteht ein Recht mit Größenvorbehalt, das nur noch nach unten durchgreift: Der Ladendieb wird bestraft, der Bilanzfälscher bekommt eine Abfindung; die Schwarzfahrerin sitzt ein, der Steuertrickser verhandelt – aber auch nur wenn es um Millionen geht. Die Gleichheit vor dem Gesetz endet genau dort, wo die Abhängigkeit beginnt — und jeder im Land weiß es. Verschärft wird das Machtspiel durch die juristische Person: Nicht ein Mensch haftet, sondern eine Rechtsform — und hinter ihr verschwindet die Verantwortung. Wer nicht persönlich haftet, droht leichter, verhandelt härter, und der Staat steht vor der Frage, wen er überhaupt belangen soll, wenn die Entscheidung in einem Vorstand fiel, der sich auf den Aufsichtsrat beruft, der sich auf den Markt beruft. Nichts zersetzt den Rechtssinn gründlicher als Geltung, die vor der Größe haltmacht.
+      - schlagwort: Sklaventum
+        schlagsatz: Der Mensch wird zum Posten in der Kalkulation.
         text: >
-          Wirtschaftsakteure erzwingen die Abschaffung von Schutzgesetzen —
-          Arbeitsrecht, Umweltrecht, Verbraucherschutz — mit dem Argument
-          der Wettbewerbsfähigkeit, tatsächlich aber, um Haftung und
-          Verantwortung zu umgehen. „Deregulierung" klingt nach Befreiung;
-          befreit wird aber nicht der Mensch vom Amt, sondern die Macht von
-          der Pflicht. Was als Bürokratieabbau firmiert, ist Schutzabbau:
-          Gestrichen wird nicht das überflüssige Formular, sondern die
-          Vorschrift, die den Schwächeren deckte — die Kündigungsfrist, der
-          Grenzwert, das Widerrufsrecht. Die Sicherung läuft damit
-          rückwärts: Gesund verwandelt sich wirtschaftlicher Überschuss in
-          rechtliche Gewissheit — dass keiner fällt, weil ihn niemand mehr
-          braucht. Hier verwandelt sich rechtliche Gewissheit zurück in
-          wirtschaftliches Risiko, das der Einzelne trägt: Der Kranke
-          verhandelt mit der Kasse, der Alte rechnet mit der Rente, der
-          Entlassene steht im Wettbewerb um seinen eigenen Schutz. Was jedem
-          zustand, weil er Mensch ist, muss sich wieder rechnen — und was
-          sich nicht rechnet, fällt.
+          Die Wirtschaft entscheidet eigenmächtig, wer wo arbeitet, wie lange und zu welchem Preis — obwohl Maß und Art der Arbeit dem Rechtsleben zustehen. Im gesunden Zustand werden die Arbeitsverhältnisse vor der Produktion vereinbart, auf dem Boden des Rechts: nicht als Gegenstand des Marktes, sondern als Voraussetzung, unter der überhaupt produziert werden darf. Hier vereinbart sie der Markt — nach Angebot und Nachfrage, als wäre menschliche Arbeitskraft eine Ware wie jede andere. Die Grenze, die das Recht ziehen müsste, zieht die Wirtschaft selbst und zieht sie zu ihren Gunsten: Sie bestimmt die Stunden, den Ort, den Lohn und die Bedingungen, unter denen ein Mensch seine Kraft hergeben muss, um zu leben. Wer seine Arbeitskraft verkauft, verkauft sich — denn die Kraft ist nicht vom Menschen zu trennen, der sie ausübt. Steiner nannte das die Grundkrankheit des sozialen Organismus: Solange Arbeit gekauft und verkauft wird wie ein Stück Stoff, ist der Mensch selbst zur Ware geworden — rechtlich frei und wirtschaftlich leibeigen.
+        zitate: []
+      - schlagwort: Schutzabbau
+        schlagsatz: Der Vorschrift fällt, damit die Rendite steigt.
+        text: >
+          Wirtschaftsakteure erzwingen die Abschaffung von Schutzgesetzen — Arbeitsrecht, Umweltrecht, Verbraucherschutz — mit dem Argument der Wettbewerbsfähigkeit, tatsächlich aber, um Haftung und Verantwortung zu umgehen, und um den Börsenkurs zu erhöhen. „Deregulierung" klingt nach Befreiung; befreit wird aber nicht der Mensch vom Amt, sondern die Macht von der Pflicht. Was als Bürokratieabbau firmiert, ist Schutzabbau: Gestrichen wird nicht das überflüssige Formular, sondern die Vorschrift, die den Schwächeren deckte — der Kündigungsschutz, der Grenzwert, das Widerrufsrecht. Die Sicherung läuft damit rückwärts: In einer gesunden Wirtschaft verwandelt sich Überschuss in rechtliche Gewissheit — dass keiner fällt, nur weil ihn niemand mehr braucht. Hier verwandelt sich rechtliche Gewissheit zurück in wirtschaftliches Risiko, das der Einzelne trägt: Der Kranke verhandelt mit der Kasse, der Alte rechnet mit der Rente, der Entlassene steht im Wettbewerb um seinen eigenen Schutz. Was jedem zustand, weil er Mensch ist, muss sich wieder rechnen — und was sich nicht rechnet, verfällt. Neben der offenen Abschaffung gibt es die leisere Strategie: das Geschäft so bauen, dass das Gesetz nicht greift. Plattformarbeit umgeht das Arbeitsrecht, Scheinselbstständigkeit das Sozialrecht, Software as a Service die Copyleft-Pflicht — man schafft den Schutz nicht ab, man baut um ihn herum, und das Ergebnis ist dasselbe.
       - schlagwort: Bestechung
         schlagsatz: Die Lieferung wird zur Anweisung.
         text: >
-          Bestechung von Richtern, Staatsanwälten oder Aufsichtsbehörden
-          sorgt dafür, dass Rechtsverstöße nicht verfolgt oder milde
-          geahndet werden. Damit kippt die Versorgung in ihr Gegenteil:
-          Gesund trägt die Wirtschaft die Träger des Rechts — ernährt,
-          kleidet, behaust sie — und trägt ihnen nichts auf. Hier sucht sich
-          die Zahlung den direkten Weg: nicht über Kassen und Besoldung,
-          durch die alle gleich versorgt werden, sondern an der Ordnung
-          vorbei in die Hand, die urteilen soll. Aus dem Unterhalt, der
-          unabhängig macht, wird der Umschlag, der abhängig macht; aus der
-          Lieferung, die keine Anweisung begründet, die Anweisung selbst. Ein
-          gekaufter Richter richtet nicht mehr — er liefert. Und jedes
-          gekaufte Urteil entwertet die ehrlichen mit: Wer einmal weiß, dass
-          Urteile käuflich sind, glaubt auch dem unbestochenen Richter nicht
-          mehr — die Bestechung muss gar nicht häufig sein, um das Vertrauen
-          flächendeckend zu zerstören. Gerichtet wird dann nicht mehr im
-          Namen des Volkes, sondern im Auftrag des Zahlers.
-      - schlagwort: Privatjustiz
-        schlagsatz: Die Wirtschaft liefert das Urteil gleich mit.
+          Das Ziel ist immer dasselbe: Richter, Staatsanwälte oder Aufsichtsbehörden sollen Rechtsverstöße nicht verfolgen oder nur milde ahnden. Der gröbste Weg dahin ist die Bestechung. Leiser wirkt die Drohung, oft genügt schon die Andeutung, dass man etwas weiß. Am unauffälligsten wirkt die Beziehung: der gemeinsame Golfclub, das Abendessen, die Gefälligkeit, über die niemand spricht und die doch jeder versteht. Am weitesten aber reicht die Drehtür: Der Aufseher von heute ist der Vorstand von morgen — und weiß es heute schon. Die milde Prüfung ist die Bewerbung für später; die Zahlung heißt Karriere und wird erst nach dem Ausscheiden fällig, wenn keine Vorschrift mehr greift. Niemand muss bestochen werden — die Aussicht genügt. Damit kippt die Versorgung in ihr Gegenteil: Gesund trägt die Wirtschaft die Träger des Rechts — ernährt, kleidet, behaust sie — und trägt ihnen nichts auf. Hier sucht sich die Zahlung den direkten Weg: nicht über Kassen und Besoldung, durch die alle gleich versorgt werden, sondern an der Ordnung vorbei in die Hand, die urteilen soll. Aus dem Unterhalt, der unabhängig macht, wird der Umschlag, der abhängig macht; aus der Lieferung, die keine Anweisung begründet, die Anweisung selbst. Ein gekaufter Richter richtet nicht mehr — er liefert. Und wer weiß, dass Urteile käuflich sind, glaubt auch dem unbestochenen Richter nicht mehr.
+      - schlagwort: Scheinrecht
+        schlagsatz: Die Wirtschaft schafft sich Recht, das nichts abbildet.
         text: >
-          Unternehmen zwingen Verbrauchern und Beschäftigten private
-          Schiedsgerichte auf, die ohne öffentliche Kontrolle und ohne
-          Rechtsmittel entscheiden; über Investitionsschutzklauseln
-          verklagen Konzerne ganze Staaten auf Schadensersatz, wenn diese
-          demokratisch beschlossene Gesetze erlassen. Die Lieferbeziehung
-          kehrt sich um: Gesund bestellt das Recht bei der Wirtschaft, was
-          es braucht — Gebäude, Fahrzeuge, Netze —, und beschließt selbst.
-          Hier liefert die Wirtschaft das Urteil gleich mit: Der Betrieb,
-          der nicht beschließen dürfte, richtet — im eigenen Verfahren, nach
-          eigenen Regeln, hinter verschlossenen Türen. Die Klausel im
-          Kleingedruckten ersetzt den Rechtsweg, und wer den Vertrag, die
-          Stelle oder die Plattform braucht, unterschreibt den Verzicht
-          gleich mit. Der Investitionsschutz dreht die Ordnung dann
-          vollends: Der Staat wird vor ein Gericht zitiert, das die
-          Wirtschaft bestellt hat, und zahlt Entschädigung dafür, dass er
-          getan hat, wozu er da ist — Recht setzen. Die Justiz wird zur
-          Dienstleistung; ihr Kunde ist, wer sie sich leisten kann.
-      - schlagwort: Drehtür
-        schlagsatz: Die Zeit ist frei — das Urteil ist es nicht.
-        text: >
-          Personal wechselt zwischen Konzernen und Kontrollbehörden — die
-          Regulierten stellen ihre eigenen Regulierer, und die Kontrolle
-          denkt in der Logik der Kontrollierten. Damit verkehrt sich die
-          Freistellung: Gesund gibt die Wirtschaft den Bürger auf Zeit frei;
-          er dient als Rechtsgenosse unter Gleichen, kehrt zurück, und die
-          Rollen bleiben getrennt — im Amt ist er nicht Arbeitskraft, im
-          Betrieb nicht Amtsträger. In der Drehtür verschmelzen die Rollen:
-          Der Aufseher von heute ist der Vorstand von morgen — und weiß es
-          heute schon. Die milde Prüfung von jetzt ist die Bewerbung für
-          später; zu streng sein verbaut den Wechsel. So muss niemand mehr
-          bestochen werden: Die Drehtür ist die legale Schwester der
-          Bestechung — die Zahlung heißt Karriere und wird erst nach dem
-          Ausscheiden fällig, wenn keine Vorschrift mehr greift. Zurück
-          bleibt eine Aufsicht, die ihre Schärfe verloren hat, bevor sie je
-          zugebissen hat: Man beißt nicht die Hand, die einen morgen
-          füttern soll.
+          Die Finanzwirtschaft erzeugt Rechtsansprüche, die kein reales Gut abbilden: Derivate, Futures, Verbriefungen — Forderungen auf Forderungen auf Forderungen, bis niemand mehr weiß, wer wem was schuldet. Gesund sichert das Recht Verträge zwischen Personen über Güter, die es gibt. Hier sichert es Wetten auf Wetten — und wenn die Wetten platzen, zahlt die Allgemeinheit. In der Finanzkrise waren die Geldautomaten leer, Überweisungen stockten, das Zahlungssystem stand still — nicht weil kein Geld da war, sondern weil die substanzlosen Titel die reale Liquidität aufgesogen hatten. Der Zins treibt den Mechanismus: Wer Geld verleiht, verlangt einen Preis für den bloßen Verzicht, und das Recht schützt dieses arbeitslose Einkommen wie jede andere Forderung. So wächst der Papierberg, während die Güter, auf die er sich beruft, gleich bleiben oder schwinden. Die Papiermacht erzeugt die Abhängigkeit, die in der Erpressung und im Machtspiel wiederkehrt: Wer die Titel hält, droht mit Kollaps, und der Staat rettet, weil das Papier „systemrelevant" geworden ist — nicht weil es etwas wert wäre, sondern weil sein Zusammenbruch alles andere mitrisse.
+        zitate: []
       - schlagwort: Lobbykauf
         schlagsatz: Wer zahlt, bestimmt doch.
         text: >
-          Wirtschaftliche Interessengruppen finanzieren Wahlkämpfe und
-          setzen eigene Gesetzentwürfe durch — das Recht dient nicht mehr
-          dem Gemeinwohl, sondern Partikularinteressen. Damit wird der
-          schwerste Beitrag verweigert: die Enthaltung. Die Wirtschaft gibt
-          nicht mehr, ohne mit der Gabe etwas zu erwerben — sie investiert.
-          Die Wahlkampfspende ist keine Schenkung, sondern eine Anzahlung;
-          der fertige Entwurf aus der Kanzlei keine Hilfestellung, sondern
-          eine Bestellung; der Termin im Ministerium kein Gespräch, sondern
-          eine Abnahme. So wird aus „Wer zahlt, bestimmt nicht" das
-          Gegenteil: Wer zahlt, bestimmt doch — nur leiser, früher und
-          gründlicher, nämlich schon im Entwurf. Und wie die Enthaltung alle
-          anderen Beiträge gesund machte, vergiftet ihr Bruch alle anderen:
-          Das Tragen wird zur Leine, der Ertrag zur Erpressung, die
-          Versorgung zur Bestechung, die Aufsicht zur Drehtür. Die
-          Unbestechlichkeit des Rechts war eine Frage der Ordnung, nicht
-          des Charakters — ist die Ordnung selbst gekauft, hilft auch kein
-          Charakter mehr.
+          Wirtschaftliche Interessengruppen finanzieren Wahlkämpfe und setzen eigene Gesetzentwürfe durch — das Recht dient nicht mehr dem Gemeinwohl, sondern Einzelinteressen. Die Wirtschaft gibt nicht mehr, ohne mit der Gabe etwas zu erwerben — sie investiert. Die Wahlkampfspende ist keine Schenkung, sondern eine Anzahlung; der fertige Entwurf aus der Kanzlei keine Hilfestellung, sondern eine Bestellung; der Termin im Ministerium kein Gespräch, sondern eine Abnahme. So wird aus „Wer zahlt, bestimmt nicht" das Gegenteil: Wer zahlt, bestimmt doch — nur leiser, früher und gründlicher, nämlich schon im Entwurf. Die Trennung von Zahlen und Bestimmen machte alle anderen Beiträge gesund; fällt sie, kippen sie alle mit: Der Ertrag wird zur Erpressung, die Durchsetzung zur Lähmung, die Sicherung zum Schutzabbau, die Versorgung zur Bestechung, die Lieferung zur Privatjustiz, die Freistellung zur Drehtür. Die Unbestechlichkeit des Rechts war eine Frage der Ordnung, nicht des Charakters — ist die Ordnung selbst gekauft, hilft auch kein Charakter mehr.
 
   # ══════════════════════════════════════════════════════════════════════
   # FELD 6 — WIRTSCHAFT → GEIST
