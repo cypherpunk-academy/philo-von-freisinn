@@ -153,6 +153,13 @@ BLOCK_SIDE = {
     0: "left", 1: "left", 3: "left",
 }
 LABEL_TITLE_MAX_W = 160.0
+TITLE_WRAP = {
+    "dm-01g": ["Sachkenntnis prägt", "das Recht"],
+    "dm-01k": ["Die Weltsicht wird", "zum Gesetz"],
+    "dm-02k": ["Der Glaube diktiert", "die Produktion"],
+    "dm-05g": ["Die Wirtschaft", "trägt den Staat"],
+    "dm-06g": ["Die Wirtschaft", "versorgt den Geist"],
+}
 
 RADIAL_REVERSE = False
 
@@ -339,10 +346,12 @@ def yaml_arc_content():
         gid, kid = ARC_FIELD[idx]
         prefix = DIRECTION_PREFIX[idx]
         g, k = fields[gid], fields[kid]
-        labels_g.append(
-            prefix + wrap_line(g["titel"], FONT_SIZE, LABEL_TITLE_MAX_W, bold=True))
-        labels_k[idx] = (
-            prefix + wrap_line(k["titel"], FONT_SIZE, LABEL_TITLE_MAX_W, bold=True))
+        g_title = TITLE_WRAP.get(gid) or wrap_line(
+            g["titel"], FONT_SIZE, LABEL_TITLE_MAX_W, bold=True)
+        k_title = TITLE_WRAP.get(kid) or wrap_line(
+            k["titel"], FONT_SIZE, LABEL_TITLE_MAX_W, bold=True)
+        labels_g.append(prefix + g_title)
+        labels_k[idx] = prefix + k_title
         if idx in BLOCK_SIDE:
             if len(g["aspects"]) != 7 or len(k["aspects"]) != 7:
                 raise SystemExit(

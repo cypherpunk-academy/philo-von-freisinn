@@ -175,6 +175,7 @@ FAN_GROUPS = {
         "arc": 7, "open": "left", "y_mode": "top_at_sibling_center",
         "relative_to": "dm-03k",
         "x_shift": 1280.0,
+        "heading_lines": ["Die Weltsicht wird", "zum Gesetz"],
     },
     "dm-02k": {
         "panel": "kra", "side": "right",
@@ -186,6 +187,7 @@ FAN_GROUPS = {
         "x_shift": 780.0,
         "x_shift_text_frac": -0.2,   # spiegelbildlich zu dm-06k (+0.2)
         "heading_x": "first_block",
+        "heading_lines": ["Der Glaube diktiert", "die Produktion"],
     },
     # --- Gesundheit links ---
     "dm-04g": {
@@ -195,7 +197,7 @@ FAN_GROUPS = {
         "heading_gap_ref": ("dm-06k", "dm-04k"),
         "heading_room": True,
         "y_shift_heading_lh": 0.5,
-        "y_shift_block": 2,  # zwei Textblöcke nach unten
+        "y_shift_block": 1.5,  # 2 − halbe Texthöhe (~10 Zeilen) nach oben
         "x_shift": 1280.0,
         "heading_x": "first_block",
         "heading_x_frac": 1.0,   # rechter Textrand
@@ -205,11 +207,13 @@ FAN_GROUPS = {
         "panel": "ges", "side": "left",
         "arc": 1, "open": "left", "y_mode": "top_at_sibling_center",
         "relative_to": "dm-04g",
-        "y_shift_block": 1,  # eine Textbox-Höhe nach oben (gegenüber 2)
+        "y_shift_block": 1.5,  # bleibt stehen, wenn dm-04g um 0.5 nach oben geht
         "x_shift": 780.0,
-        "x_shift_text_frac": 0.15,   # 15 % Textbreite nach rechts (ohne Überschrift)
-        "heading_x_compensate_text_frac": True,
-        "heading_align": "end",  # rechtsbündig; „den Staat“ bleibt stehen
+        "x_shift_text_frac": 0.15,   # 15 % Textbreite nach rechts
+        "heading_x": "first_block",
+        "heading_x_frac": 0.0,   # linker Textrand
+        "heading_align": "text-start",  # linksbündig mit dem Text
+        "heading_lines": ["Die Wirtschaft", "trägt den Staat"],
     },
     "dm-06g": {
         "panel": "ges", "side": "left",
@@ -218,9 +222,11 @@ FAN_GROUPS = {
         "heading_room": True,
         "v_align": "top",
         "y_shift_heading_lh": 1.0,
+        "y_shift_block": 0.5,  # bleibt stehen, wenn dm-04g um 0.5 nach oben geht
         "x_shift": 1280.0,
         "x_shift_text_frac": -0.2,   # 20 % Textbreite nach links
         "heading_x": "first_block",
+        "heading_lines": ["Die Wirtschaft", "versorgt den Geist"],
     },
     # --- Gesundheit rechts (spiegelbildlich zu 04/05/06g) ---
     "dm-03g": {
@@ -243,6 +249,7 @@ FAN_GROUPS = {
         "x_shift": 780.0,
         "x_shift_text_frac": -0.15,  # spiegelbildlich zu dm-05g (+0.15)
         "heading_x_compensate_text_frac": True,
+        "heading_lines": ["Sachkenntnis prägt", "das Recht"],
     },
     "dm-02g": {
         "panel": "ges", "side": "right",
