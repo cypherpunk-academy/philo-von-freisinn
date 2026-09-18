@@ -172,7 +172,12 @@ BLOCK_NUDGE_KRANK = {
     6: (0, -150),
 }
 
-VERTEX_LABELS = ["Politik und Recht", "Wirtschaft", "Kultur/Geist"]
+VERTEX_LABELS = [
+    ["Politik und", "Recht"],
+    "Wirtschaft",
+    "Kultur/Geist",
+]
+VERTEX_LH = 1.05  # Zeilenabstand mehrzeiliger Vertex-Labels
 
 # Leitprinzipien im Inneren (Wirtschaft, Kultur/Geist, Recht)
 INNER_KRANK = ("Wettbewerb", "Leere Worte", "Vorrechte")
@@ -604,6 +609,12 @@ def nudge_blocks_lh(blocks, lh_map, lh):
     return out
 
 
+def vertex_lines(txt):
+    if isinstance(txt, (list, tuple)):
+        return list(txt)
+    return [txt]
+
+
 def vertex_items(a, b, c, centroid):
     items = []
     for V, txt in zip((a, b, c), VERTEX_LABELS):
@@ -711,9 +722,13 @@ def panel_extent(arcs, radial_by_arc, block_items, verts, a, b, c):
             xs += [px, end[0]]
             ys += [py - RAD_FONT, py + RAD_FONT, end[1] - RAD_FONT, end[1] + RAD_FONT]
     for (px, py), txt in verts:
-        hw = 0.30 * V_FONT_SIZE * len(txt)
+        lines = vertex_lines(txt)
+        longest = max(lines, key=len)
+        hw = 0.30 * V_FONT_SIZE * len(longest)
+        n = len(lines)
+        half_h = V_FONT_SIZE * 0.7 + max(0, n - 1) * V_FONT_SIZE * VERTEX_LH / 2.0
         xs += [px - hw, px + hw]
-        ys += [py - V_FONT_SIZE * 0.7, py + V_FONT_SIZE * 0.7]
+        ys += [py - half_h, py + half_h]
     for arc in arcs:
         center, chord, bulge, n, off = arc
         for p in arc_points(center, chord, bulge, off, n):
@@ -952,7 +967,18 @@ def render_panel(out, gid, a, b, c, arcs, verts,
                f'fill="{TXT_COLOR}" text-anchor="middle" '
                f'dominant-baseline="central" letter-spacing="2">')
     for (px, py), txt in verts:
-        out.append(f'      <text x="{px:.2f}" y="{py:.2f}">{txt}</text>')
+        lines = vertex_lines(txt)
+        if len(lines) == 1:
+            out.append(f'      <text x="{px:.2f}" y="{py:.2f}">{lines[0]}</text>')
+            continue
+        lh = V_FONT_SIZE * VERTEX_LH
+        start_y = py - (len(lines) - 1) * lh / 2.0
+        out.append(f'      <text x="{px:.2f}" y="{start_y:.2f}">')
+        for i, line in enumerate(lines):
+            y = start_y + i * lh
+            out.append(
+                f'        <tspan x="{px:.2f}" y="{y:.2f}">{line}</tspan>')
+        out.append('      </text>')
     out.append('    </g>')
     out.append('  </g>')
 

@@ -89,7 +89,7 @@ felder:
       - schlagwort: Vorverurteilung
         schlagsatz: Das Urteil fällt ohne Verfahren.
         text: >
-          Eine Gemeinschaft findet etwas heraus und legt es auf den Tisch — das ist ihr gutes Recht, so arbeitet die Kultursphäre. Aber sie an der Stelle nicht stehen: Aus dem Offenlegen wird ein Urteil, aus dem Urteil eine Verfolgung, dann eine Strafe: Ausschluss, Entzug der Arbeit, Vernichtung des Namens. Ein Name fällt nach einem Shitstorm von der einen Seite, nach einer Denunziation von der anderen — die Lager wechseln, das Verfahren bleibt aus. Niemand hat geladen, niemand gehört, niemand die Verhältnismäßigkeit geprüft. Die Überzeugung vollstreckt selbst, was sie erkannt zu haben glaubt. Dabei bleibt gleichgültig, ob der Vorwurf zutrifft — auch der Schuldige hat ein Verfahren verdient, sonst hat es niemand.
+          Eine Gemeinschaft findet etwas heraus und legt es auf den Tisch — das ist ihr gutes Recht, so arbeitet die Kultursphäre. Aber sie bleibt an der Stelle nicht stehen: Aus dem Offenlegen wird ein Urteil, aus dem Urteil eine Verfolgung, dann eine Strafe: Ausschluss, Entzug der Arbeit, Vernichtung des Namens. Ein Name fällt nach einem Shitstorm von der einen Seite, nach einer Denunziation von der anderen — die Lager wechseln, das Verfahren bleibt aus. Niemand hat geladen, niemand gehört, niemand die Verhältnismäßigkeit geprüft. Die Überzeugung vollstreckt selbst, was sie erkannt zu haben glaubt. Dabei bleibt gleichgültig, ob der Vorwurf zutrifft — auch der Schuldige hat ein Verfahren verdient, sonst hat es niemand.
       - schlagwort: Expertokratie
         schlagsatz: Experten entscheiden, Bürger schauen zu.
         text: >
@@ -97,7 +97,7 @@ felder:
       - schlagwort: Desinformation
         schlagsatz: Macht verkleidet die Lüge als Wahrheit.
         text: >
-          Das kranke Geistesleben liefert dem Rechtsleben nicht Wahrheit, sondern kontrollierte Information: Geheimdienstberichte, die niemand prüfen darf, Deutungen, die als Tatsachen auftreten, Gutachten von Experten, deren Auftraggeber ihr Ergebnis bezahlt. Das Recht urteilt dann auf einer Grundlage, die es nicht durchschauen kann — und die Bürger erst recht nicht. Damit ist die tiefste Schicht getroffen: Wo die Informationsgrundlage vergiftet ist, kann sich kein Rechtssinn bilden. Wer aus Einsicht handeln wollte, findet nichts, worin er Einsicht gewinnen könnte; ihm bleiben nur Glauben oder Gehorsam. Und wie auf der gesunden Seite der Rechtssinn das tragende Fundament aller anderen Aspekte ist, ist die Desinformation das Fundament aller anderen Pathologien: Die Vorschrift braucht sie, die Verhaltensnorm stützt sich auf sie, die Scheinprüfung produziert sie, die Verklausulierung schützt sie, die Ächtung verteidigt sie, die Expertokratie verwaltet sie. Ein Recht auf vergifteter Grundlage kann nur noch gehorchen lassen — überzeugen kann es nicht mehr.
+          Das kranke Geistesleben liefert dem Rechtsleben nicht Wahrheit, sondern kontrollierte Information: Geheimdienstberichte, die niemand prüfen darf, Deutungen, die als Tatsachen auftreten, Gutachten von Experten, deren Auftraggeber ihr Ergebnis bezahlt. Das Recht urteilt dann auf einer Grundlage, die es nicht durchschauen kann — und die Bürger erst recht nicht. Damit ist die tiefste Schicht getroffen: Wo die Informationsgrundlage vergiftet ist, kann sich kein Rechtssinn bilden. Wer aus Einsicht handeln wollte, findet nichts, worin er Einsicht gewinnen könnte; ihm bleiben nur Glauben oder Gehorsam. Und wie auf der gesunden Seite der Rechtssinn das tragende Fundament aller anderen Aspekte ist, ist die Desinformation das Fundament aller anderen Pathologien: Die Vorschrift braucht sie, die Verhaltensnorm stützt sich auf sie, die Scheinprüfung produziert sie, die Wortverstrickung schützt sie, die Vorverurteilung verteidigt sie, die Expertokratie verwaltet sie. Ein Recht auf vergifteter Grundlage kann nur noch gehorchen lassen — überzeugen kann es nicht mehr.
           
   # ══════════════════════════════════════════════════════════════════════
   # FELD 2 — GEIST → WIRTSCHAFT
@@ -199,101 +199,37 @@ felder:
       - schlagwort: Freiheit
         schlagsatz: Niemand greift dir ins Denken.
         text: >
-          Das Rechtsleben schützt deine innere Freiheit nach zwei Seiten: gegen
-          staatliche Bevormundung und gegen wirtschaftlichen Druck. Es sorgt
-          dafür, dass keiner dem anderen seine Gedanken aufzwingt und keiner
-          dem anderen seine Arbeitskraft unterwirft. Dabei bestimmt es keine
-          Inhalte — es schafft nur den äußeren Schutzraum, in dem geistige
-          Arbeit ungehindert geschehen kann. Was du denkst, erkennst und
-          gestaltest, bleibt allein dir und dem freien Geistesleben überlassen.
-          So ist die Freiheit, die das Geistesleben braucht, kein Privileg, das
-          es sich selbst verleiht, sondern ein garantiertes Recht: Das
-          Rechtsleben stellt sie nicht her — es gibt sie frei.
+          Das Rechtsleben schützt deine innere Freiheit nach zwei Seiten: gegen staatliche Bevormundung und gegen wirtschaftlichen Druck. Es sorgt dafür, dass keiner dem anderen seine Gedanken aufzwingt und keiner dem anderen seine Arbeitskraft unterwirft. Dabei bestimmt es keine Inhalte — es schafft nur den äußeren Schutzraum, in dem geistige Arbeit ungehindert geschehen kann. Was du denkst, erkennst und gestaltest, bleibt allein dir und dem freien Geistesleben überlassen. So ist die Freiheit, die das Geistesleben braucht, kein Privileg, das es sich selbst verleiht, sondern ein garantiertes Recht: Das Rechtsleben stellt sie nicht her — es gibt sie frei.
         zitate: []
       - schlagwort: Zugang
         schlagsatz: Wissen ist Anspruch, nicht Entgegenkommen.
         text: >
-          Das Rechtsleben sichert jedem Kind und jedem Jugendlichen Schule und
-          Studium — nicht als Pflicht, sondern als Anspruch: etwas, das jedem
-          zusteht, weil er Mensch ist, unabhängig von Herkunft und Besitz.
-          Ebenso sichert es den Zugang zu allen Informationen, die für ein
-          eigenes Urteil nötig sind: über politisches Handeln, über die
-          Herstellung der Dinge, die du verwendest, über das, was der Staat
-          weiß. Wo sofortige Freigabe nicht möglich ist, sind Verzögerungen
-          begrenzt — Wochen, nicht Monate. Das Recht verleiht kein Wissen, es
-          öffnet nur die Tür; was aus dem Zugang wird, entscheidet das freie
-          Geistesleben.
+          Das Rechtsleben sichert jedem Kind und jedem Jugendlichen Schule und Studium — nicht als Pflicht, sondern als Anspruch: etwas, das jedem zusteht, weil er Mensch ist, unabhängig von Herkunft und Besitz. Und nicht einmal Eltern dürfen dem Kind das verweigern. Ebenso sichert es den Zugang zu allen Informationen, die für ein eigenes Urteil nötig sind: über politisches Handeln, über die Herstellung der Dinge, die du verwendest, über das, was der Staat weiß. Wo sofortige Freigabe nicht möglich ist, sind Verzögerungen begrenzt — Wochen, nicht Monate. Darüber hinaus sichert es die Einsicht in die Funktionsweise dessen, was das Zusammenleben bestimmt: Gesetze, Urteile, Baupläne, Diagnosen, Algorithmen müssen in ihrem Wirken verstehbar und veränderbar sein — denn was verschlossen bleibt, entzieht sich der Prüfung und damit der Verbesserung. Das Recht verleiht kein Wissen, es öffnet die Tür und macht sichtbar, was dahinter geschieht; was aus dem Zugang wird, entscheidet das freie Geistesleben.
         zitate: []
       - schlagwort: Chancen
         schlagsatz: Gleiche Voraussetzung für die eigene Entfaltung.
         text: >
-          Was im Geistesleben als Entfaltung geschieht, sichert das Rechtsleben
-          als Bedingung: gleiche Zugangschancen zu Bildung und Kultur,
-          unabhängig von Herkunft oder Einkommen. Fähigkeiten meint dabei alle
-          Kräfte der Seele — handwerkliche, künstlerische, organisatorische,
-          technische, soziale. Der Unterschied zum Zugang liegt in der
-          Richtung: Zugang öffnet die Tür, Chancen ebnen den Weg dahinter —
-          dass du nicht nur hineingelangst, sondern darin auch vorankommst.
-          Das Recht gleicht die Startbedingungen aus, nicht die Ergebnisse:
-          Es wahrt die Gleichheit der Voraussetzungen, das Geistesleben die
-          Verschiedenheit der Entfaltung.
+          Was im Geistesleben als Entfaltung geschieht, sichert das Rechtsleben als Bedingung: gleiche Zugangschancen zu Bildung und Kultur, unabhängig von Herkunft oder Einkommen. Fähigkeiten meint dabei alle Kräfte der Seele — handwerkliche, künstlerische, organisatorische, technische, soziale. Der Unterschied zum Zugang liegt in der Richtung: Zugang öffnet die Tür, Chancen ebnen den Weg dahinter — dass du nicht nur hineingelangst, sondern darin auch vorankommst. Das Recht gleicht die Startbedingungen aus, nicht die Ergebnisse: Es wahrt die Gleichheit der Voraussetzungen, das Geistesleben die Verschiedenheit der Entfaltung.
         zitate: []
       - schlagwort: Schenkung
-        schlagsatz: Die Wirtschaft muss geben, ohne zu diktieren.
+        schlagsatz: Aufgabe der Wirtschaft ist geben, ohne zu diktieren.
         text: >
-          Bildungs- und Kultureinrichtungen sind dem Markt entzogen. Ihre
-          Finanzierung kommt aus den Überschüssen des assoziativ organisierten
-          Wirtschaftslebens; das Rechtsleben sichert diesen Mittelzufluss
-          rechtlich. Die Schenkung ist dabei keine Gnade, sondern strukturelle
-          Notwendigkeit: Sie sorgt dafür, dass Überschüsse nicht in Grund und
-          Boden stauen, sondern dem Geistesleben zufließen. Hier liegt die
-          Übergabe: Mit der Sicherung der Mittel endet die Zuständigkeit des
-          Rechts — wohin sie fließen, entscheidet das Geistesleben allein. So
-          wie das fertige Gesetz vom Geistesleben ins Recht übergeht, gehen
-          die gesicherten Mittel vom Recht ins Geistesleben über.
+          Bildungs- und Kultureinrichtungen sind dem Markt entzogen. Ihre Finanzierung kommt aus den Überschüssen des assoziativ organisierten Wirtschaftslebens; das Rechtsleben sichert diesen Mittelzufluss rechtlich. Die Schenkung ist dabei keine Gnade, sondern strukturelle Notwendigkeit: Sie sorgt dafür, dass Überschüsse sich nicht in Grund und Boden stauen, sondern dem Geistesleben zufließen. Hier liegt die Übergabe: Mit der Sicherung der Mittel endet die Zuständigkeit des Rechts — wohin sie fließen, entscheidet das Geistesleben allein. So wie das fertige Gesetz vom Geistesleben ins Recht übergeht, gehen die gesicherten Mittel vom Recht ins Geistesleben über.
         zitate: []
-      - schlagwort: Offenheit
-        schlagsatz: Quelloffen, kopierbar, verwendbar.
+      - schlagwort: Schutzraum
+        schlagsatz: Was reift, braucht Stille.
         text: >
-          Was das Geistesleben hervorbringt — Gesetze, Urteile, Baupläne,
-          Diagnosen, Algorithmen — muss in seiner Funktionsweise verstehbar
-          und veränderbar sein. Denn was verschlossen bleibt, entzieht sich
-          der Prüfung und damit der Verbesserung. Das Rechtsleben sichert
-          darum mehr als den Zugang zu Informationen: das Recht auf Einsicht
-          in die Funktionsweise dessen, was das Zusammenleben bestimmt.
-          Geschützt bleibt allein die Privatsphäre des Einzelnen — als Grenze,
-          nicht als Ausnahme. Erst diese Offenheit macht den Einwand möglich,
-          den das Geistesleben pflegt: Wer verbessern soll, muss sehen können.
+          Das Rechtsleben schützt den inneren Raum des Einzelnen: den Brief, das Gespräch unter vier Augen, den Entwurf, der noch irren darf. Privatsphäre ist keine Ausnahme von der Offenheit, sondern ihr Gegenstück — die Grenze, an der die Zuständigkeit des Rechts nach innen endet. Gläsern ist der Staat, geschützt der Bürger: Das Recht sorgt dafür, dass niemand mitliest, mithört oder aufzeichnet, was nicht für andere bestimmt ist. Verschlüsselung, Briefgeheimnis und Vertraulichkeit sind keine Zugeständnisse — sie sind Rechte, die das Geistesleben braucht, weil ein Gedanke das Unbeobachtete braucht, um zu reifen. Die Grenze liegt dort, wo etwas öffentlich wird: Erst wer seinen Beitrag einbringt, tritt ins Offene; das Denken davor gehört ihm allein.
         zitate: []
       - schlagwort: Richten
         schlagsatz: Persönliches Richten ohne Vorgabe.
         text: >
-          Dass Richter aus Sachkenntnis und persönlichem Zutrauen wirken, ist
-          eine innere Angelegenheit des Geisteslebens: Das Richten entspringt
-          der Urteilskraft des Einzelnen, nicht einer staatlichen Vorgabe. Das
-          Rechtsleben schafft dafür nur den Rahmen — es schützt das Richten
-          vor staatlichen Weisungen und wirtschaftlichen Abhängigkeiten. Was
-          es dann hinzufügt, kann das Geistesleben nicht selbst leisten: die
-          Geltung. Ein Urteil, das nur kraft persönlichen Zutrauens gilt,
-          bände nur die Beteiligten; das Rechtsleben macht es für alle
-          verbindlich und sorgt dafür, dass es vollzogen wird — auch gegenüber
-          denen, die den Richter nicht gewählt haben. So bleibt das Richten
-          eine freie geistige Tat, die im Rechtsleben ihre äußere Geltung
-          findet: Der Geist urteilt, das Recht trägt das Urteil.
+          Dass Richter aus Sachkenntnis und persönlicher Kenntnis des Angeklagten wirken, ist eine innere Angelegenheit des Geisteslebens: Der Richter ist vom Gerichteten vor der Zeit der Anklage selbst gewählt. Das Richten entspringt der begründeten Urteilskraft des Einzelnen, nicht einer staatlichen Vorgabe. Das Rechtsleben schafft dafür nur den Rahmen — es schützt das Richten vor staatlichen Weisungen und wirtschaftlichen Abhängigkeiten. Was es dann hinzufügt, kann das Geistesleben nicht selbst leisten: die Geltung. Das Rechtsleben macht es für alle verbindlich und sorgt dafür, dass es vollzogen wird — auch gegenüber denen, die den Richter nicht gewählt haben. So bleibt das Richten eine freie geistige Tat, die im Rechtsleben ihre äußere Geltung findet: Der Geist urteilt, das Recht trägt das Urteil. Und so kehrt das Richten zurück zu seinen Ursprüngen: dem Richten im Sinne von Berichtigen.
         zitate: []
       - schlagwort: Mitreden
         schlagsatz: Kein Einwand geht verloren.
         text: >
-          Das Geistesleben lebt vom Einwand, von der Korrektur, vom
-          Widerspruch — wer etwas verbessern will, muss gehört werden können.
-          Darum garantiert das Rechtsleben jedem das Recht, Ergebnisse des
-          Geisteslebens dauerhaft zu kommentieren und Verbesserungen
-          vorzuschlagen — ohne Vorprüfung der Beiträge. Ein Archiv urteilt
-          nicht, es sammelt: Es erfasst die Beiträge formal, bündelt sie
-          technisch und macht sichtbar, was viele bewegt, ohne zu entscheiden,
-          was richtig ist. Was der Rechtssinn von innen leistet, leistet
-          dieses Recht von außen: Es hält das Geistesleben in Bewegung, damit
-          es nicht erstarrt.
+          Das Geistesleben lebt vom Einwand, von der Korrektur, vom Widerspruch — wer etwas verbessern will, muss gehört werden können. Darum garantiert das Rechtsleben jedem das Recht, Ergebnisse des Geisteslebens dauerhaft zu kommentieren und Verbesserungen vorzuschlagen — ohne Vorprüfung der Beiträge. Ein Archiv urteilt nicht, es sammelt: Es erfasst die Beiträge formal, bündelt sie technisch und macht sichtbar, was viele bewegt, ohne zu entscheiden, was richtig ist. Wer öffentlich einbringt, zeichnet mit seinem Namen — nicht weil der Staat es wissen will, sondern weil Verantwortung zur Freiheit gehört: Erst die Autorschaft macht den Einwand verbindlich und den Beitrag zurechenbar. Die Pflicht gilt für das, was jemand öffentlich einbringt, nie für das Denken davor — der Entwurf, der noch irren darf, bleibt geschützt. Was der Rechtssinn von innen leistet, leistet dieses Recht von außen: Es hält das Geistesleben in Bewegung, damit es nicht erstarrt.
         zitate: []
   
   - id: dm-03k
@@ -305,7 +241,7 @@ felder:
       - schlagwort: Vorgabe
         schlagsatz: Der Plan greift dir ins Denken.
         text: >
-          Lehrinhalte werden nicht in der Begegnung mit den Schülern und Studenten gefunden, sondern verordnet. Der Lehrplan legt fest, was ein Kind in welchem Jahr zu wissen hat — bevor der Lehrer dieses Kind je angeschaut hat. Manche Inhalte sind hundert Jahre alt und werden weitergereicht, weil sie im Plan stehen; niemand fragt mehr, ob sie noch tragen. Der Lehrer wird zum Vollzugsorgan von Papier, die Begegnung zur Durchführung, das Schuljahr zum Abarbeiten. Das Rechtsleben, das nur den äußeren Schutzraum schaffen soll, bestimmt hier die Inhalte selbst — es greift in das hinein, was allein zwischen Lehrendem und Lernendem entstehen kann. Was du denkst, lernst und für wichtig hältst, steht fest, bevor du zu denken begonnen hast. Der Schutzraum, den das Recht gewähren sollte, wird zur Anstalt: Die Freiheit, die es freigeben müsste, verwaltet es — und nennt die Verwaltung Bildung.
+          Lehrinhalte werden nicht in der Begegnung mit den Schülern und Studenten gefunden, sondern verordnet. Der Lehrplan legt fest, was ein Kind in welchem Jahr zu wissen hat — bevor der Lehrer dieses Kind je angeschaut hat. Manche Inhalte sind hundert Jahre alt und werden weitergereicht, weil sie im Plan stehen; niemand fragt mehr, ob sie noch tragen. Zum Beispiel wird die Mathematik der höheren Klassen nirgends im Leben gebraucht, Programmieren von Apps aber durchaus. Der Lehrer wird zum Vollzugsorgan von Papier, die Begegnung zur Durchführung, das Schuljahr zum Abarbeiten. Das Rechtsleben, das nur den äußeren Schutzraum schaffen soll, bestimmt hier die Inhalte selbst — es greift in das hinein, was allein zwischen Lehrendem und Lernendem entstehen kann. Der Schutzraum, den das Recht gewähren sollte, wird zur Anstalt: Die Freiheit, die es freigeben müsste, verwaltet es — und nennt die Verwaltung Bildung.
         zitate:
           - >
             Niemand gibt Vorschriften, der nicht gleichzeitig selbst im
@@ -316,15 +252,15 @@ felder:
       - schlagwort: Vorenthaltung
         schlagsatz: Wissen ist Entgegenkommen — kein Anspruch.
         text: >
-          Was der Staat weiß, behandelt er als sein Eigentum. Auskunft wird zum Gnadenakt: Wer wissen will, was mit öffentlichen Mitteln, in öffentlichem Auftrag, über ihn selbst entschieden wurde, stellt Anträge, zahlt Gebühren, wartet Fristen ab, die verstreichen, und erhält am Ende Geschwärztes. Aus Wochen werden Monate, aus Monaten Jahre — die Verzögerung ist keine Panne, sondern Methode: Was zu spät kommt, kann nichts mehr ändern. Auch Bildung wird nicht als Anspruch behandelt, der jedem zusteht, weil er Mensch ist, sondern als Leistung, die gewährt, bemessen und entzogen werden kann. Der Bürger muss sich dem Staat gegenüber restlos erklären — der Staat dem Bürger gegenüber nicht. Wer beharrlich fragt, macht sich verdächtig. Die Tür, die das Recht öffnen sollte, bewacht es; und es entscheidet selbst, wer würdig ist, hindurchzugehen.
+          Was der Staat weiß, behandelt er als sein Eigentum. Auskunft wird zum Gnadenakt: Wer wissen will, was mit öffentlichen Mitteln, in öffentlichem Auftrag, über ihn selbst entschieden wurde, stellt Anträge, zahlt Gebühren, wartet Fristen ab, die verstreichen, und erhält am Ende Geschwärztes. Aus Wochen werden Monate, aus Monaten Jahre — die Verzögerung ist keine Panne, sondern Methode: Was zu spät kommt, kann nichts mehr ändern. Auch Bildung wird nicht als Anspruch behandelt, der jedem zusteht, weil er Mensch ist, sondern als Leistung, die gewährt, bemessen und entzogen werden kann. Verborgen bleibt nicht nur, was geschah, sondern auch, wie entschieden wird: nach welchen Maßstäben eine Behörde urteilt, warum ein Antrag abgelehnt wurde, wie ein Algorithmus sortiert — Dienstgeheimnis, Betriebsgeheimnis, „interner Vorgang". Sperrfristen reichen über die Lebenszeit der Beteiligten hinaus; Ausschüsse werden belogen; was für die Öffentlichkeit ist, bleibt verschlossen. Das Erkennen lebt vom Wirklichen — es kann nur verarbeiten, was ihm gegeben wird. Die Tür, die das Recht öffnen sollte, bewacht es — und das Denken hungert, ohne zu merken, dass es hungert.
       - schlagwort: Vermessung
         schlagsatz: Gleiches Raster für verschiedene Menschen.
         text: >
-          Die Verwaltung will alle Schulen aneinander angleichen: Vergleichbarkeit, Vermessung, einheitliche Module, Punkte, Raster, Abschlüsse. Was im Rechtsleben Tugend ist — Gleichheit, Verlässlichkeit, Ordnung — wird im Geistesleben zum Gift: Die Ideale der einen Sphäre zerstören die Freiheit der anderen. Geprüft wird entsprechend: gleiche Fragen für alle, ausgedachte Aufgaben statt Lebensprüfung, feste Zeit, keine Hilfsmittel — und vor allem keine Zusammenarbeit, obwohl sie das Wichtigste im sozialen Miteinander ist; hier heißt sie Betrug. Ob ein Mensch etwas verstanden hat, zeigt sich daran, was er damit im Leben anfangen kann — im Werkstück, im Gespräch, in der bewältigten Situation. Stattdessen zeigt die Prüfung nur, wie gut einer für Prüfungen trainiert. Dahinter steckt ein tieferer Fehler: Im Geistesleben darf nicht abgestimmt werden — Fähigkeit ist nicht mehrheitsfähig, und sie wird es nicht dadurch, dass man sie zur Wahl stellt; wer über einen Lehrplan, eine Diagnose oder ein Forschungsergebnis entscheidet, muss es beurteilen können, nicht nur darüber abstimmen dürfen. So kippt die Gleichheit der Voraussetzungen in die Gleichheit der Formen: Gemessen wird nicht, was einer kann, sondern wie genau er ins Raster passt.
+          Die Verwaltung will alle Schulen aneinander angleichen: Vergleichbarkeit, Vermessung, einheitliche Module, Punkte, Raster, Abschlüsse. Was im Rechtsleben Tugend ist — Gleichheit, Verlässlichkeit, Ordnung — wird im Geistesleben zum Gift: Die Ideale der einen Sphäre zerstören die Freiheit der anderen. Geprüft wird entsprechend: gleiche Fragen für alle, ausgedachte Aufgaben statt Lebensprüfung, feste Zeit, keine Hilfsmittel — und vor allem keine Zusammenarbeit, obwohl sie das Wichtigste im sozialen Miteinander ist; hier heißt sie Betrug. Ob ein Mensch etwas verstanden hat, zeigt sich daran, was er damit im Leben anfangen kann — im Werkstück, im Gespräch, in der bewältigten Situation. Stattdessen zeigt die Prüfung nur, wie gut einer für Prüfungen trainiert. Dahinter steckt ein tieferer Fehler: Im Geistesleben darf nicht abgestimmt werden — Fähigkeit ist nicht mehrheitsfähig, und sie wird es nicht dadurch, dass man sie zur Wahl stellt. So kippt die Gleichheit der Voraussetzungen in die Gleichheit der Formen: Gemessen wird nicht, was einer kann, sondern wie genau er ins Raster passt.
       - schlagwort: Goldener Zügel
         schlagsatz: Wer zahlt, bestimmt.
         text: > 
-            Die Mittel kommen aus der Staatskasse — und mit ihnen die Bedingungen. Fördertöpfe, Zweckbindungen, Anträge,   Evaluationen, Zielvereinbarungen: Bewilligt wird, was ins Programm passt, und das Programm schreibt die zahlende Instanz. Welche Forschung förderfähig ist, welche Kunst unterstützt, welche Schule genehmigt wird, entscheidet nicht das Geistesleben aus seinen eigenen Notwendigkeiten, sondern die Behörde aus den ihren. So wird das Geistesleben zum Antragsteller: Es lernt, zu beantragen, was bewilligt wird, statt zu tun, was nötig ist — und richtet sich innerlich nach dem Geldgeber aus, lange bevor der eine Auflage ausspricht. Die vorauseilende Anpassung ist die feinste Form der Herrschaft: Sie braucht keinen Zensor mehr. Die staatlich anerkannte Stiftung treibt dieses Prinzip auf die Spitze: Ein Verstorbener gibt dem Geistesleben Vorschriften — ohne selbst in der lebendigen Arbeit zu stehen, ohne je widerlegt werden zu können. Die Stiftungsaufsicht prüft nicht, ob gut gefördert wird, sondern ob der Wille des Toten vollstreckt wird; sie ist nicht das Korrektiv der Vergangenheit, sondern ihr Vollstrecker. Was als Schenkung frei machen sollte — Mittel, die fließen, ohne zu diktieren —, wird zur Leine: Sie ist lang genug, um Bewegung zu erlauben, und kurz genug, um die Richtung zu bestimmen.
+            Die Mittel kommen aus der Staatskasse — und mit ihnen die Bedingungen. Fördertöpfe, Zweckbindungen, Anträge, Evaluationen, Zielvereinbarungen: Bewilligt wird, was ins Programm passt, und das Programm schreibt die zahlende Instanz. Welche Forschung förderfähig ist, welche Kunst unterstützt, welche Schule genehmigt wird, entscheidet nicht das Geistesleben aus seinen eigenen Notwendigkeiten, sondern die Behörde aus den ihren. So wird das Geistesleben zum Antragsteller: Es lernt zu beantragen, was bewilligt wird, statt zu tun, was nötig ist — und richtet sich innerlich nach dem Geldgeber aus, lange bevor der eine Auflage ausspricht. Die vorauseilende Anpassung ist die feinste Form der Herrschaft: Sie braucht keinen Zensor mehr. Die staatlich anerkannte Stiftung treibt dieses Prinzip auf die Spitze: Ein Verstorbener gibt dem Geistesleben Vorschriften — ohne selbst in der lebendigen Arbeit zu stehen, ohne je widerlegt werden zu können. Die Stiftungsaufsicht prüft nicht, ob gut gefördert wird, sondern ob der Wille des Toten vollstreckt wird; sie ist nicht das Korrektiv der Vergangenheit, sondern ihr Vollstrecker. Was als Schenkung frei machen sollte — Mittel, die fließen, ohne zu diktieren —, wird zur Leine: Sie ist lang genug, um Bewegung zu erlauben, und kurz genug, um die Richtung zu bestimmen.
         zitate:
           - >
             Diese Schrift muß die heute wenig beliebte Aufgabe übernehmen, zu
@@ -336,15 +272,15 @@ felder:
       - schlagwort: Überwachung
         schlagsatz: Wer mitgelesen wird, denkt leiser.
         text: >
-          Die Privatsphäre des Einzelnen ist der Bereich, den das Recht vor Einblick schützen soll — die Grenze, an der seine Zuständigkeit endet. Genau hier kehrt es sich um: Register, Meldepflichten, Scoring, Datenabgleich, Vorratsdatenspeicherung, und noch perfider: Hintertüren in der Verschlüsselung, die selbst das vertrauliche Wort öffnen. Was schützen soll, durchleuchtet. Gläsern ist der Bürger, verschlossen die Macht: die exakte Umkehrung dessen, was ein gesundes Rechtsleben sichert. Das Geistesleben verliert damit seinen Keimraum. Ein Gedanke braucht das Unbeobachtete, um zu reifen: das Gespräch unter vier Augen, den Brief, den Entwurf, der noch irren darf. Wer weiß, dass mitgelesen wird, denkt anders — vorsichtiger, glatter, unverfänglicher. Verboten wird nichts, und doch bleibt ungedacht, was sich nur im Schutz der Vertraulichkeit hervorwagt.
-      - schlagwort: Geheimhaltung
-        schlagsatz: Wer die Tatsachen verschließt, verschließt das Denken.
+          Die Privatsphäre des Einzelnen ist der Bereich, den das Recht vor Einblick schützen soll — die Grenze, an der seine Zuständigkeit endet. Genau hier kehrt es sich um: Register, Meldepflichten, Scoring, Datenabgleich, Vorratsdatenspeicherung, und noch perfider: Kameraüberwachung, Trojapferde und Hintertüren in der Verschlüsselung, die selbst das vertrauliche Wort öffnen. Was schützen soll, durchleuchtet. Gläsern ist der Bürger, verschlossen die Macht: die exakte Umkehrung dessen, was ein gesundes Rechtsleben sichert. Das Geistesleben verliert damit seinen Keimraum. Ein Gedanke braucht das Unbeobachtete, um zu reifen: das Gespräch unter vier Augen, den Brief, den Entwurf, der noch irren darf. Wer weiß, dass mitgelesen wird, denkt anders — vorsichtiger, glatter, unverfänglicher. Verboten wird nichts, und doch bleibt ungedacht, was sich nur im Schutz der Vertraulichkeit hervorwagt.
+      - schlagwort: Weisungsjustiz
+        schlagsatz: Der Richter spricht, was der Dienstherr duldet.
         text: >
-          Das Erkennen lebt vom Wirklichen. Es kann nur verarbeiten, was ihm gegeben wird — wie der Leib nur die Nahrung, die ihn erreicht. Also entzieht das Recht ihm die Nahrung: Akten unter Verschluss, Seiten geschwärzt, Anfragen unbeantwortet, Ausschüsse belogen, Sperrfristen über die Lebenszeit der Beteiligten hinaus. Verborgen bleibt nicht nur, was geschah, sondern auch, wie entschieden wird: nach welchen Maßstäben eine Behörde urteilt, warum ein Antrag abgelehnt wurde, wie ein Algorithmus sortiert — Dienstgeheimnis, Betriebsgeheimnis, „interner Vorgang“. Was nicht gewusst werden darf, kann nicht bedacht werden; wessen Maßstäbe verborgen sind, dem lässt sich nichts entgegnen. So bleibt das Denken formal frei und ist doch stillgelegt — es hungert, ohne zu merken, dass es hungert, und hält den verbliebenen Rest für die ganze Welt.
-      - schlagwort: Dienstweg
-        schlagsatz: Jeder Einwand versandet.
+          Der Richter soll aus Sachkenntnis und persönlicher Kenntnis urteilen — eine innere Angelegenheit des Geisteslebens. Doch der Staat macht ihn zum Beamten: verbeamtet, in Laufbahnen eingesperrt, die der Gehorsam bestimmt statt die Urteilskraft. Die Staatsanwaltschaft ist weisungsgebunden; der Minister kann anordnen, welche Fälle verfolgt und welche fallengelassen werden. Wer unbequem urteilt, wird versetzt; wer erwünscht urteilt, befördert. Die Wahl der Richter folgt dem Parteibuch, nicht dem Zutrauen derer, die ihr Urteil tragen müssen. So wird das Richten, das eine freie geistige Tat sein sollte, zum Verwaltungsakt: Das Urteil trägt die Handschrift des Dienstherrn, nicht des Urteilenden. Was das Rechtsleben dem Geistesleben hinzufügen sollte — Geltung und Vollzug —, kehrt sich um: Es entzieht dem Urteil die Freiheit, aus der allein es wachsen kann, und nennt die Abhängigkeit Unabhängigkeit.
+      - schlagwort: Zensur
+        schlagsatz: Wer nicht gehört wird, verstummt.
         text: >
-          Der Einwand hat seinen vorgeschriebenen Weg — und der führt im Kreis. Die Beschwerde geht an die Stelle, über die sie sich beschwert; der Widerspruch an die Behörde, die entschieden hat; die Dienstaufsicht beaufsichtigt sich selbst. Der Eingang wird bestätigt, die Sache versandet — nicht durch Verbot, sondern durch Verfahren. Nichts wird gesammelt, nichts bleibt sichtbar, nichts wird gebündelt: Zehntausend gleiche Einwände bleiben zehntausend Einzelvorgänge, und niemand erfährt je, was viele bewegt. Wo öffentlich kommentiert werden darf, geschieht es nach Vorprüfung: Freigegeben wird, was nicht stört. So verliert das Geistesleben das, wovon es lebt — Korrektur und Widerspruch — nicht durch Unterdrückung, die man anklagen könnte, sondern durch Zermürbung, die keinen Täter kennt. Der Einwand geht nicht verloren; er wird verloren gegeben. Was das Recht in Bewegung halten sollte, stellt es still — und nennt die Stille Ordnung.
+          Der Einwand hat seinen vorgeschriebenen Weg — und der führt im Kreis. Die Beschwerde geht an die Stelle, über die sie sich beschwert; die Dienstaufsicht beaufsichtigt sich selbst. Der Eingang wird bestätigt, die Sache versandet — nicht durch Verbot, sondern durch Verfahren. Nichts wird gesammelt, nichts bleibt sichtbar: Zehntausend gleiche Einwände bleiben zehntausend Einzelvorgänge, und niemand erfährt je, was viele bewegt. Wo öffentlich kommentiert werden darf, geschieht es nach Vorprüfung: Freigegeben wird, was nicht stört — gelöscht, was unbequem ist. Die Plattform, die jedem eine Stimme verspricht, entscheidet zugleich, welche Stimmen gehört werden; der Staat setzt die Regeln, der Betreiber vollzieht sie. Wer keinen Namen trägt, spricht ungehört; wer einen trägt, spricht auf Bewährung. So verliert das Geistesleben das, wovon es lebt — Korrektur und Widerspruch — nicht durch eine Unterdrückung, die man anklagen könnte, sondern durch Zermürbung, Vorprüfung und Unsichtbarkeit, die keinen Täter kennen.
 
   # ══════════════════════════════════════════════════════════════════════
   # FELD 4 — RECHT → WIRTSCHAFT
@@ -491,7 +427,7 @@ felder:
         zitate: []
 
   - id: dm-04k
-    feld: 4
+    feld: 4 
     richtung: "Recht -> Wirtschaft"
     pol: krank
     titel: "Die Politik entscheidet wer gewinnt"
