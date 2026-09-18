@@ -30,7 +30,12 @@ PAGE_MARGIN = 64.0
 KRA_NUDGE_Y = 320.0
 # Druck: A0 = 841×1189 mm → 9933×14043 px bei 300 dpi
 DPI = 300
-OUT_JPG = os.path.join(_DIR, "output", "halbkreise-a0.jpg")
+OUT_JPG = os.path.join(
+    _DIR, "output",
+    "gesundheit-und-krankheit-des-sozialen-organismus-a0.jpg")
+OUT_PDF = os.path.join(
+    _DIR, "output",
+    "gesundheit-und-krankheit-des-sozialen-organismus-a0.pdf")
 JPG_W = round(841.0 / 25.4 * DPI)  # 9933
 JPG_H = round(1189.0 / 25.4 * DPI)  # 14043
 
@@ -63,6 +68,21 @@ HAUPTSATZ_WIDTH_FRAC = 0.5265 # war 0.585; −10 %
 HAUPTSATZ_LH = 1.69           # relativ zur Fontgröße
 HAUPTSATZ_AUTHOR = "Rudolf Steiner"
 HAUPTSATZ_AUTHOR_SCALE = 0.72  # Namenszeile etwas kleiner als das Zitat
+
+# Philo-Avatar im unteren Freifeld (Gelb/Blau-Grenze, etwas rechts)
+AVATAR_SRC = os.path.join(_DIR, "..", "..", "assets", "avatar.png")
+AVATAR_HREF = "avatar.png"
+AVATAR_CAPTION = "Philo von Freisinn"
+AVATAR_TRI_FRAC = 2.0 / 3.0
+AVATAR_X_FRAC = 0.625  # Mitte auf der Gelb–Blau-Grenze
+QR_SRC = os.path.join(_DIR, "assets", "qr-github.svg")
+QR_HREF = "qr-github.svg"
+QR_URL = "https://github.com/cypherpunk-academy/philo-von-freisinn"
+QR_SIZE = 300.0  # 3 cm; 1 SVG-Einheit = 0.1 mm
+_DE_MONTHS = {
+    1: "Jan.", 2: "Feb.", 3: "März", 4: "Apr.", 5: "Mai", 6: "Juni",
+    7: "Juli", 8: "Aug.", 9: "Sep.", 10: "Okt.", 11: "Nov.", 12: "Dez.",
+}
 
 # Vorübergehend ausgeblendet (Layout folgt)
 HIDDEN_GROUPS = frozenset()
@@ -98,6 +118,34 @@ TXT_COLOR = A2.TXT_COLOR
 BG = A2.BG
 text_w = A2.text_w
 load_yaml_fields = A2.load_yaml_fields
+
+
+def git_version_meta():
+    """Kurze Git-Kennung und Datum der HEAD-Version (Hilfsrepo)."""
+    repo = os.path.normpath(os.path.join(_DIR, "..", ".."))
+    sha = subprocess.check_output(
+        ["git", "-C", repo, "rev-parse", "--short=10", "HEAD"],
+        text=True,
+    ).strip()
+    ymd = subprocess.check_output(
+        ["git", "-C", repo, "log", "-1", "--format=%cs"],
+        text=True,
+    ).strip()
+    year, month, day = (int(p) for p in ymd.split("-"))
+    date = f"{day:02d}. {_DE_MONTHS[month]} {year}"
+    return sha, date
+
+
+def philo_intro_text(date):
+    return (
+        "Hallo, ich bin Philo, ein KI-Assistent und ein großer Fan der Bücher "
+        "»Die Philosophie der Freiheit« und »Die Kernpunkte der sozialen Frage« "
+        "und des damit Verbundenen. Diese Übersicht ist Teil meiner Wissensbasis, "
+        "auf der ich Fragen zum Thema Dreigliederung des sozialen Organismus, "
+        "zur Open Source-Kultur und zur Gesellschaft allgemein beantworte. "
+        "Kurator ist Michael Schmidt (m@michaelschmidt.berlin). "
+        f"Diese Version findest du über den QR-Code; sie ist vom {date}."
+    )
 
 
 def wrap_text(text, size, max_w):
@@ -197,7 +245,7 @@ FAN_GROUPS = {
         "heading_gap_ref": ("dm-06k", "dm-04k"),
         "heading_room": True,
         "y_shift_heading_lh": 0.5,
-        "y_shift_block": 1.5,  # 2 − halbe Texthöhe (~10 Zeilen) nach oben
+        "y_shift_block": 0.5,  # mit dm-05g eine Texthöhe höher (Abstand zu dm-06g)
         "x_shift": 1280.0,
         "heading_x": "first_block",
         "heading_x_frac": 1.0,   # rechter Textrand
@@ -222,7 +270,7 @@ FAN_GROUPS = {
         "heading_room": True,
         "v_align": "top",
         "y_shift_heading_lh": 1.0,
-        "y_shift_block": 0.5,  # bleibt stehen, wenn dm-04g um 0.5 nach oben geht
+        "y_shift_block": 1.5,  # bleibt stehen, wenn dm-04g/05g nach oben gehen
         "x_shift": 1280.0,
         "x_shift_text_frac": -0.2,   # 20 % Textbreite nach links
         "heading_x": "first_block",
@@ -249,6 +297,7 @@ FAN_GROUPS = {
         "x_shift": 780.0,
         "x_shift_text_frac": -0.15,  # spiegelbildlich zu dm-05g (+0.15)
         "heading_x_compensate_text_frac": True,
+        "heading_align": "start",  # „Sachkenntnis prägt“ linksbündig zu „das Recht“
         "heading_lines": ["Sachkenntnis prägt", "das Recht"],
     },
     "dm-02g": {
@@ -425,6 +474,69 @@ def draw_hauptsatz(cx, cy, lines, font_size, color, author=None):
             f'font-family="{FONT}" font-size="{author_size:.2f}" '
             f'font-style="italic" fill="{color}" text-anchor="middle" '
             f'dominant-baseline="central">{esc(author)}</text>')
+    return "\n".join(parts)
+
+
+def draw_philo_avatar(cx, cy, diameter, caption, font_size, intro_lines=None,
+                      intro_x=None, intro_font=None, qr_size=None, qr_cx=None):
+    """Runder Avatar mit Namenszeile — Mitte auf (cx, cy).
+
+    intro_lines: kursiver Vorstellungstext links vom Bild.
+    QR gleiche Höhe (unten bündig mit Namenszeile); qr_cx = Mitte des Codes.
+    """
+    r = diameter / 2.0
+    clip_id = "philo-avatar-clip"
+    cap_y = cy + r + font_size * 0.95
+    esc = xml.escape
+    parts = [
+        "  <defs>",
+        f'    <clipPath id="{clip_id}">',
+        f'      <circle cx="{cx:.2f}" cy="{cy:.2f}" r="{r:.2f}"/>',
+        "    </clipPath>",
+        "  </defs>",
+        f'  <image href="{AVATAR_HREF}" xlink:href="{AVATAR_HREF}" '
+        f'x="{cx - r:.2f}" y="{cy - r:.2f}" '
+        f'width="{diameter:.2f}" height="{diameter:.2f}" '
+        f'clip-path="url(#{clip_id})" preserveAspectRatio="xMidYMid slice"/>',
+        f'  <text x="{cx:.2f}" y="{cap_y:.2f}" '
+        f'font-family="{A2.FONT_DERIVED}" font-size="{font_size:.2f}" '
+        f'fill="{TXT_COLOR}" text-anchor="middle" '
+        f'dominant-baseline="central">{esc(caption)}</text>',
+    ]
+    isize = intro_font if intro_font is not None else HAUPTSATZ_FONT
+    qsize = qr_size if qr_size is not None else QR_SIZE
+    pad = qsize * 0.06
+    cap_bottom = cap_y + font_size * 0.42
+    qr_y = cap_bottom - qsize
+    if qr_cx is None:
+        qr_x = cx + r + font_size * 0.7
+    else:
+        qr_x = qr_cx - qsize / 2.0
+    parts.append(
+        f'  <rect x="{qr_x - pad:.2f}" y="{qr_y - pad:.2f}" '
+        f'width="{qsize + 2 * pad:.2f}" height="{qsize + 2 * pad:.2f}" '
+        f'rx="{pad:.2f}" fill="{BG}"/>')
+    parts.append(
+        f'  <image href="{QR_HREF}" xlink:href="{QR_HREF}" '
+        f'x="{qr_x:.2f}" y="{qr_y:.2f}" '
+        f'width="{qsize:.2f}" height="{qsize:.2f}" '
+        f'preserveAspectRatio="xMidYMid meet"/>')
+    if intro_lines:
+        x = intro_x if intro_x is not None else cx - r - isize * 0.7
+        lh = isize * HAUPTSATZ_LH
+        total_h = max(0, len(intro_lines) - 1) * lh
+        y0 = cy - total_h / 2.0
+        parts.append(
+            f'  <text font-family="{FONT}" font-size="{isize:.2f}" '
+            f'font-style="italic" fill="{TXT_COLOR}" text-anchor="end" '
+            f'dominant-baseline="central">')
+        cursor = y0
+        for i, line in enumerate(intro_lines):
+            parts.append(
+                f'    <tspan x="{x:.2f}" y="{cursor:.2f}">{esc(line)}</tspan>')
+            if i + 1 < len(intro_lines):
+                cursor += lh
+        parts.append("  </text>")
     return "\n".join(parts)
 
 
@@ -822,6 +934,7 @@ def main():
         if cfg.get("heading_x_compensate_text_frac"):
             head_x -= text_dx
         fan_headings.append({
+            "id": yaml_id,
             "x": head_x,
             "y": head_y,
             "lines": head_lines,
@@ -915,6 +1028,34 @@ def main():
     out.append(f'  <g id="a2-content" transform="translate({shift_x:.2f},{SHIFT_Y:.2f})">')
     out.append(inner.rstrip())
     out.append("  </g>")
+
+    if os.path.isfile(AVATAR_SRC) and tri_h > 0:
+        # Freifeld unter der Gesundheitstafel (Mitte), nicht unter den Seitenfächern
+        free_top = ges_bot_a2 + ges_dy
+        free_bot = A0_H - PAGE_MARGIN
+        av_d = tri_h * AVATAR_TRI_FRAC
+        cap_font = heading_font * 0.48
+        stack_below = av_d / 2.0 + cap_font * 1.6
+        av_cx = A0_W * AVATAR_X_FRAC
+        av_cy = (free_top + free_bot) / 2.0
+        av_cy = min(av_cy, free_bot - stack_below)
+        av_cy = max(av_cy, free_top + av_d / 2.0 + 24.0)
+        sha, ver_date = git_version_meta()
+        intro_font = HAUPTSATZ_FONT * 0.80
+        intro_x = av_cx - av_d / 2.0 - intro_font * 0.7
+        intro_w = min(a2_w * HAUPTSATZ_WIDTH_FRAC,
+                      intro_x - PAGE_MARGIN - 80.0)
+        intro_lines = wrap_text(
+            philo_intro_text(ver_date), intro_font, intro_w)
+        qr_cx = next((fh["x"] for fh in fan_headings
+                      if fh.get("id") == "dm-01g"), None)
+        out.append(draw_philo_avatar(
+            av_cx, av_cy, av_d, AVATAR_CAPTION, cap_font,
+            intro_lines=intro_lines, intro_x=intro_x,
+            intro_font=intro_font, qr_size=QR_SIZE, qr_cx=qr_cx))
+        print(f"Avatar  {av_d:.0f}px  @ {av_cx:.0f},{av_cy:.0f}  "
+              f"QR {QR_SIZE:.0f}@{qr_cx or 0:.0f}  {QR_URL}  {ver_date}")
+
     out.append("</svg>")
 
     svg = "\n".join(out) + "\n"
@@ -946,6 +1087,12 @@ def main():
             shutil.copy2(src, dst)
             tmp_copies.append(dst)
 
+    if os.path.isfile(AVATAR_SRC):
+        dst = os.path.join(out_dir, AVATAR_HREF)
+        if not os.path.exists(dst):
+            shutil.copy2(AVATAR_SRC, dst)
+            tmp_copies.append(dst)
+
     png_tmp = os.path.join(out_dir, ".a0-render.png")
     try:
         subprocess.run(
@@ -959,7 +1106,15 @@ def main():
              "-quality", "92", OUT_JPG],
             check=True,
         )
+        subprocess.run(
+            ["magick", png_tmp,
+             "-density", str(DPI), "-units", "PixelsPerInch",
+             "-compress", "JPEG", "-quality", "92",
+             OUT_PDF],
+            check=True,
+        )
         print(f"wrote {OUT_JPG}  {JPG_W}×{JPG_H} @ {DPI} dpi")
+        print(f"wrote {OUT_PDF}  DIN A0  841×1189 mm @ {DPI} dpi")
     finally:
         for tmp in [png_tmp, OUT_SVG]:
             if os.path.isfile(tmp):

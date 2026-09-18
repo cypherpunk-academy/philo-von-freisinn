@@ -1,3 +1,9 @@
 .generated/
 .DS_Store
 __pycache__/
+
+# Band 2 posters: only the named print JPGs
+projects/Band 2 - Gesundheit und Krankheit des Sozialen Organismus/output/*
+!projects/Band 2 - Gesundheit und Krankheit des Sozialen Organismus/output/gesundheit-und-krankheit-des-sozialen-organismus-a0.jpg
+!projects/Band 2 - Gesundheit und Krankheit des Sozialen Organismus/output/gesundheit-und-krankheit-des-sozialen-organismus-a2.jpg
+

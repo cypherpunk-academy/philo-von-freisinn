@@ -1832,11 +1832,12 @@ def build_a2(write_files=False, a2_page=False):
 
 
 def write_a2_jpg(svg, dpi=300):
-    """A2-SVG nach output/halbkreise.jpg rendern (wie generate-a0.py)."""
+    """A2-SVG nach output/gesundheit-und-krankheit-des-sozialen-organismus-a2.jpg rendern."""
     out_dir = os.path.join(_DIR, "output")
     os.makedirs(out_dir, exist_ok=True)
     out_svg = os.path.join(out_dir, ".a2-render.svg")
-    out_jpg = os.path.join(out_dir, "halbkreise.jpg")
+    out_jpg = os.path.join(
+        out_dir, "gesundheit-und-krankheit-des-sozialen-organismus-a2.jpg")
     jpg_w = round(420.0 / 25.4 * dpi)
     jpg_h = round(594.0 / 25.4 * dpi)
     with open(out_svg, "w", encoding="utf-8") as f:
@@ -1856,6 +1857,8 @@ def write_a2_jpg(svg, dpi=300):
             shutil.copy2(src, dst)
             tmp_copies.append(dst)
 
+    out_pdf = os.path.join(
+        out_dir, "gesundheit-und-krankheit-des-sozialen-organismus-a2.pdf")
     png_tmp = os.path.join(out_dir, ".a2-render.png")
     try:
         subprocess.run(
@@ -1869,7 +1872,15 @@ def write_a2_jpg(svg, dpi=300):
              "-quality", "92", out_jpg],
             check=True,
         )
+        subprocess.run(
+            ["magick", png_tmp,
+             "-density", str(dpi), "-units", "PixelsPerInch",
+             "-compress", "JPEG", "-quality", "92",
+             out_pdf],
+            check=True,
+        )
         print(f"wrote {out_jpg}  {jpg_w}×{jpg_h} @ {dpi} dpi")
+        print(f"wrote {out_pdf}  DIN A2  420×594 mm @ {dpi} dpi")
     finally:
         for tmp in [png_tmp, out_svg]:
             if os.path.isfile(tmp):
