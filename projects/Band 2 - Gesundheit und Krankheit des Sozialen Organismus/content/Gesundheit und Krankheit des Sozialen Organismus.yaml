@@ -214,7 +214,7 @@ felder:
       - schlagwort: Schenkung
         schlagsatz: Aufgabe der Wirtschaft ist geben, ohne zu diktieren.
         text: >
-          Bildungs- und Kultureinrichtungen sind dem Markt entzogen. Ihre Finanzierung kommt aus den Überschüssen des assoziativ organisierten Wirtschaftslebens; das Rechtsleben sichert diesen Mittelzufluss rechtlich. Die Schenkung ist dabei keine Gnade, sondern strukturelle Notwendigkeit: Sie sorgt dafür, dass Überschüsse sich nicht in Grund und Boden stauen, sondern dem Geistesleben zufließen. Hier liegt die Übergabe: Mit der Sicherung der Mittel endet die Zuständigkeit des Rechts — wohin sie fließen, entscheidet das Geistesleben allein. So wie das fertige Gesetz vom Geistesleben ins Recht übergeht, gehen die gesicherten Mittel vom Recht ins Geistesleben über.
+          Bildungs- und Kultureinrichtungen sind dem Markt entzogen. Ihre Finanzierung kommt aus den Überschüssen des assoziativ organisierten Wirtschaftslebens; das Rechtsleben sichert diesen Mittelzufluss rechtlich. Die Schenkung ist dabei keine Gnade, sondern strukturelle Notwendigkeit: Sie sorgt dafür, dass Überschüsse sich nicht in Grund und Boden stauen, sondern dem Geistesleben zufließen. Hier liegt die Übergabe: Mit der Sicherung der Mittel endet die Zuständigkeit des Rechts — wohin sie fließen, entscheidet das Geistesleben allein. So wie das fertige Gesetz vom Geistesleben ins Recht übergeht, gehen die Mittel gesichert vom Recht ins Geistesleben über.
         zitate: []
       - schlagwort: Schutzraum
         schlagsatz: Was reift, braucht Stille.
@@ -295,135 +295,37 @@ felder:
       - schlagwort: Arbeit
         schlagsatz: Deine Arbeitskraft ist keine Ware.
         text: >
-          Das Rechtsleben bestimmt, unter welchen Bedingungen gearbeitet wird —
-          bevor irgendein Markt beginnt. Art, Maß und Zeit der Arbeit sind
-          Rechtsfragen, keine Handelsfragen: Sie werden unter Gleichen als
-          Bürgern geregelt, nicht unter Ungleichen als Käufer und Verkäufer.
-          Denn wer seine Arbeitskraft verkaufen muss, verkauft immer ein Stück
-          seiner selbst mit; darum nimmt das Recht den Menschen aus dem
-          Warenverkehr heraus. Auf dem Markt wird dann nur noch über Leistungen
-          und Erzeugnisse verhandelt — nie über den Menschen, der sie
-          hervorbringt. Dieser Schutz wirkt nach zwei Seiten: Er verwehrt der
-          Wirtschaft, Arbeit zu erzwingen, und dem Staat, Arbeit zuzuweisen.
-          Was einer arbeitet, entscheidet er selbst — aus den Fähigkeiten, die
-          das Geistesleben in ihm pflegt. Wie viel und wie lange gearbeitet
-          wird, sichert das Recht; was die Arbeit hervorbringt, verwaltet die
-          Wirtschaft. So steht der Mensch in der Wirtschaft, ohne ihr zu
-          gehören: Er gibt ihr seine Leistung, nicht sich selbst.
+          Das Rechtsleben bestimmt, unter welchen Bedingungen gearbeitet wird — bevor irgendein Markt beginnt. Art, Maß und Zeit der Arbeit sind Rechtsfragen, keine Handelsfragen: Sie werden unter Gleichen als Bürgern geregelt, nicht unter Ungleichen als Käufer und Verkäufer. Denn wer seine Arbeitskraft verkaufen muss, verkauft immer ein Stück seiner selbst mit; darum nimmt das Recht den Menschen aus dem Warenverkehr heraus. Auf dem Markt wird dann nur noch über Leistungen und Erzeugnisse verhandelt — nie über den Menschen, der sie hervorbringt. Dieser Schutz wirkt nach zwei Seiten: Er verwehrt der Wirtschaft, Arbeit zu erzwingen, und dem Staat, Arbeit zuzuweisen. Was einer arbeitet, entscheidet er selbst — aus den Fähigkeiten, die das Geistesleben in ihm pflegt. Wie viel und wie lange gearbeitet wird, sichert das Recht; was die Arbeit hervorbringt, verwaltet die Wirtschaft. So steht der Mensch in der Wirtschaft, ohne ihr zu gehören: Er gibt ihr seine Leistung, nicht sich selbst.
         zitate: []
       - schlagwort: Boden
         schlagsatz: Der Boden ist keine Ware — was man an ihm arbeitet, schon.
         text: >
-          Durch den Boden läuft eine Trennlinie: Was Menschen an ihm
-          gearbeitet haben — Rodung, Entwässerung, Bauten —, ist ein
-          wirtschaftlicher Wert wie jeder andere und kann als Leistung
-          vergütet werden. Aber was vor aller Arbeit da war — die
-          Naturgrundlage selbst, das Wasser, die Rohstoffe im Grund —, ist
-          niemandes Erzeugnis und kann darum nicht wie eines bewertet werden.
-          Das Rechtsleben ordnet deshalb den Zugang: Es vergibt Nutzungsrechte
-          nach Bedarf und Fähigkeit zur Nutzung, nicht nach Geldmacht. Wer
-          Boden bearbeitet, erhält das Recht dazu — solange er es tut und so,
-          dass die Grundlage für die Nachkommenden erhalten bleibt. Scheidet
-          er aus, wird ihm seine Arbeit vergütet, nicht der Boden bezahlt: So
-          ist der Spekulation entzogen, was niemand geschaffen hat — horten
-          kann keiner, was er nicht nutzt. Wie das Recht dem Geistesleben die
-          Tür zum Wissen öffnet, öffnet es der Wirtschaft den Zugang zur
-          Natur: als gesicherten Anspruch, nicht als Beute des Stärkeren.
+          Durch den Boden läuft eine Trennlinie: Was Menschen an ihm gearbeitet haben — Rodung, Entwässerung, Bauten —, ist ein wirtschaftlicher Wert wie jeder andere und kann als Leistung vergütet werden. Aber was vor aller Arbeit da war — die Naturgrundlage selbst, das Wasser, die Rohstoffe im Grund —, ist niemandes Erzeugnis und kann darum nicht wie eines bewertet werden. Das Rechtsleben ordnet deshalb den Zugang: Es vergibt Nutzungsrechte nach Bedarf und Fähigkeit zur Nutzung, nicht nach Geldmacht. Wer Boden bearbeitet, erhält das Recht dazu — solange er es tut und so, dass die Grundlage für die Nachkommenden erhalten bleibt. Scheidet er aus, wird ihm seine Arbeit vergütet, nicht der Boden bezahlt: So ist der Spekulation entzogen, was niemand geschaffen hat — horten kann keiner, was er nicht nutzt. Wie das Recht dem Geistesleben die Tür zum Wissen öffnet, öffnet es der Wirtschaft den Zugang zur Natur: als gesicherten Anspruch, nicht als Beute des Stärkeren.
+        zitate: []
+      - schlagwort: Preis
+        schlagsatz: Der Preis sagt, was es kostet — nicht, was es einbringt.
+        text: >
+          Ein Preis ist richtig, wenn er dem Erzeuger erlaubt, dasselbe noch einmal zu tun — nicht mehr und nicht weniger. Das Rechtsleben sichert, dass dieser Grundsatz gilt und dass die Rechnung offenliegt. Gerechnet wird in der Assoziation, wo Erzeuger, Handel und Verwender zusammensitzen: Wer verkauft, weist aus, woraus sein Preis sich zusammensetzt — Lebensunterhalt, Erneuerung der Produktionsmittel, Vorleistungen und ein Spielraum für das Weiterkommen. Wer kauft, kann nachrechnen. Keine Stelle setzt Preise fest, keine Behörde und kein Kartell — aber jeder Preis lässt sich prüfen, weil seine Bestandteile offen sind. Zins und Rente stehen nicht darin, denn sie decken nichts, was wiederholt werden müsste. Weil der Preis gerechnet wird und nicht am Markt entsteht, fällt die Preissteuerung weg — und an ihre Stelle tritt eine andere Korrektur: die Bewegung von Menschen. Der Preis hängt an der Zahl derer, die auf einem bestimmten Feld arbeiten. Wo zu viele dasselbe herstellen, finden ihre Erzeugnisse keinen Bedarf mehr — der richtig gerechnete Preis läuft ins Leere. Wo zu wenige stehen, bleibt der Bedarf ungedeckt. Die Assoziation sieht beides, weil sie den Überblick über Erzeugung und Bedarf hat, und spricht es aus; wer hingeht, geht selbst. Das überschüssige Kapital dient dazu, den Arbeitern etwas beizubringen, um sie in andere Berufszweige überzuführen. Wer die Preise über den Geldwert korrigieren wollte, machte dasselbe, als brächte er bei Kälte die Thermometersäule zum Steigen: Er kurierte am Anzeiger statt an der Wirklichkeit.
         zitate: []
       - schlagwort: Eigentumszeit
         schlagsatz: Nutzen auf Zeit statt Besitz für immer.
         text: >
-          Werkstätten, Maschinen, Betriebe — die Produktionsmittel gehören
-          dem, der sie fähig führt, und nur solange er sie fähig führt.
-          Eigentum an ihnen ist kein ewiger Besitz, sondern ein
-          Verfügungsrecht auf Zeit, gebunden an tatsächliche Leistung. Die
-          Arbeit erweist die Fähigkeit, das Geistesleben erkennt sie an —
-          und das Recht vollzieht dann den Übergang: Es bestimmt nicht, wer
-          der Fähige ist, es sorgt nur dafür, dass die Verfügung ihm
-          ungehindert zufällt statt dem Erben oder dem Meistbietenden. Dem
-          Ausscheidenden wird vergütet, was er an eigener Arbeit eingebracht
-          hat; die Verfügung selbst aber wandert unentgeltlich weiter, denn
-          sie war nie Ware. Der Unterschied zum Boden liegt in der Herkunft:
-          Der Boden ist niemandes Werk, die Produktionsmittel sind das Werk
-          vieler — darum fallen sie an die Gemeinschaft zurück, wenn keiner
-          sie führt. So bleibt Eigentum in Bewegung, weil es der Fähigkeit
-          folgt statt dem Erbgang: Der Geist bestimmt, das Recht vollzieht.
+          Werkstätten, Maschinen, Betriebe — die Produktionsmittel gehören dem, der sie fähig führt, und nur solange er sie fähig führt. Eigentum an ihnen ist kein ewiger Besitz, sondern ein Verfügungsrecht auf Zeit, gebunden an tatsächliche Leistung. Die Arbeit erweist die Fähigkeit, das Geistesleben erkennt sie an — und das Recht vollzieht dann den Übergang: Es bestimmt nicht, wer der Fähige ist, es sorgt nur dafür, dass die Verfügung ihm ungehindert zufällt statt dem Erben oder dem Meistbietenden. Dem Ausscheidenden wird vergütet, was er an eigener Arbeit eingebracht hat; die Verfügung selbst aber wandert unentgeltlich weiter, denn sie war nie Ware. Der Unterschied zum Boden liegt in der Herkunft: Der Boden ist niemandes Werk, die Produktionsmittel sind das Werk vieler — darum fallen sie an die Gemeinschaft zurück, wenn keiner sie führt. So bleibt Eigentum in Bewegung, weil es der Fähigkeit folgt statt dem Erbgang: Der Geist bestimmt, das Recht vollzieht.
         zitate: []
       - schlagwort: Vertrag
         schlagsatz: Das Recht bindet, ohne zu bestimmen.
         text: >
-          Verträge sind das Rückgrat des Wirtschaftslebens: Lieferungen,
-          Abnahmen, Preise — alles beruht darauf, dass Abmachungen halten.
-          Das Rechtsleben verleiht ihnen diese Verbindlichkeit: Was vereinbart
-          ist, gilt, und wer sich nicht daran hält, wird daran gehalten. Aber
-          was vereinbart wird — Preise, Mengen, Qualitäten, Wege —, bestimmt
-          das Recht nicht. Das entscheiden die Beteiligten selbst: die
-          Erzeuger-Verwender-Gemeinschaften (Assoziationen), in denen die, die herstellen,
-          handeln und verbrauchen, gemeinsam urteilen, was ein Erzeugnis wert
-          ist und wohin es gehen soll. Hier liegt die Übergabe: Mit der
-          Verbindlichkeit endet die Zuständigkeit des Rechts — die Inhalte
-          der Verträge füllt die Wirtschaft allein. So wie die gesicherten
-          Mittel vom Recht ins Geistesleben übergehen, geht die verbindliche
-          Form vom Recht in die Wirtschaft über: Das Recht reicht den leeren
-          Vertrag, die Assoziation schreibt hinein. Kein Preis wird
-          verordnet, keiner diktiert — aber jeder vereinbarte gilt.
+          Verträge sind das Rückgrat des Wirtschaftslebens: Lieferungen, Abnahmen, Preise — alles beruht darauf, dass Abmachungen halten. Das Rechtsleben verleiht ihnen diese Verbindlichkeit: Was vereinbart ist, gilt, und wer sich nicht daran hält, wird daran gehalten. Aber was vereinbart wird — Preise, Mengen, Qualitäten, Wege —, bestimmt das Recht nicht. Das entscheiden die Beteiligten selbst: die Erzeuger-Verwender-Gemeinschaften (Assoziationen), in denen die, die herstellen, handeln und verbrauchen, gemeinsam urteilen, was ein Erzeugnis wert ist und wohin es gehen soll. So wie die Mittel gesichert vom Recht ins Geistesleben übergehen, geht die verbindliche Form vom Recht in die Wirtschaft über: Das Recht reicht den leeren Vertrag, die Assoziation schreibt hinein. Kein Preis wird verordnet, keiner diktiert — aber jeder vereinbarte gilt. Dabei kennt der Vertrag eine Grenze: Das Recht selbst ist unverkäuflich — kein Gesetz gegen Geld, kein Urteil gegen Zahlung, kein Amt für Vermögen; und das Geistige ist es ebenso: kein Schulplatz nach Kontostand, keine Diagnose nach Zahlungskraft. Innerhalb dieser Grenze verhandelt die Wirtschaft frei; außerhalb gilt: nicht verhandelbar.
         zitate: []
       - schlagwort: Haftung
         schlagsatz: Wer verursacht, trägt die Folgen.
         text: >
-          Was die Wirtschaft hervorbringt, wirkt über den Kaufakt hinaus:
-          verbrauchte Natur, belastete Gesundheit, Abfall, der bleibt. Das
-          Rechtsleben sichert, dass diese Folgen bei dem bleiben, der sie
-          verursacht — sie dürfen nicht auf die Allgemeinheit, die Nachbarn
-          oder die Kommenden abgewälzt werden. Erst die Haftung macht den
-          Preis wahr: Ein Erzeugnis, dessen Schäden andere tragen, ist nicht
-          billig, sondern unbezahlt. Hier findet die Produktinformation, die
-          das Recht dem Geistesleben öffnet, ihr Gegenstück: Dort wird
-          sichtbar, wie etwas hergestellt wird — hier wird getragen, was die
-          Herstellung kostet. Was sich der Prüfung entzieht, entzieht sich
-          der Verbesserung; was sich der Haftung entzieht, entzieht sich der
-          Wahrheit. Das Recht schreibt der Wirtschaft nicht vor, was sie
-          erzeugt und wie — aber es sorgt dafür, dass keine Rechnung offen
-          bleibt. So kann die Wirtschaft frei wirtschaften, ohne auf Kosten
-          derer zu leben, die nicht mitverhandeln.
-        zitate: []
-      - schlagwort: Grenze
-        schlagsatz: Nicht alles ist käuflich.
-        text: >
-          Der Markt kennt aus sich heraus keine Grenze: Was gehandelt werden
-          kann, wird gehandelt — wenn niemand widerspricht. Was das Recht
-          hinzufügt, kann die Wirtschaft nicht selbst leisten: die Grenze.
-          Sie zieht sich durch alle drei Sphären. Der Mensch ist keine Ware
-          und der Boden nicht — aber auch das Recht selbst ist unverkäuflich:
-          kein Gesetz gegen Geld, kein Urteil gegen Zahlung, kein Amt für
-          Vermögen. Und das Geistige ist es ebenso: kein Schulplatz nach
-          Kontostand, keine Diagnose nach Zahlungskraft, keine Wahrheit gegen
-          Gebühr. Innerhalb der Grenze verhandelt die Wirtschaft frei — über
-          Erzeugnisse und Leistungen, so beweglich, wie es die EVGs
-          vereinbaren. Außerhalb gilt: nicht verhandelbar. Diese Grenze
-          schwächt die Wirtschaft nicht, sie gibt ihr Gestalt — wie das Ufer
-          den Fluss nicht hindert, sondern erst zum Fluss macht. Wo alles
-          käuflich wird, kauft am Ende das Geld die Regeln, nach denen es
-          selbst gilt.
+          Was die Wirtschaft hervorbringt, wirkt über den Kaufakt hinaus: verbrauchte Natur, belastete Gesundheit, Abfall, der bleibt. Das Rechtsleben sichert, dass diese Folgen bei dem bleiben, der sie verursacht — sie dürfen nicht auf die Allgemeinheit, die Nachbarn oder die Kommenden abgewälzt werden. Erst die Haftung macht den Preis wahr: Ein Erzeugnis, dessen Schäden andere tragen, ist nicht billig, sondern unbezahlt. Hier findet die Produktinformation, die das Recht dem Geistesleben öffnet, ihr Gegenstück: Dort wird sichtbar, wie etwas hergestellt wird — hier wird getragen, was die Herstellung kostet. Was sich der Prüfung entzieht, entzieht sich der Verbesserung; was sich der Haftung entzieht, entzieht sich der Wahrheit. Das Recht schreibt der Wirtschaft nicht vor, was sie erzeugt und wie — aber es sorgt dafür, dass keine Rechnung offen bleibt. So kann die Wirtschaft frei wirtschaften, ohne auf Kosten derer zu leben, die nicht mitverhandeln.
         zitate: []
       - schlagwort: Einspruch
         schlagsatz: Kein Missstand bleibt verborgen.
         text: >
-          Wirtschaft beruht auf Vertrauen, und Vertrauen braucht
-          Korrigierbarkeit. Darum garantiert das Rechtsleben jedem — dem
-          Arbeiter im Betrieb, dem Verbraucher am Produkt, dem Nachbarn an
-          der Fabrik —, Missstände öffentlich zu machen, ohne Nachteil zu
-          fürchten: Wer aufdeckt, wird geschützt, nicht verfolgt. Die
-          Einwände werden dort sichtbar erfasst, wo sie hingehören — am
-          Erzeugnis, am Betrieb, am Verfahren —, formal gesammelt, ohne
-          Vorprüfung ihres Werts; so zeigt sich, was viele bewegt, ohne dass
-          eine Instanz entscheidet, was gehört wird. Was die Assoziationen
-          von innen leisten — den Bedarf wahrnehmen, den Mangel bemerken,
-          die Preise berichtigen —, leistet dieses Recht von außen: Es hält
-          die Wirtschaft korrigierbar für die, die in ihren Verträgen nicht
-          mit am Tisch sitzen. So bleibt das Wirtschaftsleben in Bewegung
-          und wirtschaftet nicht im Verborgenen — denn was niemand
-          beanstanden kann, verbessert auch niemand.
+          Wirtschaft beruht auf Vertrauen, und Vertrauen braucht Korrigierbarkeit. Darum garantiert das Rechtsleben jedem — dem Arbeiter im Betrieb, dem Verbraucher am Produkt, dem Nachbarn an der Fabrik —, Missstände öffentlich zu machen, ohne Nachteil zu fürchten: Wer aufdeckt, wird geschützt, nicht verfolgt. Die Einwände werden dort sichtbar erfasst, wo sie hingehören — am Erzeugnis, am Betrieb, am Verfahren —, formal gesammelt, ohne Vorprüfung ihres Werts; so zeigt sich, was viele bewegt, ohne dass eine Instanz entscheidet, was gehört wird. Was die Assoziationen von innen leisten — den Bedarf wahrnehmen, den Mangel bemerken, die Preise berichtigen —, leistet dieses Recht von außen: Es hält die Wirtschaft korrigierbar für die, die in ihren Verträgen nicht mit am Tisch sitzen. So bleibt das Wirtschaftsleben in Bewegung und wirtschaftet nicht im Verborgenen — denn was niemand beanstanden kann, verbessert auch niemand.
         zitate: []
 
   - id: dm-04k
@@ -440,6 +342,10 @@ felder:
         schlagsatz: Wer wohnen muss, zahlt, was der Hortende verlangt.
         text: >
           Eigentum an der Grundversorgung wird absolut gesetzt: Boden und Wohnraum, auf die jeder Mensch angewiesen ist, werden Objekt von Spekulation und Monopolbildung. Die Trennlinie im Boden wird eingeebnet — Naturgrundlage und eingearbeitete Leistung verschmelzen in einem Kaufpreis, und gehandelt wird fortan beides zusammen: auch das, was niemand geschaffen hat. Wer hortet, muss nicht nutzen; die Preise steigen nicht, weil Werte entstehen, sondern weil die Not derer wächst, die nicht ausweichen können. Die Rendite kommt ohne Leistung: Sie wird aus dem Grundbedürfnis gezogen — bezahlt mit der Miete derer, die wohnen müssen, mit der Pacht derer, die anbauen wollen, mit der Verdrängung derer, die nicht mithalten. So unterdrückt das absolute Eigentum genau die Bedürfnisse, deren Befriedigung der Boden dienen sollte: Der gesicherte Anspruch, den das Recht der Wirtschaft öffnen müsste, wird zur Beute des Zahlungskräftigsten — und das Recht schützt die Beute.
+      - schlagwort: Willkürpreis
+        schlagsatz: Der Preis sagt, wer stärker ist — nicht, was es kostet.
+        text: >
+          Der Preis wird nicht gerechnet, sondern gebildet — und Bildung heißt hier Macht. Von der einen Seite greift die Wirtschaft zu: Monopole setzen, was ihnen passt; Kartelle sprechen sich ab; Spekulanten treiben die Kurse, bis der Preis nur noch den Druck der Nachfrage und die Macht des Angebots ausdrückt, nicht mehr die Kosten der Herstellung. Von der anderen Seite greift der Staat zu: Preisdeckel, Mindestpreise, Subventionen, die das eine verbilligen und das andere verteuern — nicht aus Sachkenntnis, sondern aus politischem Kalkül. Dazwischen verschwindet der gerechnete Preis, der offenlegen würde, was ein Erzeugnis tatsächlich kostet: Kein Erzeuger weist aus, kein Verwender kann nachrechnen, kein Zusammenhang zwischen Lebensunterhalt, Produktionsmitteln und Vorleistungen ist sichtbar. Damit ist der Preis blind: Er zeigt nicht, wo Hände fehlen und wo zu viele stehen, sondern wo Macht sitzt und wo Ohnmacht leidet. Was eine Anzeige sein sollte, wird zum Hebel — und wer am Hebel sitzt, bestimmt, wer gedeiht und wer verkümmert.
       - schlagwort: Papiermacht
         schlagsatz: Papier verfügt — Können geht leer aus.
         text: >
@@ -447,15 +353,11 @@ felder:
       - schlagwort: Vorrechte
         schlagsatz: Das Recht bevorzugt – und nennt es Rahmen.
         text: >
-          Das Recht, das nur binden dürfte, bestimmt: Wirtschaftliche Sanktionen und Vorrechte per Gesetz entscheiden, wer gewinnt und wer verliert — nicht die wirtschaftliche Sacherkenntnis. Subventionen für die einen, Auflagen für die anderen; Ausnahmeregelungen, die sich die Begünstigten in die Entwürfe schreiben lassen; Vergaben, die vor der Ausschreibung entschieden sind. Der Vertrag ist nicht mehr leer, wenn das Recht ihn reicht: Die Bedingungen stehen schon darin, bevor die Beteiligten zu verhandeln beginnen. Damit verlagert sich der Wettbewerb vom Erzeugnis auf den Einfluss — nicht wer besser herstellt, gewinnt, sondern wer die Gesetzgebung besser erreicht. Die Assoziationen, die aus Sachkenntnis urteilen sollten, was ein Erzeugnis wert ist und wohin es gehen soll, urteilen ins Leere: Über Wert und Weg hat das Dekret schon entschieden. So wird das Rechtsleben, das den fairen Rahmen sichern sollte, selbst zum lukrativsten Markt — und gehandelt wird dort, was es nie geben dürfte: der Rahmen selbst.
+          Das Recht, das nur binden dürfte, bestimmt: Wirtschaftliche Sanktionen und Vorrechte per Gesetz entscheiden, wer gewinnt und wer verliert — nicht die wirtschaftliche Sacherkenntnis. Subventionen für die einen, Auflagen für die anderen; Ausnahmeregelungen, die sich die Begünstigten in die Entwürfe schreiben lassen; Vergaben, die vor der Ausschreibung entschieden sind. Der Vertrag ist nicht mehr leer, wenn das Recht ihn reicht: Die Bedingungen stehen schon darin, bevor die Beteiligten zu verhandeln beginnen. Damit verlagert sich der Wettbewerb vom Erzeugnis auf den Einfluss — nicht wer besser herstellt, gewinnt, sondern wer die Gesetzgebung besser erreicht. Die Assoziationen, die aus Sachkenntnis urteilen sollten, was ein Erzeugnis wert ist und wohin es gehen soll, urteilen ins Leere: Über Wert und Weg hat das Dekret schon entschieden. Auch über die Landesgrenze hinweg greift das Recht in den Handel: Zölle dienen als Waffe der Bestrafung und Erpressung, der Güteraustausch wird nicht aus Sachgründen unterbrochen, sondern aus Machtkalkül — Bauern, Betriebe und Verbraucher werden zu Geiseln fremder Konflikte. So wird das Rechtsleben, das den fairen Rahmen sichern sollte, selbst zum lukrativsten Markt — und gehandelt wird dort, was es nie geben dürfte: der Rahmen selbst.
       - schlagwort: Zwangsabgabe
         schlagsatz: Bezahlt wird, was festgesetzt ist — nicht, was geschieht.
         text: >
           Abgaben werden nicht an der wirtschaftlichen Realität bemessen, sondern an politischen Setzungen. Die Zwangsfernsehgebühr wird erhoben, ob du das Angebot nutzt oder nicht — unterstellt wird eine fiktive Nutzung. Das Steuersystem ist so kompliziert, dass du einen Berater brauchst, um deine Pflichten zu erfüllen: Die Last bemisst sich nicht an deiner realen Lage, sondern an der Kunst des Beraters oder an seinem Mut, das Gewünschte aus den Formularen herauszulesen. Das ist die Umkehrung der Haftung: Gesund trägt jeder die Folgen dessen, was er verursacht — hier zahlt jeder, was ihm zugeschrieben wird, ob er verursacht, nutzt oder nachfragt. Wer wirkliche Schäden anrichtet, kommt oft davon; wer nichts veranlasst hat, zahlt die Fiktion. Tiefer greift der Steuerzwang in der staatlichen Währung: Steuern lassen sich in nichts anderem entrichten — damit erzwingt das Steuerrecht die Nachfrage nach dem Staatsgeld und macht alternativen Währungen das Leben schwer. Und Steiner geht weiter: Wer Einkommen besteuert, besteuert eine Abstraktion — das Zeichen, nicht das Gut. Die Einkommensteuer greift beim Zufluss zu, bevor irgendein Bedarf entstanden ist, und macht den Staat zum Komplizen der abstrakten Geldwirtschaft, über die er sich beklagt.
-      - schlagwort: Zollwaffe
-        schlagsatz: Der Handel wird zur Geisel.
-        text: >
-          Zölle dienen als Waffe der Bestrafung und Erpressung: Der Güteraustausch wird nicht aus Sachgründen unterbrochen, sondern aus Machtkalkül. Die Grenze, die gesund das Unverkäufliche umschließt, zerschneidet hier den berechtigten Austausch — mitten durch Lieferketten, Ernten und Existenzen, als Druckmittel für Ziele, die mit den Gütern nichts zu tun haben. Das Ufer wird zum Damm: Aufgestaut wird nicht, um zu schützen, sondern um zu drohen. Berechtigt bleiben nur zwei Ausnahmen, und beide sind Sachgründe: ein zeitlich befristeter Übergangsschutz für aufstrebende Wirtschaftszweige und ein sachlich begründeter Ausgleich bei unterschiedlichen Standards. Alles andere macht Bauern, Betriebe und Verbraucher zu Geiseln fremder Konflikte: Sie zahlen für Streitigkeiten, die sie nicht führen, mit Absatz, Arbeit und Preisen. So wird die Wirtschaft, die ihrer Natur nach über Grenzen hinweg verbindet, zum Austragungsort der Macht umfunktioniert — und jede Lieferung, auf die einer angewiesen ist, zur Stelle, an der man ihn würgen kann.
       - schlagwort: Verschleierung
         schlagsatz: Vor Gericht steht eine Konstruktion — kein Mensch.
         text: >
@@ -531,48 +433,17 @@ felder:
       - schlagwort: Versorgung
         schlagsatz: Geld ist Versprechen; Nahrung ist Wirklichkeit.
         text: >
-          Richterinnen, Polizisten, Verwaltungsangestellte, Abgeordnete
-          erzeugen selbst kein Brot, keine Kleidung, kein Haus — und leben
-          doch von alledem. Was sie erhalten, ist zunächst Geld; aber Geld
-          ist nur die Anweisung, eingelöst wird sie von der realen
-          Produktion. Das eigentliche Tragen geschieht darum nicht in den
-          Kassen, sondern in den Feldern, Werkstätten und Betrieben: Die
-          Wirtschaft ernährt, kleidet und behaust die Menschen, die im
-          Rechtsleben arbeiten — sie trägt die Träger des Rechts. Hier liegt
-          die Übergabe: Mit der Versorgung endet der Beitrag der Wirtschaft.
-          Was die Versorgten leisten — Recht sprechen, verwalten,
-          beschließen —, gehört allein dem Rechtsleben; keine Lieferung
-          begründet eine Weisung. So wie die gesicherten Mittel vom Recht
-          ins Geistesleben übergehen und die verbindliche Form vom Recht in
-          die Wirtschaft, geht hier die reale Leistung von der Wirtschaft
-          ins Recht über: Sie trägt die Tragenden — und trägt ihnen nichts
-          auf.
+          Richterinnen, Polizisten, Verwaltungsangestellte, Abgeordnete erzeugen selbst kein Brot, keine Kleidung, kein Haus — und leben doch von alledem. Was sie erhalten, ist zunächst Geld; aber Geld ist nur die Anweisung, eingelöst wird sie von der realen Produktion. Das eigentliche Tragen geschieht darum nicht in den Kassen, sondern in den Feldern, Werkstätten und Betrieben: Die Wirtschaft ernährt, kleidet und behaust die Menschen, die im Rechtsleben arbeiten — sie trägt die Träger des Rechts. Hier liegt die Übergabe: Mit der Versorgung endet der Beitrag der Wirtschaft. Was die Versorgten leisten — Recht sprechen, verwalten, beschließen —, gehört allein dem Rechtsleben; keine Lieferung begründet eine Weisung. So wie die Mittel gesichert vom Recht ins Geistesleben übergehen und die verbindliche Form vom Recht in die Wirtschaft, geht hier die reale Leistung von der Wirtschaft ins Recht über: Sie trägt die Tragenden — und trägt ihnen nichts auf.
         zitate: []
       - schlagwort: Lieferung
         schlagsatz: Das Recht bestellt, die Wirtschaft liefert.
         text: >
-          Gerichtsgebäude werden gebaut, Stimmzettel gedruckt, Fahrzeuge
-          geliefert, Verwaltungsnetze betrieben — die Beschlüsse des
-          Rechtslebens werden zu Aufträgen an die Wirtschaft. Sie erbringt
-          diese Sachleistungen als das, was sie am besten kann: herstellen,
-          organisieren, liefern. Die Verantwortung ist dabei sauber geteilt.
-          Das Ob und Wofür bestimmt das Rechtsleben demokratisch — welche
-          Schule gebaut, welche Ausstattung beschafft wird. Das Wie
-          verantwortet die Wirtschaft aus eigener Kompetenz — Material,
-          Verfahren, Wege, verhandelt in ihren
-          Erzeuger-Verwender-Gemeinschaften. Keine Behörde muss produzieren
-          können, kein Betrieb beschließen dürfen; jede Seite bleibt in
-          ihrer Stärke. Die Form dafür kennt das Nachbarfeld schon: Der
-          Auftrag ist ein Vertrag — das Recht bestellt und bindet sich an
-          die Abmachung wie jeder andere Vertragspartner auch, die
-          Wirtschaft füllt die Abmachung und liefert. So dient die
-          Wirtschaft dem Gemeinwesen, ohne ihm zu gehören — und das
-          Gemeinwesen empfängt, ohne selbst wirtschaften zu müssen.
+          Gerichtsgebäude werden gebaut, Stimmzettel gedruckt, Fahrzeuge geliefert, Verwaltungsnetze betrieben — die Beschlüsse des Rechtslebens werden zu Aufträgen an die Wirtschaft. Sie erbringt diese Sachleistungen als das, was sie am besten kann: herstellen, organisieren, liefern. Die Verantwortung ist dabei sauber geteilt. Das Ob und Wofür bestimmt das Rechtsleben demokratisch aus den Vorschlägen des Geisteslebens — welche Schule gebaut, welche Ausstattung beschafft wird. Das Wie verantwortet die Wirtschaft aus eigener Kompetenz — Material, Verfahren, Wege, verhandelt in ihren Erzeuger-Verwender-Gemeinschaften. Keine Behörde muss produzieren können, kein Betrieb beschließen dürfen; jede Seite bleibt in ihrer Stärke. Die Form dafür kennt das Nachbarfeld schon: Der Auftrag ist ein Vertrag — das Recht bestellt und bindet sich an die Abmachung wie jeder andere Vertragspartner auch, die Wirtschaft füllt die Abmachung und liefert. So dient die Wirtschaft dem Gemeinwesen, ohne ihm zu gehören — und das Gemeinwesen empfängt, ohne selbst wirtschaften zu müssen.
         zitate: []
       - schlagwort: Freistellung
         schlagsatz: Keine freie Zeit — kein freies Urteil.
         text: >
-          Demokratie lebt nicht allein von Geld, sondern von Menschen, die ihre Zeit einbringen: als Schöffen, Wahlhelfer, in kommunalen Ämtern oder politischen Mandaten. Das Rechtsleben ist darauf angewiesen, dass mündige Bürger mitwirken – und mitwirken kann nur, wer dafür freigestellt wird. Deshalb gibt die Wirtschaft hier ihre knappste Ressource ab: Arbeitszeit. Sie trägt den Ausfall, hält den Arbeitsplatz offen und sorgt dafür, dass demokratisches Engagement kein berufliches Risiko bedeutet. Wer aus dem Schöffendienst zurückkehrt, findet seinen Platz im Betrieb unverändert vor. Denn Gesetze, die jeder verstehen können muss, brauchen auch jeden, der sie mitgestalten kann. So gleicht sich die Leistung aus: Wie das Recht den Menschen aus dem Warenverkehr herausnimmt, gibt die Wirtschaft den Bürger frei – für die Stunden, in denen er nicht Arbeitskraft ist, sondern Rechtsgenosse unter Gleichen.
+          Demokratie lebt nicht allein von Geld, sondern von Menschen, die ihre Zeit einbringen. Das Rechtsleben braucht Abgeordnete und Kommunalpolitiker, die sich ganz der öffentlichen Sache widmen; Schöffen und Wahlhelfer, die das Recht im Einzelfall tragen; Bürger, die an Projekten für die Allgemeinheit arbeiten; und Menschen, die Wahlen organisieren, Transparenz herstellen und die Kommunikation des Gemeinwesens pflegen. Mitwirken kann nur, wer dafür freigestellt wird. Deshalb gibt die Wirtschaft hier ihre knappste Ressource ab: Arbeitszeit. Sie trägt den Ausfall, hält den Arbeitsplatz offen und sorgt dafür, dass öffentliches Engagement kein berufliches Risiko bedeutet — wer zurückkehrt, findet seinen Platz im Betrieb unverändert vor; wer ganz in den öffentlichen Dienst geht, wird aus dem Gemeinsamen versorgt, nicht aus dem Betrieb bezahlt. Denn Gesetze, die jeder verstehen können muss, brauchen auch jeden, der sie mitgestalten kann. So gleicht sich die Leistung aus: Wie das Recht den Menschen aus dem Warenverkehr herausnimmt, gibt die Wirtschaft den Bürger frei — für die Stunden, Monate oder Jahre, in denen er nicht Arbeitskraft ist, sondern Rechtsgenosse unter Gleichen.
         zitate: []
       - schlagwort: Enthaltung
         schlagsatz: Wer zahlt, bestimmt nicht.
@@ -592,7 +463,7 @@ felder:
       - schlagwort: Machtspiel
         schlagsatz: Zu groß, um belangt zu werden.
         text: >
-          Wenn der Staat selbst auf die Steuereinnahmen oder Kredite großer Wirtschaftsakteure angewiesen ist, fehlt ihm der Wille oder die Kraft, gegen diese Akteure rechtlich vorzugehen. Die Bank, deren Zusammenbruch, durch Korruption verursacht wird, würde das Land erschüttern. Sie wird gerettet statt bestraft; der Konzern, an dem eine Region hängt, wird geschont statt geprüft; der Gläubiger, der die Anleihen hält, wird hofiert. Die Werkzeuge sind alle vorhanden — Gerichte, Behörden, Paragraphen —, aber die Hand, die sie führen müsste, gehorcht der Abhängigkeit: Man vollstreckt nicht gegen den, von dem man lebt. So entsteht ein Recht mit Größenvorbehalt, das nur noch nach unten durchgreift: Der Ladendieb wird bestraft, der Bilanzfälscher bekommt eine Abfindung; die Schwarzfahrerin sitzt ein, der Steuertrickser verhandelt – aber auch nur wenn es um Millionen geht. Die Gleichheit vor dem Gesetz endet genau dort, wo die Abhängigkeit beginnt — und jeder im Land weiß es. Verschärft wird das Machtspiel durch die juristische Person: Nicht ein Mensch haftet, sondern eine Rechtsform — und hinter ihr verschwindet die Verantwortung. Wer nicht persönlich haftet, droht leichter, verhandelt härter, und der Staat steht vor der Frage, wen er überhaupt belangen soll, wenn die Entscheidung in einem Vorstand fiel, der sich auf den Aufsichtsrat beruft, der sich auf den Markt beruft. Nichts zersetzt den Rechtssinn gründlicher als Geltung, die vor der Größe haltmacht.
+          Wenn der Staat selbst auf die Steuereinnahmen oder Kredite großer Wirtschaftsakteure angewiesen ist, fehlt ihm der Wille oder die Kraft, gegen diese Akteure rechtlich vorzugehen. Die Bank, deren Zusammenbruch, durch Korruption verursacht wird, würde das Land erschüttern. Sie wird gerettet statt bestraft; der Konzern, an dem eine Region hängt, wird geschont statt geprüft; der Gläubiger, der die Anleihen hält, wird hofiert. Die Werkzeuge sind alle vorhanden — Gerichte, Behörden, Paragraphen —, aber die Hand, die sie führen müsste, gehorcht der Abhängigkeit: Man vollstreckt nicht gegen den, von dem man lebt. So entsteht ein Recht mit Größenvorbehalt, das nur noch nach unten durchgreift: Der Ladendieb wird bestraft, der Bilanzfälscher bekommt eine Abfindung; die Schwarzfahrerin sitzt ein, der Steuertrickser verhandelt – aber auch nur wenn es um Millionen geht. Die Gleichheit vor dem Gesetz endet genau dort, wo die Abhängigkeit beginnt — und jeder im Land weiß es. Verschärft wird das Machtspiel durch die juristische Person: Nicht ein Mensch haftet, sondern eine Rechtsform — und hinter ihr verschwindet die Verantwortung. Wer nicht persönlich haftet, droht leichter, verhandelt härter, und der Staat steht vor der Frage, wen er überhaupt belangen soll, wenn die Entscheidung in einem Vorstand fiel, der sich auf den Aufsichtsrat beruft, der sich auf den Markt beruft. Verstärkt wird die Abhängigkeit durch substanzlose Finanztitel — Derivate, Verbriefungen, Forderungen auf Forderungen —, die den Akteur „systemrelevant" machen: Nicht weil er etwas Wertvolles hält, sondern weil sein Zusammenbruch alles andere mitrisse. Nichts zersetzt den Rechtssinn gründlicher als Geltung, die vor der Größe haltmacht.
       - schlagwort: Sklaventum
         schlagsatz: Der Mensch wird zum Posten in der Kalkulation.
         text: >
@@ -606,10 +477,10 @@ felder:
         schlagsatz: Die Lieferung wird zur Anweisung.
         text: >
           Das Ziel ist immer dasselbe: Richter, Staatsanwälte oder Aufsichtsbehörden sollen Rechtsverstöße nicht verfolgen oder nur milde ahnden. Der gröbste Weg dahin ist die Bestechung. Leiser wirkt die Drohung, oft genügt schon die Andeutung, dass man etwas weiß. Am unauffälligsten wirkt die Beziehung: der gemeinsame Golfclub, das Abendessen, die Gefälligkeit, über die niemand spricht und die doch jeder versteht. Am weitesten aber reicht die Drehtür: Der Aufseher von heute ist der Vorstand von morgen — und weiß es heute schon. Die milde Prüfung ist die Bewerbung für später; die Zahlung heißt Karriere und wird erst nach dem Ausscheiden fällig, wenn keine Vorschrift mehr greift. Niemand muss bestochen werden — die Aussicht genügt. Damit kippt die Versorgung in ihr Gegenteil: Gesund trägt die Wirtschaft die Träger des Rechts — ernährt, kleidet, behaust sie — und trägt ihnen nichts auf. Hier sucht sich die Zahlung den direkten Weg: nicht über Kassen und Besoldung, durch die alle gleich versorgt werden, sondern an der Ordnung vorbei in die Hand, die urteilen soll. Aus dem Unterhalt, der unabhängig macht, wird der Umschlag, der abhängig macht; aus der Lieferung, die keine Anweisung begründet, die Anweisung selbst. Ein gekaufter Richter richtet nicht mehr — er liefert. Und wer weiß, dass Urteile käuflich sind, glaubt auch dem unbestochenen Richter nicht mehr.
-      - schlagwort: Scheinrecht
-        schlagsatz: Die Wirtschaft schafft sich Recht, das nichts abbildet.
+      - schlagwort: Privatjustiz
+        schlagsatz: Die Wirtschaft richtet sich selbst.
         text: >
-          Die Finanzwirtschaft erzeugt Rechtsansprüche, die kein reales Gut abbilden: Derivate, Futures, Verbriefungen — Forderungen auf Forderungen auf Forderungen, bis niemand mehr weiß, wer wem was schuldet. Gesund sichert das Recht Verträge zwischen Personen über Güter, die es gibt. Hier sichert es Wetten auf Wetten — und wenn die Wetten platzen, zahlt die Allgemeinheit. In der Finanzkrise waren die Geldautomaten leer, Überweisungen stockten, das Zahlungssystem stand still — nicht weil kein Geld da war, sondern weil die substanzlosen Titel die reale Liquidität aufgesogen hatten. Der Zins treibt den Mechanismus: Wer Geld verleiht, verlangt einen Preis für den bloßen Verzicht, und das Recht schützt dieses arbeitslose Einkommen wie jede andere Forderung. So wächst der Papierberg, während die Güter, auf die er sich beruft, gleich bleiben oder schwinden. Die Papiermacht erzeugt die Abhängigkeit, die in der Erpressung und im Machtspiel wiederkehrt: Wer die Titel hält, droht mit Kollaps, und der Staat rettet, weil das Papier „systemrelevant" geworden ist — nicht weil es etwas wert wäre, sondern weil sein Zusammenbruch alles andere mitrisse.
+          Gesund liefert die Wirtschaft dem Rechtsleben Gebäude, Fahrzeuge und Netze — reale Güter durch reale Verträge, nach staatlicher Bestellung. Krank liefert sie Urteile. Schiedsklauseln in Verträgen zwingen Streitigkeiten vor private Tribunale, die kein Parlament gewählt hat und deren Sprüche kein Gericht nachprüft. Schiedsverfahren (z. B. ISDS) erlauben Konzernen, Staaten vor privaten Schiedsgerichten zu verklagen, wenn Gesetze ihre Rendite schmälern — das Recht, das die Wirtschaft schützen soll, wird zum Angriffsziel der Wirtschaft. Nutzungsbedingungen funktionieren als Gesetz für Milliarden: Sie regeln Zugang, Ausschluss und Bestrafung ohne demokratische Legitimation, ohne Einspruch, ohne öffentliche Verhandlung — und wer nicht zustimmt, darf nicht teilnehmen. Interne Compliance-Abteilungen ermitteln, urteilen und sanktionieren, ohne dass ein öffentliches Verfahren stattfände. So baut sich die Wirtschaft ein paralleles Rechtssystem: Sie umgeht den Staat nicht, indem sie sein Recht bricht, sondern indem sie um es herumliefert — eigene Gerichte, eigene Regeln, eigene Vollstreckung. Der Auftrag, der ein Vertrag sein sollte, wird zur Eigenjustiz; die Lieferung, die dem Gemeinwesen dienen sollte, ersetzt es.
         zitate: []
       - schlagwort: Lobbykauf
         schlagsatz: Wer zahlt, bestimmt doch.

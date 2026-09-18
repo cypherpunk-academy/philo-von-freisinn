@@ -16,6 +16,8 @@ Die vier Phasen und der Phasen-Abgleich sind in Kapitel V aufgegangen (Samen →
 
 **Thermometer und Unberechenbarkeit.** Das Thermometer-Bild (Anzeige vs. heizen) ist in GA 340 belegt. Die Wendung, der Anker müsse unberechenbar sein, damit niemand sich vor ihn stellen kann, ist eigene Weiterführung, kein Steiner-Zitat. So im Haupttext geführt.
 
+**Preissteuerung durch Arbeiterumleitung.** II.4 führt jetzt die Steiner-Folge vollständig: erst assoziatives Urteil „zu hoch / zu niedrig“ aus Zusammenberaten (steigen/fallen allein bedeutet nichts), dann Umleitung der Arbeitenden; Staatliche Zuteilung als Tyrannei abgelehnt; Umschulung über Spielraum und Schenkgeld. Belege: GA 340; knapp wiederholt im 6. Vortrag, 29. Juli 1922. Die Mechanik bleibt knapp — Einladung, nicht Zuteilung.
+
 **Endtermin statt Anfangsjahr.** Steiner lässt an einer Stelle das Anfangsjahr drucken. Das Korn druckt den Endtermin, weil Fristen regional gemessen und an der Einheit mitgeführt werden. → Kapitel IV.
 
 **Technik.** Das Konzeptpapier sah eine eigene Kette („Kernel“), Proof of Harvest, personengebundene Adressen. Der Haupttext baut auf Rechenstellen, Geldtasche, blinde Signaturen (Taler-Linie) und Mixnetz — ohne handelbaren Token. → Kapitel IV, Die Geldtasche.
@@ -30,7 +32,7 @@ Belegstellen (verifiziert am Original, Uranos-Archiv): GA 340 (u. a. S. 38 ff., 
 
 ### Offene Fragen (Restliste)
 
-Was der Haupttext schon schließt, steht nicht mehr hier (Empfängerregel im Prinzip; Produktionsmittel übertragen statt verkaufen; kein Alt-gegen-Jung-Tausch zwischen Teilnehmern; Membran/Clearingstelle; Öffentlichkeit nach Sphäre).
+Was der Haupttext schon schließt, steht nicht mehr hier (Empfängerregel im Prinzip; Produktionsmittel übertragen statt verkaufen; kein Alt-gegen-Jung-Tausch zwischen Teilnehmern; Membran/Clearingstelle; Öffentlichkeit nach Sphäre; positive Hälfte des Freigeld-Einwands / Preissteuerung durch Arbeiterumleitung in II.4).
 
 **Noch offen:**
 
@@ -55,8 +57,6 @@ Was der Haupttext schon schließt, steht nicht mehr hier (Empfängerregel im Pri
 10. **Grundbedürfnisse in der Wald-Stufe.** Wirtschaftliches Organ setzt eine quasi-rechtliche Norm. Was hält den Übergriff Wirtschaft → Recht gesund?
 
 11. **Sterbegrenze.** Wie lang der Schenkgeld-Abschnitt am Ende — lang genug für einen Empfänger, kurz genug, dass niemand damit wirtschaftet?
-
-12. **Positive Hälfte des Freigeld-Einwands.** Statistik zeigt Lücken — wie gelangen Menschen und Fähigkeiten dorthin, ohne staatliche Zuteilung? Der Haupttext sagt Einladung und Schenkgeld zur Ausbildung; die Mechanik der Bewegung ist noch dünn.
 
 Dazu die offenen Stellen in den anderen Paralipomena (Auffrischungsschwelle, Pflege Kauf/Schenk, Saisonalität, Betriebstyp und Anerkennung).
 

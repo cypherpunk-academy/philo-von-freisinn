@@ -231,9 +231,13 @@ Was ebenfalls fehlt, fällt erst auf, wenn man es sucht: kein Zins, keine Rente,
 
 In der heutigen Ordnung ist der Preis das Steuerrad. Er steigt, wenn etwas knapp wird, und lenkt damit, wer produziert und wer verzichtet. Im Korn kann er das nicht mehr, weil er gerechnet wird und nicht gebildet. Damit fällt eine Steuerung weg, und es muss eine andere an ihre Stelle treten.
 
-Sie ist bei Steiner benannt, und sie greift nicht am Geld an, sondern an den Menschen. Der Preis, sagt er, hänge an der Zahl derer, die auf einem bestimmten Feld arbeiten. Wird ein Gut zu teuer, fehlen dort Hände. Wird es zu billig, sind zu viele da.
+Zuerst eine Bedingung, ohne die die Zahl nichts sagt. Billiger werden und teurer werden hat noch keine Bedeutung. Erst wenn die Assoziation aus dem Zusammenberaten heraus urteilen kann — fünf Geldeinheiten sind für eine Menge Salz zu wenig oder zu viel —, erst wenn man wirklich sagen kann, der Preis ist zu hoch oder zu niedrig, werden Maßregeln möglich. Von Preisen spricht man ohnehin nur im Zusammenhang mit der Verteilung der Menschen in den Arbeitszweigen des sozialen Organismus.
 
-Der Preis hört damit auf, ein Hebel zu sein, und wird eine Anzeige. Was auf ihn folgt, ist keine Rechenoperation, sondern eine Bewegung von Menschen: mehr Arbeit dort, wo es klemmt, weniger dort, wo zu viele stehen. Aufgabe der Assoziation ist es nicht, das anzuordnen — sie spricht es aus. Wer hingeht, geht selbst. Was sie dazu tun kann, ist den Weg zu öffnen: Schenkgeld für die Ausbildung, die dort gebraucht wird.
+Die Regel greift dann nicht am Geld an, sondern an den Menschen. Der Preis, sagt Steiner, hänge an der Zahl derer, die auf einem bestimmten Feld arbeiten. Wird ein Gut zu billig, sodass die Herstellenden für ihre Leistung keine entsprechende Entlohnung mehr finden, muss man dort weniger einstellen — die Arbeiter in eine andere Beschäftigung ableiten. Wird es zu teuer, muss man Arbeiter herüberleiten.
+
+Der Preis hört damit auf, ein Hebel zu sein, und wird eine Anzeige. Was auf ihn folgt, ist keine Rechenoperation, sondern eine Bewegung von Menschen: mehr Arbeit dort, wo es klemmt, weniger dort, wo zu viele stehen. Das durch den Staat ordnen zu wollen, wäre die schlimmste Tyrannei. Es durch freie Assoziationen zu ordnen, wo jeder den Einblick hat — er sitzt darin, oder sein Vertreter, oder es wird ihm mitgeteilt, oder er sieht selbst ein, was zu geschehen hat —, das ist zu erstreben. Die Assoziation ordnet nicht zu; sie spricht es aus. Wer hingeht, geht selbst.
+
+Was den Weg öffnet, ist Umschulung. Niemand soll ein Leben lang nur einen Handgriff können. Der Spielraum im Preis und das Schenkgeld, das aus alterndem Überschuss wird, dienen dazu, Arbeitenden etwas beizubringen und sie in andere Berufszweige überzuführen. Auf dieses lebendige Verhandeln mit den Menschen kommt es an.
 
 Man rührt das Thermometer nicht an. Man heizt — und geheizt wird mit Einladung, nicht mit Zuteilung.
 
