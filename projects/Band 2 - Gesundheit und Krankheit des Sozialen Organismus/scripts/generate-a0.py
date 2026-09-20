@@ -77,7 +77,10 @@ AVATAR_TRI_FRAC = 2.0 / 3.0
 AVATAR_X_FRAC = 0.625  # Mitte auf der Gelb–Blau-Grenze
 QR_SRC = os.path.join(_DIR, "assets", "qr-github.svg")
 QR_HREF = "qr-github.svg"
-QR_URL = "https://github.com/cypherpunk-academy/philo-von-freisinn"
+QR_URL = (
+    "https://github.com/cypherpunk-academy/philo-von-freisinn/tree/main/"
+    "projects/Band%202%20-%20Gesundheit%20und%20Krankheit%20des%20Sozialen%20Organismus/output"
+)
 QR_SIZE = 300.0  # 3 cm; 1 SVG-Einheit = 0.1 mm
 _DE_MONTHS = {
     1: "Jan.", 2: "Feb.", 3: "März", 4: "Apr.", 5: "Mai", 6: "Juni",
@@ -179,11 +182,9 @@ FAN_GROUPS = {
     # --- Krankheit links ---
     "dm-04k": {
         "panel": "kra", "side": "left",
-        "arc": 0, "open": "left", "y_mode": "center",
+        "arc": 0, "open": "left", "y_mode": "page_top",
         "heading_room": True,
-        "y_shift": FAN_LEFT_Y_SHIFT,
-        "y_shift_heading_lh": 0.5,  # halbe Überschrift-Zeilenhöhe nach unten
-        "y_shift_block": 1,  # eine Texthöhe nach unten → Überschrift knapp unter Gesamttitel
+        "v_align": "top",
         "x_shift": 780.0,
         "heading_x": "first_block",
         "heading_align": "end",  # rechtsbündig zur unteren Zeile
@@ -193,6 +194,11 @@ FAN_GROUPS = {
         "arc": 1, "open": "right", "y_mode": "top_at_sibling_center",
         "relative_to": "dm-04k",
         "x_shift": 1280.0,
+        "align_heading_to": {
+            "yaml_id": "dm-04k",
+            "schlagwort": "Willkürpreis",
+            "y_shift_lh": 0.4,  # ein klein wenig nach unten
+        },
     },
     "dm-06k": {
         "panel": "kra", "side": "left",
@@ -208,11 +214,9 @@ FAN_GROUPS = {
     # --- Krankheit rechts (spiegelbildlich zu 04/05/06k) ---
     "dm-03k": {
         "panel": "kra", "side": "right",
-        "arc": 6, "open": "right", "y_mode": "center",
+        "arc": 6, "open": "right", "y_mode": "page_top",
         "heading_room": True,
-        "y_shift": FAN_LEFT_Y_SHIFT,
-        "y_shift_heading_lh": 0.5,
-        "y_shift_block": 1,  # eine Texthöhe nach unten (wie dm-04k; Relativfächer folgen)
+        "v_align": "top",
         "x_shift": 780.0,
         "heading_x": "first_block",
         "heading_x_frac": 0.0,   # linker Textrand
@@ -224,6 +228,10 @@ FAN_GROUPS = {
         "relative_to": "dm-03k",
         "x_shift": 1280.0,
         "heading_lines": ["Die Weltsicht wird", "zum Gesetz"],
+        "align_heading_to": {
+            "yaml_id": "dm-03k",
+            "schlagwort": "Goldener Zügel",
+        },
     },
     "dm-02k": {
         "panel": "kra", "side": "right",
@@ -244,12 +252,15 @@ FAN_GROUPS = {
         "ref_bottom": "dm-05k",
         "heading_gap_ref": ("dm-06k", "dm-04k"),
         "heading_room": True,
-        "y_shift_heading_lh": 0.5,
-        "y_shift_block": 0.5,  # mit dm-05g eine Texthöhe höher (Abstand zu dm-06g)
+        "v_align": "top",
         "x_shift": 1280.0,
         "heading_x": "first_block",
         "heading_x_frac": 1.0,   # rechter Textrand
         "heading_align": "text-end",  # rechtsbündig mit dem Text
+        "align_heading_to": {
+            "yaml_id": "dm-06k",
+            "schlagwort": "Bestellung",
+        },
     },
     "dm-05g": {
         "panel": "ges", "side": "left",
@@ -262,6 +273,10 @@ FAN_GROUPS = {
         "heading_x_frac": 0.0,   # linker Textrand
         "heading_align": "text-start",  # linksbündig mit dem Text
         "heading_lines": ["Die Wirtschaft", "trägt den Staat"],
+        "align_heading_to": {
+            "yaml_id": "dm-04g",
+            "schlagwort": "Eigentumszeit",
+        },
     },
     "dm-06g": {
         "panel": "ges", "side": "left",
@@ -269,12 +284,17 @@ FAN_GROUPS = {
         "below": "dm-04g",
         "heading_room": True,
         "v_align": "top",
-        "y_shift_heading_lh": 1.0,
-        "y_shift_block": 1.5,  # bleibt stehen, wenn dm-04g/05g nach oben gehen
         "x_shift": 1280.0,
         "x_shift_text_frac": -0.2,   # 20 % Textbreite nach links
         "heading_x": "first_block",
+        "heading_x_frac": 1.0,   # rechter Rand des ersten Texts
+        "heading_align": "text-end",  # rechtsbündig mit dem Text
         "heading_lines": ["Die Wirtschaft", "versorgt den Geist"],
+        "align_heading_to": {
+            "yaml_id": "dm-05g",
+            "schlagwort": "Versorgung",
+        },
+        "shift_down_to_page": True,
     },
     # --- Gesundheit rechts (spiegelbildlich zu 04/05/06g) ---
     "dm-03g": {
@@ -287,6 +307,10 @@ FAN_GROUPS = {
         "y_shift_block": 2.5,  # +0.5 Texthöhe nach unten
         "x_shift": 1280.0,
         "heading_x": "first_block",
+        "align_heading_to": {
+            "yaml_id": "dm-02k",
+            "schlagwort": "Konkurrenz",
+        },
     },
     "dm-01g": {
         "panel": "ges", "side": "right",
@@ -297,8 +321,12 @@ FAN_GROUPS = {
         "x_shift": 780.0,
         "x_shift_text_frac": -0.15,  # spiegelbildlich zu dm-05g (+0.15)
         "heading_x_compensate_text_frac": True,
-        "heading_align": "start",  # „Sachkenntnis prägt“ linksbündig zu „das Recht“
+        "heading_align": "middle",
         "heading_lines": ["Sachkenntnis prägt", "das Recht"],
+        "align_heading_to": {
+            "yaml_id": "dm-03g",
+            "schlagwort": "Schutzraum",
+        },
     },
     "dm-02g": {
         "panel": "ges", "side": "right",
@@ -307,7 +335,6 @@ FAN_GROUPS = {
         "heading_room": True,
         "v_align": "top",
         "y_shift_heading_lh": 1.0,
-        "y_shift_tri_frac": 1.0,  # eine Dreieckshöhe nach unten
         "x_shift": 1280.0,
         "x_shift_text_frac": 0.2,    # spiegelbildlich zu dm-06g (−0.2)
         "heading_x": "first_block",
@@ -316,20 +343,35 @@ FAN_GROUPS = {
 FAN_ARC_HEIGHT = 2600.0
 FAN_ARC_BULGE = 600.0
 FAN_PAIR_GAP = 48.0  # horizontaler Abstand zwischen beiden Fächern
+FAN_TEXT_WIDTH_SCALE = 1.05  # Textkästen etwas breiter → weniger Zeilen
 # Vertikale Abstände im Fächer (in lh), vgl. Karten-Beispiel
 FAN_TITLE_BODY_GAP = 0.0    # Überschrift → eigener Text (= normaler lh-Schritt)
-FAN_ASPECT_GAP = 1.375     # Text darüber → nächste Überschrift (halbiert)
+FAN_ASPECT_GAP = 1.0       # mindestens eine Leerzeile zwischen den Texten
 FAN_FIELD_HEADING_GAP = 1.0  # Feld-Titel → erster Aspekt-Titel
+KEYWORD_ABOVE = 1.05       # Schlagwort über der Titel-Grundlinie (draw_aspect_bare)
 
 
-def wrap_aspects(aspects, font, inner_w):
-    """Je Aspekt: Titelzeile(n) 'Schlagwort: Schlagsatz' + Erklaertext."""
+def wrap_aspects(aspects, font, inner_w, *, split_keyword=False, body_key="kurztext"):
+    """Je Aspekt: Titelzeile(n) + Erklaertext.
+
+    split_keyword: Schlagsatz als Titel, Schlagwort separat (A0-Fächer).
+    body_key: A0 setzt kurztext; fehlt er, fällt auf text zurück.
+    """
     out = []
     for a in aspects:
-        title = f"{a['schlagwort']}: {a['schlagsatz']}"
+        if split_keyword:
+            title = wrap_text(a["schlagsatz"], font, inner_w)
+            keyword = a["schlagwort"]
+        else:
+            title = wrap_text(f"{a['schlagwort']}: {a['schlagsatz']}", font, inner_w)
+            keyword = None
+        body = (a.get(body_key) or "").strip() or a.get("text") or ""
         out.append({
-            "title": wrap_text(title, font, inner_w),
-            "body": wrap_text(a["text"], font, inner_w),
+            "title": title,
+            "body": wrap_text(body, font, inner_w),
+            "keyword": keyword,
+            "text": body,
+            "schlagsatz": a["schlagsatz"],
         })
     return out
 
@@ -384,14 +426,26 @@ def draw_group(x, y, w, h, font, lh, blocks, fill):
     return "\n".join(parts)
 
 
-def draw_aspect_bare(x, y, w, font, lh, block, title_body_gap=TITLE_BODY_GAP):
-    """Einzelnen Aspekt ohne Karten-Rechteck zeichnen."""
+def draw_aspect_bare(x, y, w, font, lh, block, title_body_gap=TITLE_BODY_GAP,
+                     baseline_font=None, keyword=None, keyword_opacity=0.3):
+    """Einzelnen Aspekt ohne Karten-Rechteck zeichnen.
+
+    keyword: Schlagwort über der Überschrift, ohne den Abstand nach oben zu ändern.
+    """
     esc = xml.escape
-    ty = y + font * 0.45
-    parts = [
+    base = baseline_font if baseline_font is not None else font
+    ty = y + base * 0.45
+    parts = []
+    if keyword:
+        kw_y = ty - font * 1.05
+        parts.append(
+            f'    <text x="{x:.2f}" y="{kw_y:.2f}" '
+            f'font-family="{FONT}" font-size="{font:.2f}" font-weight="bold" '
+            f'fill="{TXT_COLOR}" fill-opacity="{keyword_opacity:.2f}" '
+            f'dominant-baseline="central">{esc(keyword)}</text>')
+    parts.append(
         f'    <text font-family="{FONT}" font-size="{font:.2f}" '
-        f'fill="{TXT_COLOR}" dominant-baseline="central">',
-    ]
+        f'fill="{TXT_COLOR}" dominant-baseline="central">')
     cursor = ty
     for line in block["title"]:
         parts.append(
@@ -482,7 +536,7 @@ def draw_philo_avatar(cx, cy, diameter, caption, font_size, intro_lines=None,
     """Runder Avatar mit Namenszeile — Mitte auf (cx, cy).
 
     intro_lines: kursiver Vorstellungstext links vom Bild.
-    QR gleiche Höhe (unten bündig mit Namenszeile); qr_cx = Mitte des Codes.
+    QR zentriert unter dem Namen, damit die rechte Textspalte frei bleibt.
     """
     r = diameter / 2.0
     clip_id = "philo-avatar-clip"
@@ -507,10 +561,9 @@ def draw_philo_avatar(cx, cy, diameter, caption, font_size, intro_lines=None,
     qsize = qr_size if qr_size is not None else QR_SIZE
     pad = qsize * 0.06
     cap_bottom = cap_y + font_size * 0.42
-    qr_y = cap_bottom - qsize
-    if qr_cx is None:
-        qr_x = cx + r + font_size * 0.7
-    else:
+    qr_y = cap_bottom + font_size * 0.4
+    qr_x = cx - qsize / 2.0
+    if qr_cx is not None:
         qr_x = qr_cx - qsize / 2.0
     parts.append(
         f'  <rect x="{qr_x - pad:.2f}" y="{qr_y - pad:.2f}" '
@@ -553,10 +606,57 @@ def fan_block_height(block, font, lh):
     )
 
 
-def aspect_height(block, font, lh):
-    """Höhe eines einzelnen Aspekt-Textblocks."""
-    n = len(block["title"]) + len(block["body"])
-    return font + max(0, n - 1) * lh + lh * TITLE_BODY_GAP
+def estimate_aspect_fit(fan_items, font_draw, lh_draw):
+    """Wie stark die 84 Aspekt-Texte gekürzt werden müssten, um ohne Überlauf zu passen."""
+    by_id = {}
+    for p in fan_items:
+        yid = p.get("yaml_id")
+        if not yid:
+            continue
+        by_id.setdefault(yid, []).append(p)
+    n = 0
+    n_over = 0
+    chars_now = 0
+    chars_fit = 0
+    lines_now = 0
+    lines_fit = 0
+    over_fracs = []
+    for items in by_id.values():
+        items = sorted(items, key=lambda p: p["y"])
+        for i, p in enumerate(items):
+            db = p.get("draw_block") or p["block"]
+            drawn_h = fan_block_height(db, font_draw, lh_draw)
+            if i + 1 < len(items):
+                avail = items[i + 1]["y"] - p["y"]
+            else:
+                avail = p["h"]
+            n += 1
+            body = db.get("text") or ""
+            n_title = len(db["title"])
+            n_body = len(db["body"])
+            n_lines = n_title + n_body
+            fit_lines = max(1, int(round((avail - font_draw) / lh_draw)) + 1)
+            body_fit_lines = max(0, fit_lines - n_title)
+            frac = 1.0 if n_body == 0 else min(1.0, body_fit_lines / n_body)
+            chars_now += len(body)
+            chars_fit += int(len(body) * frac)
+            lines_now += n_lines
+            lines_fit += min(n_lines, fit_lines)
+            if drawn_h > avail + 1:
+                n_over += 1
+                over_fracs.append(1.0 - frac)
+    cut_pct = (1.0 - chars_fit / chars_now) * 100 if chars_now else 0.0
+    return {
+        "n": n,
+        "n_over": n_over,
+        "cut_pct": cut_pct,
+        "chars_now": chars_now,
+        "chars_fit": chars_fit,
+        "lines_now": lines_now,
+        "lines_fit": lines_fit,
+        "median_cut": (
+            100 * sorted(over_fracs)[len(over_fracs) // 2] if over_fracs else 0.0),
+    }
 
 
 def fan_heading_x(placed, col_w, min_x, max_x, cfg):
@@ -588,7 +688,9 @@ def fan_y_from_heading(target_heading_y, blocks, font, lh, leit_font,
 def fan_y_top(cfg, fan_centers, fan_bottom, ray_center, head_block_h, lh):
     """Vertikaler Start des Fächer-Stapels."""
     mode = cfg.get("y_mode", "center")
-    if mode == "center":
+    if mode == "page_top":
+        y_top = PAGE_MARGIN
+    elif mode == "center":
         y_top = ray_center - FAN_ARC_HEIGHT / 2
     elif mode == "top_at_sibling_center":
         ref = cfg.get("relative_to", "dm-04k")
@@ -661,8 +763,11 @@ def place_fan(blocks, *, open_side, y_top, gutter_edge, col_w,
     return items, center_y
 
 
-def clamp_fan_margin(placed, *, x_min=PAGE_MARGIN, x_max=None, y_max=None):
-    """Fächer-Aspekte in die Seite clampen (linker/rechter/unterer Rand)."""
+def clamp_fan_margin(placed, *, x_min=PAGE_MARGIN, x_max=None):
+    """Fächer-Aspekte in die Seite clampen (linker/rechter Rand).
+
+    Vertikal nicht nach oben ziehen: das würde in den vorigen Aspekt laufen.
+    """
     if not placed:
         return
     min_x = min(p["x"] for p in placed)
@@ -676,11 +781,50 @@ def clamp_fan_margin(placed, *, x_min=PAGE_MARGIN, x_max=None, y_max=None):
             dx = max_r - x_max
             for p in placed:
                 p["x"] -= dx
-    if y_max is not None:
-        overflow = max(p["y"] + p["h"] for p in placed) - y_max
-        if overflow > 0:
-            for p in placed:
-                p["y"] -= overflow
+
+
+def cascade_fan_down(placed, font, lh):
+    """Abstand innerhalb einer 7er-Gruppe; andere Fächer bleiben unberührt."""
+    if len(placed) < 2:
+        return
+    gap = lh * FAN_ASPECT_GAP + font * KEYWORD_ABOVE
+    for i in range(1, len(placed)):
+        prev = placed[i - 1]
+        min_y = prev["y"] + prev["h"] + gap
+        dy = min_y - placed[i]["y"]
+        if dy > 0.5:
+            for p in placed[i:]:
+                p["y"] += dy
+
+
+def lift_fan_onto_page(placed, y_max, others, font, lh, extra_top=0.0):
+    """Ganzen Fächer nach oben, nur in freien Raum, wenn er unter den Seitenrand läuft."""
+    if not placed:
+        return 0.0
+    overflow = max(p["y"] + p["h"] for p in placed) - y_max
+    if overflow <= 1:
+        return 0.0
+    gap = FAN_ASPECT_GAP * lh
+    max_up = overflow
+    first = True
+    for p in placed:
+        top = p["y"] - (extra_top if first else font * 1.05)
+        item_gap = 0.0 if first else gap
+        first = False
+        for o in others:
+            overlap = (
+                min(p["x"] + p["w"], o["x"] + o["w"])
+                - max(p["x"], o["x"]))
+            if overlap < 0.45 * min(p["w"], o["w"]):
+                continue
+            room = top - (o["y"] + o["h"]) - item_gap
+            max_up = min(max_up, max(0.0, room))
+    min_y = min(p["y"] for p in placed)
+    max_up = min(max_up, max(0.0, min_y - extra_top - PAGE_MARGIN))
+    if max_up > 1:
+        for p in placed:
+            p["y"] -= max_up
+    return max_up
 
 
 def place_staggered(groups, x0, y0, y_limit, col_w, font, lh,
@@ -763,7 +907,7 @@ def _shift_panel(inner, gid, dy, watermark=None):
 
 
 def main():
-    a2 = A2.build_a2(write_files=False)
+    a2 = A2.build_a2(write_files=False, draw_seven_liners=False)
     inner = a2["inner"]
     seven = a2["seven_blocks"]
     a2_w, a2_h = a2["page_w"], a2["page_h"]
@@ -802,8 +946,11 @@ def main():
 
     font = a2["block_font"]
     lh = a2["block_lh"]
+    # Sichtbare Strahlen-Schlagwortgröße = RAD_FONT × ARC_ZOOM
+    font_draw = a2.get("rad_font", font) * A2.ARC_ZOOM
+    lh_draw = font_draw * (lh / font) if font else lh
     gutter_w = shift_x - PAGE_MARGIN - 20
-    col_w = (gutter_w - COL_GAP) / 2
+    col_w = (gutter_w - COL_GAP) / 2 * FAN_TEXT_WIDTH_SCALE
     left_x = PAGE_MARGIN
     right_x = shift_x + a2_w + 20
 
@@ -894,7 +1041,7 @@ def main():
         y_top += cfg.get("y_shift_tri_frac", 0.0) * tri_h
         text_dx = cfg.get("x_shift_text_frac", 0.0) * col_w
         x_shift = cfg.get("x_shift", 0.0)
-        meta = {"anchor": fg["anchor"], "side": fg["side"]}
+        meta = {"anchor": fg["anchor"], "side": fg["side"], "yaml_id": yaml_id}
         gutter_edge = (gutter_right_left if fan_side == "left"
                        else gutter_left_right)
         placed, center_y = place_fan(
@@ -915,12 +1062,30 @@ def main():
         if text_dx:
             for p in placed:
                 p["x"] += text_dx
+        draw_blocks = wrap_aspects(
+            fg["aspects"], font_draw, inner_w, split_keyword=True)
+        for p, db in zip(placed, draw_blocks):
+            p["draw_block"] = db
+            p["h"] = fan_block_height(db, font_draw, lh_draw)
         if fan_side == "left":
-            clamp_fan_margin(placed, y_max=y_limit)
+            clamp_fan_margin(placed)
         else:
             clamp_fan_margin(
                 placed, x_min=gutter_left_right - FAN_ARC_BULGE * 2,
-                x_max=A0_W - PAGE_MARGIN, y_max=y_limit)
+                x_max=A0_W - PAGE_MARGIN)
+        cascade_fan_down(placed, font_draw, lh_draw)
+        extra_top = 0.0
+        if cfg.get("heading_room"):
+            extra_top = (lh * FAN_FIELD_HEADING_GAP + head_block_h
+                         - heading_font * 0.45)
+        lifted = lift_fan_onto_page(
+            placed, y_limit, fan_items, font_draw, lh_draw, extra_top=extra_top)
+        past_page = [p for p in placed if p["y"] + p["h"] > y_limit + 1]
+        if past_page:
+            print(f"  {yaml_id}: {len(past_page)} Aspekte unter dem Seitenrand "
+                  f"(y={max(p['y']+p['h'] for p in placed):.0f} > {y_limit:.0f})")
+        elif lifted > 1:
+            print(f"  {yaml_id}: {lifted:.0f} nach oben, bleibt auf der Seite")
         fan_items.extend(placed)
         fan_centers[yaml_id] = center_y
         fan_bottom[yaml_id] = max(p["y"] + p["h"] for p in placed)
@@ -941,6 +1106,132 @@ def main():
             "font": heading_font,
             "align": cfg.get("heading_align", "middle"),
         })
+        align = cfg.get("align_heading_to")
+        if align:
+            target = None
+            for p in fan_items:
+                db = p.get("draw_block") or p["block"]
+                if (p.get("yaml_id") == align["yaml_id"]
+                        and db.get("keyword") == align["schlagwort"]):
+                    target = p
+                    break
+            if target is None:
+                raise SystemExit(
+                    f"{yaml_id}: align_heading_to {align} nicht gefunden")
+            dy = (target["y"] - head_y
+                  + align.get("y_shift_lh", 0.0) * head_lh)
+            for p in placed:
+                p["y"] += dy
+            head_y += dy
+            fan_headings[-1]["y"] = head_y
+            fan_heading_top[yaml_id] = head_y
+            fan_bottom[yaml_id] = max(p["y"] + p["h"] for p in placed)
+            fan_centers[yaml_id] = center_y + dy
+            print(f"  {yaml_id}: Überschrift auf {align['schlagwort']} "
+                  f"({dy:+.0f})")
+
+    by_fan = {}
+    for p in fan_items:
+        by_fan.setdefault(p.get("yaml_id"), []).append(p)
+    for yaml_id in FAN_ORDER:
+        group = by_fan.get(yaml_id)
+        if not group:
+            continue
+        cfg = FAN_GROUPS[yaml_id]
+        extra_top = 0.0
+        if cfg.get("heading_room"):
+            extra_top = (lh * FAN_FIELD_HEADING_GAP + heading_font * 2.12
+                         - heading_font * 0.45)
+        others = [p for p in fan_items if p.get("yaml_id") != yaml_id]
+        lift_fan_onto_page(
+            group, y_limit, others, font_draw, lh_draw, extra_top=extra_top)
+    g06 = by_fan.get("dm-06g") or []
+    if g06:
+        overflow = max(p["y"] + p["h"] for p in g06) - y_limit
+        if overflow > 1:
+            for fid in ("dm-04g", "dm-05g", "dm-06g"):
+                for p in by_fan.get(fid, []):
+                    p["y"] -= overflow
+            print(f"  dm-04g/05g/06g: {overflow:.0f} nach oben, bleibt auf der Seite")
+    for fh in fan_headings:
+        group = by_fan.get(fh["id"], [])
+        if not group:
+            continue
+        min_y = min(p["y"] for p in group)
+        hf = fh["font"]
+        hbh = hf + hf * 1.12
+        fh["y"] = min_y - lh * FAN_FIELD_HEADING_GAP - hbh + hf * 0.45
+        fan_bottom[fh["id"]] = max(p["y"] + p["h"] for p in group)
+        past = [p for p in group if p["y"] + p["h"] > y_limit + 1]
+        if past:
+            print(f"  {fh['id']}: nach Abstand {len(past)} Aspekte unter dem Seitenrand "
+                  f"(y={max(p['y']+p['h'] for p in group):.0f} > {y_limit:.0f})")
+
+    for yaml_id, cfg in FAN_GROUPS.items():
+        align = cfg.get("align_heading_to")
+        if not align:
+            continue
+        fh = next((h for h in fan_headings if h["id"] == yaml_id), None)
+        group = by_fan.get(yaml_id) or []
+        target = None
+        for p in fan_items:
+            db = p.get("draw_block") or p["block"]
+            if (p.get("yaml_id") == align["yaml_id"]
+                    and db.get("keyword") == align["schlagwort"]):
+                target = p
+                break
+        if fh is None or target is None or not group:
+            continue
+        dy = (target["y"] - fh["y"]
+              + align.get("y_shift_lh", 0.0) * heading_font * 1.12)
+        if abs(dy) < 1:
+            continue
+        for p in group:
+            p["y"] += dy
+        fh["y"] += dy
+        print(f"  {yaml_id}: Überschrift erneut auf {align['schlagwort']} ({dy:+.0f})")
+
+    for yaml_id, cfg in FAN_GROUPS.items():
+        if not cfg.get("shift_down_to_page"):
+            continue
+        group = by_fan.get(yaml_id) or []
+        fh = next((h for h in fan_headings if h["id"] == yaml_id), None)
+        if not group:
+            continue
+        slack = y_limit - max(p["y"] + p["h"] for p in group)
+        if slack > 1:
+            for p in group:
+                p["y"] += slack
+            if fh:
+                fh["y"] += slack
+            print(f"  {yaml_id}: {slack:.0f} nach unten, 7. Text bleibt auf der Seite")
+
+    if fan_headings:
+        top_h = min(fh["y"] for fh in fan_headings)
+        bot_t = max(p["y"] + p["h"] for p in fan_items)
+        print(f"Faecher  oben@{top_h:.0f}  unten@{bot_t:.0f}  Rand {PAGE_MARGIN:.0f}…{y_limit:.0f}")
+
+    av_d = av_cx = av_cy = cap_font = 0.0
+    if os.path.isfile(AVATAR_SRC) and tri_h > 0:
+        free_top = ges_bot_a2 + ges_dy
+        free_bot = A0_H - PAGE_MARGIN
+        av_d = tri_h * AVATAR_TRI_FRAC
+        cap_font = heading_font * 0.48
+        stack_below = (av_d / 2.0 + cap_font * 1.6 + QR_SIZE + cap_font * 0.9)
+        av_cx = A0_W * AVATAR_X_FRAC
+        av_cy = (free_top + free_bot) / 2.0
+        av_cy = min(av_cy, free_bot - stack_below)
+        av_cy = max(av_cy, free_top + av_d / 2.0 + 24.0)
+        r = av_d / 2.0
+        clear_x = av_cx + r + font_draw
+        for p in fan_items:
+            if (p["x"] < av_cx + r and p["x"] + p["w"] > av_cx - r
+                    and p["y"] < av_cy + r + cap_font * 2 + QR_SIZE
+                    and p["y"] + p["h"] > av_cy - r):
+                p["x"] = max(p["x"], clear_x)
+        clamp_fan_margin(
+            [p for p in fan_items if p.get("yaml_id") == "dm-01g"],
+            x_min=PAGE_MARGIN, x_max=A0_W - PAGE_MARGIN)
 
     clusters = []
     overflow = []
@@ -983,31 +1274,13 @@ def main():
             f'x="0" y="0" width="{A0_W:.2f}" height="{A0_H:.2f}" '
             f'preserveAspectRatio="none"/>')
 
-    out.append(f'  <g fill="none" stroke="{LINE_COLOR}" stroke-width="1.1" '
-               f'stroke-opacity="0.35">')
-    for cl in clusters:
-        if cl["side"] == "left":
-            attach_x = cl["x"] + cl["w"]
-        else:
-            attach_x = cl["x"]
-        attach_y = cl["y"] + cl["h"] / 2
-        ax, ay = cl["anchor"]
-        mx = (ax + attach_x) / 2
-        out.append(
-            f'    <path d="M {ax:.1f},{ay:.1f} C {mx:.1f},{ay:.1f} '
-            f'{mx:.1f},{attach_y:.1f} {attach_x:.1f},{attach_y:.1f}"/>')
-    out.append("  </g>")
-
-    for cl in clusters:
-        out.append(draw_group(
-            cl["x"], cl["y"], cl["w"], cl["h"],
-            font, lh, cl["blocks"], cl["fill"]))
-
-    # Fächer-Blöcke (ohne Karten-Rechteck)
+    # Fächer-Blöcke (ohne Karten-Rechteck; 7-Zeiler am Dreieck sind aus)
     for fi in fan_items:
+        db = fi.get("draw_block", fi["block"])
         out.append(draw_aspect_bare(
-            fi["x"], fi["y"], fi["w"], font, lh, fi["block"],
-            title_body_gap=FAN_TITLE_BODY_GAP))
+            fi["x"], fi["y"], fi["w"], font_draw, lh_draw, db,
+            title_body_gap=FAN_TITLE_BODY_GAP,
+            keyword=db.get("keyword")))
 
     for fh in fan_headings:
         out.append(draw_fan_heading(
@@ -1029,17 +1302,7 @@ def main():
     out.append(inner.rstrip())
     out.append("  </g>")
 
-    if os.path.isfile(AVATAR_SRC) and tri_h > 0:
-        # Freifeld unter der Gesundheitstafel (Mitte), nicht unter den Seitenfächern
-        free_top = ges_bot_a2 + ges_dy
-        free_bot = A0_H - PAGE_MARGIN
-        av_d = tri_h * AVATAR_TRI_FRAC
-        cap_font = heading_font * 0.48
-        stack_below = av_d / 2.0 + cap_font * 1.6
-        av_cx = A0_W * AVATAR_X_FRAC
-        av_cy = (free_top + free_bot) / 2.0
-        av_cy = min(av_cy, free_bot - stack_below)
-        av_cy = max(av_cy, free_top + av_d / 2.0 + 24.0)
+    if os.path.isfile(AVATAR_SRC) and tri_h > 0 and av_d > 0:
         sha, ver_date = git_version_meta()
         intro_font = HAUPTSATZ_FONT * 0.80
         intro_x = av_cx - av_d / 2.0 - intro_font * 0.7
@@ -1047,14 +1310,12 @@ def main():
                       intro_x - PAGE_MARGIN - 80.0)
         intro_lines = wrap_text(
             philo_intro_text(ver_date), intro_font, intro_w)
-        qr_cx = next((fh["x"] for fh in fan_headings
-                      if fh.get("id") == "dm-01g"), None)
         out.append(draw_philo_avatar(
             av_cx, av_cy, av_d, AVATAR_CAPTION, cap_font,
             intro_lines=intro_lines, intro_x=intro_x,
-            intro_font=intro_font, qr_size=QR_SIZE, qr_cx=qr_cx))
+            intro_font=intro_font, qr_size=QR_SIZE))
         print(f"Avatar  {av_d:.0f}px  @ {av_cx:.0f},{av_cy:.0f}  "
-              f"QR {QR_SIZE:.0f}@{qr_cx or 0:.0f}  {QR_URL}  {ver_date}")
+              f"QR {QR_SIZE:.0f} darunter  {QR_URL}  {ver_date}")
 
     out.append("</svg>")
 
@@ -1068,6 +1329,15 @@ def main():
     print(f"7er-Bloecke: {len(seven)}  Gruppen: {len(clusters)}  "
           f"Faecher: {len(fan_headings)}")
     print(f"Ueberlauf unten: {len(overflow)}")
+    print(f"Faecher-Font  {font:.1f} → {font_draw:.1f}  "
+          f"(Strahlen {a2.get('rad_font', 0):.1f} × {A2.ARC_ZOOM})")
+    fit = estimate_aspect_fit(fan_items, font_draw, lh_draw)
+    print(
+        f"Kuerzung  {fit['n']} Texte, {fit['n_over']} ueberlaufen: "
+        f"ca. {fit['cut_pct']:.0f} % der Erklaertexte "
+        f"({fit['chars_now'] - fit['chars_fit']:.0f} von {fit['chars_now']} Zeichen, "
+        f"{fit['lines_now'] - fit['lines_fit']} von {fit['lines_now']} Zeilen)"
+    )
     # JPG in Druckauflösung (A0 @ 300 dpi)
     # rsvg-convert resolves image hrefs relative to the SVG's directory only,
     # so temporarily copy referenced assets into output/ for rendering.

@@ -315,8 +315,17 @@ def load_yaml_fields(path=None):
         for am in re.finditer(
             r"- schlagwort: ([^\n]+)\n"
             r"        schlagsatz: ([^\n]+)\n"
+            r"(?:        kurztext: >\s*\n(.*?))?"
             r"        text: >\s*\n"
             r"(.*?)(?="
+            r"\n        erklaerung:"
+            r"|\n        zitate:"
+            r"|\n      - schlagwort:"
+            r"|\n  - id: "
+            r"|\n  #"
+            r"|\n\Z)"
+            r"(?:\n        erklaerung: >\s*\n(.*?))?"
+            r"(?="
             r"\n        zitate:"
             r"|\n      - schlagwort:"
             r"|\n  - id: "
@@ -327,7 +336,9 @@ def load_yaml_fields(path=None):
             aspects.append({
                 "schlagwort": _yaml_scalar(am.group(1)),
                 "schlagsatz": _yaml_scalar(am.group(2)),
-                "text": _clean_aspect_text(am.group(3)),
+                "kurztext": _clean_aspect_text(am.group(3) or ""),
+                "text": _clean_aspect_text(am.group(4)),
+                "erklaerung": _clean_aspect_text(am.group(5) or ""),
             })
         fields[fid] = {
             "titel": titel_m.group(1) if titel_m else "",
@@ -983,7 +994,7 @@ def render_panel(out, gid, a, b, c, arcs, verts,
     out.append('  </g>')
 
 
-def build_a2(write_files=False, a2_page=False):
+def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
     """Baut den A2-Inhalt. Gibt Dict mit svg, inner, Bloecken, Massen zurueck.
 
     write_files: SVG/Dreiecke-SVG schreiben (CLI). A0 ruft mit False auf.
@@ -1756,7 +1767,8 @@ def build_a2(write_files=False, a2_page=False):
         # Krankheit oben
         render_panel(
             out, "krankheit", kra_a, kra_b, kra_c, kra_arcs, kra_verts,
-            label_items=kra_labels_t, radial_all=kra_radial_t, block_items=kra_blocks_t,
+            label_items=kra_labels_t, radial_all=kra_radial_t,
+            block_items=kra_blocks_t if draw_seven_liners else None,
             inner_items=kra_inner_t, arc_zoom=kra_arc_zoom,
             fill_image=TRI_IMAGE_KRANK if os.path.isfile(TRI_IMAGE_KRANK) else None,
         )
@@ -1764,7 +1776,8 @@ def build_a2(write_files=False, a2_page=False):
         # Gesundheit unten
         render_panel(
             out, "gesundheit", ges_a, ges_b, ges_c, ges_arcs, ges_verts,
-            label_items=ges_labels_t, radial_all=ges_radial_t, block_items=ges_blocks_t,
+            label_items=ges_labels_t, radial_all=ges_radial_t,
+            block_items=ges_blocks_t if draw_seven_liners else None,
             inner_items=ges_inner_t, arc_zoom=ges_arc_zoom,
             fill_image=TRI_IMAGE_GESUND if os.path.isfile(TRI_IMAGE_GESUND) else None,
         )
@@ -1815,6 +1828,7 @@ def build_a2(write_files=False, a2_page=False):
             "txt_color": TXT_COLOR,
             "block_font": BLOCK_FONT,
             "block_lh": BLOCK_LH,
+            "rad_font": RAD_FONT,
             "tri_h": SIDE * math.sqrt(3) / 2 * scale,
             "krank_wm_y": krank_wm_y,
             "ges_wm_y": ges_wm_y,
