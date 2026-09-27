@@ -267,7 +267,7 @@ Aber eine Frage stellt sich: Wer ist dieser "Erkenner"? Ist er ein neutraler Beo
 <!-- quellen
 [
   {
-    "source_title": "Soziale Ideen.",
+    "source_title": "Soziale Ideen 1",
     "segment_title": "ERSTER FRAGEABEND Stuttgart, 25. Mai 1919",
     "chunk_id": "ff737ca5-a87e-5a61-aef5-a91306f4c2ef",
     "relevance": 1

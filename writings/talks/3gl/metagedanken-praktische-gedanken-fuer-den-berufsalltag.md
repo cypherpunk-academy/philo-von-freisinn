@@ -434,7 +434,7 @@ Deine Prüfung zeigt: Die drei Grundgedanken halten. Sie sind nicht fertig, aber
   },
   {
     "index": 2,
-    "source_title": "Soziale Ideen.",
+    "source_title": "Soziale Ideen 1",
     "segment_title": "ZWEITER FRAGEABEND Stuttgart, 30. Mai 1919",
     "chunk_id": "4da83fa8-d5c5-597b-9451-1043e729096c",
     "relevance": 0.0163934426229508
@@ -450,7 +450,7 @@ Deine Prüfung zeigt: Die drei Grundgedanken halten. Sie sind nicht fertig, aber
     "index": 1,
     "score": 0.01639344262295082,
     "chunk_id": "4da83fa8-d5c5-597b-9451-1043e729096c",
-    "source_title": "Soziale Ideen.",
+    "source_title": "Soziale Ideen 1",
     "segment_title": "ZWEITER FRAGEABEND Stuttgart, 30. Mai 1919"
   },
   {
@@ -459,7 +459,7 @@ Deine Prüfung zeigt: Die drei Grundgedanken halten. Sie sind nicht fertig, aber
     "index": 2,
     "score": 0.01639344262295082,
     "chunk_id": "050b928e-2845-56eb-bd48-46c23152be96",
-    "source_title": "Soziale Ideen.",
+    "source_title": "Soziale Ideen 1",
     "segment_title": "ZWEITER STUDIENABEND Stuttgart, 3. März 1920"
   },
   {
@@ -1297,7 +1297,7 @@ Du beschreibst eine schöne Gemeinschaft. Aber eine Gemeinschaft ohne Freiheit i
     "index": 5,
     "score": 0.01639344262295082,
     "chunk_id": "e20348c6-7526-5870-bfc6-8a9458ce9262",
-    "source_title": "Soziale Ideen.",
+    "source_title": "Soziale Ideen 2",
     "segment_title": "ZWEITER DISKUSSIONSABEND Dornach 19. Juli 1920"
   },
   {
