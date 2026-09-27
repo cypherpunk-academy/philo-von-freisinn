@@ -375,7 +375,7 @@ Damit schließt sich der Kreis unserer Überlegung: Das Rechtsleben setzt den me
     "relevance": 0.8
   },
   {
-    "source_title": "Soziale Ideen.",
+    "source_title": "Soziale Ideen 2",
     "segment_title": "ZWEITER FRAGEABEND Stuttgart, 30. Mai 1919",
     "chunk_id": "8c0f8da3-21de-5687-bfc3-ed424ca316dd",
     "relevance": 0.6

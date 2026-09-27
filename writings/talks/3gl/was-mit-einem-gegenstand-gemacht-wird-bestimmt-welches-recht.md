@@ -24,7 +24,7 @@ Diese klare Trennung ist grundlegend für Steiners Idee eines „Kreislaufs“ d
 [
   {
     "index": 1,
-    "source_title": "Soziale Ideen.",
+    "source_title": "Soziale Ideen 1",
     "segment_title": "SECHSTER STUDIENABEND Stuttgart, 28. Juli 1920",
     "chunk_id": "d3e6bccc-2805-55e8-adf4-2f4151081c11",
     "relevance": 0.518335
@@ -100,7 +100,7 @@ Folglich ändert die Nutzung eines privaten Autos für Arbeitswege nichts an sei
   },
   {
     "index": 4,
-    "source_title": "Soziale Ideen.",
+    "source_title": "Soziale Ideen 2",
     "segment_title": "ZWEITER FRAGEABEND Stuttgart, 30. Mai 1919",
     "chunk_id": "b0ddb359-decc-54d1-8e0e-3b083f6b5e63",
     "relevance": 0.8
@@ -205,7 +205,7 @@ Die Weitergabe erfolgt daher aus der Sache selbst heraus: Der erfahrene Priester
   },
   {
     "index": 4,
-    "source_title": "Soziale Ideen.",
+    "source_title": "Soziale Ideen 1",
     "segment_title": "ZWEITER FRAGEABEND Stuttgart, 30. Mai 1919",
     "chunk_id": "b0ddb359-decc-54d1-8e0e-3b083f6b5e63",
     "relevance": 0.4
