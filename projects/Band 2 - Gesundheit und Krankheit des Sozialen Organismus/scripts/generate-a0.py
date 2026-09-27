@@ -309,7 +309,7 @@ FAN_GROUPS = {
         "heading_x": "first_block",
         "align_heading_to": {
             "yaml_id": "dm-02k",
-            "schlagwort": "Konkurrenz",
+            "schlagwort": "Kennzahl",
         },
     },
     "dm-01g": {
