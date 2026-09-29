@@ -268,10 +268,16 @@ felder:
       - schlagwort: Freiheit
         schlagsatz: Niemand greift dir ins Denken.
         kurztext: >
-          Das Rechtsleben schützt die innere Freiheit nach zwei Seiten: gegen staatliche Bevormundung und gegen wirtschaftlichen Druck. Es bestimmt keine Inhalte — es schafft den äußeren Schutzraum, in dem geistige Arbeit ungehindert geschehen kann. Was du denkst, erkennst und gestaltest, bleibt dir und dem freien Geistesleben überlassen. Die Freiheit, die das Geistesleben braucht, ist kein Privileg, das es sich selbst verleiht, sondern ein garantiertes Recht: Das Rechtsleben stellt sie nicht her — es gibt sie frei.
+          Das Rechtsleben schützt die innere Freiheit gegen staatliche Bevormundung und wirtschaftlichen Druck. Es bestimmt keine Inhalte, es schafft nur den äußeren Rahmen. In der Schule heißt das: Der Lehrer findet die Inhalte in der Begegnung mit dem Kind. Mitbestimmen darf nur, wer selbst unterrichtet. Die Freiheit des Geisteslebens ist kein Privileg, sondern ein garantiertes Recht: Das Rechtsleben stellt sie nicht her — es gibt sie frei.
         text: >
-          Das Rechtsleben schützt deine innere Freiheit nach zwei Seiten: gegen staatliche Bevormundung und gegen wirtschaftlichen Druck. Es sorgt dafür, dass keiner dem anderen seine Gedanken aufzwingt und keiner dem anderen seine Arbeitskraft unterwirft. Dabei bestimmt es keine Inhalte — es schafft nur den äußeren Schutzraum, in dem geistige Arbeit ungehindert geschehen kann. Was du denkst, erkennst und gestaltest, bleibt allein dir und dem freien Geistesleben überlassen. So ist die Freiheit, die das Geistesleben braucht, kein Privileg, das es sich selbst verleiht, sondern ein garantiertes Recht: Das Rechtsleben stellt sie nicht her — es gibt sie frei.
-        zitate: []
+          Das Rechtsleben schützt die innere Freiheit nach zwei Seiten: gegen staatliche Bevormundung und gegen wirtschaftlichen Druck. Es sorgt dafür, dass keiner dem anderen seine Gedanken aufzwingt. Dabei bestimmt es keine Inhalte — es schafft nur den äußeren Rahmen, in dem geistige Arbeit ungehindert geschehen kann. In der Schule heißt das: Die Lehrinhalte werden in der Begegnung mit den Schülern und Studenten gefunden. Der Lehrer schaut das Kind an und entscheidet, was es jetzt braucht; was trägt, wird weitergegeben, was nicht mehr trägt, fällt weg. Über Inhalte und Methoden bestimmen nur die, die selbst unterrichten und erziehen — kein Parlament, keine Behörde, niemand, der einmal unterrichtet hat, es aber nicht mehr tut. Was du denkst, erkennst und gestaltest, bleibt allein dir und dem freien Geistesleben überlassen. So ist die Freiheit, die das Geistesleben braucht, kein Privileg, das es sich selbst verleiht, sondern ein garantiertes Recht: Das Rechtsleben stellt sie nicht her — es gibt sie frei.
+        zitate:
+          - >
+            Niemand gibt Vorschriften, der nicht gleichzeitig selbst im
+            lebendigen Unterrichten und Erziehen drinnen steht. Kein Parlament,
+            keine Persönlichkeit, die vielleicht einmal unterrichtet hat, aber
+            dies nicht mehr selbst tut, sprechen mit. (Rudolf Steiner, Die
+            Kernpunkte der sozialen Frage)
       - schlagwort: Zugang
         schlagsatz: Wissen ist Anspruch, nicht Entgegenkommen.
         kurztext: >
@@ -324,16 +330,10 @@ felder:
       - schlagwort: Vorgabe
         schlagsatz: Der Plan greift dir ins Denken.
         kurztext: >
-          Lehrinhalte werden verordnet, nicht in der Begegnung gefunden. Der Lehrplan legt fest, was ein Kind in welchem Jahr zu wissen hat — bevor der Lehrer dieses Kind je angeschaut hat. Inhalte wandern weiter, weil sie im Plan stehen, nicht weil sie tragen. Der Lehrer wird zum Vollzugsorgan von Papier. Das Rechtsleben, das nur den Schutzraum schaffen soll, bestimmt die Inhalte selbst. Die Freiheit, die es freigeben müsste, verwaltet es — und nennt die Verwaltung Bildung.
+          Hier fragt das Ministerium: Was muss jedes Kind in diesem Jahr können? Der Lehrplan legt es fest, bevor der Lehrer das Kind je angeschaut hat. Inhalte wandern weiter, weil sie im Plan stehen, nicht weil sie tragen. Der Lehrer wird zum Vollzugsorgan von Papier. Das Rechtsleben bestimmt die Inhalte selbst, die Schule wird zur Anstalt. Es verwaltet die Freiheit — und nennt die Verwaltung Bildung.
         text: >
-          Lehrinhalte werden nicht in der Begegnung mit den Schülern und Studenten gefunden, sondern verordnet. Der Lehrplan legt fest, was ein Kind in welchem Jahr zu wissen hat — bevor der Lehrer dieses Kind je angeschaut hat. Manche Inhalte sind hundert Jahre alt und werden weitergereicht, weil sie im Plan stehen; niemand fragt mehr, ob sie noch tragen. Zum Beispiel wird die Mathematik der höheren Klassen nirgends im Leben gebraucht, Programmieren von Apps aber durchaus. Der Lehrer wird zum Vollzugsorgan von Papier, die Begegnung zur Durchführung, das Schuljahr zum Abarbeiten. Das Rechtsleben, das nur den äußeren Schutzraum schaffen soll, bestimmt hier die Inhalte selbst — es greift in das hinein, was allein zwischen Lehrendem und Lernendem entstehen kann. Der Schutzraum, den das Recht gewähren sollte, wird zur Anstalt: Die Freiheit, die es freigeben müsste, verwaltet es — und nennt die Verwaltung Bildung.
-        zitate:
-          - >
-            Niemand gibt Vorschriften, der nicht gleichzeitig selbst im
-            lebendigen Unterrichten und Erziehen drinnen steht. Kein Parlament,
-            keine Persönlichkeit, die vielleicht einmal unterrichtet hat, aber
-            dies nicht mehr selbst tut, sprechen mit. (Rudolf Steiner, Die
-            Kernpunkte der sozialen Frage)
+          Hier fragt das Ministerium: Was muss jedes Kind in diesem Jahr können? Die Lehrinhalte werden nicht in der Begegnung mit den Schülern und Studenten gefunden, sondern verordnet. Der Lehrplan legt fest, was ein Kind in welchem Jahr zu wissen hat — bevor der Lehrer dieses Kind je angeschaut hat. Manche Inhalte sind hundert Jahre alt und werden weitergereicht, weil sie im Plan stehen; niemand fragt mehr, ob sie noch tragen. Zum Beispiel wird die Mathematik ab der achten Klasse im Leben kaum gebraucht, das Programmieren von Apps aber durchaus. Der Lehrer wird zum Vollzugsorgan von Papier, die Begegnung zur Durchführung, das Schuljahr zum Abarbeiten. Das Rechtsleben bestimmt hier die Inhalte selbst — es greift in das hinein, was allein zwischen Lehrendem und Lernendem entstehen kann. Die Schule wird zur Anstalt: Das Recht verwaltet die Freiheit — und nennt die Verwaltung Bildung.
+        zitate: []
       - schlagwort: Vorenthaltung
         schlagsatz: Wissen ist Entgegenkommen — kein Anspruch.
         kurztext: >
