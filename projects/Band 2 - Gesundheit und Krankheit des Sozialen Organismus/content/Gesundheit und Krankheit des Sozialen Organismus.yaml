@@ -389,22 +389,22 @@ felder:
     pol: gesund
     titel: "Das Gesetz sichert den fairen Rahmen"
     aspekte:
-      - schlagwort: Arbeit
-        schlagsatz: Deine Arbeitskraft ist keine Ware.
+      - schlagwort: Menschenarbeit
+        schlagsatz: Arbeitskraft ist keine Ware, sie ist nicht trennbar vom Menschen.
         kurztext: >
           Das Rechtsleben bestimmt Art, Maß und Zeit der Arbeit, bevor irgendein Markt beginnt: unter Gleichen als Bürgern, nicht unter Ungleichen als Käufer und Verkäufer. Wer seine Arbeitskraft verkauft, verkauft ein Stück seiner selbst; darum nimmt das Recht den Menschen aus dem Warenverkehr. Auf dem Markt wird über Leistungen verhandelt, nie über den, der sie hervorbringt. Der Schutz wirkt nach zwei Seiten: Die Wirtschaft darf Arbeit nicht erzwingen, der Staat sie nicht zuweisen. Der Mensch gibt der Wirtschaft seine Leistung, nicht sich selbst.
         text: >
           Das Rechtsleben bestimmt, unter welchen Bedingungen gearbeitet wird — bevor irgendein Markt beginnt. Art, Maß und Zeit der Arbeit sind Rechtsfragen, keine Handelsfragen: Sie werden unter Gleichen als Bürgern geregelt, nicht unter Ungleichen als Käufer und Verkäufer. Denn wer seine Arbeitskraft verkaufen muss, verkauft immer ein Stück seiner selbst mit; darum nimmt das Recht den Menschen aus dem Warenverkehr heraus. Auf dem Markt wird dann nur noch über Leistungen und Erzeugnisse verhandelt — nie über den Menschen, der sie hervorbringt. Dieser Schutz wirkt nach zwei Seiten: Er verwehrt der Wirtschaft, Arbeit zu erzwingen, und dem Staat, Arbeit zuzuweisen. Was einer arbeitet, entscheidet er selbst — aus den Fähigkeiten, die das Geistesleben in ihm pflegt. Wie viel und wie lange gearbeitet wird, sichert das Recht; was die Arbeit hervorbringt, verwaltet die Wirtschaft. So steht der Mensch in der Wirtschaft, ohne ihr zu gehören: Er gibt ihr seine Leistung, nicht sich selbst.
         zitate: []
-      - schlagwort: Boden
+      - schlagwort: Grundlage
         schlagsatz: Der Boden ist keine Ware — was man an ihm arbeitet, schon.
         kurztext: >
           Durch den Boden läuft eine Trennlinie. Was Menschen an ihm gearbeitet haben — Rodung, Bauten —, ist wirtschaftlicher Wert. Was vor aller Arbeit da war — Naturgrundlage, Wasser, Rohstoffe —, ist niemandes Erzeugnis und keine Ware. Das Rechtsleben vergibt Nutzungsrechte nach Bedarf und Fähigkeit, nicht nach Geldmacht. Wer ausscheidet, erhält seine Arbeit vergütet, nicht den Boden. Horten kann keiner, was er nicht nutzt. Wie das Recht dem Geist die Tür zum Wissen öffnet, öffnet es der Wirtschaft den Zugang zur Natur: als Anspruch, nicht als Beute.
         text: >
           Durch den Boden läuft eine Trennlinie: Was Menschen an ihm gearbeitet haben — Rodung, Entwässerung, Bauten —, ist ein wirtschaftlicher Wert wie jeder andere und kann als Leistung vergütet werden. Aber was vor aller Arbeit da war — die Naturgrundlage selbst, das Wasser, die Rohstoffe im Grund —, ist niemandes Erzeugnis und kann darum nicht wie eines bewertet werden. Das Rechtsleben ordnet deshalb den Zugang: Es vergibt Nutzungsrechte nach Bedarf und Fähigkeit zur Nutzung, nicht nach Geldmacht. Wer Boden bearbeitet, erhält das Recht dazu — solange er es tut und so, dass die Grundlage für die Nachkommenden erhalten bleibt. Scheidet er aus, wird ihm seine Arbeit vergütet, nicht der Boden bezahlt: So ist der Spekulation entzogen, was niemand geschaffen hat — horten kann keiner, was er nicht nutzt. Wie das Recht dem Geistesleben die Tür zum Wissen öffnet, öffnet es der Wirtschaft den Zugang zur Natur: als gesicherten Anspruch, nicht als Beute des Stärkeren.
         zitate: []
-      - schlagwort: Preis
-        schlagsatz: Der Preis sagt, was es kostet — nicht, was es einbringt.
+      - schlagwort: Gleichgewichtspreis
+        schlagsatz: Der Preis wird ausgerechnet, nicht verhandelt.
         kurztext: >
           Ein Preis ist richtig, wenn er dem Erzeuger erlaubt, dasselbe noch einmal zu tun — nicht mehr und nicht weniger. Gerechnet wird in der Assoziation: Wer verkauft, weist aus, woraus der Preis besteht; wer kauft, kann nachrechnen. Zins und Rente stehen nicht darin, denn sie decken nichts, was wiederholt werden müsste. Weil der Preis gerechnet wird, fällt die Preissteuerung weg. Wo zu viele dasselbe herstellen, läuft der Preis ins Leere; wo zu wenige stehen, bleibt Bedarf. Die Assoziation spricht es aus; wer hingeht, geht selbst. Wer am Preis dreht, kuriert am Thermometer statt an der Kälte.
         text: >
@@ -417,8 +417,8 @@ felder:
         text: >
           Werkstätten, Maschinen, Betriebe — die Produktionsmittel gehören dem, der sie fähig führt, und nur solange er sie fähig führt. Eigentum an ihnen ist kein ewiger Besitz, sondern ein Verfügungsrecht auf Zeit, gebunden an tatsächliche Leistung. Die Arbeit erweist die Fähigkeit, das Geistesleben erkennt sie an — und das Recht vollzieht dann den Übergang: Es bestimmt nicht, wer der Fähige ist, es sorgt nur dafür, dass die Verfügung ihm ungehindert zufällt statt dem Erben oder dem Meistbietenden. Dem Ausscheidenden wird vergütet, was er an eigener Arbeit eingebracht hat; die Verfügung selbst aber wandert unentgeltlich weiter, denn sie war nie Ware. Der Unterschied zum Boden liegt in der Herkunft: Der Boden ist niemandes Werk, die Produktionsmittel sind das Werk vieler — darum fallen sie an die Gemeinschaft zurück, wenn keiner sie führt. So bleibt Eigentum in Bewegung, weil es der Fähigkeit folgt statt dem Erbgang: Der Geist bestimmt, das Recht vollzieht.
         zitate: []
-      - schlagwort: Vertrag
-        schlagsatz: Das Recht bindet, ohne zu bestimmen.
+      - schlagwort: Vertragssicherheit
+        schlagsatz: Das Recht macht keine Verträge, es überwacht sie nur.
         kurztext: >
           Verträge sind das Rückgrat des Wirtschaftslebens: Was vereinbart ist, gilt. Aber was vereinbart wird — Preise, Mengen, Wege —, bestimmt das Recht nicht. Das entscheiden die Assoziationen, in denen Erzeuger, Handel und Verwender gemeinsam urteilen. Das Recht reicht den leeren Vertrag, die Assoziation schreibt hinein. Eine Grenze bleibt: Das Recht selbst ist unverkäuflich — kein Gesetz gegen Geld, kein Amt für Vermögen; und das Geistige ebenso: kein Schulplatz nach Kontostand. Innerhalb dieser Grenze verhandelt die Wirtschaft frei; außerhalb gilt: nicht verhandelbar.
         text: >
