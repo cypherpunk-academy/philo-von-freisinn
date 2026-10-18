@@ -230,7 +230,7 @@ FAN_GROUPS = {
         "heading_lines": ["Die Weltsicht wird", "zum Gesetz"],
         "align_heading_to": {
             "yaml_id": "dm-03k",
-            "schlagwort": "Goldener Zügel",
+            "schlagwort": "Zweckbindung",
         },
     },
     "dm-02k": {
