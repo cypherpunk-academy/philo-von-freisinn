@@ -1,0 +1,65 @@
+# Stand der Beschreibung aus supabase public.vector_chunks
+# (collection philo-von-freisinn, chunk_type typology,
+# segment_title "12 Weltanschauungen", chunk_id 4b6b2b78-eae5-5a01-8c3b-bf212a2547b9).
+# public.rag_chunks hat dort keine Zeilen.
+# Eigene Langtexte der zwölf Weltanschauungen liegen nicht vor.
+
+typology:
+  slug: 12-weltanschauungen
+  title: name
+  aliases: aliases
+  overview:
+    short: kurz
+    text: text
+    references: references
+  members:
+    from: weltanschauungen
+    name: name
+    short: kurz
+    text: text
+
+name: "12 Weltanschauungen"
+aliases:
+  - Weltanschauungen
+  - "zwölf Weltanschauungen"
+  - Weltanschauungsnuancen
+  - Weltanschauungstypen
+  - "12 Weltanschauungstypen"
+text: |
+  Die **12 Weltanschauungen** (auch zwölf Weltanschauungen, Weltanschauungsnuancen, Weltanschauungstypen oder 12 Weltanschauungstypen genannt) sind nach Rudolf Steiner zwölf grundlegende Arten, das Universum zu betrachten. Sie entspringen den zwölf Grundtypen des Menschentums und führen zusammengenommen zur Wahrheit, wie zwölf Strahlen einer Sonne.
+
+  **Mitglieder:** Materialismus, Sensualismus, Phänomenalismus, Realismus, Dynamismus, Individualismus (Monadismus), Spiritualismus, Pneumatismus, Psychismus, Idealismus, Rationalismus, Mathematismus.
+
+  **Beschreibung:** Die Weltanschauungen ordnen sich polar: Die hellen Sommerzeichen (Mathematismus, Materialismus, Sensualismus, Phänomenalismus) erfassen die äußere, sinnlich-räumliche Welt; die dunklen Winterzeichen (Monadismus, Spiritualismus, Pneumatismus, Psychismus) die innere, geistige Welt. Realismus und Idealismus bilden die Mitte. Jede Weltanschauung kann in sieben Seelenstimmungen (z. B. Okkultismus, Mystik) auftreten. Die Typologie ist nicht als Hierarchie, sondern als gleichwertiger, zwölffacher Zugang zur Wahrheit zu verstehen – jeder Mensch hat je nach Veranlagung einen individuellen Zugang.
+references:
+  - chunk_id: 874557bb-178c-5d20-845d-b0627eb94588
+    relevance: 0.95
+    description: Es gibt zwölf Weltanschauungen entsprechend den zwölf Grundtypen des Menschentums, die zusammengenommen zur Wahrheit führen wie zwölf Strahlen einer Sonne.
+  - chunk_id: c3a179e4-ced8-5fe7-8af0-c95f4e31d55a
+    relevance: 0.95
+    description: Die Weltanschauungen der hellen Sommer-Tierkreisbilder (Mathematismus, Materialismus, Sensualismus, Phänomenalismus) erfassen die äußeren, sinnlich-räumlichen Erscheinungen, während die der dunklen Winter-Sternbilder...
+  - chunk_id: 90c93630-a035-5103-bc91-820be0f33d73
+    relevance: 0.9
+    description: Die zwölf Weltanschauungen erfassen objektive Weltprinzipien, und es gibt sieben Seelenstimmungen, in denen sie auftreten können.
+  - chunk_id: 404f560b-31c3-545e-8a83-dfd2f59270a1
+    relevance: 0.85
+    description: Die sieben Seelenstimmungen, in denen die zwölf Weltanschauungen auftreten können, sind Okkultismus, Transzendentalismus, Mystik, Empirismus, Voluntarismus, Logismus und Gnosis.
+  - chunk_id: e358c493-bad8-5c55-92fc-98dde8e765d3
+    relevance: 0.8
+    description: Jeder Mensch hat einen individuellen Zugang zur Anthroposophie entsprechend seiner Veranlagung, Schicksalslage und Weltanschauungsrichtung.
+  - chunk_id: 2710da88-df4f-5f47-b47a-380b2e8a55a4
+    relevance: 0.7
+    description: Die universelle Wahrheit kann nur begriffen werden, wenn man den Gesamtumfang aller Weltansichten berücksichtigt.
+weltanschauungen:
+  - name: Materialismus
+  - name: Sensualismus
+  - name: Phänomenalismus
+  - name: Realismus
+  - name: Dynamismus
+  - name: Individualismus (Monadismus)
+  - name: Spiritualismus
+  - name: Pneumatismus
+  - name: Psychismus
+  - name: Idealismus
+  - name: Rationalismus
+  - name: Mathematismus

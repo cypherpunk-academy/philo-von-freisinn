@@ -69,8 +69,9 @@ WATERMARK_OPACITY = 0.6      # Krankheit / Gesundheit
 TRI_FILL   = "#9b9b9b"
 TRI_STROKE = "#6f6f6f"
 _DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+_ASSISTANT = os.path.dirname(os.path.dirname(_DIR))
 YAML_PATH = os.path.join(
-    _DIR, "content", "Gesundheit und Krankheit des Sozialen Organismus.yaml")
+    _ASSISTANT, "sources", "typologies", "soziale-gesundheit.yaml")
 TRI_IMAGE_KRANK = os.path.join(_DIR, "assets", "dreieck-krankheit-web.png")
 TRI_IMAGE_GESUND = os.path.join(_DIR, "assets", "dreieck-gesundheit-web.png")
 BG_IMAGE = os.path.join(_DIR, "assets", "hintergrund-web.jpg")

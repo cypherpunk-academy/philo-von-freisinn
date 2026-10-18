@@ -1,0 +1,63 @@
+# Stand der Beschreibung aus supabase public.vector_chunks
+# (collection philo-von-freisinn, chunk_type typology,
+# segment_title "7 Welträtsel des Materialismus").
+# public.rag_chunks hat dort keine Zeilen.
+
+typology:
+  slug: 7-weltraetsel-des-materialismus
+  title: name
+  aliases: aliases
+  overview:
+    short: kurz
+    text: text
+    references: references
+  members:
+    from: weltraetsel
+    name: name
+    short: kurz
+    text: text
+
+name: "7 Welträtsel des Materialismus"
+aliases:
+  - "7 Welträtsel"
+  - "Sieben Welträtsel"
+  - "Welträtsel des Materialismus"
+  - "Du Bois-Reymond"
+  - "Emil Du Bois-Reymond"
+text: |
+  Die **7 Welträtsel des Materialismus**, auch **Sieben Welträtsel** oder **Welträtsel des Materialismus** genannt, gehen auf den Physiologen **Emil Du Bois-Reymond** (auch **Du Bois-Reymond**) zurück. Er stellte sie 1872 in seinem Vortrag „Über die Grenzen des Naturerkennens“ auf. Du Bois-Reymond wollte zeigen, dass der Materialismus an bestimmten Punkten prinzipiell an seine Erkenntnisgrenze stößt. Die sieben Rätsel sind:
+
+  **Mitglieder:**
+  1. Ursprung von Kraft und Materie
+  2. Erste Bewegung in ruhender Materie
+  3. Entstehung des Lebens in bewegter Materie
+  4. Zweckmäßigkeit in der Natur
+  5. Bewusstseinsinhalte und Gehirnvorgänge (Qualia)
+  6. Entwicklung von Verstand, Vernunft, Denken und Sprache
+  7. Freier Wille und atomistische Determination
+
+  **Beschreibung:** Du Bois-Reymond argumentiert, dass Naturerkennen nur in der „Auflösung der Naturvorgänge in Mechanik der Atome“ bestehen könne. Doch selbst wenn man alle materiellen Bewegungen kenne, bleibe unbegreiflich, wie daraus Empfindung oder Bewusstsein entstehe. Die ersten vier Rätsel hält er für prinzipiell lösbar, die letzten drei – besonders das fünfte (Qualia) und das siebte (freier Wille) – für „transzendent“ und für immer unzugänglich. Seine berühmte Formulierung: „Es ist eben durchaus und für immer unbegreiflich, dass es einer Anzahl von Kohlenstoff-, Wasserstoff-, Stickstoff-, Sauerstoff- usw.
+references:
+  - chunk_id: a84bf15a-286a-5ca6-965c-6c755d647f7e
+    relevance: 1
+    description: Es ist für immer unbegreiflich, dass bestimmte Bewegungen von Atomen im Gehirn mit subjektiven Empfindungen wie Schmerz oder Farbwahrnehmung verbunden sind.
+  - chunk_id: f61b0e1a-527d-5123-93cf-a6634a2414da
+    relevance: 0.9
+    description: Du Bois-Reymond nimmt an, dass unwahrnehmbare Atome durch ihre Lage und Bewegung Empfindung und Gefühl erzeugen, und folgert, dass eine befriedigende Erklärung hierfür unmöglich ist.
+  - chunk_id: 01d8c950-444a-5a18-9737-0d60e4df6c6d
+    relevance: 0.8
+    description: Du Bois-Reymond teilt die Welterscheinungen in eine unabhängige Welt der Bewegungszustände und eine Welt subjektiver Zustände innerhalb wahrnehmender Wesen.
+  - chunk_id: ad01f04b-aa4b-57f3-8f7d-7c65a7cec66f
+    relevance: 0.7
+    description: Wir können subjektiven Wahrnehmungen Bewegungsformen zuordnen, aber da wir das Bewegte selbst nicht wahrnehmen, können wir nie wissen, was Materie ist.
+  - chunk_id: 613ec917-bd6c-569b-9c09-88f0c76e0a88
+    relevance: 0.6
+    description: Der Materialismus kann keine befriedigende Welterklärung liefern, da er mit dem Gedanken der Materie beginnt und damit zwei verschiedene Tatsachengebiete vor sich hat.
+weltraetsel:
+  - name: Ursprung von Kraft und Materie
+  - name: Erste Bewegung in ruhender Materie
+  - name: Entstehung des Lebens in bewegter Materie
+  - name: Zweckmäßigkeit in der Natur
+  - name: Bewusstseinsinhalte und Gehirnvorgänge (Qualia)
+  - name: Entwicklung von Verstand, Vernunft, Denken und Sprache
+  - name: Freier Wille und atomistische Determination

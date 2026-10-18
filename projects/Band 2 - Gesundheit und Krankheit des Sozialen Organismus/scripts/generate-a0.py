@@ -18,8 +18,9 @@ import subprocess
 import xml.sax.saxutils as xml
 
 _DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+_ASSISTANT = os.path.dirname(os.path.dirname(_DIR))
 YAML_PATH = os.path.join(
-    _DIR, "content", "Gesundheit und Krankheit des Sozialen Organismus.yaml")
+    _ASSISTANT, "sources", "typologies", "soziale-gesundheit.yaml")
 HINTERGRUND = "hintergrund-web.jpg"
 OUT_SVG = os.path.join(_DIR, "output", ".a0-render.svg")  # temp, deleted after JPG
 

@@ -1,0 +1,77 @@
+# Stand der Beschreibung aus supabase public.vector_chunks
+# (collection philo-von-freisinn, chunk_type typology,
+# segment_title "4 Motive sittlichen Handelns").
+# public.rag_chunks hat dort keine Zeilen.
+
+typology:
+  slug: 4-motive-sittlichen-handelns
+  title: name
+  aliases: aliases
+  overview:
+    short: kurz
+    text: text
+    references: references
+  members:
+    from: motive
+    name: name
+    short: kurz
+    text: text
+
+name: "4 Motive sittlichen Handelns"
+aliases:
+  - "Motive des sittlichen Handelns"
+  - "sittliches Handeln"
+  - "Motive der Sittlichkeit"
+  - "moralische Motive"
+text: |
+  Die **4 Motive sittlichen Handelns** (auch *Motive des sittlichen Handelns*, *sittliches Handeln*, *Motive der Sittlichkeit* oder *moralische Motive* genannt) sind eine Typologie, die Rudolf Steiner in seiner Schrift „Die Philosophie der Freiheit“ entwickelt. Sie beschreibt vier Stufen, auf denen ein Mensch sein Handeln begründen kann.
+
+  **Mitglieder:**
+  1. **Egoismus und Klugheitsmoral** – Das Handeln wird durch die Vorstellung von eigenem Wohl und Lust bestimmt. Entweder rücksichtslos (reiner Egoismus) oder klug abwägend, um mittelbar das eigene Interesse zu fördern (Klugheitsmoral).
+  2. **Autoritätsmoral und Gewissen** – Der Mensch unterwirft sich sittlichen Normgeboten, die von einer äußeren Autorität (Familie, Staat, Kirche) oder einer inneren Autorität (Gewissen) ausgehen.
+  3. **Handeln aus sittlicher Einsicht** – Der Mensch sucht die Bedürfnisse des sittlichen Lebens selbst zu erkennen: das Gesamtwohl der Menschheit, den Kulturfortschritt oder individuell erfasste Sittlichkeitsziele.
+  4. **Begriffliche Intuition** – Das höchste Motiv: Triebfeder und Motiv fallen zusammen. Die Handlung wird rein durch ihren ideellen Gehalt bestimmt, ohne äußere Norm oder subjektive Anlage.
+
+  **Beschreibung:** Die Typologie zeigt einen Entwicklungsweg vom fremdbestimmten zum freien, individuellen Handeln. Auf der höchsten Stufe lebt der Mensch seine moralischen Intuitionen aus – das nennt Steiner *ethischen Individualismus*.
+references:
+  - chunk_id: e50ef60d-2cba-53e7-9cd1-081508a6fd67
+    relevance: 0.87
+    description: Ein weiteres Motiv ist der rein begriffliche Inhalt einer Handlung, der sich auf ein System sittlicher Prinzipien bezieht, ohne dass der Einzelne deren Ursprung hinterfragt.
+  - chunk_id: f061f89b-ac8d-536b-bc05-d1c19fbeef4e
+    relevance: 0.87
+    description: Der Fortschritt von autoritativer Moral zum Handeln aus sittlicher Einsicht besteht darin, dass der Mensch den Grund einer Maxime einzusehen sucht.
+  - chunk_id: ef143008-cd33-5e66-ab5e-89883f1cb809
+    relevance: 0.86
+    description: Subjektive Anlagen werden zu Triebfedern, Vorstellungen und Begriffe zu Zielen der Sittlichkeit.
+  - chunk_id: fc5917e7-8774-5872-b6c3-6b28e387e76f
+    relevance: 0.86
+    description: Auf der höchsten Stufe der Sittlichkeit fallen Triebfeder und Motiv zusammen, nämlich bei der begrifflichen Intuition.
+  - chunk_id: 652ba837-3bdc-5be2-a1ad-a0b8bc278915
+    relevance: 0.86
+    description: Motive der Sittlichkeit sind Vorstellungen und Begriffe, nicht Gefühle; nur eine vorgestellte Lust kann Motiv werden.
+  - chunk_id: 27c4e7a6-54b4-5312-a449-6c4f2cd216d0
+    relevance: 0.85
+    description: Handeln aus reiner Intuition ist individuell auf den besonderen Fall geprägt und rein ideell bestimmt, im Gegensatz zu Motiven wie Kulturfortschritt oder Egoismus.
+  - chunk_id: a68d3a06-c56f-5dd9-8f4a-4c73bdf81d98
+    relevance: 0.85
+    description: Bei intuitiv bestimmten Handlungen ist das Auffinden der ganz individuellen Intuition maßgebend, allgemeine Normen entstehen erst aus Verallgemeinerung.
+  - chunk_id: 274a2d3c-27f5-5f13-9d26-537c0456ab2b
+    relevance: 0.85
+    description: Fichte zufolge findet das Ich die Quellen des sittlichen Handelns nur in sich selbst und gibt sich selbst seine Bestimmung.
+  - chunk_id: b4e2544c-b9b3-5029-a1f9-1fe48c247363
+    relevance: 0.85
+    description: Eine Ethik als Naturlehre der Sittlichkeit sucht das Gesetzmäßige im Handeln, aber diese Gesetze sind nicht identisch mit den Antrieben des Handelns.
+  - chunk_id: ec9110e2-37f1-5b51-a28d-3de917f8cfcb
+    relevance: 0.85
+    description: Menschen unterscheiden sich im Intuitionsvermögen, und die Summe der in uns wirksamen Ideen macht den realen Inhalt unserer Intuitionen aus.
+  - chunk_id: c8f876e1-ab52-59f6-b379-79da2d789da7
+    relevance: 0.85
+    description: Die Frage nach der Willensfreiheit muss mit der Unterscheidung zwischen bewusstem Beweggrund und unbewusstem Antrieb verknüpft werden.
+  - chunk_id: e25b7bc6-0148-5761-bda4-0e1867550853
+    relevance: 0.84
+    description: Der Gegensatz zum ethischen Individualismus ist Kants kategorischer Imperativ, der als Tod aller individuellen Antriebe gilt.
+motive:
+  - name: Egoismus und Klugheitsmoral (Vorstellung von Wohl und Lust)
+  - name: Autoritätsmoral und Gewissen (Unterwerfung unter sittliche Normgebote, äußere oder innere Autorität)
+  - name: "Handeln aus sittlicher Einsicht (Bedürfnisse: Gesamtwohl der Menschheit, Kulturfortschritt, individuelle Sittlichkeitsziele)"
+  - name: Begriffliche Intuition (Ideengehalt der Handlung; höchstes Motiv, wo Triebfeder und Motiv zusammenfallen)

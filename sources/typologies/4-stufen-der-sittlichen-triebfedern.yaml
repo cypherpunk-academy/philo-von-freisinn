@@ -1,0 +1,56 @@
+# Stand der Beschreibung aus supabase public.vector_chunks
+# (collection philo-von-freisinn, chunk_type typology,
+# segment_title "4 Stufen der sittlichen Triebfedern").
+# public.rag_chunks hat dort keine Zeilen.
+
+typology:
+  slug: 4-stufen-der-sittlichen-triebfedern
+  title: name
+  aliases: aliases
+  overview:
+    short: kurz
+    text: text
+    references: references
+  members:
+    from: triebfedern
+    name: name
+    short: kurz
+    text: text
+
+name: "4 Stufen der sittlichen Triebfedern"
+aliases:
+  - "Stufen der sittlichen Triebfedern"
+  - "sittliche Triebfedern"
+  - "Triebfedern der Sittlichkeit"
+  - "Stufen der Triebfedern"
+text: |
+  Die **4 Stufen der sittlichen Triebfedern** (auch *Stufen der sittlichen Triebfedern*, *sittliche Triebfedern*, *Triebfedern der Sittlichkeit* oder *Stufen der Triebfedern* genannt) beschreiben die charakterologischen Anlagen, aus denen heraus ein Mensch handelt. Sie reichen von der unmittelbaren Sinneswahrnehmung bis zum reinen Denken.
+
+  **Mitglieder:**
+  1. **Sinnliches Wahrnehmen (Trieb, Takt, sittlicher Geschmack)** – Die unterste Stufe: Eine Wahrnehmung löst ohne Gefühl oder Begriff direkt eine Handlung aus (z. B. Hunger, konventioneller Umgang).
+  2. **Gefühlsleben (Gefühle als Triebfedern)** – An Wahrnehmungen knüpfen sich Gefühle wie Mitgefühl, Scham, Stolz oder Pflichtgefühl, die zum Handeln bewegen.
+  3. **Denken und Vorstellen (praktische Erfahrung)** – Durch wiederholte Erfahrungen entstehen Vorstellungsmuster, die als bewusste Motive wirken; allmählich kann dies in taktvolles Handeln übergehen.
+  4. **Begriffliches Denken ohne Wahrnehmungsbezug (reine Intuition, praktische Vernunft, praktisches Apriori)** – Die höchste Stufe: Die Handlung wird allein durch einen intuitiv erfassten Begriff bestimmt; Triebfeder und Motiv fallen zusammen.
+
+  **Beschreibung:** Die Stufen bauen aufeinander auf, wobei jede höhere Stufe die vorhergehenden durchdringen kann. Auf der vierten Stufe handelt der Mensch aus reiner Einsicht, ohne äußeren Anstoß oder feste Charakteranlage – dies ist das Ideal des individuellen, freien Wollens.
+references:
+  - chunk_id: fc5917e7-8774-5872-b6c3-6b28e387e76f
+    relevance: 1
+    description: Auf der höchsten Stufe der charakterologischen Anlage, dem reinen Denken, fallen Triebfeder und Motiv zusammen.
+  - chunk_id: 15dc945d-47a5-542c-91fc-58a1701d7f74
+    relevance: 1
+    description: Gefühle wie Mitgefühl, Scham, Stolz und Pflichtgefühl können zu Triebfedern des Handelns werden.
+  - chunk_id: 887763b2-5a2b-5573-8d41-af13f876c6dc
+    relevance: 1
+    description: Die erste Stufe des individuellen Lebens ist das sinnliche Wahrnehmen, das sich unmittelbar in Wollen umsetzt, wie beim Trieb.
+  - chunk_id: ee2de37d-8216-5413-8227-3eabf6d93f96
+    relevance: 1
+    description: Die höchste Stufe des individuellen Lebens ist das begriffliche Denken ohne Wahrnehmungsbezug, bestimmt durch reine Intuition.
+  - chunk_id: ef143008-cd33-5e66-ab5e-89883f1cb809
+    relevance: 0.9
+    description: Die subjektiven Anlagen sind Triebfedern, die Vorstellungen und Begriffe zu Motiven machen.
+triebfedern:
+  - name: Sinnliches Wahrnehmen (Trieb, Takt, sittlicher Geschmack)
+  - name: Gefühlsleben (Gefühle als Triebfedern)
+  - name: Denken und Vorstellen (praktische Erfahrung)
+  - name: Begriffliches Denken ohne Wahrnehmungsbezug (reine Intuition, praktische Vernunft, praktisches Apriori)

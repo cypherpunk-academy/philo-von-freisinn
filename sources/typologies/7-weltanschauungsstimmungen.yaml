@@ -1,0 +1,83 @@
+# Stand der Beschreibung aus supabase public.vector_chunks
+# (collection philo-von-freisinn, chunk_type typology,
+# segment_title "7 Weltanschauungsstimmungen (Planeten)").
+# public.rag_chunks hat dort keine Zeilen.
+
+typology:
+  slug: 7-weltanschauungsstimmungen
+  title: name
+  aliases: aliases
+  overview:
+    short: kurz
+    text: text
+    references: references
+  members:
+    from: stimmungen
+    name: name
+    short: kurz
+    text: text
+
+name: "7 Weltanschauungsstimmungen (Planeten)"
+aliases:
+  - "Sieben Weltanschauungsstimmungen"
+  - Weltanschauungsstimmungen
+  - Erfahrungsstimmungen
+  - Seelenstimmungen
+text: |
+  Die **7 Weltanschauungsstimmungen (Planeten)**, auch **Sieben Weltanschauungsstimmungen**, **Weltanschauungsstimmungen**, **Erfahrungsstimmungen** oder **Seelenstimmungen** genannt, sind nach Rudolf Steiner besondere Artungen des erkennenden Seelenlebens, die das Auffassen von Weltprinzipien begünstigen oder erschweren. Sie entsprechen planetarischen Impulsen der übersinnlichen Welt und sind Manifestationen des siebenfältigen Astralorganismus des Menschen.
+
+  **Mitglieder:**
+  - Empirismus — Sonne (☉)
+  - Mystik — Venus (♀)
+  - Transzendentalismus — Merkur (☿)
+  - Voluntarismus — Mars (♂)
+  - Logismus — Jupiter (♃)
+  - Gnosis — Saturn (♄)
+  - Okkultismus — Mond (☽)
+
+  **Beschreibung:** Jede der zwölf Weltanschauungen (die mit den Tierkreisimpulsen zusammenhängen) kann in sieben verschiedenen Seelenstimmungen auftreten. Die günstigste Konstellation liegt vor, wenn der Planet in seinem „Haus“ steht, z. B. Mond im Krebs für Okkultismus im Materialismus. Die Seelenstimmungen sind keine astrologischen Kategorien im traditionellen Sinne, sondern aus geisteswissenschaftlicher Erkenntnis gewonnene Charakterisierungen des planetarischen Einflusses auf das Erkennen.
+references:
+  - chunk_id: 404f560b-31c3-545e-8a83-dfd2f59270a1
+    relevance: 1
+    description: "Die sieben Seelenstimmungen sind Manifestationen von planetarischen Impulsen: Okkultismus – Mond, Transzendentalismus – Merkur, Mystik – Venus, Empirismus – Sonne, Voluntarismus – Mars, Logismus – Jupiter, Gnosis – Sa..."
+  - chunk_id: 90c93630-a035-5103-bc91-820be0f33d73
+    relevance: 1
+    description: Die sieben Seelenstimmungen sind besondere Artungen des erkennenden Seelenlebens, die das Auffassen von Weltprinzipien begünstigen oder erschweren.
+  - chunk_id: 9e5d5808-234e-5672-8a21-57aafdef7914
+    relevance: 1
+    description: Die Seelenstimmungen hängen mit den Planeten zusammen, wie die Grundrichtungen des Erkennens mit den Tierkreisimpulsen; das Seelenwesen oder der Astralleib ist ein siebenfältiges, planetarisches Wesen.
+  - chunk_id: a18979bc-e5d1-5eaa-bcb0-34503520c6b3
+    relevance: 0.5
+    description: Die Unterscheidung der Seelenstimmungen und ihre Zuordnung zu den Tierkreiskräften ist nicht aus der Philosophiegeschichte allein durch Spekulation möglich.
+  - chunk_id: 874557bb-178c-5d20-845d-b0627eb94588
+    relevance: 0.3
+    description: Es gibt zwölf Arten des Weltbetrachtens oder zwölf Weltanschauungen, die Ausflüsse der Wahrheits-Sonne sind.
+  - chunk_id: 5a1abc94-9a22-54db-866f-e13400ef52e9
+    relevance: 0.3
+    description: Jede Seele steht mit ihren Seelenkräften zu bestimmten Geistesimpulsen aus den Tierkreisrichtungen in Beziehung.
+  - chunk_id: 9f8220e6-c988-5a81-88c3-057ba01dbf01
+    relevance: 0.2
+    description: Die Darstellung der zwölf Weltanschauungen geht von der Urpolarität zwischen Welterscheinung und erkennender Menschenseele aus.
+  - chunk_id: 827cba93-4f05-5f37-932c-7610d8455cc7
+    relevance: 0.2
+    description: Bestimmte Weltanschauungsarten hängen mit den geistigen Impulsen der Tierkreis-Geistessonne zusammen.
+  - chunk_id: 751b9daa-7d67-5757-9cfc-abf1fba60430
+    relevance: 0.1
+    description: Phänomenalismus und Psychismus sind Grundstellungen der erkennenden Menschenseele, die sich nach außen auf Welterscheinungen und nach innen auf die Seelentätigkeit richten.
+  - chunk_id: be4639bf-d90a-53f9-a56f-1b0817075af2
+    relevance: 0.1
+    description: Umfassende Geister können fünf oder sieben Weltanschauungen zugeschrieben bekommen, wie bei Schelling oder Goethe.
+  - chunk_id: 76eb1f89-c051-50e9-8af0-b332ff0d6358
+    relevance: 0.1
+    description: Vom Spiritualismus aus gelangt man zu anderen Weltanschauungen, die das Geistige weniger tief erfassen.
+  - chunk_id: 192e36bd-14f4-5e36-a44d-b8ed56201066
+    relevance: 0
+    description: Das Wertvolle an der Außenwelt sind die Qualitäten der Sinneseindrücke, die Herz, Gemüt und Geist erfrischen.
+stimmungen:
+  - name: "Empirismus — ☉ Sonne"
+  - name: "Mystik — ♀ Venus"
+  - name: "Transzendentalismus — ☿ Merkur"
+  - name: "Voluntarismus — ♂ Mars"
+  - name: "Logismus — ♃ Jupiter"
+  - name: "Gnosis — ♄ Saturn"
+  - name: "Okkultismus — ☽ Mond"
