@@ -1,0 +1,90 @@
+# Neue Typologie (nicht aus supabase public.vector_chunks).
+# Quelle: Rudolf Steiner, "Erziehungskunst. Seminarbesprechungen und
+# Lehrplanvorträge" (GA 295), 1., 2., 4. und 5. Seminarbesprechung,
+# Stuttgart, 21.–26. August 1919.
+
+typology:
+  slug: 4-temperamente
+  title: name
+  aliases: aliases
+  overview:
+    short: kurz
+    text: text
+    references: references
+  members:
+    from: temperamente
+    name: name
+    short: kurz
+    text: text
+
+name: "4 Temperamente"
+aliases:
+  - "Vier Temperamente"
+  - "Temperamente"
+  - "Temperamentenlehre"
+  - "sanguinisch, cholerisch, phlegmatisch, melancholisch"
+  - "Temperamente in der Erziehung"
+kurz: >
+  Die vier Temperamente, sanguinisch, cholerisch, phlegmatisch und melancholisch, sind nach Rudolf Steiner die vier Grundtypen, auf die sich die Vielartigkeit der Kinder zurückführen lässt. Sie beruhen darauf, dass eines der vier Wesensglieder vorwaltet. Der Erzieher soll sie nicht bekämpfen, sondern ihnen entgegenkommen, damit sie sich harmonisieren.
+text: |
+  Die **4 Temperamente** sind nach Rudolf Steiner die vier Grundtypen des Menschenwesens: das sanguinische, das cholerische, das phlegmatische und das melancholische Temperament. Sie zu kennen, nennt er in den Seminarbesprechungen „die wichtigste Aufgabe des Erziehers und Lehrers“.
+
+  **Mitglieder:**
+  - Sanguinisches Temperament – beim Kind waltet der Ätherleib vor.
+  - Cholerisches Temperament – beim Kind waltet der Astralleib vor.
+  - Phlegmatisches Temperament – beim Kind waltet der physische Leib vor.
+  - Melancholisches Temperament – beim Kind waltet das Ich vor.
+
+  **Beschreibung:** Beim Idealmenschen herrschte Harmonie zwischen Ich, Astralleib, Ätherleib und physischem Leib; in Wirklichkeit waltet bei jedem eines vor, und Erziehung soll die Harmonie herstellen. Beim Erwachsenen verschiebt sich das: Beim melancholischen Temperament herrscht der physische Leib vor, beim sanguinischen der Astralleib, beim phlegmatischen der Ätherleib, beim cholerischen das Ich. Nach Stärke und Erregbarkeit: Der Sanguiniker hat viel Erregbarkeit und wenig Stärke, der Melancholiker umgekehrt; beim Choleriker ist beides am größten, beim Phlegmatiker am geringsten. Polar stehen sich Phlegmatiker und Choleriker gegenüber „wie Nord- und Südpol“, ebenso Melancholiker und Sanguiniker. Statt einem Temperament die Gegeneigenschaften anzuerziehen, soll man ihm entgegenkommen und die Klasse in Temperamentsgruppen setzen: Gleichartige schleifen sich aneinander ab. Entscheidend ist die Seelenstimmung des Lehrers: „Das Erziehen geschieht durch das, was Sie sind.“
+references:
+  - chunk_id: 596a1e28-1bcf-501b-ac0b-e7bd85ca38d6
+    relevance: 1
+    description: Die Vielartigkeit der Kinder lässt sich auf vier Grundtypen zurückführen, die Temperamente; sie zu kennen ist die wichtigste Aufgabe des Erziehers.
+  - chunk_id: efa3c5a3-192f-593a-8ba7-08151b58b395
+    relevance: 1
+    description: Waltet beim Kind das Ich vor, so ist es melancholisch; Astralleib cholerisch, Ätherleib sanguinisch, physischer Leib phlegmatisch.
+  - chunk_id: 906788a9-323e-508d-9f13-7096490db0d2
+    relevance: 0.95
+    description: Benachbarte Temperamente gehen ineinander über; Phlegma und Cholerik, Melancholie und Sanguinik stehen sich polar gegenüber; das Erziehen geschieht durch das, was der Lehrer ist.
+  - chunk_id: aeae72da-5117-5e4d-9b35-e815e8b7ece3
+    relevance: 0.9
+    description: Im Laufe des Lebens verschiebt sich das vorherrschende Wesensglied der Temperamente vom Kind zum Erwachsenen.
+  - chunk_id: 15e9bcdf-5056-5e69-a2cd-7bea92e58865
+    relevance: 0.85
+    description: Beim cholerischen Kind soll der Lehrer innerlich teilnahmslos bleiben und den Vorfall am nächsten Tag teilnahmsvoll besprechen.
+  - chunk_id: 860945d8-43ea-5788-83d0-8ab291f7ee19
+    relevance: 0.8
+    description: Man soll dem Temperament entgegenkommen, statt seine Eigenschaften auszutreiben.
+  - chunk_id: 21a275c7-d769-501d-9ea5-73b6c95c6f9d
+    relevance: 0.8
+    description: Phlegmatische Kinder sind innerlich unbeschäftigt und zeigen keine Teilnahme nach außen; cholerische äußern ihren Willen durch Toben.
+  - chunk_id: 88f02e27-59fb-5960-83b4-5f1f3bfa75ab
+    relevance: 0.7
+    description: Auch der Körperbau charakterisiert die Temperamente der Kinder.
+  - chunk_id: 8d3a5962-cb2e-56ce-a5f4-389c1ad0afa8
+    relevance: 0.7
+    description: Die Ausartungen der Temperamente sind Wahnsinn, Schwachsinn, Narrheit und Tobsucht.
+  - chunk_id: 8a8f9813-53f5-5055-90a6-1dc5debee9cb
+    relevance: 0.6
+    description: Melancholische Kinder bleiben leicht zurück und sind länger der Nachahmung zugänglich.
+temperamente:
+  - name: Sanguinisches Temperament (Ätherleib)
+    kurz: >
+      Das sanguinische Kind interessiert sich rasch für alles Mögliche und lässt das Interesse ebenso rasch wieder fallen. Beim Kind waltet der Ätherleib vor, beim Erwachsenen der Astralleib. Es hat viel Erregbarkeit und wenig Stärke. Man kommt ihm entgegen, indem man viel in seine Aufmerksamkeit bringt und es sinnlich beschäftigt.
+    text: >
+      Das sanguinische Temperament erkennt man nach Rudolf Steiner daran, dass ein Kind sich für alles Mögliche nur kurz interessiert und sein Interesse rasch wieder zurückzieht. Es nimmt äußere Eindrücke schnell auf und lässt sie ebenso schnell vorübergehen. Beim Kind beruht es auf einem Vorwalten des Ätherleibs, beim Erwachsenen auf dem des Astralleibs. In Steiners Schema hat der Sanguiniker viel Erregbarkeit und wenig Stärke; er steht dem Melancholiker polar gegenüber und geht leicht ins Phlegmatische über. Dem Körperbau nach nennt Steiner die sanguinischen Kinder „die normalsten“. Falsch wäre es, dem Kind seine Eigenschaften austreiben zu wollen. Man soll ihm entgegenkommen, möglichst viel in die Sphäre seiner Aufmerksamkeit bringen und es sinnlich beschäftigt sein lassen; dann schleift sich die Anlage allmählich ab und harmonisiert sich mit den anderen. Im Unterricht wendet man sich mit dem, was angeschaut werden soll, an die sanguinische Gruppe. Beim Zeichnen hilft die variierte Wiederholung, beim Rechnen ist das Multiplizieren verwandt. Steiner deutet das Temperament auch karmisch: Wer in einem Leben zur Einsamkeit gezwungen war, kann im nächsten Sanguiniker werden, der auf alles aufmerksam ist. Die krankhafte Ausartung des Sanguinischen ist die Narrheit.
+  - name: Cholerisches Temperament (Astralleib)
+    kurz: >
+      Das cholerische Kind bringt seinen Willen durch eine Art Toben zum Ausdruck. Beim Kind waltet der Astralleib vor, beim Erwachsenen das Ich. Stärke und Erregbarkeit sind am größten. Der Lehrer bleibt dem Toben gegenüber äußerlich gelassen und bespricht den Vorfall am nächsten Tag mit voller Teilnahme.
+    text: >
+      Cholerische Kinder sind nach Rudolf Steiner die, die ihren Willen stark durch eine Art Toben zum Ausdruck bringen. Beim Kind beruht das Temperament auf einem Vorwalten des Astralleibs; beim Erwachsenen geht es über ins Vorwalten des Ich, es überspringt sogar die Vererbung vom Mütterlichen ins Väterliche. Im Schema sind Stärke und Erregbarkeit beim Choleriker am größten; sein Gegenpol ist das Phlegma, „verschieden wie Nord- und Südpol“. Dem Körperbau nach haben cholerische Kinder einen untersetzten Bau, so dass der Kopf beinahe im Körper versinkt. Das Temperament ist kein Fehler: Aus Leben und Leidenschaft der Choleriker geht viel hervor, und die Weltgeschichte wäre ohne sie anders verlaufen. Bei Michelangelo und Beethoven sieht Steiner eine Mischung von melancholischem und cholerischem Temperament. Der Lehrer soll das Toben nicht verhindern, sondern innerlich teilnahmslos, mit kaltem Blut zuschauen. Wirft das Kind das Tintenfass zu Boden, so sagt man mit möglichster Ruhe: Du hast nun das Tintenfass zerschmissen. Am nächsten Tag, wenn das Kind ruhig ist, bespricht man die Sache teilnahmsvoll und lässt es die Szene im Gedächtnis wiederholen. Beim Rechnen ist das Dividieren, vom Teil zum Dividenden zurück, die Rechnungsart der Choleriker. Die Ausartung ist die Tobsucht.
+  - name: Phlegmatisches Temperament (physischer Leib)
+    kurz: >
+      Das phlegmatische Kind ist in sich versunken, innerlich unbeschäftigt und zeigt keine Teilnahme nach außen. Beim Kind waltet der physische Leib vor, beim Erwachsenen der Ätherleib. Stärke und Erregbarkeit sind am geringsten. Der Lehrer bringt innerlich viel Teilnahme auf, gibt sich äußerlich aber teilnahmslos wie ein Spiegel.
+    text: >
+      Phlegmatische Kinder erkennt man nach Rudolf Steiner daran, dass sie in sich versunken sind und doch keine Teilnahme nach außen zeigen; anders als die melancholischen sind sie innerlich unbeschäftigt. Beim Kind beruht das Temperament auf einem Vorwalten des physischen Leibs, beim Erwachsenen auf dem des Ätherleibs. Im Schema sind Stärke und Erregbarkeit am geringsten; das Phlegma geht leicht ins Sanguinische über, aber niemals leicht ins Cholerische, seinen Gegenpol. Dem Körperbau nach haben phlegmatische Kinder die Schultern mehr heraus. Der Lehrer soll recht viel Teilnahme für ein solches Kind in sich erwecken und sich für jede Lebensregung interessieren; findet man den Zugang zu seiner Teilnahmslosigkeit, kann es sehr interessant werden. Äußern soll er dieses Interesse aber nicht, sondern teilnahmslos scheinen, so dass das Kind in ihm das Spiegelbild seines eigenen Wesens sieht. Beim Rechnen ist das Addieren, ausgehend von der Summe, die Rechnungsart der Phlegmatiker. Beim Zeichnen empfiehlt Steiner gesprenkelte, karierte Motive. Beim Erzählen soll man an wichtigen Stellen innehalten und die Neugier wecken, damit die Fantasie weiterarbeitet: „Die Königstochter, – die war – sehr schön, – aber – weniger – gut!“ Die Ausartung des Phlegmatischen ist der Schwachsinn.
+  - name: Melancholisches Temperament (Ich)
+    kurz: >
+      Das melancholische Kind neigt zum inneren Grübeln und Brüten; es ist für äußere Eindrücke schwer zu haben, aber innerlich beschäftigt. Beim Kind waltet das Ich vor, beim Erwachsenen der physische Leib. Es hat wenig Erregbarkeit und viel Stärke. Hilfreich sind Biographien großer Persönlichkeiten und die Einsicht, dass andere Ähnliches erleben.
+    text: >
+      Melancholische Kinder neigen nach Rudolf Steiner zum inneren Grübeln und Brüten. Sie sind für Eindrücke der Außenwelt nicht leicht zu haben, aber man hat nie den Eindruck, dass sie innerlich unbeschäftigt sind. Beim Kind beruht das Temperament auf einem Vorwalten des Ich in den allerersten Jahren; man verkennt das leicht, weil man melancholische Kinder manchmal als bevorzugte Wesen ansieht. Beim Erwachsenen geht es über ins Vorwalten des physischen Leibs. Im Schema hat der Melancholiker wenig Erregbarkeit und viel Stärke; sein Gegenpol ist der Sanguiniker. Melancholische Kinder sind in der Regel schlank und dünn. Sie bleiben leicht zurück, auch im Freiwerden des Ätherleibs mit dem Zahnwechsel, und sind darum länger der Nachahmung zugänglich: Was man ihnen vormacht, halten sie fest, wenn sie einen liebgewonnen haben. Fast immer ist der Melancholiker in einer Selbsttäuschung befangen; er glaubt, seine Erlebnisse beträfen nur ihn. Erfährt er, dass andere Ähnliches erleben, ist das eine Art Kur. Darum soll man ihn mit Biographien großer Persönlichkeiten behandeln. Im Unterricht wendet man sich mit dem Urteil über das Angeschaute an die melancholische Gruppe. Das Subtrahieren ist ihre Rechnungsart, beim Zeichnen das Ergänzen einer Form durch ihre Gegenform. Die Ausartung ist der Wahnsinn.

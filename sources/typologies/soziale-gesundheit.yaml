@@ -31,6 +31,16 @@ typology:
 
 matrix_titel: "Soziale Gesundheit"
 grundlage: "Rudolf Steiner, Die Kernpunkte der sozialen Frage (GA 23), Aufsätze über die Dreigliederung (GA 24)"
+uebersicht_kurz: >
+  Soziale Gesundheit beschreibt nach Rudolf Steiners Dreigliederung, wie Geistesleben, Rechtsleben und Wirtschaftsleben aufeinander wirken. Jedes Glied wirkt auf die beiden anderen; das ergibt sechs Felder. In jedem Feld steht ein gesunder einem kranken Pol gegenüber, je mit sieben Aspekten, die sich der Reihe nach entsprechen. Gesund gibt ein Glied, was es aus sich hervorbringt, ohne über das andere zu bestimmen; krank greift es in dessen Aufgabe ein.
+uebersicht: |
+  **Soziale Gesundheit** ist eine Matrix auf der Grundlage von Rudolf Steiners „Die Kernpunkte der sozialen Frage“ und seinen Aufsätzen über die Dreigliederung des sozialen Organismus. Der soziale Organismus hat drei Glieder: das Geistesleben, in dem Fähigkeiten, Erkenntnis und Urteil entstehen und Freiheit gilt; das Rechtsleben, in dem unter Gleichen bestimmt wird, was für alle gilt; das Wirtschaftsleben, in dem Güter erzeugt, verteilt und verbraucht werden und Brüderlichkeit die Bedingung ist.
+
+  **Felder:** Jedes Glied wirkt auf die beiden anderen. Daraus ergeben sich sechs Richtungen: Geist -> Recht, Geist -> Wirtschaft, Recht -> Geist, Recht -> Wirtschaft, Wirtschaft -> Recht, Wirtschaft -> Geist.
+
+  **Pole:** In jedem Feld steht ein gesunder einem kranken Pol gegenüber. Gesund gibt ein Glied dem anderen, was es aus seiner eigenen Mitte hervorbringt — Fähigkeiten, Rahmen, Mittel —, und bestimmt nicht, was das andere damit tut. Krank greift es in die Aufgabe des anderen ein: Die Weltsicht wird zum Gesetz, die Politik lenkt das Denken, die Wirtschaft kauft die Politik. Jeder Pol hat sieben Aspekte. Die Aspekte derselben Stelle sind Gegenstücke, etwa Entfaltung und Vorschrift, Freiheit und Vorgabe, Enthaltung und Lobbykauf.
+
+  Die Felder, in denen zwei Glieder zugleich auf das dritte wirken, sind hier nicht ausgeführt.
 generated_at: 2026-08-06
 model: claude-opus-4-6 (manuelle Redaktion)
 
@@ -45,6 +55,14 @@ felder:
     richtung: "Geist -> Recht"
     pol: gesund
     titel: "Sachkenntnis prägt das Recht"
+    kurz: >
+      Das freie Geistesleben gibt dem Rechtsleben Fähigkeiten und Einsicht, keine Weltanschauung. Gesetze entstehen aus der Erfahrung derer, die in der Sache stehen und sind so formuliert, dass jeder mündige Bürger sie versteht. Was gilt, bleibt durch öffentlichen Einwand korrigierbar; Richter wählt man in seinem persönlichen Umfeld aus Zutrauen. Getragen wird das vom Rechtssinn: Wer einsieht, braucht keinen Zwang.
+    text: |
+      Im gesunden Feld Geist -> Recht liefert das freie Geistesleben dem Rechtsleben nicht den Inhalt einer Lehre, sondern Menschen mit Fähigkeiten und Einsicht. Das Rechtsleben behält seine eigene Aufgabe: zu bestimmen, was unter Gleichen gilt und was jeder versteht.
+
+      Sieben Aspekte zeigen, wie das geschieht. **Entfaltung:** Jeder kann werden, was in ihm steckt, und so finden sich für die Aufgaben der Gesellschaft Menschen, die sie aus eigenem Können erfüllen. **Erfahrung:** Wer ein Gesetz gestaltet, hat selbst in der Sache gestanden; der Politiker wählt aus, er liefert nicht den Inhalt. **Miturteil:** Bevor etwas gilt, urteilt ein Zweiter am konkreten Schritt, den der Verfasser selbst hinzuzieht. **Verständlichkeit:** Gesetz wird nur, was jeder mündige Bürger prüfen kann. **Mitwirken:** Was gilt, bleibt korrigierbar; der Einwand kommt öffentlich und bringt die bessere Fassung mit. **Zutrauen:** Jeder wählt auf Zeit den Richter, der über ihn richten darf. **Rechtssinn:** Das Geistesleben pflegt den Sinn für das, was allgemein gilt; wer die Notwendigkeit eines Gesetzes durchschaut, braucht keinen Zwang.
+
+      Der Gegenpol ist „Die Weltsicht wird zum Gesetz“: Dort liefert das Geistesleben eine fertige Überzeugung, und das Recht beschließt nur noch, was die Lehre verlangt.
     aspekte:
       - schlagwort: Entfaltung
         schlagsatz: Jeder kann das werden, was in ihm steckt.
@@ -105,6 +123,14 @@ felder:
     richtung: "Geist -> Recht"
     pol: krank
     titel: "Die Weltsicht wird zum Gesetz"
+    kurz: >
+      Das kranke Geistesleben liefert dem Recht eine fertige Weltsicht statt Fähigkeiten. Gesetze entstehen aus Gesinnung und Mehrheit, geprüft wird auf dem Dienstweg, formuliert so, dass nur Ausleger sie verstehen. Das Urteil fällt ohne Verfahren, Experten entscheiden, was die Politik will, und kontrollierte Information ersetzt die Prüfung. Eine solche Politik kann nicht mehr überzeugen, nur noch gehorchen lassen.
+    text: |
+      Im kranken Feld Geist -> Recht verlässt eine Überzeugung ihre freie Sphäre und wird zum Paragraphen, auch für die, die sie nie geteilt haben. Die Richtung kehrt sich um: Nicht Menschen tragen ihr Können ins Recht, sondern das Recht erhält fertige Inhalte, die es nur noch beschließen muss.
+
+      Sieben Aspekte zeigen, wie das geschieht. **Vorschrift:** Gottesgesetz, Rassenlehre oder das Dogma vom grenzenlosen Wachstum werden für alle verbindlich, und der Lehrplan sorgt dafür, dass schon die Kinder es lernen. **Verhaltensnorm:** Gesetze entstehen aus Mehrheit, Kompromiss und Lobby; wechselt die Mehrheit, verbietet die nächste, was die vorige vorschrieb. **Dienstweg:** Die Hierarchie weist zu, wer prüft und wer mitredet. **Wortverstrickung:** Gesetze werden so verfasst, dass nur Juristen, Beamte und Lobbyisten sie auslegen können. **Vorverurteilung:** Nach der Offenlegung folgt Strafe ohne Verfahren. **Expertokratie:** Sachverstand wird zum Vorwand, demokratische Entscheidungen zu umgehen. **Desinformation:** Gefälligkeitsgutachten und ungeprüfte Berichte vergiften die Grundlage, auf der entschieden wird; ein Rechtssinn kann sich so nicht bilden.
+
+      Der Gegenpol ist „Sachkenntnis prägt das Recht“: Dort gibt das Geistesleben Fähigkeiten und Einsicht, und das Recht bestimmt selbst, was unter Gleichen gilt.
     aspekte:
       - schlagwort: Vorschrift
         schlagsatz: Die Überzeugung Einzelner wird zum Gesetz.
@@ -164,6 +190,14 @@ felder:
     richtung: "Geist -> Wirtschaft"
     pol: gesund
     titel: "Fähigkeiten befruchten die Wirtschaft"
+    kurz: >
+      Das freie Geistesleben gibt der Wirtschaft, was sie selbst nicht hervorbringt: die Kenntnis der wirklichen Bedürfnisse, tragende Ideen und Menschen, die den Zusammenhang überblicken. Was materialisiert ist, gehört dem Bedarf; was brachliegt, geht an den, der es nutzen kann. Aufgaben sind offen, und jeder wählt selbst, woran er mitarbeitet. Fehler werden als Vorschlag eingebracht, und mit jeder Verbesserung beginnt der Prozess von vorn.
+    text: |
+      Im gesunden Feld Geist -> Wirtschaft befruchtet das Geistesleben die Wirtschaft mit Einsicht, Erfindung und Sachkenntnis. Die Wirtschaft nimmt an, weil die Idee trägt, nicht weil jemand sie verordnet. Am Anfang steht das Bedürfnis der Verwender, nicht das Angebot.
+
+      Sieben Aspekte zeigen, wie das geschieht. **Bedürfnisse:** Das Geistesleben befähigt Menschen, ihre wirklichen Bedürfnisse zu erkennen; in der Assoziation sprechen die Verwender zuerst. **Ideen:** Unter Ideen ist Wettstreit fruchtbar, das Bessere wird übernommen; in die Produktion tritt nur das frei Gereifte ein. **Materialisierung:** Ein Gedanke vermehrt sich beim Teilen; erst wenn er Stoff und Arbeitszeit bindet, wird er Wirtschaft und gehört dem Bedarf. **Übergabe:** Ein Betrieb geht an den Fähigsten, nicht an den Erben oder Käufer; was ungenutzt steht, wird sichtbar. **Überblick:** Wer weiß, wessen Bedarf am Ende steht, arbeitet für ihn, weil es sachlich richtig ist. **Aufgaben:** Es gibt keine Stellen, nur offene Aufgaben; wer eine wählt, verantwortet sie. **Korrektur:** Die Fehlermeldung ist ein Geschenk und kommt als Vorschlag im öffentlichen Projekt.
+
+      Der Gegenpol ist „Der Glaube diktiert die Produktion“: Dort denkt der Anbieter vom Angebot aus und erfindet die Bedürfnisse, die er bedienen will.
     aspekte:
       - schlagwort: Bedürfnisse
         schlagsatz: Das Bedürfnis ist der Anfang — und kommt nicht aus der Wirtschaft.
@@ -222,6 +256,14 @@ felder:
     richtung: "Geist -> Wirtschaft"
     pol: krank
     titel: "Der Glaube diktiert die Produktion"
+    kurz: >
+      Im kranken Feld denkt die Wirtschaft vom Angebot aus. Bedürfnisse werden erfunden, die bessere Darstellung schlägt die bessere Ware, und der Kunde wird festgehalten statt bedient. Die Leitung folgt dem Kapital, Entscheidungen trifft die Kennzahl, besetzt wird nach Auftritt. Wer jahrelang Bedürfnisse erfunden hat, erkennt die wirklichen nicht mehr; der Einwand geht nach oben statt in die Sache.
+    text: |
+      Im kranken Feld Geist -> Wirtschaft gibt das Geistesleben der Wirtschaft keine Einsicht in den wirklichen Bedarf, sondern stellt seine Fähigkeiten in den Dienst des Absatzes. Am Anfang steht keine erkannte Not, sondern ein Betrieb, der ausgelastet sein will.
+
+      Sieben Aspekte zeigen, wie das geschieht. **Bedarfserfindung:** Der Anbieter sucht nach einem Bedürfnis; der Verwender wird nicht gefragt, sondern erforscht. **Verführung:** Ein Produktgefühl, das mit der Funktion nichts zu tun hat, verkauft dasselbe noch einmal. **Goldener Käfig:** Verkauft werden Nutzungsrechte, Geräte sind versiegelt; es bindet der Preis des Austritts, nicht die Güte. **Besitz:** Produktionsmittel werden gehandelt wie Ware, und die Leitung folgt dem Anteil, nicht der Fähigkeit. **Kennzahl:** Das Dashboard entscheidet und zeigt nur, was sich zählen lässt. **Selbstvermarktung:** Besetzt wird nach Bild und Auftritt; Befugnisse folgen dem Organigramm, nicht dem Können. **Verkümmerung:** Wer gelernt hat, Bedürfnisse zu erfinden, verliert den Sinn für das, was gebraucht wird, und der Einwand kostet den, der ihn vorbringt.
+
+      Der Gegenpol ist „Fähigkeiten befruchten die Wirtschaft“: Dort sprechen die Verwender zuerst, und das Geistesleben macht sichtbar, was gebraucht wird.
     aspekte:
       - schlagwort: Bedarfserfindung
         schlagsatz: Der Anbieter sucht nach einem Bedürfnis.
@@ -282,6 +324,14 @@ felder:
     richtung: "Recht -> Geist"
     pol: gesund
     titel: "Der Staat bewahrt die Freiheit des Einzelnen"
+    kurz: >
+      Das Rechtsleben bestimmt keine Inhalte des Geisteslebens, es schafft den äußeren Rahmen, in dem es frei ist. Es garantiert die Freiheit des Denkens, den Zugang zum Wissen und gleiche Chancen zur Entfaltung. Es sichert den Zufluss geschenkter Mittel, ohne über ihre Verwendung zu entscheiden, schützt den inneren Raum der Arbeit und das persönliche Richten. Jeder darf Ergebnisse ohne Vorprüfung kommentieren.
+    text: |
+      Im gesunden Feld Recht -> Geist bewahrt der Staat die Freiheit des Geisteslebens, statt es zu lenken. Er stellt diese Freiheit nicht her, er gibt sie frei: als garantiertes Recht, nicht als Privileg.
+
+      Sieben Aspekte zeigen, wie das geschieht. **Freiheit:** Das Rechtsleben schützt die innere Freiheit gegen staatliche Bevormundung und wirtschaftlichen Druck; der Lehrer findet die Inhalte in der Begegnung mit dem Kind. **Zugang:** Jeder hat Anspruch auf das Wissen, das er zum Urteilen braucht, und das Kind auf seine Bildung. **Chancen:** Das Recht gleicht die Startbedingungen aus, nicht die Ergebnisse. **Schenkung:** Geistige Arbeit wird aus Schenkung getragen; das Recht sichert den Zufluss, das Geistesleben entscheidet, wohin die Mittel fließen. **Schutzraum:** Entwurf und Austausch bleiben privat, solange nichts geteilt ist; gläsern ist der Staat, geschützt der Bürger. **Richten:** Der Angeklagte wählt seinen Richter auf Zeit, und das Recht schützt dieses Richten vor Weisung und Abhängigkeit. **Mitreden:** Jeder kann Ergebnisse kommentieren und Verbesserungen vorschlagen, ohne Vorprüfung und mit seinem Namen.
+
+      Der Gegenpol ist „Die Politik lenkt das Denken“: Dort legt der Staat Inhalte fest, hält Wissen zurück und bindet seine Mittel an Bedingungen.
     aspekte:
       - schlagwort: Freiheit
         schlagsatz: Niemand greift dir ins Denken.
@@ -344,6 +394,14 @@ felder:
     richtung: "Recht -> Geist"
     pol: krank
     titel: "Die Politik lenkt das Denken"
+    kurz: >
+      Im kranken Feld verwaltet das Recht die Freiheit des Geisteslebens, statt sie zu schützen. Der Lehrplan greift ins Denken, Wissen wird zum Gnadenakt, ein gleiches Raster misst verschiedene Menschen. Förderung bindet an Bedingungen, Überwachung macht das Denken leiser, Richter folgen dem Amt. Der Einwand läuft im Kreis, bis er verstummt — ohne Verbot, durch Zermürbung.
+    text: |
+      Im kranken Feld Recht -> Geist greift der Staat in das ein, was er schützen sollte. Was im Rechtsleben Tugend ist, Gleichheit und Ordnung, wird im Geistesleben zum Gift. Das Recht verwaltet die Freiheit und nennt die Verwaltung Bildung.
+
+      Sieben Aspekte zeigen, wie das geschieht. **Vorgabe:** Der Lehrplan legt fest, was jedes Kind können muss, bevor der Lehrer es je angeschaut hat. **Vorenthaltung:** Auskunft wird zum Gnadenakt mit Anträgen, Gebühren und Fristen; verborgen bleibt, wie entschieden wird. **Vermessung:** Alle werden mit denselben Fragen geprüft, und gemessen wird, wie genau einer ins Raster passt. **Zweckbindung:** Wer Mittel beantragt, muss das Ergebnis vorher versprechen; die Förderung wird zur Leine. **Überwachung:** Register, Vorratsdaten und Hintertüren durchleuchten den Bürger; wer mitgelesen wird, denkt leiser. **Weisungsjustiz:** Richter sind Amtsträger in Laufbahnen, die Staatsanwaltschaft folgt Weisungen. **Zensur:** Die Beschwerde geht an die Stelle, über die sie sich beschwert, und kommentiert wird nur nach Vorprüfung.
+
+      Der Gegenpol ist „Der Staat bewahrt die Freiheit des Einzelnen“: Dort schafft das Recht den äußeren Rahmen und bestimmt keine Inhalte.
     aspekte:
       - schlagwort: Vorgabe
         schlagsatz: Der Plan greift dir ins Denken.
@@ -406,6 +464,14 @@ felder:
     richtung: "Recht -> Wirtschaft"
     pol: gesund
     titel: "Das Gesetz sichert den fairen Rahmen"
+    kurz: >
+      Das Rechtsleben setzt der Wirtschaft den Rahmen, bevor ein Markt beginnt. Arbeitskraft und Boden sind keine Ware; der Preis wird in der Assoziation gerechnet und deckt, was wiederholt werden muss. Eigentum an Produktionsmitteln ist Verfügung auf Zeit, gebunden an Fähigkeit. Das Recht hält Verträge, ohne ihren Inhalt zu bestimmen, lässt die Folgen beim Verursacher und macht Missstände öffentlich.
+    text: |
+      Im gesunden Feld Recht -> Wirtschaft sichert das Gesetz den fairen Rahmen, in dem die Wirtschaft frei verhandelt. Es bindet, ohne zu bestimmen: Was unter Gleichen als Bürgern festgelegt wird, kommt vor jedem Markt.
+
+      Sieben Aspekte zeigen, wie das geschieht. **Arbeit:** Art, Maß und Zeit der Arbeit bestimmt das Recht; verhandelt wird über Leistungen, nie über den Menschen. **Boden:** Was vor aller Arbeit da war, ist keine Ware; Nutzungsrechte werden nach Bedarf und Fähigkeit vergeben. **Preis:** Richtig ist ein Preis, der dem Erzeuger erlaubt, dasselbe noch einmal zu tun; er wird offen gerechnet, Zins und Rente stehen nicht darin. **Eigentumszeit:** Werkstätten und Betriebe gehören dem, der sie fähig führt, und nur so lange. **Vertrag:** Was vereinbart ist, gilt; was vereinbart wird, entscheidet die Assoziation. Das Recht selbst ist unverkäuflich. **Haftung:** Die Folgen bleiben bei dem, der sie verursacht; erst das macht den Preis wahr. **Einspruch:** Jeder kann Missstände öffentlich machen, ohne Nachteil zu fürchten.
+
+      Der Gegenpol ist „Die Politik entscheidet wer gewinnt“: Dort wird das Recht selbst zum Markt, und gehandelt wird der Rahmen.
     aspekte:
       - schlagwort: Arbeit
         schlagsatz: Deine Arbeitskraft ist keine Ware.
@@ -462,6 +528,14 @@ felder:
     richtung: "Recht -> Wirtschaft"
     pol: krank
     titel: "Die Politik entscheidet wer gewinnt"
+    kurz: >
+      Im kranken Feld bestimmt das Recht, wer gewinnt, statt den Rahmen für alle zu sichern. Arbeiten darf, wem es erlaubt wird; Boden wird zur Beute; der Preis zeigt Macht statt Kosten. Verfügungsrechte zirkulieren als Papier, Vorrechte begünstigen die einen, Abgaben folgen politischen Setzungen. Juristische Konstrukte verbergen, wer verantwortlich ist.
+    text: |
+      Im kranken Feld Recht -> Wirtschaft sichert das Recht nicht den fairen Rahmen, es verteilt Vorteile. Der Wettbewerb verlagert sich vom Erzeugnis auf den Einfluss, und wer am Hebel sitzt, bestimmt, wer gedeiht.
+
+      Sieben Aspekte zeigen, wie das geschieht. **Erlaubnis:** Lizenzen und Konzessionen legen fest, wer arbeiten darf; die knappe Erlaubnis wird selbst zur Ware. **Bodenrente:** Boden und Wohnraum werden Gegenstand der Spekulation; die Rendite kommt aus der Miete derer, die wohnen müssen. **Willkürpreis:** Monopole, Kartelle und politische Eingriffe bilden den Preis; er zeigt, wo Macht sitzt. **Papiermacht:** Aktien und Verbriefungen lösen die Verfügung von Fähigkeit und Produktion; der Zins ist Einkommen, weil Geld da war. **Vorrechte:** Subventionen, Auflagen und vorab entschiedene Vergaben stehen schon im Vertrag, wenn das Recht ihn reicht. **Zwangsabgabe:** Bezahlt wird, was festgesetzt ist, nicht was jemand verursacht. **Verschleierung:** Holdings und Briefkästen beschränken nicht nur die Haftung, sondern die Auffindbarkeit der Verantwortung.
+
+      Der Gegenpol ist „Das Gesetz sichert den fairen Rahmen“: Dort bindet das Recht, ohne zu bestimmen, und Arbeit und Boden bleiben außerhalb des Warenverkehrs.
     aspekte:
       - schlagwort: Erlaubnis
         schlagsatz: Arbeiten darf, wem es erlaubt wird.
@@ -515,6 +589,14 @@ felder:
     richtung: "Wirtschaft -> Recht"
     pol: gesund
     titel: "Die Wirtschaft trägt den Staat"
+    kurz: >
+      Das Rechtsleben erzeugt keine Güter und braucht doch Gebäude, Menschen und Zeit. Die Wirtschaft trägt es aus ihren Erträgen: Sie gibt dem Recht die Mittel zur Durchsetzung, speist die Sicherung gegen Krankheit und Alter, versorgt die Menschen im Rechtsleben, liefert, was bestellt wird, und stellt Bürger frei. Über die Verwendung bestimmt sie nicht: Wer zahlt, bestimmt nicht.
+    text: |
+      Im gesunden Feld Wirtschaft -> Recht trägt die Wirtschaft den Staat, wie das Fundament das Haus trägt: Es entscheidet nicht, wer darin wohnt. Die Herkunft der Mittel ist wirtschaftlich, ihre Verwendung ist es nicht.
+
+      Sieben Aspekte zeigen, wie das geschieht. **Ertrag:** Alles gemeinschaftlich Genutzte wird aus den Erträgen der Arbeit betrieben; über die Abgaben entscheidet das Rechtsleben unter Gleichen. **Durchsetzung:** Ein Recht braucht Mittel, um zu gelten; wer die Vollstreckung finanziert, erwirbt keinen Einfluss auf das, was vollstreckt wird. **Sicherung:** Was den Einzelnen trifft, trägt die Gemeinschaft; der Anspruch folgt dem Menschsein, nicht dem Marktwert. **Versorgung:** Die Wirtschaft ernährt und behaust die Menschen im Rechtsleben; keine Lieferung begründet eine Weisung. **Lieferung:** Ob und wofür bestimmt das Recht, das Wie verantwortet die Wirtschaft. **Freistellung:** Wer Abgeordneter, Schöffe oder Wahlhelfer ist, wird freigestellt und findet seinen Platz unverändert. **Enthaltung:** Die Wirtschaft zahlt und bestimmt nicht; erst diese Trennung macht alle anderen Beiträge gesund.
+
+      Der Gegenpol ist „Die Wirtschaft kauft die Politik“: Dort wird aus dem Beitrag ein Druckmittel, und wer zahlt, bestimmt doch.
     aspekte:
       - schlagwort: Ertrag
         schlagsatz: Ohne Ertrag kein Rechtsstaat.
@@ -612,6 +694,14 @@ felder:
     richtung: "Wirtschaft -> Recht"
     pol: krank
     titel: "Die Wirtschaft kauft die Politik"
+    kurz: >
+      Im kranken Feld wird der Beitrag der Wirtschaft zum Druckmittel. Konzerne drohen mit Abwanderung, sind zu groß, um belangt zu werden, und bauen Schutzrechte ab oder um sie herum. Richter und Aufsicht werden gekauft, Streit geht vor private Tribunale, Arbeitskraft wird gehandelt wie Ware. Mit Spenden und fertigen Entwürfen kauft die Wirtschaft das Gesetz, bevor es entsteht.
+    text: |
+      Im kranken Feld Wirtschaft -> Recht gibt die Wirtschaft nicht mehr, ohne mit der Gabe etwas zu erwerben. Das Fundament verhandelt über die Statik: Die Mittel, die das Recht tragen sollten, werden zum Hebel, mit dem es gelenkt wird.
+
+      Sieben Aspekte zeigen, wie das geschieht. **Erpressung:** Konzerne drohen mit Abwanderung und erzwingen Steuerbefreiungen; bezahlt wird das von denen, die nicht drohen können. **Machtspiel:** Wer zu groß ist, wird gerettet statt bestraft; die Geltung macht vor der Größe halt. **Schutzabbau:** Arbeits-, Umwelt- und Verbraucherschutz fallen im Namen der Wettbewerbsfähigkeit, oder das Geschäft wird um sie herumgebaut. **Bestechung:** Geld, Drohung, Beziehung und Drehtür erreichen die Hand, die urteilen soll. **Privatjustiz:** Schiedsklauseln, Konzernklagen gegen Staaten und Nutzungsbedingungen bilden ein paralleles Rechtssystem. **Sklaventum:** Der Markt vereinbart, was dem Recht zusteht, Maß und Art der Arbeit: rechtlich frei, wirtschaftlich leibeigen. **Lobbykauf:** Spenden und fertige Gesetzentwürfe kaufen das Gesetz schon im Entwurf.
+
+      Der Gegenpol ist „Die Wirtschaft trägt den Staat“: Dort zahlt die Wirtschaft und bestimmt nicht.
     aspekte:
       - schlagwort: Erpressung
         schlagsatz: Wer Macht hat, droht dem Haus.
@@ -667,6 +757,14 @@ felder:
     richtung: "Wirtschaft -> Geist"
     pol: gesund
     titel: "Die Wirtschaft versorgt den Geist"
+    kurz: >
+      Lehrer, Forscher und Künstler stellen kein Brot her und leben doch davon. Die Wirtschaft versorgt sie verlässlich, baut ihnen Werk- und Wirkstätten und gibt Schenkungsgeld, mit dem jeder Anspruch endet. Sie verzichtet darauf, Inhalte zu bestellen, und schafft Orte, an denen Fähigkeit und Bedarf einander finden. Getragen wird das von Brüderlichkeit als Einsicht in die gegenseitige Abhängigkeit.
+    text: |
+      Im gesunden Feld Wirtschaft -> Geist versorgt die Wirtschaft das Geistesleben mit dem, was es nicht selbst herstellt: Unterhalt, Räume, Werkzeug, Zeit. Was der Geist hervorbringt, lässt sich nicht bestellen und nicht aufwiegen; darum ist die Versorgung kein Lohn für gelieferte Ware.
+
+      Sieben Aspekte zeigen, wie das geschieht. **Unterhalt:** Eine Gemeinschaft trägt ihre Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt. **Werk- und Wirkstätten:** Die Wirtschaft baut Labor, Schulhaus und Bühne und betritt sie nur als Gast. **Verlässlichkeit:** Getragen wird in Jahren, nicht in Stunden; ob eine Arbeit fruchtbar war, urteilen die Fachgenossen. **Gabe:** Schenkungsgeld ist Geld ohne vereinbarte Gegenleistung; wohin es fließt, entscheidet das Geistesleben allein. **Verzicht:** Wer bestellt, bekommt nur Bestelltes; der Verzicht auf den nahen Nutzen ist die Bedingung des fernen. **Begegnung:** Die Wirtschaft hält einen Raum offen, in dem Fähigkeit und Bedarf einander ohne Zuteilung finden. **Brüderlichkeit:** Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben; wer das versteht, rechnet nicht.
+
+      Der Gegenpol ist „Das Geld kontrolliert die Wahrheit“: Dort wird der Gast zum Hausherrn, und das Geld bestimmt Fragen und Antworten.
     aspekte:
       - schlagwort: Unterhalt
         schlagsatz: Wer lehrt, muss essen.
@@ -756,6 +854,14 @@ felder:
     richtung: "Wirtschaft -> Geist"
     pol: krank
     titel: "Das Geld kontrolliert die Wahrheit"
+    kurz: >
+      Im kranken Feld lebt die Wirtschaft von geistiger Arbeit, ohne sie zu tragen, und bestimmt, was gedacht und gesehen wird. Wissen verschwindet im Betriebsgeheimnis, gerechnet wird in Quartalen, öffentlich finanzierte Forschung muss zurückgekauft werden. Forschung wird samt Antwort bestellt, Geldverwalter entscheiden über geistige Arbeit, und der Mensch wird zur Zielgruppe, mit der gerechnet wird.
+    text: |
+      Im kranken Feld Wirtschaft -> Geist versorgt die Wirtschaft das Geistesleben nicht, sie verfügt über es. Wer das Geld gibt oder verwaltet, entscheidet über Fragen, Sichtbarkeit und Ergebnis. Aus dem Strom, der geistiges Leben tragen sollte, wird eine Mautstelle.
+
+      Sieben Aspekte zeigen, wie das geschieht. **Überlastung:** Tausend Firmen bauen auf einer Bibliothek, die einer nachts unbezahlt pflegt; die Wirtschaft finanziert ihre eigene Zukunft nicht. **Betriebsgeheimnis:** Wissen über Chemikalien, Algorithmen und Wirkungen wird der Prüfung entzogen. **Kurzsichtigkeit:** Verlage und Plattformen entscheiden nach Rendite, was sichtbar wird; Gedanken, die länger brauchen, denkt niemand mehr. **Rückkauf:** Öffentlich finanzierte Forschung verschwindet hinter Bezahlschranken. **Bestellung:** Erforscht wird, was sich vermarkten lässt; unbequeme Ergebnisse verschwinden in der Schublade. **Vormund:** Stiftungsräte und Fördergremien urteilen über Arbeit, in der sie nicht stehen, und prüfen vor allem, ob das Geld noch da ist. **Berechnung:** Inhalte richten sich nach Quote und Werbeertrag; verkauft wird nicht dem Menschen etwas, verkauft wird er.
+
+      Der Gegenpol ist „Die Wirtschaft versorgt den Geist“: Dort endet mit der Gabe jeder Anspruch.
     aspekte:
       - schlagwort: Überlastung
         schlagsatz: Was niemand trägt, bricht unter allen zusammen.
