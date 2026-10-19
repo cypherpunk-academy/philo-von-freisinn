@@ -13,11 +13,13 @@ typology:
     short: kurz
     text: text
     references: references
+    chunk_id: chunk_id
   members:
     from: stimmungen
     name: name
     short: kurz
     text: text
+    chunk_id: chunk_id
 
 name: "7 Weltanschauungsstimmungen (Planeten)"
 aliases:
@@ -26,7 +28,12 @@ aliases:
   - Erfahrungsstimmungen
   - Seelenstimmungen
 kurz: >
-  Die 7 Weltanschauungsstimmungen sind nach Rudolf Steiner sieben Seelenstimmungen, in denen das Erkennen die Welt auffasst: Gnosis, Logismus, Voluntarismus, Empirismus, Mystik, Transzendentalismus und Okkultismus. Sie entsprechen den sieben Planeten. Jede der zwölf Weltanschauungen kann in jeder dieser Stimmungen auftreten, und so stufen sich die Ansichten der Menschen vielfältig ab.
+  Die 7 Weltanschauungsstimmungen sind nach Rudolf Steiner sieben
+  Seelenstimmungen, in denen das Erkennen die Welt auffasst: Gnosis, Logismus,
+  Voluntarismus, Empirismus, Mystik, Transzendentalismus und Okkultismus. Sie
+  entsprechen den sieben Planeten. Jede der zwölf Weltanschauungen kann in jeder
+  dieser Stimmungen auftreten, und so stufen sich die Ansichten der Menschen
+  vielfältig ab.
 text: |
   Die **7 Weltanschauungsstimmungen (Planeten)**, auch **Sieben Weltanschauungsstimmungen**, **Weltanschauungsstimmungen**, **Erfahrungsstimmungen** oder **Seelenstimmungen** genannt, sind nach Rudolf Steiner besondere Artungen des erkennenden Seelenlebens, die das Auffassen von Weltprinzipien begünstigen oder erschweren. Sie entsprechen planetarischen Impulsen der übersinnlichen Welt und sind Manifestationen des siebenfältigen Astralorganismus des Menschen.
 
@@ -43,73 +50,259 @@ text: |
 references:
   - chunk_id: 404f560b-31c3-545e-8a83-dfd2f59270a1
     relevance: 1
-    description: "Die sieben Seelenstimmungen sind Manifestationen von planetarischen Impulsen: Okkultismus – Mond, Transzendentalismus – Merkur, Mystik – Venus, Empirismus – Sonne, Voluntarismus – Mars, Logismus – Jupiter, Gnosis – Sa..."
+    description: "Die sieben Seelenstimmungen sind Manifestationen von
+      planetarischen Impulsen: Okkultismus – Mond, Transzendentalismus – Merkur,
+      Mystik – Venus, Empirismus – Sonne, Voluntarismus – Mars, Logismus –
+      Jupiter, Gnosis – Sa..."
   - chunk_id: 90c93630-a035-5103-bc91-820be0f33d73
     relevance: 1
-    description: Die sieben Seelenstimmungen sind besondere Artungen des erkennenden Seelenlebens, die das Auffassen von Weltprinzipien begünstigen oder erschweren.
+    description: Die sieben Seelenstimmungen sind besondere Artungen des erkennenden
+      Seelenlebens, die das Auffassen von Weltprinzipien begünstigen oder
+      erschweren.
   - chunk_id: 9e5d5808-234e-5672-8a21-57aafdef7914
     relevance: 1
-    description: Die Seelenstimmungen hängen mit den Planeten zusammen, wie die Grundrichtungen des Erkennens mit den Tierkreisimpulsen; das Seelenwesen oder der Astralleib ist ein siebenfältiges, planetarisches Wesen.
+    description: Die Seelenstimmungen hängen mit den Planeten zusammen, wie die
+      Grundrichtungen des Erkennens mit den Tierkreisimpulsen; das Seelenwesen
+      oder der Astralleib ist ein siebenfältiges, planetarisches Wesen.
   - chunk_id: a18979bc-e5d1-5eaa-bcb0-34503520c6b3
     relevance: 0.5
-    description: Die Unterscheidung der Seelenstimmungen und ihre Zuordnung zu den Tierkreiskräften ist nicht aus der Philosophiegeschichte allein durch Spekulation möglich.
+    description: Die Unterscheidung der Seelenstimmungen und ihre Zuordnung zu den
+      Tierkreiskräften ist nicht aus der Philosophiegeschichte allein durch
+      Spekulation möglich.
   - chunk_id: 874557bb-178c-5d20-845d-b0627eb94588
     relevance: 0.3
-    description: Es gibt zwölf Arten des Weltbetrachtens oder zwölf Weltanschauungen, die Ausflüsse der Wahrheits-Sonne sind.
+    description: Es gibt zwölf Arten des Weltbetrachtens oder zwölf
+      Weltanschauungen, die Ausflüsse der Wahrheits-Sonne sind.
   - chunk_id: 5a1abc94-9a22-54db-866f-e13400ef52e9
     relevance: 0.3
-    description: Jede Seele steht mit ihren Seelenkräften zu bestimmten Geistesimpulsen aus den Tierkreisrichtungen in Beziehung.
+    description: Jede Seele steht mit ihren Seelenkräften zu bestimmten
+      Geistesimpulsen aus den Tierkreisrichtungen in Beziehung.
   - chunk_id: 9f8220e6-c988-5a81-88c3-057ba01dbf01
     relevance: 0.2
-    description: Die Darstellung der zwölf Weltanschauungen geht von der Urpolarität zwischen Welterscheinung und erkennender Menschenseele aus.
+    description: Die Darstellung der zwölf Weltanschauungen geht von der Urpolarität
+      zwischen Welterscheinung und erkennender Menschenseele aus.
   - chunk_id: 827cba93-4f05-5f37-932c-7610d8455cc7
     relevance: 0.2
-    description: Bestimmte Weltanschauungsarten hängen mit den geistigen Impulsen der Tierkreis-Geistessonne zusammen.
+    description: Bestimmte Weltanschauungsarten hängen mit den geistigen Impulsen
+      der Tierkreis-Geistessonne zusammen.
   - chunk_id: 751b9daa-7d67-5757-9cfc-abf1fba60430
     relevance: 0.1
-    description: Phänomenalismus und Psychismus sind Grundstellungen der erkennenden Menschenseele, die sich nach außen auf Welterscheinungen und nach innen auf die Seelentätigkeit richten.
+    description: Phänomenalismus und Psychismus sind Grundstellungen der erkennenden
+      Menschenseele, die sich nach außen auf Welterscheinungen und nach innen
+      auf die Seelentätigkeit richten.
   - chunk_id: be4639bf-d90a-53f9-a56f-1b0817075af2
     relevance: 0.1
-    description: Umfassende Geister können fünf oder sieben Weltanschauungen zugeschrieben bekommen, wie bei Schelling oder Goethe.
+    description: Umfassende Geister können fünf oder sieben Weltanschauungen
+      zugeschrieben bekommen, wie bei Schelling oder Goethe.
   - chunk_id: 76eb1f89-c051-50e9-8af0-b332ff0d6358
     relevance: 0.1
-    description: Vom Spiritualismus aus gelangt man zu anderen Weltanschauungen, die das Geistige weniger tief erfassen.
+    description: Vom Spiritualismus aus gelangt man zu anderen Weltanschauungen, die
+      das Geistige weniger tief erfassen.
   - chunk_id: 192e36bd-14f4-5e36-a44d-b8ed56201066
     relevance: 0
-    description: Das Wertvolle an der Außenwelt sind die Qualitäten der Sinneseindrücke, die Herz, Gemüt und Geist erfrischen.
+    description: Das Wertvolle an der Außenwelt sind die Qualitäten der
+      Sinneseindrücke, die Herz, Gemüt und Geist erfrischen.
 stimmungen:
   - name: "Okkultismus — ☽ Mond"
     kurz: >
-      Der Okkultismus hält sich an die erscheinende Welt, behauptet aber nicht, sie sei schon die wirkliche: Sie ist Maja, Schleier. Das Innere der Dinge muss auf andere Weise gesucht werden als durch die Sinne und die gewöhnlichen Erkenntnismittel. Er ist die Seelenstimmung des Mondes. Die vernünftigen Naturforscher sind Okkultisten des Materialismus, denn das Atom bleibt im Okkulten.
+      Der Okkultismus hält sich an die erscheinende Welt, behauptet aber nicht,
+      sie sei schon die wirkliche: Sie ist Maja, Schleier. Das Innere der Dinge
+      muss auf andere Weise gesucht werden als durch die Sinne und die
+      gewöhnlichen Erkenntnismittel. Er ist die Seelenstimmung des Mondes. Die
+      vernünftigen Naturforscher sind Okkultisten des Materialismus, denn das
+      Atom bleibt im Okkulten.
     text: >
-      Der Okkultismus betont eine Grenze. Er hält sich an die Welt, die ihn ringsherum umgibt, behauptet aber nicht, ein Recht zu haben, diese Welt die wirkliche zu nennen. In dem äußeren Sinnenschein, der Maja, drückt sich nicht das Wesen der Dinge aus. Darin unterscheidet er sich vom Transzendentalismus, für den die Welt überall das Wesen ankündigt: Für den Okkultisten muss das Innere der Dinge auf eine andere Weise gesucht werden als durch das äußere Wahrnehmen der Sinne und die gewöhnlichen Erkenntnismittel. Das Entscheidende wirkt, ist aber nicht unmittelbar sichtbar; es ist okkult, verborgen. Daraus entsteht eine Stimmung methodischer Bescheidenheit und des Suchens. Er fragt, wie man an das herankommt, was in der Sache schlummert, und antwortet nicht mit Fantasie, sondern mit einer Verwandlung der Methode: Konzentration und innere Aufmerksamkeit sollen das Verborgene beleuchten. Rudolf Steiner ordnet den Okkultismus dem Mond zu. Man kann ihn durch alle Geistes-Tierkreiszeichen hindurch ausbilden, sogar im Materialismus. Ja, nach Steiner sind die vernünftigen Naturforscher der Gegenwart alle Okkultisten des Materialismus, denn sie reden von Atomen, ohne zu behaupten, man könne mit irgendeiner Methode an das Atom herankommen: Das Atom bleibt im Okkulten. Im Materialismus, im Krebs, steht der Mond in seinem Haus.
+      Der Okkultismus betont eine Grenze. Er hält sich an die Welt, die ihn
+      ringsherum umgibt, behauptet aber nicht, ein Recht zu haben, diese Welt
+      die wirkliche zu nennen. In dem äußeren Sinnenschein, der Maja, drückt
+      sich nicht das Wesen der Dinge aus. Darin unterscheidet er sich vom
+      Transzendentalismus, für den die Welt überall das Wesen ankündigt: Für den
+      Okkultisten muss das Innere der Dinge auf eine andere Weise gesucht werden
+      als durch das äußere Wahrnehmen der Sinne und die gewöhnlichen
+      Erkenntnismittel. Das Entscheidende wirkt, ist aber nicht unmittelbar
+      sichtbar; es ist okkult, verborgen. Daraus entsteht eine Stimmung
+      methodischer Bescheidenheit und des Suchens. Er fragt, wie man an das
+      herankommt, was in der Sache schlummert, und antwortet nicht mit Fantasie,
+      sondern mit einer Verwandlung der Methode: Konzentration und innere
+      Aufmerksamkeit sollen das Verborgene beleuchten. Rudolf Steiner ordnet den
+      Okkultismus dem Mond zu. Man kann ihn durch alle Geistes-Tierkreiszeichen
+      hindurch ausbilden, sogar im Materialismus. Ja, nach Steiner sind die
+      vernünftigen Naturforscher der Gegenwart alle Okkultisten des
+      Materialismus, denn sie reden von Atomen, ohne zu behaupten, man könne mit
+      irgendeiner Methode an das Atom herankommen: Das Atom bleibt im Okkulten.
+      Im Materialismus, im Krebs, steht der Mond in seinem Haus.
+    chunk_id: 118d2f46-bf96-4204-bb28-845f0cf54660
   - name: "Transzendentalismus — ☿ Merkur"
     kurz: >
-      Der Transzendentalismus setzt voraus, dass hinter allen Dingen ein Wesen steckt, das die Wahrnehmung selbst nicht ist. In der Wahrnehmung kommt dieses Wesen an den Menschen heran, fließt aber nicht, wie beim Mystiker, in die Seele herein. Er ist die Seelenstimmung des Merkur und nach Rudolf Steiner ein vorzüglicher Ausgangspunkt für alles Philosophieren.
+      Der Transzendentalismus setzt voraus, dass hinter allen Dingen ein Wesen
+      steckt, das die Wahrnehmung selbst nicht ist. In der Wahrnehmung kommt
+      dieses Wesen an den Menschen heran, fließt aber nicht, wie beim Mystiker,
+      in die Seele herein. Er ist die Seelenstimmung des Merkur und nach Rudolf
+      Steiner ein vorzüglicher Ausgangspunkt für alles Philosophieren.
     text: >
-      Der Transzendentalismus ist die Seelenstimmung, die sich sagt: In der Welt ist irgendetwas hinter allen Dingen, wie hinter meiner eigenen Wesenheit, soweit ich sie wahrnehme. Aber ich kann kein Mystiker sein. Der Mystiker glaubt, das Wesen fließe in seine Seele herein; ich fühle es nicht hereinfließen, ich fühle nur, dass es da sein muss, draußen. Der Transzendentalist setzt also voraus, dass außerhalb der Seele und außerhalb dessen, was sie erfahren kann, das Wesen der Dinge steckt. Er nimmt an, dass dieses Wesen transzendent ist, jenseits der Wahrnehmung. Und doch ist es ihm nicht fern: Wenn er die Dinge wahrnimmt, kommt ihr Wesen an ihn heran; nur die Wahrnehmung selber ist nicht dieses Wesen. Darin unterscheidet er sich vom Okkultismus, für den die erscheinende Welt Maja ist, die das Wesen gerade nicht ankündigt, und vom Empirismus, der gar nicht nach einem Wesen hinter den Erscheinungen fragt. Rudolf Steiner ordnet ihn dem Merkur zu und nennt ihn einen vorzüglichen Ausgangspunkt für alles Philosophieren. Wie jede Seelenstimmung kann er durch alle zwölf Weltanschauungen gehen; besonders fruchtbar erweist er sich im Phänomenalismus und im Mathematismus, in Jungfrau und Zwillingen, den beiden Häusern des Merkur.
+      Der Transzendentalismus ist die Seelenstimmung, die sich sagt: In der Welt
+      ist irgendetwas hinter allen Dingen, wie hinter meiner eigenen Wesenheit,
+      soweit ich sie wahrnehme. Aber ich kann kein Mystiker sein. Der Mystiker
+      glaubt, das Wesen fließe in seine Seele herein; ich fühle es nicht
+      hereinfließen, ich fühle nur, dass es da sein muss, draußen. Der
+      Transzendentalist setzt also voraus, dass außerhalb der Seele und
+      außerhalb dessen, was sie erfahren kann, das Wesen der Dinge steckt. Er
+      nimmt an, dass dieses Wesen transzendent ist, jenseits der Wahrnehmung.
+      Und doch ist es ihm nicht fern: Wenn er die Dinge wahrnimmt, kommt ihr
+      Wesen an ihn heran; nur die Wahrnehmung selber ist nicht dieses Wesen.
+      Darin unterscheidet er sich vom Okkultismus, für den die erscheinende Welt
+      Maja ist, die das Wesen gerade nicht ankündigt, und vom Empirismus, der
+      gar nicht nach einem Wesen hinter den Erscheinungen fragt. Rudolf Steiner
+      ordnet ihn dem Merkur zu und nennt ihn einen vorzüglichen Ausgangspunkt
+      für alles Philosophieren. Wie jede Seelenstimmung kann er durch alle zwölf
+      Weltanschauungen gehen; besonders fruchtbar erweist er sich im
+      Phänomenalismus und im Mathematismus, in Jungfrau und Zwillingen, den
+      beiden Häusern des Merkur.
+    chunk_id: 2a30da96-086f-4397-a8a5-bd444b1754d5
   - name: "Mystik — ♀ Venus"
     kurz: >
-      Die Mystik gibt sich mit äußerer Erfahrung nicht zufrieden. Sie sucht in den Tiefen der eigenen Seele, wenn diese ruhig und willenlos geworden ist, wie der Gott in ihr aufleuchtet; erst da enthüllt die Welt ihre Geheimnisse. Sie ist die Seelenstimmung der Venus. Anders als im Transzendentalismus fließt hier das Wesen der Dinge in die Seele herein.
+      Die Mystik gibt sich mit äußerer Erfahrung nicht zufrieden. Sie sucht in
+      den Tiefen der eigenen Seele, wenn diese ruhig und willenlos geworden ist,
+      wie der Gott in ihr aufleuchtet; erst da enthüllt die Welt ihre
+      Geheimnisse. Sie ist die Seelenstimmung der Venus. Anders als im
+      Transzendentalismus fließt hier das Wesen der Dinge in die Seele herein.
     text: >
-      Die Mystik erlebt als innere Notwendigkeit: Der Mensch ist in die Welt hereingestellt, und in seiner eigenen Seele erlebt er etwas über die Welt, was er äußerlich nicht erleben kann. Erst da enthüllt die Welt ihre Geheimnisse. Rudolf Steiner lässt den Mystiker die anderen Stimmungen zurückweisen: Die Schauungen der Gnosis betreffen die Dinge der äußeren Welt und offenbaren nicht ihr Inneres; im Logismus drückt sich das Wesen der Welt nicht aus; die Spekulation über den Willen bringt davon ab, in die Tiefen der eigenen Seele zu schauen. Denn in diese Tiefen blickt man nicht, wenn die Seele will, sondern gerade dann, wenn sie hingegeben und willenlos ist. Auch das bloße Hinschauen und Hinhorchen des Empirismus genügt nicht. Gesucht wird, wie der Gott in der ruhig gewordenen Seele aufleuchtet. Steiner ordnet die Mystik der Venus zu. Der Transzendentalist lässt das Wesen der Dinge draußen; der Mystiker glaubt, dass es in seine Seele hereinfließt, und erlebt, bisweilen sehr stark, wie die Dinge der Erfahrung im Inneren ihre Wucht entfalten. Mystiker kann man durch alle zwölf Weltanschauungen hindurch sein. Ein gewöhnlicher oder ein gnostischer Idealist ist aber noch kein Mystiker des Idealismus. Das ist erst, wer aus im Innern verborgenen Quellen die Ideale der Menschheit heraufholt, sie als inneres Göttliches empfindet und sich so vor die Seele stellt.
+      Die Mystik erlebt als innere Notwendigkeit: Der Mensch ist in die Welt
+      hereingestellt, und in seiner eigenen Seele erlebt er etwas über die Welt,
+      was er äußerlich nicht erleben kann. Erst da enthüllt die Welt ihre
+      Geheimnisse. Rudolf Steiner lässt den Mystiker die anderen Stimmungen
+      zurückweisen: Die Schauungen der Gnosis betreffen die Dinge der äußeren
+      Welt und offenbaren nicht ihr Inneres; im Logismus drückt sich das Wesen
+      der Welt nicht aus; die Spekulation über den Willen bringt davon ab, in
+      die Tiefen der eigenen Seele zu schauen. Denn in diese Tiefen blickt man
+      nicht, wenn die Seele will, sondern gerade dann, wenn sie hingegeben und
+      willenlos ist. Auch das bloße Hinschauen und Hinhorchen des Empirismus
+      genügt nicht. Gesucht wird, wie der Gott in der ruhig gewordenen Seele
+      aufleuchtet. Steiner ordnet die Mystik der Venus zu. Der Transzendentalist
+      lässt das Wesen der Dinge draußen; der Mystiker glaubt, dass es in seine
+      Seele hereinfließt, und erlebt, bisweilen sehr stark, wie die Dinge der
+      Erfahrung im Inneren ihre Wucht entfalten. Mystiker kann man durch alle
+      zwölf Weltanschauungen hindurch sein. Ein gewöhnlicher oder ein
+      gnostischer Idealist ist aber noch kein Mystiker des Idealismus. Das ist
+      erst, wer aus im Innern verborgenen Quellen die Ideale der Menschheit
+      heraufholt, sie als inneres Göttliches empfindet und sich so vor die Seele
+      stellt.
+    chunk_id: 2e11d957-3b78-4546-9afb-4578f449d107
   - name: "Empirismus — ☉ Sonne"
     kurz: >
-      Der Empirismus nimmt die Erfahrung hin, wie sie sich darbietet. Er sucht nicht hinter den Erscheinungen, sondern lässt die Dinge an sich herankommen und gliedert ein, was sich zeigt. Er ist die Seelenstimmung der Sonne: Er verlässt sich auf das, was die Sonne bescheint. Empirist kann man in allen zwölf Weltanschauungen sein, als Materialist ebenso wie als Spiritualist.
+      Der Empirismus nimmt die Erfahrung hin, wie sie sich darbietet. Er sucht
+      nicht hinter den Erscheinungen, sondern lässt die Dinge an sich
+      herankommen und gliedert ein, was sich zeigt. Er ist die Seelenstimmung
+      der Sonne: Er verlässt sich auf das, was die Sonne bescheint. Empirist
+      kann man in allen zwölf Weltanschauungen sein, als Materialist ebenso wie
+      als Spiritualist.
     text: >
-      Der Empirismus ist die Seelenstimmung, die nicht viel nachdenken oder nachsinnen will, ob hinter den Erscheinungen noch dieses oder jenes ist. Sie sagt einfach: Was mir in der Welt entgegentritt, was sich mir zeigt und äußerlich offenbart, will ich meiner Weltanschauung eingliedern. Der Empirist bemüht sich nicht, einen besonderen Zusammenhang hinter den Dingen zu finden; er lässt sie an sich herankommen und wartet, was sich ihm darbietet. Rudolf Steiner ordnet ihn der Sonne zu: Der Mensch, der durch die Welt geht und nur aufnimmt, was die Sonne bescheint, ist Empirist. Damit unterscheidet er sich von den Stimmungen, die hinter den Erscheinungen suchen — von der Gnosis mit ihren inneren Erkenntniskräften, vom Logismus mit seinem Gedankenorganismus, vom Voluntarismus, der überall Wille findet. Er unterscheidet sich auch von der Mystik, die in der eigenen Seele erlebt, was außen nicht zu erleben ist, und vom Transzendentalismus, der ein unerreichbares Wesen hinter den Dingen voraussetzt. Wie jede der sieben Stimmungen geht der Empirismus wie ein Planet durch alle zwölf Geistes-Tierkreisbilder. Man kann als Materialist nur das nehmen, was einem äußerlich entgegentritt; man kann aber ebenso als Spiritualist Empirist sein und das Geistige hinnehmen, wie es sich zeigt. Seine Stärke ist die Treue zum Gegebenen und die Geduld, die abwartet, statt vorwegzunehmen.
+      Der Empirismus ist die Seelenstimmung, die nicht viel nachdenken oder
+      nachsinnen will, ob hinter den Erscheinungen noch dieses oder jenes ist.
+      Sie sagt einfach: Was mir in der Welt entgegentritt, was sich mir zeigt
+      und äußerlich offenbart, will ich meiner Weltanschauung eingliedern. Der
+      Empirist bemüht sich nicht, einen besonderen Zusammenhang hinter den
+      Dingen zu finden; er lässt sie an sich herankommen und wartet, was sich
+      ihm darbietet. Rudolf Steiner ordnet ihn der Sonne zu: Der Mensch, der
+      durch die Welt geht und nur aufnimmt, was die Sonne bescheint, ist
+      Empirist. Damit unterscheidet er sich von den Stimmungen, die hinter den
+      Erscheinungen suchen — von der Gnosis mit ihren inneren Erkenntniskräften,
+      vom Logismus mit seinem Gedankenorganismus, vom Voluntarismus, der überall
+      Wille findet. Er unterscheidet sich auch von der Mystik, die in der
+      eigenen Seele erlebt, was außen nicht zu erleben ist, und vom
+      Transzendentalismus, der ein unerreichbares Wesen hinter den Dingen
+      voraussetzt. Wie jede der sieben Stimmungen geht der Empirismus wie ein
+      Planet durch alle zwölf Geistes-Tierkreisbilder. Man kann als Materialist
+      nur das nehmen, was einem äußerlich entgegentritt; man kann aber ebenso
+      als Spiritualist Empirist sein und das Geistige hinnehmen, wie es sich
+      zeigt. Seine Stärke ist die Treue zum Gegebenen und die Geduld, die
+      abwartet, statt vorwegzunehmen.
+    chunk_id: 46ab6cc8-e430-476b-96ee-a91cb362f137
   - name: "Voluntarismus — ♂ Mars"
     kurz: >
-      Der Voluntarismus erfasst in allem, was ist, den Willen. Die Naturkräfte sind Wille, die Härte des Steins ist Wille, alle Realität ist Wille. Er ist die Seelenstimmung des Mars, die zum Tun und Anfangen drängt. Schopenhauer war Voluntarist im Psychismus; im Monadismus legt der Voluntarist der Welt viele Willenswesen zugrunde.
+      Der Voluntarismus erfasst in allem, was ist, den Willen. Die Naturkräfte
+      sind Wille, die Härte des Steins ist Wille, alle Realität ist Wille. Er
+      ist die Seelenstimmung des Mars, die zum Tun und Anfangen drängt.
+      Schopenhauer war Voluntarist im Psychismus; im Monadismus legt der
+      Voluntarist der Welt viele Willenswesen zugrunde.
     text: >
-      Der Voluntarismus ist die Seelenstimmung, die in der Welt nicht zuerst Begriffe und Ideen findet, sondern alles, was willensartig ist. Rudolf Steiner studiert ihn an Schopenhauer: Während Hegels Seele beim Hinschauen auf die Welt alles als Begriff auffasst, erfasst Schopenhauers Seele alles als Wille. Die Naturkräfte sind Wille, die Härte des Steins ist Wille, alles, was Realität ist, ist Wille. Das kommt nicht aus einer Theorie, sondern aus der besonderen Stimmung seiner Seele. Steiner nennt diese Stimmung Voluntarismus und ordnet sie dem Mars zu. Alles, was ist, offenbart sich ihr als Ausdruck von Wille und Streben; ihre Haltung ist die des Tuns, des Anfangens, des Tätigwerdens. Wie jeder Planet geht auch diese Stimmung durch alle zwölf Geistes-Tierkreisbilder, und je nach dem Bild, dem sie sich aussetzt, entsteht eine andere Weltanschauung. Schopenhauer stand vorzugsweise im Geistes-Sternbild des Psychismus; so entstand seine Willensmetaphysik, die eine einzige Einheitsseele, die eigentlich Wille ist, der Welt zugrunde legt. Ein Voluntarist, der zum Monadismus hinneigt, würde dagegen viele Monaden der Welt zugrunde legen, die aber Willenswesen sind. Gegenüber der Mystik, die in die Tiefen der Seele gerade dann blickt, wenn sie willenlos ist, steht der Voluntarismus auf der anderen Seite: Er erkennt, indem er den Willen in den Dingen aufsucht.
+      Der Voluntarismus ist die Seelenstimmung, die in der Welt nicht zuerst
+      Begriffe und Ideen findet, sondern alles, was willensartig ist. Rudolf
+      Steiner studiert ihn an Schopenhauer: Während Hegels Seele beim Hinschauen
+      auf die Welt alles als Begriff auffasst, erfasst Schopenhauers Seele alles
+      als Wille. Die Naturkräfte sind Wille, die Härte des Steins ist Wille,
+      alles, was Realität ist, ist Wille. Das kommt nicht aus einer Theorie,
+      sondern aus der besonderen Stimmung seiner Seele. Steiner nennt diese
+      Stimmung Voluntarismus und ordnet sie dem Mars zu. Alles, was ist,
+      offenbart sich ihr als Ausdruck von Wille und Streben; ihre Haltung ist
+      die des Tuns, des Anfangens, des Tätigwerdens. Wie jeder Planet geht auch
+      diese Stimmung durch alle zwölf Geistes-Tierkreisbilder, und je nach dem
+      Bild, dem sie sich aussetzt, entsteht eine andere Weltanschauung.
+      Schopenhauer stand vorzugsweise im Geistes-Sternbild des Psychismus; so
+      entstand seine Willensmetaphysik, die eine einzige Einheitsseele, die
+      eigentlich Wille ist, der Welt zugrunde legt. Ein Voluntarist, der zum
+      Monadismus hinneigt, würde dagegen viele Monaden der Welt zugrunde legen,
+      die aber Willenswesen sind. Gegenüber der Mystik, die in die Tiefen der
+      Seele gerade dann blickt, wenn sie willenlos ist, steht der Voluntarismus
+      auf der anderen Seite: Er erkennt, indem er den Willen in den Dingen
+      aufsucht.
+    chunk_id: bbaeeb44-8af1-4a88-a590-b290585a69a3
   - name: "Logismus — ♃ Jupiter"
     kurz: >
-      Der Logismus lässt wirkliche Gedanken, Begriffe und Ideen in der Seele gegenwärtig sein und geht von einem zum anderen wie an einem Organismus vom Auge zur Nase und zum Mund. Alles gehört zusammen, jeder Gedanke findet seinen nächsten. Er ist die Seelenstimmung des Jupiter. Hegel bildete ihn im Idealismus aus, Fichte im Psychismus.
+      Der Logismus lässt wirkliche Gedanken, Begriffe und Ideen in der Seele
+      gegenwärtig sein und geht von einem zum anderen wie an einem Organismus
+      vom Auge zur Nase und zum Mund. Alles gehört zusammen, jeder Gedanke
+      findet seinen nächsten. Er ist die Seelenstimmung des Jupiter. Hegel
+      bildete ihn im Idealismus aus, Fichte im Psychismus.
     text: >
-      Der Logismus ist die Seelenstimmung, in der die Seele wirkliche Gedanken, Begriffe und Ideen in sich gegenwärtig sein lassen kann — so gegenwärtig, dass sie von einem Begriff zum anderen kommt, wie man an einem menschlichen Organismus vom Auge zur Nase und zum Mund kommt und alles als zusammengehörig betrachtet. Rudolf Steiner zeigt ihn an Hegel: Hegel war imstande, alles, was in der Welt als Gedanke gefunden werden kann, aufzusuchen und aufzunehmen, Gedanken an Gedanken zu reihen und daraus einen Organismus zu machen. Steiner ordnet ihn dem Jupiter zu. Die Welt erscheint dem Logismus als großer Zusammenhang, in dem alles auf natürliche Weise miteinander verbunden ist; jeder Gedanke hat eine Verbindung zu jedem anderen, und man kann sie finden und darlegen. Die großen Weltzusammenhänge findet er im Kleinen und Alltäglichen wieder; um diese universelle Ordnung geht es ihm. Bei Hegel stand der Logismus im Geistes-Sternbild des Idealismus, bei Fichte im Psychismus. Er braucht aber nicht an ein Bild gebunden zu sein, sondern geht wie ein Planet kreisförmig durch alle zwölf Geistes-Tierkreisbilder. Von der Mystik wird ihm entgegengehalten, dass sich im Logismus das Wesen der Welt nicht ausdrücke; seine Stärke ist dafür die Klarheit eines in sich gegliederten Gedankenganzen.
+      Der Logismus ist die Seelenstimmung, in der die Seele wirkliche Gedanken,
+      Begriffe und Ideen in sich gegenwärtig sein lassen kann — so gegenwärtig,
+      dass sie von einem Begriff zum anderen kommt, wie man an einem
+      menschlichen Organismus vom Auge zur Nase und zum Mund kommt und alles als
+      zusammengehörig betrachtet. Rudolf Steiner zeigt ihn an Hegel: Hegel war
+      imstande, alles, was in der Welt als Gedanke gefunden werden kann,
+      aufzusuchen und aufzunehmen, Gedanken an Gedanken zu reihen und daraus
+      einen Organismus zu machen. Steiner ordnet ihn dem Jupiter zu. Die Welt
+      erscheint dem Logismus als großer Zusammenhang, in dem alles auf
+      natürliche Weise miteinander verbunden ist; jeder Gedanke hat eine
+      Verbindung zu jedem anderen, und man kann sie finden und darlegen. Die
+      großen Weltzusammenhänge findet er im Kleinen und Alltäglichen wieder; um
+      diese universelle Ordnung geht es ihm. Bei Hegel stand der Logismus im
+      Geistes-Sternbild des Idealismus, bei Fichte im Psychismus. Er braucht
+      aber nicht an ein Bild gebunden zu sein, sondern geht wie ein Planet
+      kreisförmig durch alle zwölf Geistes-Tierkreisbilder. Von der Mystik wird
+      ihm entgegengehalten, dass sich im Logismus das Wesen der Welt nicht
+      ausdrücke; seine Stärke ist dafür die Klarheit eines in sich gegliederten
+      Gedankenganzen.
+    chunk_id: 17425677-1f6d-4915-ab7e-053646765357
   - name: "Gnosis — ♄ Saturn"
     kurz: >
-      Die Gnosis lernt die Dinge der Welt durch Erkenntniskräfte kennen, die in der Seele selbst liegen, nicht durch die Sinne. Sie schaut tiefer, genauer und intensiver auf das, was war, und findet darin die Aufgaben der Zukunft. Sie ist die Seelenstimmung des Saturn. Ihre größten Dienste leistet sie im Spiritualismus.
+      Die Gnosis lernt die Dinge der Welt durch Erkenntniskräfte kennen, die in
+      der Seele selbst liegen, nicht durch die Sinne. Sie schaut tiefer, genauer
+      und intensiver auf das, was war, und findet darin die Aufgaben der
+      Zukunft. Sie ist die Seelenstimmung des Saturn. Ihre größten Dienste
+      leistet sie im Spiritualismus.
     text: >
-      Die Gnosis ist die Seelenstimmung, die die Dinge der Welt durch gewisse in der Seele selbst liegende Erkenntniskräfte kennenlernen will, nicht durch die Sinne oder dergleichen. Rudolf Steiner betont, dass diese Stimmung sich in der ganzen Gestalt einer Weltanschauung ausdrückt, gleichgültig, von welchem der zwölf Geistes-Tierkreisbilder die Seele beschienen ist. Er ordnet sie dem Saturn zu. Ihre Haltung ist tiefe innere Seelenschau: Sie lässt das Erlebte noch einmal vorüberziehen und schaut, wo es sich vertiefen lässt und was es birgt. Sie verändert die Welt nicht und fügt ihr nichts hinzu; sie lässt sie, wie sie ist, aber sie schaut tiefer, intensiver und genauer hin. Sie trennt das Bleibende vom Vergänglichen, und aus diesem Schauen ergeben sich die wahren Aufgaben für die Zukunft. Gnostiker kann man in allen zwölf Weltanschauungen sein; die Gnosis wandelt durch sie, wie ein Planet durch die zwölf Tierkreisbilder. Ein Gnostiker des Spiritualismus kann tief in die Zusammenhänge der geistigen Welten hineinleuchten. Ein Gnostiker des Idealismus hat eine besondere Veranlagung, die Ideale der Menschheit und die Ideen der Welt klar zu sehen. Gnostiker des Realismus vermögen fein zu empfinden, was in der äußeren Realität um sie ist, und sind empfänglich für die Eigentümlichkeiten der Dinge. Die größten Dienste für das Heil der Seelen leistet die Gnosis nach Steiner im Spiritualismus, im Steinbock, wo der Saturn in seinem Haus steht.
+      Die Gnosis ist die Seelenstimmung, die die Dinge der Welt durch gewisse in
+      der Seele selbst liegende Erkenntniskräfte kennenlernen will, nicht durch
+      die Sinne oder dergleichen. Rudolf Steiner betont, dass diese Stimmung
+      sich in der ganzen Gestalt einer Weltanschauung ausdrückt, gleichgültig,
+      von welchem der zwölf Geistes-Tierkreisbilder die Seele beschienen ist. Er
+      ordnet sie dem Saturn zu. Ihre Haltung ist tiefe innere Seelenschau: Sie
+      lässt das Erlebte noch einmal vorüberziehen und schaut, wo es sich
+      vertiefen lässt und was es birgt. Sie verändert die Welt nicht und fügt
+      ihr nichts hinzu; sie lässt sie, wie sie ist, aber sie schaut tiefer,
+      intensiver und genauer hin. Sie trennt das Bleibende vom Vergänglichen,
+      und aus diesem Schauen ergeben sich die wahren Aufgaben für die Zukunft.
+      Gnostiker kann man in allen zwölf Weltanschauungen sein; die Gnosis
+      wandelt durch sie, wie ein Planet durch die zwölf Tierkreisbilder. Ein
+      Gnostiker des Spiritualismus kann tief in die Zusammenhänge der geistigen
+      Welten hineinleuchten. Ein Gnostiker des Idealismus hat eine besondere
+      Veranlagung, die Ideale der Menschheit und die Ideen der Welt klar zu
+      sehen. Gnostiker des Realismus vermögen fein zu empfinden, was in der
+      äußeren Realität um sie ist, und sind empfänglich für die
+      Eigentümlichkeiten der Dinge. Die größten Dienste für das Heil der Seelen
+      leistet die Gnosis nach Steiner im Spiritualismus, im Steinbock, wo der
+      Saturn in seinem Haus steht.
+    chunk_id: 79cda826-2886-459b-a410-ededb7ef95e4
+chunk_id: 59b5b2e2-b709-4773-ba78-92907ee72f3d

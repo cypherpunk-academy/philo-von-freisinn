@@ -11,11 +11,13 @@ typology:
     short: kurz
     text: text
     references: references
+    chunk_id: chunk_id
   members:
     from: freiheiten
     name: name
     short: kurz
     text: text
+    chunk_id: chunk_id
 
 name: "4 Freiheiten Freier Software"
 aliases:
@@ -26,7 +28,11 @@ aliases:
   - "Richard Stallman"
   - "Freedom 0"
 kurz: >
-  Nach Richard Stallman ist ein Programm Freie Software, wenn seine Nutzer vier Freiheiten haben: es für jeden Zweck auszuführen, es zu untersuchen und anzupassen, Kopien weiterzugeben und verbesserte Versionen zu veröffentlichen. „Frei“ meint Freiheit, nicht Preis. Für Stallman ist das eine ethische Frage nach der Gesellschaft, in der wir leben wollen.
+  Nach Richard Stallman ist ein Programm Freie Software, wenn seine Nutzer vier
+  Freiheiten haben: es für jeden Zweck auszuführen, es zu untersuchen und
+  anzupassen, Kopien weiterzugeben und verbesserte Versionen zu veröffentlichen.
+  „Frei“ meint Freiheit, nicht Preis. Für Stallman ist das eine ethische Frage
+  nach der Gesellschaft, in der wir leben wollen.
 text: |
   Die **4 Freiheiten Freier Software** (englisch *four freedoms*) sind der Kern der Definition Freier Software, die Richard M. Stallman für das GNU-Projekt und die Free Software Foundation formuliert hat. „Free software is a matter of liberty, not price“: Es geht um Freiheit, nicht um den Preis.
 
@@ -40,52 +46,150 @@ text: |
 references:
   - chunk_id: 0d11499c-7ae1-5394-a022-dbf6f2116332
     relevance: 1
-    description: Die Freiheiten, das Programm für jeden Zweck auszuführen und es den eigenen Bedürfnissen anzupassen; dafür braucht man Zugang zum Quellcode.
+    description: Die Freiheiten, das Programm für jeden Zweck auszuführen und es den
+      eigenen Bedürfnissen anzupassen; dafür braucht man Zugang zum Quellcode.
   - chunk_id: 81e9a36e-b09e-5d86-8eea-1d6fe2766acc
     relevance: 1
-    description: Die Definition Freier Software zeigt, was für ein Programm gelten muss; „free software“ ist eine Frage der Freiheit, nicht des Preises.
+    description: Die Definition Freier Software zeigt, was für ein Programm gelten
+      muss; „free software“ ist eine Frage der Freiheit, nicht des Preises.
   - chunk_id: a60f6f21-65ab-5e39-a99c-6b3a87803d09
     relevance: 0.95
-    description: Drei Freiheiten unterscheiden Freie Software – sich selbst helfen, dem Nächsten helfen, die Gemeinschaft aufbauen.
+    description: Drei Freiheiten unterscheiden Freie Software – sich selbst helfen,
+      dem Nächsten helfen, die Gemeinschaft aufbauen.
   - chunk_id: 2ca607b0-0cdf-55b2-86a5-ec64e950c64e
     relevance: 0.9
-    description: Bloß „an Freiheit glauben“ ist leer; Stallman gibt die genaue Definition Freier Software.
+    description: Bloß „an Freiheit glauben“ ist leer; Stallman gibt die genaue
+      Definition Freier Software.
   - chunk_id: 260e831b-3621-5eb5-baad-3b31b49169b2
     relevance: 0.85
-    description: Wer alle diese Freiheiten hat, für den ist das Programm Freie Software; die Definition geht vom einzelnen Nutzer aus.
+    description: Wer alle diese Freiheiten hat, für den ist das Programm Freie
+      Software; die Definition geht vom einzelnen Nutzer aus.
   - chunk_id: 5188c248-1ac3-5ae3-a804-47bacb773b5c
     relevance: 0.8
-    description: Copyleft verbietet, bei der Weitergabe Einschränkungen hinzuzufügen, und schützt so die zentralen Freiheiten.
+    description: Copyleft verbietet, bei der Weitergabe Einschränkungen
+      hinzuzufügen, und schützt so die zentralen Freiheiten.
   - chunk_id: 05c8026b-12e3-5262-8aff-2a8814885bb8
     relevance: 0.8
-    description: Freiheit 2 ist die Freiheit, dem Nächsten zu helfen; Teilen ist ein grundlegender Akt der Freundschaft.
+    description: Freiheit 2 ist die Freiheit, dem Nächsten zu helfen; Teilen ist ein
+      grundlegender Akt der Freundschaft.
   - chunk_id: abfe5d4a-6722-57e2-a727-542a8ef8f50c
     relevance: 0.8
-    description: Freiheit 3 ist die Freiheit, durch Veröffentlichung verbesserter Versionen die Gemeinschaft aufzubauen.
+    description: Freiheit 3 ist die Freiheit, durch Veröffentlichung verbesserter
+      Versionen die Gemeinschaft aufzubauen.
   - chunk_id: 32b0a229-7f52-554b-81fa-36f6244f6fef
     relevance: 0.7
     description: Ohne Freiheit 1 wird man zum Gefangenen seiner Software.
   - chunk_id: afdf6a7a-aa45-5e6c-badb-d11a13d17737
     relevance: 0.5
-    description: Die Freiheit zur Weitergabe muss ausführbare Formen und Quellcode, veränderte und unveränderte Versionen umfassen.
+    description: Die Freiheit zur Weitergabe muss ausführbare Formen und Quellcode,
+      veränderte und unveränderte Versionen umfassen.
 freiheiten:
   - name: "Freiheit 0 – Ausführen (für jeden Zweck)"
     kurz: >
-      Freiheit 0 ist die Freiheit, das Programm für jeden Zweck und auf jede Weise auszuführen. Jede Person oder Organisation darf es auf jedem System für jede Aufgabe nutzen, ohne sich beim Entwickler melden zu müssen. Sie ist die selbstverständlichste Freiheit und folgt rechtlich schon aus den anderen drei.
+      Freiheit 0 ist die Freiheit, das Programm für jeden Zweck und auf jede
+      Weise auszuführen. Jede Person oder Organisation darf es auf jedem System
+      für jede Aufgabe nutzen, ohne sich beim Entwickler melden zu müssen. Sie
+      ist die selbstverständlichste Freiheit und folgt rechtlich schon aus den
+      anderen drei.
     text: >
-      Freiheit 0 ist nach Richard Stallman die Freiheit, das Programm für jeden Zweck auszuführen, auf jede Weise, die man möchte. Die Definition präzisiert: Jede Art von Person oder Organisation darf es auf jeder Art von Computersystem für jede Art von Aufgabe nutzen, ohne verpflichtet zu sein, danach mit dem Entwickler oder einer anderen bestimmten Stelle in Verbindung zu treten. Man muss nicht um Erlaubnis fragen oder dafür bezahlen. Stallman nennt diese Freiheit „ziemlich offensichtlich“: Ein Programm, das man nicht einmal nach Belieben ausführen darf, wäre äußerst restriktiv. Tatsächlich gewähren die meisten Programme wenigstens Freiheit 0. Rechtlich folgt sie, so wie das Urheberrecht funktioniert, aus den Freiheiten 1, 2 und 3. Darum sind es diese drei, die Freie Software von üblicher Software unterscheiden, und Stallman verwendet den größten Teil seiner Begründung auf sie. Freiheit 0 hat dennoch eine eigene Bedeutung: Sie schließt aus, dass ein Lizenzgeber bestimmte Verwendungszwecke verbietet. Wer Freie Software nutzt, muss sich vor niemandem dafür rechtfertigen, wofür er sie gebraucht. Wie alle vier Freiheiten muss sie unwiderruflich sein, solange man nichts Unrechtes tut.
+      Freiheit 0 ist nach Richard Stallman die Freiheit, das Programm für jeden
+      Zweck auszuführen, auf jede Weise, die man möchte. Die Definition
+      präzisiert: Jede Art von Person oder Organisation darf es auf jeder Art
+      von Computersystem für jede Art von Aufgabe nutzen, ohne verpflichtet zu
+      sein, danach mit dem Entwickler oder einer anderen bestimmten Stelle in
+      Verbindung zu treten. Man muss nicht um Erlaubnis fragen oder dafür
+      bezahlen. Stallman nennt diese Freiheit „ziemlich offensichtlich“: Ein
+      Programm, das man nicht einmal nach Belieben ausführen darf, wäre äußerst
+      restriktiv. Tatsächlich gewähren die meisten Programme wenigstens Freiheit
+      0. Rechtlich folgt sie, so wie das Urheberrecht funktioniert, aus den
+      Freiheiten 1, 2 und 3. Darum sind es diese drei, die Freie Software von
+      üblicher Software unterscheiden, und Stallman verwendet den größten Teil
+      seiner Begründung auf sie. Freiheit 0 hat dennoch eine eigene Bedeutung:
+      Sie schließt aus, dass ein Lizenzgeber bestimmte Verwendungszwecke
+      verbietet. Wer Freie Software nutzt, muss sich vor niemandem dafür
+      rechtfertigen, wofür er sie gebraucht. Wie alle vier Freiheiten muss sie
+      unwiderruflich sein, solange man nichts Unrechtes tut.
+    chunk_id: 8b451ed9-a23a-4d52-bf8a-c15f816a7d24
   - name: "Freiheit 1 – Untersuchen und Anpassen (sich selbst helfen)"
     kurz: >
-      Freiheit 1 ist die Freiheit, zu untersuchen, wie das Programm arbeitet, und es den eigenen Bedürfnissen anzupassen. Stallman nennt sie die Freiheit, sich selbst zu helfen. Voraussetzung ist der Zugang zum Quellcode. Wer sie nicht hat, wird zum Gefangenen seiner Software.
+      Freiheit 1 ist die Freiheit, zu untersuchen, wie das Programm arbeitet,
+      und es den eigenen Bedürfnissen anzupassen. Stallman nennt sie die
+      Freiheit, sich selbst zu helfen. Voraussetzung ist der Zugang zum
+      Quellcode. Wer sie nicht hat, wird zum Gefangenen seiner Software.
     text: >
-      Freiheit 1 ist nach der Definition die Freiheit, zu untersuchen, wie das Programm funktioniert, und es an die eigenen Bedürfnisse anzupassen; Zugang zum Quellcode ist dafür Voraussetzung. In seinem Vortrag nennt Richard Stallman sie die Freiheit, sich selbst zu helfen, indem man die Software verändert. Das kann heißen, Fehler zu beheben, neue Funktionen hinzuzufügen, das Programm auf ein anderes System zu übertragen oder alle Fehlermeldungen ins Navajo zu übersetzen; jede gewünschte Änderung soll man frei vornehmen dürfen. Nicht nur Berufsprogrammierer profitieren davon. Viele Menschen können genug lernen, um einfache Aufgaben zu erledigen, so wie früher viele Amerikaner lernten, Autos zu reparieren. Und wer gar keine Technik lernen will, kann einen befreundeten Programmierer bitten. Fehlt diese Freiheit, entsteht praktischer, materieller Schaden: Man wird zum Gefangenen seiner Software. Stallman erinnert an einen Laserdrucker, der schlecht arbeitete, den man aber nicht reparieren konnte. Der Schaden ist auch seelisch. Wer ständig frustriert mit dem Computer arbeitet, schützt sich, indem er aufhört, sich zu kümmern: „Ich bin heute zur Arbeit erschienen, mehr muss ich nicht tun.“ Das schadet den Menschen und der Gesellschaft als Ganzes.
+      Freiheit 1 ist nach der Definition die Freiheit, zu untersuchen, wie das
+      Programm funktioniert, und es an die eigenen Bedürfnisse anzupassen;
+      Zugang zum Quellcode ist dafür Voraussetzung. In seinem Vortrag nennt
+      Richard Stallman sie die Freiheit, sich selbst zu helfen, indem man die
+      Software verändert. Das kann heißen, Fehler zu beheben, neue Funktionen
+      hinzuzufügen, das Programm auf ein anderes System zu übertragen oder alle
+      Fehlermeldungen ins Navajo zu übersetzen; jede gewünschte Änderung soll
+      man frei vornehmen dürfen. Nicht nur Berufsprogrammierer profitieren
+      davon. Viele Menschen können genug lernen, um einfache Aufgaben zu
+      erledigen, so wie früher viele Amerikaner lernten, Autos zu reparieren.
+      Und wer gar keine Technik lernen will, kann einen befreundeten
+      Programmierer bitten. Fehlt diese Freiheit, entsteht praktischer,
+      materieller Schaden: Man wird zum Gefangenen seiner Software. Stallman
+      erinnert an einen Laserdrucker, der schlecht arbeitete, den man aber nicht
+      reparieren konnte. Der Schaden ist auch seelisch. Wer ständig frustriert
+      mit dem Computer arbeitet, schützt sich, indem er aufhört, sich zu
+      kümmern: „Ich bin heute zur Arbeit erschienen, mehr muss ich nicht tun.“
+      Das schadet den Menschen und der Gesellschaft als Ganzes.
+    chunk_id: a32705e4-6679-44c6-9a43-f7ba69e19452
   - name: "Freiheit 2 – Weitergeben (dem Nächsten helfen)"
     kurz: >
-      Freiheit 2 ist die Freiheit, Kopien weiterzugeben, um dem Nächsten zu helfen. Teilen ist für Stallman ein grundlegender Akt der Freundschaft; der Geist der freiwilligen Hilfe ist die wichtigste Ressource einer Gesellschaft. Wer Teilen „Piraterie“ nennt, vergiftet diese Ressource. Da Kopien nichts kosten, ist ihr Verbot reine Verschwendung.
+      Freiheit 2 ist die Freiheit, Kopien weiterzugeben, um dem Nächsten zu
+      helfen. Teilen ist für Stallman ein grundlegender Akt der Freundschaft;
+      der Geist der freiwilligen Hilfe ist die wichtigste Ressource einer
+      Gesellschaft. Wer Teilen „Piraterie“ nennt, vergiftet diese Ressource. Da
+      Kopien nichts kosten, ist ihr Verbot reine Verschwendung.
     text: >
-      Freiheit 2 ist nach Richard Stallman die Freiheit, Kopien weiterzugeben, um dem Nächsten zu helfen, gratis oder gegen Gebühr, an jeden und überall. Für Wesen, die denken und lernen können, ist das Teilen nützlichen Wissens ein grundlegender Akt der Freundschaft; wo sie Computer nutzen, nimmt er die Form des Teilens von Software an. Dieser Geist des guten Willens, dem Nächsten freiwillig zu helfen, ist für Stallman die wichtigste Ressource der Gesellschaft. Er macht den Unterschied zwischen einer lebenswerten Gesellschaft und einem Dschungel, in dem jeder jeden frisst; die großen Religionen haben ihn seit Jahrtausenden gefördert. Im Kindergarten lernte Stallman noch, Süßigkeiten mit den anderen zu teilen. Heute sollen Lehrer nach dem Willen der Regierung das Gegenteil lehren: Wer Software teilt, ist ein Pirat, als sei es moralisch gleichwertig, dem Nächsten zu helfen oder ein Schiff zu überfallen. Diese psychosoziale Ressource ist nicht physisch wie saubere Luft, aber ebenso wirklich. Hinzu kommt materieller Schaden: Bei einem Auto spart ein Preis Ressourcen, weil jedes weitere Exemplar Material kostet. Eine Kopie von Software kostet fast nichts; wer ihre Nutzung verteuert, erzeugt absichtlich Verschwendung. Ökonomische Schlüsse, deren Voraussetzungen für Software nicht gelten, darf man nicht auf sie übertragen.
+      Freiheit 2 ist nach Richard Stallman die Freiheit, Kopien weiterzugeben,
+      um dem Nächsten zu helfen, gratis oder gegen Gebühr, an jeden und überall.
+      Für Wesen, die denken und lernen können, ist das Teilen nützlichen Wissens
+      ein grundlegender Akt der Freundschaft; wo sie Computer nutzen, nimmt er
+      die Form des Teilens von Software an. Dieser Geist des guten Willens, dem
+      Nächsten freiwillig zu helfen, ist für Stallman die wichtigste Ressource
+      der Gesellschaft. Er macht den Unterschied zwischen einer lebenswerten
+      Gesellschaft und einem Dschungel, in dem jeder jeden frisst; die großen
+      Religionen haben ihn seit Jahrtausenden gefördert. Im Kindergarten lernte
+      Stallman noch, Süßigkeiten mit den anderen zu teilen. Heute sollen Lehrer
+      nach dem Willen der Regierung das Gegenteil lehren: Wer Software teilt,
+      ist ein Pirat, als sei es moralisch gleichwertig, dem Nächsten zu helfen
+      oder ein Schiff zu überfallen. Diese psychosoziale Ressource ist nicht
+      physisch wie saubere Luft, aber ebenso wirklich. Hinzu kommt materieller
+      Schaden: Bei einem Auto spart ein Preis Ressourcen, weil jedes weitere
+      Exemplar Material kostet. Eine Kopie von Software kostet fast nichts; wer
+      ihre Nutzung verteuert, erzeugt absichtlich Verschwendung. Ökonomische
+      Schlüsse, deren Voraussetzungen für Software nicht gelten, darf man nicht
+      auf sie übertragen.
+    chunk_id: 5d748686-01e3-4ec9-b356-dd8ce28ecec5
   - name: "Freiheit 3 – Verbessern und Veröffentlichen (die Gemeinschaft aufbauen)"
     kurz: >
-      Freiheit 3 ist die Freiheit, das Programm zu verbessern und die Verbesserungen zu veröffentlichen, damit die ganze Gemeinschaft profitiert. Stallman nennt sie die Freiheit, die Gemeinschaft aufzubauen. Sie setzt Zugang zum Quellcode voraus. Sie bringt verlässlichere Software hervor und trägt den Geist wissenschaftlicher Zusammenarbeit.
+      Freiheit 3 ist die Freiheit, das Programm zu verbessern und die
+      Verbesserungen zu veröffentlichen, damit die ganze Gemeinschaft
+      profitiert. Stallman nennt sie die Freiheit, die Gemeinschaft aufzubauen.
+      Sie setzt Zugang zum Quellcode voraus. Sie bringt verlässlichere Software
+      hervor und trägt den Geist wissenschaftlicher Zusammenarbeit.
     text: >
-      Freiheit 3 ist nach der Definition die Freiheit, das Programm zu verbessern und die Verbesserungen der Öffentlichkeit zugänglich zu machen, so dass die ganze Gemeinschaft profitiert; auch sie setzt Zugang zum Quellcode voraus. Richard Stallman nennt sie die Freiheit, die Gemeinschaft aufzubauen. Gegen den Einwand, bei Freier Software werde niemand für seine Arbeit bezahlt, verweist er auf die Erfahrung: Hunderte werden bezahlt, über hunderttausend arbeiten freiwillig. Als er GNU Emacs veröffentlichte, kamen bald Fehlerkorrekturen und neue Funktionen, schließlich so viele, dass schon ihre Verarbeitung eine große Aufgabe war. Um 1990 bemerkte man, dass die Freie Software tatsächlich besser war, leistungsfähiger und verlässlicher; eine Messung mit Zufallsdaten ergab wiederholt, dass die GNU-Programme am seltensten abstürzten. Hier setzt die Open-Source-Bewegung an, die nur diese praktischen Vorteile anführt. Stallman spricht dagegen auch von Ethik und davon, in welcher Gesellschaft wir leben wollen: Man hat ein Recht auf diese Freiheiten. Fehlt Freiheit 3, so entsteht materieller Schaden, weil die gemeinschaftliche Entwicklung ausbleibt, und psychosozialer Schaden am Geist wissenschaftlicher Zusammenarbeit, an der Idee, gemeinsam das menschliche Wissen voranzubringen.
+      Freiheit 3 ist nach der Definition die Freiheit, das Programm zu
+      verbessern und die Verbesserungen der Öffentlichkeit zugänglich zu machen,
+      so dass die ganze Gemeinschaft profitiert; auch sie setzt Zugang zum
+      Quellcode voraus. Richard Stallman nennt sie die Freiheit, die
+      Gemeinschaft aufzubauen. Gegen den Einwand, bei Freier Software werde
+      niemand für seine Arbeit bezahlt, verweist er auf die Erfahrung: Hunderte
+      werden bezahlt, über hunderttausend arbeiten freiwillig. Als er GNU Emacs
+      veröffentlichte, kamen bald Fehlerkorrekturen und neue Funktionen,
+      schließlich so viele, dass schon ihre Verarbeitung eine große Aufgabe war.
+      Um 1990 bemerkte man, dass die Freie Software tatsächlich besser war,
+      leistungsfähiger und verlässlicher; eine Messung mit Zufallsdaten ergab
+      wiederholt, dass die GNU-Programme am seltensten abstürzten. Hier setzt
+      die Open-Source-Bewegung an, die nur diese praktischen Vorteile anführt.
+      Stallman spricht dagegen auch von Ethik und davon, in welcher Gesellschaft
+      wir leben wollen: Man hat ein Recht auf diese Freiheiten. Fehlt Freiheit
+      3, so entsteht materieller Schaden, weil die gemeinschaftliche Entwicklung
+      ausbleibt, und psychosozialer Schaden am Geist wissenschaftlicher
+      Zusammenarbeit, an der Idee, gemeinsam das menschliche Wissen
+      voranzubringen.
+    chunk_id: 34a17795-2467-4b26-b700-fe4d5b9c5128
+chunk_id: d7492292-cc82-4352-8dd0-1e9f841f5b15

@@ -14,11 +14,13 @@ typology:
     short: kurz
     text: text
     references: references
+    chunk_id: chunk_id
   members:
     from: triebfedern
     name: name
     short: kurz
     text: text
+    chunk_id: chunk_id
 
 name: "4 Stufen der sittlichen Triebfedern"
 aliases:
@@ -27,7 +29,11 @@ aliases:
   - "Triebfedern der Sittlichkeit"
   - "Stufen der Triebfedern"
 kurz: >
-  Die 4 Stufen der sittlichen Triebfedern beschreiben nach Rudolf Steiners „Philosophie der Freiheit“ die Anlagen, aus denen ein Mensch handelt: sinnliches Wahrnehmen, Gefühl, Denken und Vorstellen aus Erfahrung und schließlich reines begriffliches Denken. Auf der höchsten Stufe fallen Triebfeder und Motiv zusammen, und der Mensch handelt aus reiner Intuition.
+  Die 4 Stufen der sittlichen Triebfedern beschreiben nach Rudolf Steiners
+  „Philosophie der Freiheit“ die Anlagen, aus denen ein Mensch handelt:
+  sinnliches Wahrnehmen, Gefühl, Denken und Vorstellen aus Erfahrung und
+  schließlich reines begriffliches Denken. Auf der höchsten Stufe fallen
+  Triebfeder und Motiv zusammen, und der Mensch handelt aus reiner Intuition.
 text: |
   Die **4 Stufen der sittlichen Triebfedern** (auch *Stufen der sittlichen Triebfedern*, *sittliche Triebfedern*, *Triebfedern der Sittlichkeit* oder *Stufen der Triebfedern* genannt) beschreiben die charakterologischen Anlagen, aus denen heraus ein Mensch handelt. Sie reichen von der unmittelbaren Sinneswahrnehmung bis zum reinen Denken.
 
@@ -41,37 +47,137 @@ text: |
 references:
   - chunk_id: fc5917e7-8774-5872-b6c3-6b28e387e76f
     relevance: 1
-    description: Auf der höchsten Stufe der charakterologischen Anlage, dem reinen Denken, fallen Triebfeder und Motiv zusammen.
+    description: Auf der höchsten Stufe der charakterologischen Anlage, dem reinen
+      Denken, fallen Triebfeder und Motiv zusammen.
   - chunk_id: 15dc945d-47a5-542c-91fc-58a1701d7f74
     relevance: 1
-    description: Gefühle wie Mitgefühl, Scham, Stolz und Pflichtgefühl können zu Triebfedern des Handelns werden.
+    description: Gefühle wie Mitgefühl, Scham, Stolz und Pflichtgefühl können zu
+      Triebfedern des Handelns werden.
   - chunk_id: 887763b2-5a2b-5573-8d41-af13f876c6dc
     relevance: 1
-    description: Die erste Stufe des individuellen Lebens ist das sinnliche Wahrnehmen, das sich unmittelbar in Wollen umsetzt, wie beim Trieb.
+    description: Die erste Stufe des individuellen Lebens ist das sinnliche
+      Wahrnehmen, das sich unmittelbar in Wollen umsetzt, wie beim Trieb.
   - chunk_id: ee2de37d-8216-5413-8227-3eabf6d93f96
     relevance: 1
-    description: Die höchste Stufe des individuellen Lebens ist das begriffliche Denken ohne Wahrnehmungsbezug, bestimmt durch reine Intuition.
+    description: Die höchste Stufe des individuellen Lebens ist das begriffliche
+      Denken ohne Wahrnehmungsbezug, bestimmt durch reine Intuition.
   - chunk_id: ef143008-cd33-5e66-ab5e-89883f1cb809
     relevance: 0.9
-    description: Die subjektiven Anlagen sind Triebfedern, die Vorstellungen und Begriffe zu Motiven machen.
+    description: Die subjektiven Anlagen sind Triebfedern, die Vorstellungen und
+      Begriffe zu Motiven machen.
 triebfedern:
   - name: Sinnliches Wahrnehmen (Trieb, Takt, sittlicher Geschmack)
     kurz: >
-      Auf der ersten Stufe setzt sich das Wahrnehmen unmittelbar, ohne Dazwischentreten eines Gefühls oder Begriffs, in Wollen um. Die Triebfeder ist der Trieb, etwa bei Hunger. Ausgedehnt auf die höheren Sinne, etwa im konventionellen Umgang mit Menschen, heißt sie Takt oder sittlicher Geschmack.
+      Auf der ersten Stufe setzt sich das Wahrnehmen unmittelbar, ohne
+      Dazwischentreten eines Gefühls oder Begriffs, in Wollen um. Die Triebfeder
+      ist der Trieb, etwa bei Hunger. Ausgedehnt auf die höheren Sinne, etwa im
+      konventionellen Umgang mit Menschen, heißt sie Takt oder sittlicher
+      Geschmack.
     text: >
-      Die erste Stufe des individuellen Lebens ist nach Rudolf Steiner das Wahrnehmen, und zwar das Wahrnehmen der Sinne. Hier setzt sich die Wahrnehmung unmittelbar, ohne Dazwischentreten eines Gefühls oder Begriffs, in Wollen um. Die Triebfeder, die dabei wirkt, heißt Trieb schlechthin; auf diesem Weg kommt die Befriedigung der niederen, rein animalischen Bedürfnisse wie Hunger und Geschlechtsverkehr zustande. Das Charakteristische des Trieblebens ist die Unmittelbarkeit, mit der die einzelne Wahrnehmung das Wollen auslöst. Diese Art der Willensbestimmung kann aber auch auf die Wahrnehmungen der höheren Sinne ausgedehnt werden. Auf ein Geschehen in der Außenwelt folgt dann eine Handlung, ohne weiteres Nachdenken und ohne dass sich ein besonderes Gefühl an die Wahrnehmung knüpft, wie es namentlich im konventionellen Umgang mit Menschen geschieht. Die Triebfeder solchen Handelns nennt Steiner Takt oder sittlichen Geschmack. Je öfter sich ein solches unmittelbares Auslösen einer Handlung durch eine Wahrnehmung vollzieht, desto mehr wird der Takt zur charakterologischen Anlage des Menschen. Wie alle Triebfedern ist er eine subjektive Anlage, die bestimmte Vorstellungen und Begriffe zu Motiven werden lässt; erst wenn ein Motiv auf sie einwirkt, kommt es zu einem wirklichen Willensakt.
+      Die erste Stufe des individuellen Lebens ist nach Rudolf Steiner das
+      Wahrnehmen, und zwar das Wahrnehmen der Sinne. Hier setzt sich die
+      Wahrnehmung unmittelbar, ohne Dazwischentreten eines Gefühls oder
+      Begriffs, in Wollen um. Die Triebfeder, die dabei wirkt, heißt Trieb
+      schlechthin; auf diesem Weg kommt die Befriedigung der niederen, rein
+      animalischen Bedürfnisse wie Hunger und Geschlechtsverkehr zustande. Das
+      Charakteristische des Trieblebens ist die Unmittelbarkeit, mit der die
+      einzelne Wahrnehmung das Wollen auslöst. Diese Art der Willensbestimmung
+      kann aber auch auf die Wahrnehmungen der höheren Sinne ausgedehnt werden.
+      Auf ein Geschehen in der Außenwelt folgt dann eine Handlung, ohne weiteres
+      Nachdenken und ohne dass sich ein besonderes Gefühl an die Wahrnehmung
+      knüpft, wie es namentlich im konventionellen Umgang mit Menschen
+      geschieht. Die Triebfeder solchen Handelns nennt Steiner Takt oder
+      sittlichen Geschmack. Je öfter sich ein solches unmittelbares Auslösen
+      einer Handlung durch eine Wahrnehmung vollzieht, desto mehr wird der Takt
+      zur charakterologischen Anlage des Menschen. Wie alle Triebfedern ist er
+      eine subjektive Anlage, die bestimmte Vorstellungen und Begriffe zu
+      Motiven werden lässt; erst wenn ein Motiv auf sie einwirkt, kommt es zu
+      einem wirklichen Willensakt.
+    chunk_id: b62f410f-8fc6-4a78-adf3-da0ec0c22e94
   - name: Gefühlsleben (Gefühle als Triebfedern)
     kurz: >
-      Die zweite Sphäre ist das Fühlen. An die Wahrnehmungen der Außenwelt knüpfen sich Gefühle, die zu Triebfedern des Handelns werden können: Mitgefühl, Scham, Stolz, Ehrgefühl, Demut, Reue, Dankbarkeit, Pietät, Treue, Liebes- und Pflichtgefühl. Das Gefühl bewegt, aber es schafft nicht selbst den Beweggrund; der Weg zum Herzen geht durch den Kopf.
+      Die zweite Sphäre ist das Fühlen. An die Wahrnehmungen der Außenwelt
+      knüpfen sich Gefühle, die zu Triebfedern des Handelns werden können:
+      Mitgefühl, Scham, Stolz, Ehrgefühl, Demut, Reue, Dankbarkeit, Pietät,
+      Treue, Liebes- und Pflichtgefühl. Das Gefühl bewegt, aber es schafft nicht
+      selbst den Beweggrund; der Weg zum Herzen geht durch den Kopf.
     text: >
-      Die zweite Sphäre des menschlichen Lebens ist nach Rudolf Steiner das Fühlen. An die Wahrnehmungen der Außenwelt knüpfen sich bestimmte Gefühle, und diese Gefühle können zu Triebfedern des Handelns werden. Sein Beispiel: Wenn ich einen hungernden Menschen sehe, kann mein Mitgefühl die Triebfeder meines Handelns bilden. Solche Gefühle sind etwa das Schamgefühl, der Stolz, das Ehrgefühl, die Demut, die Reue, das Mitgefühl, das Rache- und das Dankbarkeitsgefühl, die Pietät, die Treue, das Liebes- und das Pflichtgefühl. Gegenüber der ersten Stufe tritt hier zwischen Wahrnehmung und Wollen ein Inneres, das die Seele bewegt. Steiner betont aber schon im ersten Kapitel, dass Herz und Gemüt die Beweggründe des Handelns nicht schaffen, sondern voraussetzen und in ihren Bereich aufnehmen: Mitleid stellt sich ein, wenn im Bewusstsein die Vorstellung einer mitleiderregenden Person aufgetreten ist. Der Weg zum Herzen geht durch den Kopf, der Gedanke ist der Vater des Gefühls. Darum kann auch nicht das Gefühl selbst Motiv werden, sondern nur die Vorstellung eines Gefühls; das Gefühl ist hier Triebfeder, also eine Anlage, auf die Vorstellungen wirken.
+      Die zweite Sphäre des menschlichen Lebens ist nach Rudolf Steiner das
+      Fühlen. An die Wahrnehmungen der Außenwelt knüpfen sich bestimmte Gefühle,
+      und diese Gefühle können zu Triebfedern des Handelns werden. Sein
+      Beispiel: Wenn ich einen hungernden Menschen sehe, kann mein Mitgefühl die
+      Triebfeder meines Handelns bilden. Solche Gefühle sind etwa das
+      Schamgefühl, der Stolz, das Ehrgefühl, die Demut, die Reue, das Mitgefühl,
+      das Rache- und das Dankbarkeitsgefühl, die Pietät, die Treue, das Liebes-
+      und das Pflichtgefühl. Gegenüber der ersten Stufe tritt hier zwischen
+      Wahrnehmung und Wollen ein Inneres, das die Seele bewegt. Steiner betont
+      aber schon im ersten Kapitel, dass Herz und Gemüt die Beweggründe des
+      Handelns nicht schaffen, sondern voraussetzen und in ihren Bereich
+      aufnehmen: Mitleid stellt sich ein, wenn im Bewusstsein die Vorstellung
+      einer mitleiderregenden Person aufgetreten ist. Der Weg zum Herzen geht
+      durch den Kopf, der Gedanke ist der Vater des Gefühls. Darum kann auch
+      nicht das Gefühl selbst Motiv werden, sondern nur die Vorstellung eines
+      Gefühls; das Gefühl ist hier Triebfeder, also eine Anlage, auf die
+      Vorstellungen wirken.
+    chunk_id: ae076b72-a839-47a0-b63d-cb5cc5b2f526
   - name: Denken und Vorstellen (praktische Erfahrung)
     kurz: >
-      Auf der dritten Stufe wird eine Vorstellung durch Überlegung zum Motiv. Aus wiederkehrenden Situationen bilden sich Vorstellungen von Handlungen, die als bestimmende Muster allen späteren Entschlüssen vorschweben. Diese Triebfeder nennt Steiner praktische Erfahrung. Sie geht allmählich in das rein taktvolle Handeln über.
+      Auf der dritten Stufe wird eine Vorstellung durch Überlegung zum Motiv.
+      Aus wiederkehrenden Situationen bilden sich Vorstellungen von Handlungen,
+      die als bestimmende Muster allen späteren Entschlüssen vorschweben. Diese
+      Triebfeder nennt Steiner praktische Erfahrung. Sie geht allmählich in das
+      rein taktvolle Handeln über.
     text: >
-      Die dritte Stufe des Lebens ist nach Rudolf Steiner das Denken und Vorstellen. Durch bloße Überlegung kann eine Vorstellung oder ein Begriff zum Motiv einer Handlung werden. Vorstellungen werden dadurch Motiv, dass wir im Laufe des Lebens fortwährend gewisse Ziele des Wollens an Wahrnehmungen knüpfen, die in mehr oder weniger veränderter Gestalt immer wiederkehren. Wer nicht ganz ohne Erfahrung ist, dem treten mit bestimmten Wahrnehmungen zugleich die Vorstellungen von Handlungen ins Bewusstsein, die er in ähnlichen Fällen ausgeführt oder ausführen gesehen hat. Diese Vorstellungen schweben ihm als bestimmende Muster bei allen späteren Entschließungen vor und werden Glieder seiner charakterologischen Anlage. Steiner nennt diese Triebfeder die praktische Erfahrung. Sie geht allmählich in das rein taktvolle Handeln über: Wenn sich typische Bilder von Handlungen mit Vorstellungen gewisser Lebenssituationen so fest verbunden haben, dass man alle auf Erfahrung gegründete Überlegung überspringt und unmittelbar auf die Wahrnehmung hin ins Wollen übergeht, ist aus der Erfahrung Takt geworden. So schließt sich der Kreis zur ersten Stufe. Kennzeichnend bleibt, dass das Wollen hier durch Vorstellungen, also durch Begriffe mit Bezug auf Wahrnehmungen, bestimmt wird; auf dem Umweg durch das Denken ist es letztlich die Wahrnehmung, die den Menschen bestimmt.
-  - name: Begriffliches Denken ohne Wahrnehmungsbezug (reine Intuition, praktische Vernunft, praktisches Apriori)
+      Die dritte Stufe des Lebens ist nach Rudolf Steiner das Denken und
+      Vorstellen. Durch bloße Überlegung kann eine Vorstellung oder ein Begriff
+      zum Motiv einer Handlung werden. Vorstellungen werden dadurch Motiv, dass
+      wir im Laufe des Lebens fortwährend gewisse Ziele des Wollens an
+      Wahrnehmungen knüpfen, die in mehr oder weniger veränderter Gestalt immer
+      wiederkehren. Wer nicht ganz ohne Erfahrung ist, dem treten mit bestimmten
+      Wahrnehmungen zugleich die Vorstellungen von Handlungen ins Bewusstsein,
+      die er in ähnlichen Fällen ausgeführt oder ausführen gesehen hat. Diese
+      Vorstellungen schweben ihm als bestimmende Muster bei allen späteren
+      Entschließungen vor und werden Glieder seiner charakterologischen Anlage.
+      Steiner nennt diese Triebfeder die praktische Erfahrung. Sie geht
+      allmählich in das rein taktvolle Handeln über: Wenn sich typische Bilder
+      von Handlungen mit Vorstellungen gewisser Lebenssituationen so fest
+      verbunden haben, dass man alle auf Erfahrung gegründete Überlegung
+      überspringt und unmittelbar auf die Wahrnehmung hin ins Wollen übergeht,
+      ist aus der Erfahrung Takt geworden. So schließt sich der Kreis zur ersten
+      Stufe. Kennzeichnend bleibt, dass das Wollen hier durch Vorstellungen,
+      also durch Begriffe mit Bezug auf Wahrnehmungen, bestimmt wird; auf dem
+      Umweg durch das Denken ist es letztlich die Wahrnehmung, die den Menschen
+      bestimmt.
+    chunk_id: 24887e3d-5422-4680-959d-2f7f2fd83fe8
+  - name: Begriffliches Denken ohne Wahrnehmungsbezug (reine Intuition, praktische
+      Vernunft, praktisches Apriori)
     kurz: >
-      Die höchste Stufe ist das begriffliche Denken ohne Rücksicht auf einen bestimmten Wahrnehmungsgehalt. Der Begriff wird durch reine Intuition aus der ideellen Sphäre bestimmt; die Triebfeder ist das reine Denken, die praktische Vernunft, Kreyenbühls praktisches Apriori. Hier fallen Triebfeder und Motiv zusammen, und das Handeln wird frei.
+      Die höchste Stufe ist das begriffliche Denken ohne Rücksicht auf einen
+      bestimmten Wahrnehmungsgehalt. Der Begriff wird durch reine Intuition aus
+      der ideellen Sphäre bestimmt; die Triebfeder ist das reine Denken, die
+      praktische Vernunft, Kreyenbühls praktisches Apriori. Hier fallen
+      Triebfeder und Motiv zusammen, und das Handeln wird frei.
     text: >
-      Die höchste Stufe des individuellen Lebens ist nach Rudolf Steiner das begriffliche Denken ohne Rücksicht auf einen bestimmten Wahrnehmungsgehalt. Den Inhalt eines Begriffs bestimmen wir hier durch reine Intuition aus der ideellen Sphäre heraus; ein solcher Begriff enthält zunächst keinen Bezug auf bestimmte Wahrnehmungen. Handeln wir unter dem Einfluss einer Vorstellung, so bestimmt uns auf dem Umweg durch das Denken eine Wahrnehmung. Handeln wir unter dem Einfluss von Intuitionen, so ist die Triebfeder das reine Denken. Weil man das reine Denkvermögen in der Philosophie Vernunft nennt, nennt Steiner diese Triebfeder die praktische Vernunft; Kreyenbühl hat sie als praktisches Apriori bezeichnet, als unmittelbar aus der Intuition fließenden Antrieb zum Handeln. Ein solcher Antrieb gehört im strengen Sinn nicht mehr zu den charakterologischen Anlagen, denn was hier wirkt, ist nicht ein bloß Individuelles in mir, sondern der ideelle und folglich allgemeine Inhalt meiner Intuition. Ob der Begriff schon vorher in mir lag oder erst unmittelbar vor dem Handeln ins Bewusstsein tritt, ist gleichgültig. Auf dieser Stufe fallen Triebfeder und Motiv zusammen: Weder eine vorher bestimmte Anlage noch ein äußeres sittliches Prinzip wirkt auf das Handeln, sondern allein sein idealer Gehalt. Das Gegenstück auf der Seite der Motive ist die begriffliche Intuition. Hier liegt der Ursprung des freien, wahrhaft individuellen Wollens.
+      Die höchste Stufe des individuellen Lebens ist nach Rudolf Steiner das
+      begriffliche Denken ohne Rücksicht auf einen bestimmten
+      Wahrnehmungsgehalt. Den Inhalt eines Begriffs bestimmen wir hier durch
+      reine Intuition aus der ideellen Sphäre heraus; ein solcher Begriff
+      enthält zunächst keinen Bezug auf bestimmte Wahrnehmungen. Handeln wir
+      unter dem Einfluss einer Vorstellung, so bestimmt uns auf dem Umweg durch
+      das Denken eine Wahrnehmung. Handeln wir unter dem Einfluss von
+      Intuitionen, so ist die Triebfeder das reine Denken. Weil man das reine
+      Denkvermögen in der Philosophie Vernunft nennt, nennt Steiner diese
+      Triebfeder die praktische Vernunft; Kreyenbühl hat sie als praktisches
+      Apriori bezeichnet, als unmittelbar aus der Intuition fließenden Antrieb
+      zum Handeln. Ein solcher Antrieb gehört im strengen Sinn nicht mehr zu den
+      charakterologischen Anlagen, denn was hier wirkt, ist nicht ein bloß
+      Individuelles in mir, sondern der ideelle und folglich allgemeine Inhalt
+      meiner Intuition. Ob der Begriff schon vorher in mir lag oder erst
+      unmittelbar vor dem Handeln ins Bewusstsein tritt, ist gleichgültig. Auf
+      dieser Stufe fallen Triebfeder und Motiv zusammen: Weder eine vorher
+      bestimmte Anlage noch ein äußeres sittliches Prinzip wirkt auf das
+      Handeln, sondern allein sein idealer Gehalt. Das Gegenstück auf der Seite
+      der Motive ist die begriffliche Intuition. Hier liegt der Ursprung des
+      freien, wahrhaft individuellen Wollens.
+    chunk_id: 0e87e52d-288a-4a8c-a76c-34c2c08a5331
+chunk_id: 3dfe8ca4-79d7-4b12-892e-b761d370ae7c

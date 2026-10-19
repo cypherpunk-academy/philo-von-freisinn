@@ -315,12 +315,13 @@ def load_yaml_fields(path=None):
         aspects = []
         for am in re.finditer(
             r"- schlagwort: ([^\n]+)\n"
-            r"        schlagsatz: ([^\n]+)\n"
+            r"        schlagsatz: (.+?)\n"
             r"(?:        kurztext: >\s*\n(.*?))?"
-            r"        text: >\s*\n"
+            r"        text: (?:>|\|)\s*\n"
             r"(.*?)(?="
             r"\n        erklaerung:"
             r"|\n        zitate:"
+            r"|\n        chunk_id:"
             r"|\n      - schlagwort:"
             r"|\n  - id: "
             r"|\n  #"
@@ -328,6 +329,7 @@ def load_yaml_fields(path=None):
             r"(?:\n        erklaerung: >\s*\n(.*?))?"
             r"(?="
             r"\n        zitate:"
+            r"|\n        chunk_id:"
             r"|\n      - schlagwort:"
             r"|\n  - id: "
             r"|\n  #"
