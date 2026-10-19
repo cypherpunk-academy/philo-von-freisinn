@@ -296,22 +296,18 @@ FAN_GROUPS = {
             "schlagwort": "Versorgung",
         },
         "shift_down_to_page": True,
+        "heading_lift_clear": True,
     },
     # --- Gesundheit rechts (spiegelbildlich zu 04/05/06g) ---
     "dm-03g": {
         "panel": "ges", "side": "right",
-        "arc": 6, "open": "left", "y_mode": "heading_gap",
-        "ref_bottom": "dm-01k",
-        "heading_gap_ref": ("dm-02k", "dm-03k"),
+        "arc": 6, "open": "left", "y_mode": "below",
+        "below": "dm-02k",
         "heading_room": True,
-        "y_shift_heading_lh": 0.5,
-        "y_shift_block": 2.5,  # +0.5 Texthöhe nach unten
+        "v_align": "top",
+        "y_shift_block": 1,
         "x_shift": 1280.0,
         "heading_x": "first_block",
-        "align_heading_to": {
-            "yaml_id": "dm-02k",
-            "schlagwort": "Kennzahl",
-        },
     },
     "dm-01g": {
         "panel": "ges", "side": "right",
@@ -1206,6 +1202,42 @@ def main():
             if fh:
                 fh["y"] += slack
             print(f"  {yaml_id}: {slack:.0f} nach unten, 7. Text bleibt auf der Seite")
+
+    for yaml_id, cfg in FAN_GROUPS.items():
+        if not cfg.get("heading_lift_clear"):
+            continue
+        fh = next((h for h in fan_headings if h["id"] == yaml_id), None)
+        if fh is None:
+            continue
+        hf = fh["font"]
+        w = max(text_w(l, hf, bold=True) for l in fh["lines"])
+        if fh["align"] == "text-end":
+            hx0, hx1 = fh["x"] - w, fh["x"]
+        elif fh["align"] == "text-start":
+            hx0, hx1 = fh["x"], fh["x"] + w
+        else:
+            hx0, hx1 = fh["x"] - w / 2.0, fh["x"] + w / 2.0
+        gap = cfg.get("heading_lift_gap_lh", 0.5) * lh
+        others = [p for p in fan_items if p.get("yaml_id") != yaml_id
+                  and p["x"] < hx1 + gap and p["x"] + p["w"] > hx0 - gap]
+        lifted = 0.0
+        for _ in range(len(others) + 1):
+            top = fh["y"] - hf * 0.6
+            bot = fh["y"] + hf * 1.12 * (len(fh["lines"]) - 1) + hf * 0.6
+            hit = [p for p in others
+                   if p["y"] < bot + gap and p["y"] + p["h"] > top - gap]
+            if not hit:
+                break
+            dy = (bot + gap) - min(p["y"] for p in hit)
+            fh["y"] -= dy
+            lifted += dy
+        if lifted:
+            group = by_fan.get(yaml_id) or []
+            for p in group:
+                p["y"] -= lifted
+            if group:
+                fan_bottom[yaml_id] = max(p["y"] + p["h"] for p in group)
+            print(f"  {yaml_id}: Fächer {lifted:.0f} nach oben (Überschrift frei)")
 
     if fan_headings:
         top_h = min(fh["y"] for fh in fan_headings)
