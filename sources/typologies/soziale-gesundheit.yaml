@@ -2970,8 +2970,12 @@ felder:
     chunk_id: dd8cc16a-3fd8-422c-a4be-7b0d363e1315
 
   # ══════════════════════════════════════════════════════════════════════
+
   # FELD 4 — RECHT → WIRTSCHAFT
+
   # ══════════════════════════════════════════════════════════════════════
+
+
 
   - id: dm-04g
     feld: 4
@@ -2979,46 +2983,59 @@ felder:
     pol: gesund
     titel: "Das Gesetz sichert den fairen Rahmen"
     kurz: >
-      Das Rechtsleben setzt der Wirtschaft den Rahmen, bevor ein Markt beginnt.
-      Arbeitskraft und Boden sind keine Ware; der Preis wird in der Assoziation
-      gerechnet und deckt, was wiederholt werden muss. Eigentum an
-      Produktionsmitteln ist Verfügung auf Zeit, gebunden an Fähigkeit. Das
-      Recht hält Verträge, ohne ihren Inhalt zu bestimmen, lässt die Folgen beim
-      Verursacher und macht Missstände öffentlich.
+      Das Rechtsleben setzt der Wirtschaft den Rahmen, bevor ein Markt
+      beginnt. Arbeitskraft und Boden sind keine Ware; der Preis wird in
+      der Assoziation gerechnet — als Eintrag in der Weltbuchhaltung.
+      Eigentum an Produktionsmitteln ist Verfügung auf Zeit, gebunden an
+      Fähigkeit. Das Recht hält Verträge, ohne ihren Inhalt zu bestimmen,
+      sichert Transparenz und schützt, wer Missstände meldet.
     text: |
-      Im gesunden Feld Recht -> Wirtschaft sichert das Gesetz den fairen Rahmen, in dem die Wirtschaft frei verhandelt. Es bindet, ohne zu bestimmen: Was unter Gleichen als Bürgern festgelegt wird, kommt vor jedem Markt.
+      Im gesunden Feld Recht -> Wirtschaft sichert das Gesetz den fairen Rahmen, in dem die Wirtschaft
+      frei verhandelt. Es bindet, ohne zu bestimmen: Was unter Gleichen als Bürgern festgelegt wird, kommt
+      vor jedem Markt.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Arbeit:** Art, Maß und Zeit der Arbeit bestimmt das Recht; verhandelt wird über Leistungen, nie über den Menschen. **Boden:** Was vor aller Arbeit da war, ist keine Ware; Nutzungsrechte werden nach Bedarf und Fähigkeit vergeben. **Preis:** Richtig ist ein Preis, der dem Erzeuger erlaubt, dasselbe noch einmal zu tun; er wird offen gerechnet, Zins und Rente stehen nicht darin. **Eigentumszeit:** Werkstätten und Betriebe gehören dem, der sie fähig führt, und nur so lange. **Vertrag:** Was vereinbart ist, gilt; was vereinbart wird, entscheidet die Assoziation. Das Recht selbst ist unverkäuflich. **Haftung:** Die Folgen bleiben bei dem, der sie verursacht; erst das macht den Preis wahr. **Einspruch:** Jeder kann Missstände öffentlich machen, ohne Nachteil zu fürchten.
+      Sieben Aspekte zeigen, wie das geschieht. **Menschenarbeit:** Art, Maß und Zeit der Arbeit bestimmt
+      das Recht; verhandelt wird über Leistungen, nie über den Menschen. **Grundlage:** Was vor aller
+      Arbeit da war, ist keine Ware; Nutzungsrechte werden nach Bedarf und Fähigkeit vergeben.
+      **Harmoniepreis:** Richtig ist ein Preis, der dem Erzeuger erlaubt, dasselbe noch einmal zu tun; er
+      wird offen gerechnet, Zins und Rente stehen nicht darin. **Eigentumszeit:** Produktionsmittel
+      gehören dem, der sie fähig führt, und nur so lange; das Kapital wandert unentgeltlich weiter.
+      **Vertragssicherheit:** Was vereinbart ist, gilt; was vereinbart wird, entscheidet die Assoziation.
+      Das Recht selbst ist unverkäuflich. **Transparenz:** Jeder kann erfahren, wie Ware entsteht und was
+      danach mit ihr geschieht. **Einspruch:** Wer Missstände meldet, steht unter dem Schutz des Rechts.
 
-      Der Gegenpol ist „Die Politik entscheidet wer gewinnt“: Dort wird das Recht selbst zum Markt, und gehandelt wird der Rahmen.
+      Der Gegenpol ist „Die Politik entscheidet wer gewinnt“: Dort wird das Recht selbst zum Markt, und
+      gehandelt wird der Rahmen.
     aspekte:
-      - schlagwort: Arbeit
-        schlagsatz: Deine Arbeitskraft ist keine Ware.
+      - schlagwort: Menschenarbeit
+        schlagsatz: Arbeitskraft ist keine Ware, sie ist nicht trennbar vom Menschen.
         kurztext: >
-          Das Rechtsleben bestimmt Art, Maß und Zeit der Arbeit, bevor irgendein
-          Markt beginnt: unter Gleichen als Bürgern, nicht unter Ungleichen als
-          Käufer und Verkäufer. Wer seine Arbeitskraft verkauft, verkauft ein
-          Stück seiner selbst; darum nimmt das Recht den Menschen aus dem
-          Warenverkehr. Auf dem Markt wird über Leistungen verhandelt, nie über
-          den, der sie hervorbringt. Der Schutz wirkt nach zwei Seiten: Die
-          Wirtschaft darf Arbeit nicht erzwingen, der Staat sie nicht zuweisen.
-          Der Mensch gibt der Wirtschaft seine Leistung, nicht sich selbst.
+          Das Rechtsleben bestimmt Art, Maß und Zeit der Arbeit, bevor
+          irgendein Markt beginnt: unter Gleichen als Bürgern, nicht
+          unter Ungleichen als Käufer und Verkäufer. Wer seine
+          Arbeitskraft verkauft, verkauft ein Stück seiner selbst; darum
+          nimmt das Recht den Menschen aus dem Warenverkehr. Verhandelt
+          wird über Leistungen, nie über den, der sie hervorbringt. Der
+          Mensch gibt der Wirtschaft seine Leistung, nicht sich selbst.
+          Die Wirtschaft darf Arbeit nicht erzwingen.
         text: >
-          Das Rechtsleben bestimmt, unter welchen Bedingungen gearbeitet wird —
-          bevor irgendein Markt beginnt. Art, Maß und Zeit der Arbeit sind
-          Rechtsfragen, keine Handelsfragen: Sie werden unter Gleichen als
-          Bürgern geregelt, nicht unter Ungleichen als Käufer und Verkäufer.
-          Denn wer seine Arbeitskraft verkaufen muss, verkauft immer ein Stück
-          seiner selbst mit; darum nimmt das Recht den Menschen aus dem
-          Warenverkehr heraus. Auf dem Markt wird dann nur noch über Leistungen
-          und Erzeugnisse verhandelt — nie über den Menschen, der sie
-          hervorbringt. Dieser Schutz wirkt nach zwei Seiten: Er verwehrt der
-          Wirtschaft, Arbeit zu erzwingen, und dem Staat, Arbeit zuzuweisen. Was
-          einer arbeitet, entscheidet er selbst — aus den Fähigkeiten, die das
-          Geistesleben in ihm pflegt. Wie viel und wie lange gearbeitet wird,
-          sichert das Recht; was die Arbeit hervorbringt, verwaltet die
-          Wirtschaft. So steht der Mensch in der Wirtschaft, ohne ihr zu
-          gehören: Er gibt ihr seine Leistung, nicht sich selbst.
+          Das Rechtsleben bestimmt, unter welchen Bedingungen gearbeitet
+          wird — bevor irgendein Markt beginnt. Art, Maß und Zeit der
+          Arbeit sind Rechtsfragen, keine Handelsfragen: Sie werden
+          unter Gleichen als Bürgern geregelt, nicht unter Ungleichen
+          als Käufer und Verkäufer. Denn wer seine Arbeitskraft
+          verkaufen muss, verkauft immer ein Stück seiner selbst mit;
+          darum nimmt das Recht den Menschen aus dem Warenverkehr
+          heraus. Auf dem Markt wird dann nur noch über Leistungen und
+          Erzeugnisse verhandelt — nie über den Menschen, der sie
+          hervorbringt. Dieser Schutz wirkt nach zwei Seiten: Er
+          verwehrt der Wirtschaft, Arbeit zu erzwingen, und dem Staat,
+          Arbeit zuzuweisen. Was einer arbeitet, entscheidet er selbst —
+          aus den Fähigkeiten, die das Geistesleben in ihm pflegt. Wie
+          viel und wie lange gearbeitet wird, sichert das Recht; was die
+          Arbeit hervorbringt, verwaltet die Wirtschaft. So steht der
+          Mensch in der Wirtschaft, ohne ihr zu gehören: Er gibt ihr
+          seine Leistung, nicht sich selbst.
         references:
           - id: 93823633-1801-40cf-97b4-da634607c9e5
             chunk_id: 70e08596-d5c2-597b-a3e0-ef196becf26e
@@ -3026,62 +3043,64 @@ felder:
             source_id: 4fa31e85-f92b-5cb2-944b-bb6dca4c7fc7
             relation: bestaetigt
             relevance: 0.95
-            begruendung: Sagt direkt, dass menschliche Arbeitskraft nicht mit einer Ware verglichen werden kann und etwas ganz anderes ist als die Ware — deckt den Kernaspekt exakt.
+            begruendung: "Sagt direkt, dass menschliche Arbeitskraft nicht mit einer Ware verglichen werden kann und etwas ganz anderes ist als die Ware — deckt den Kernaspekt exakt."
           - id: 227290fd-f0b7-4247-a9ba-83f5382339d6
             chunk_id: dabfd492-9311-5223-99aa-c63e62194f9c
             chunk_type: secondary_book
             source_id: a10887bd-72ce-5422-8490-1a3f48e3b6c3
             relation: erlaeutert
             relevance: 0.9
-            begruendung: Führt aus, dass die Arbeitskraft aus dem Kreislauf des Wirtschaftslebens heraus muss — erläutert die Forderung, den Menschen aus dem Warenverkehr zu nehmen.
+            begruendung: "Führt aus, dass die Arbeitskraft aus dem Kreislauf des Wirtschaftslebens heraus muss — erläutert die Forderung, den Menschen aus dem Warenverkehr zu nehmen."
           - id: 3832b06d-ec8d-4e93-ab4e-8d0c927c6f48
             chunk_id: 11fe51ad-360e-5cd2-842d-45991607685d
             chunk_type: secondary_book
             source_id: afae47b0-9017-526e-90b8-b00354dbec51
             relation: begruendet
             relevance: 0.88
-            begruendung: Begründet über das selbstständige Rechtsglied, dass die Arbeitskraft nicht aus wirtschaftlichen Untergründen zur Ware werden darf.
+            begruendung: "Begründet über das selbstständige Rechtsglied, dass die Arbeitskraft nicht aus wirtschaftlichen Untergründen zur Ware werden darf."
           - id: 7d33a26b-1c03-4688-af12-d248ac2bd061
             chunk_id: 48b902d1-b868-589e-b665-72eb3429eea7
             chunk_type: secondary_book
             source_id: 7879ca81-485f-5163-92c8-337d39ca904f
             relation: veranschaulicht
             relevance: 0.85
-            begruendung: Konkretisiert, dass Arbeit nicht mehr als solche bezahlt, sondern einem Rechtsverhältnis unterstellt wird — veranschaulicht den Schutzrahmen.
+            begruendung: "Konkretisiert, dass Arbeit nicht mehr als solche bezahlt, sondern einem Rechtsverhältnis unterstellt wird — veranschaulicht den Schutzrahmen."
           - id: 9ead6055-8e9c-4646-afd7-09fd127991a6
             chunk_id: 2492198c-916c-5b21-a427-235209506235
             chunk_type: secondary_book
             source_id: 7bfb2f42-4765-5dd8-a7c6-931ca7b9eb88
             relation: erlaeutert
             relevance: 0.82
-            begruendung: Zeigt, wie ein abgesondertes Arbeits-Rechtsleben die Verwendung der Arbeitskraft regelt, statt wirtschaftliche Interessen walten zu lassen.
+            begruendung: "Zeigt, wie ein abgesondertes Arbeits-Rechtsleben die Verwendung der Arbeitskraft regelt, statt wirtschaftliche Interessen walten zu lassen."
         chunk_id: 24f84aff-24bc-45d2-ab8f-a93de408f52e
-      - schlagwort: Boden
+      - schlagwort: Grundlage
         schlagsatz: Der Boden ist keine Ware — was man an ihm arbeitet, schon.
         kurztext: >
-          Durch den Boden läuft eine Trennlinie. Was Menschen an ihm gearbeitet
-          haben — Rodung, Bauten —, ist wirtschaftlicher Wert. Was vor aller
-          Arbeit da war — Naturgrundlage, Wasser, Rohstoffe —, ist niemandes
-          Erzeugnis und keine Ware. Das Rechtsleben vergibt Nutzungsrechte nach
-          Bedarf und Fähigkeit, nicht nach Geldmacht. Wer ausscheidet, erhält
-          seine Arbeit vergütet, nicht den Boden. Horten kann keiner, was er
-          nicht nutzt. Wie das Recht dem Geist die Tür zum Wissen öffnet, öffnet
-          es der Wirtschaft den Zugang zur Natur: als Anspruch, nicht als Beute.
+          Durch den Boden läuft eine Trennlinie. Was Menschen an ihm
+          gearbeitet haben, ist wirtschaftlicher Wert. Was vor aller
+          Arbeit da war, ist niemandes Erzeugnis und keine Ware. Das
+          Rechtsleben vergibt Nutzungsrechte nach Bedarf und Fähigkeit,
+          nicht nach Geldmacht. Wer ausscheidet, erhält seine Arbeit
+          vergütet, nicht den Boden. Horten kann keiner, was er nicht
+          nutzt. Das Recht öffnet der Wirtschaft den Zugang zur Natur:
+          als Anspruch, nicht als Beute.
         text: >
-          Durch den Boden läuft eine Trennlinie: Was Menschen an ihm gearbeitet
-          haben — Rodung, Entwässerung, Bauten —, ist ein wirtschaftlicher Wert
-          wie jeder andere und kann als Leistung vergütet werden. Aber was vor
-          aller Arbeit da war — die Naturgrundlage selbst, das Wasser, die
-          Rohstoffe im Grund —, ist niemandes Erzeugnis und kann darum nicht wie
-          eines bewertet werden. Das Rechtsleben ordnet deshalb den Zugang: Es
-          vergibt Nutzungsrechte nach Bedarf und Fähigkeit zur Nutzung, nicht
-          nach Geldmacht. Wer Boden bearbeitet, erhält das Recht dazu — solange
-          er es tut und so, dass die Grundlage für die Nachkommenden erhalten
-          bleibt. Scheidet er aus, wird ihm seine Arbeit vergütet, nicht der
-          Boden bezahlt: So ist der Spekulation entzogen, was niemand geschaffen
-          hat — horten kann keiner, was er nicht nutzt. Wie das Recht dem
-          Geistesleben die Tür zum Wissen öffnet, öffnet es der Wirtschaft den
-          Zugang zur Natur: als gesicherten Anspruch, nicht als Beute des
+          Durch den Boden läuft eine Trennlinie: Was Menschen an ihm
+          gearbeitet haben — Rodung, Entwässerung, Bauten —, ist ein
+          wirtschaftlicher Wert wie jeder andere und kann als Leistung
+          vergütet werden. Aber was vor aller Arbeit da war — die
+          Naturgrundlage selbst, das Wasser, die Rohstoffe im Grund —,
+          ist niemandes Erzeugnis und kann darum nicht wie eines
+          bewertet werden. Das Rechtsleben ordnet deshalb den Zugang: Es
+          vergibt Nutzungsrechte nach Bedarf und Fähigkeit zur Nutzung,
+          nicht nach Geldmacht. Wer Boden bearbeitet, erhält das Recht
+          dazu — solange er es tut und so, dass die Grundlage für die
+          Nachkommenden erhalten bleibt. Scheidet er aus, wird ihm seine
+          Arbeit vergütet, nicht der Boden bezahlt: So ist der
+          Spekulation entzogen, was niemand geschaffen hat — horten kann
+          keiner, was er nicht nutzt. Wie das Recht dem Geistesleben die
+          Tür zum Wissen öffnet, öffnet es der Wirtschaft den Zugang zur
+          Natur: als gesicherten Anspruch, nicht als Beute des
           Stärkeren.
         references:
           - id: 2da53185-f2eb-4802-8253-a8635536a5c7
@@ -3090,72 +3109,77 @@ felder:
             source_id: 33402240-be44-57c3-8923-a5fd9d00056f
             relation: erlaeutert
             relevance: 0.95
-            begruendung: Belegt direkt die Kernthese, dass der Boden durch das neuere Wirtschaftsleben zur Ware gemacht wurde und fragt, was dahinter steckt — genau die Trennlinie Ware/keine Ware.
+            begruendung: "Belegt direkt die Kernthese, dass der Boden durch das neuere Wirtschaftsleben zur Ware gemacht wurde und fragt, was dahinter steckt — genau die Trennlinie Ware/keine Ware."
           - id: eaa2f790-ebe2-4111-b6eb-5e1621039e1e
             chunk_id: fd2a7644-7403-5652-b933-8dd7e4772aba
             chunk_type: secondary_book
             source_id: ad8f3976-697e-56a9-a611-b6f38ac7572c
             relation: bestaetigt
             relevance: 0.93
-            begruendung: Aussage, dass Grund und Boden nicht produzierbar und von Anfang an keine Ware ist und nicht dem Warenprinzip unterliegt, bestätigt den Aspekt unmittelbar.
+            begruendung: "Aussage, dass Grund und Boden nicht produzierbar und von Anfang an keine Ware ist und nicht dem Warenprinzip unterliegt, bestätigt den Aspekt unmittelbar."
           - id: 07d7a8e0-9885-4f70-8628-67650a71d109
             chunk_id: fdcffabb-b1c0-5d26-a733-da589ac35801
             chunk_type: secondary_book
             source_id: 2097962e-459d-515e-8a2f-defcc299b6b6
             relation: begruendet
             relevance: 0.88
-            begruendung: Erklärt, dass beim Bodenkauf ein Recht und keine Ware erworben wird, und begründet damit die Unterscheidung von Nutzungsrecht und Ware.
+            begruendung: "Erklärt, dass beim Bodenkauf ein Recht und keine Ware erworben wird, und begründet damit die Unterscheidung von Nutzungsrecht und Ware."
           - id: 216b6d10-fbbb-4fd0-921b-59912d01f4dd
             chunk_id: 07302ae0-ca83-57d7-9188-e467b9f05f1f
             chunk_type: secondary_book
             source_id: ad8f3976-697e-56a9-a611-b6f38ac7572c
             relation: veranschaulicht
             relevance: 0.85
-            begruendung: Konkretisiert die Forderung, den Boden nicht kaufen/verkaufen zu können, sondern Bearbeitung über rechtliche und geistige Verhältnisse zu regeln — veranschaulicht den Rechtsrahmen.
+            begruendung: "Konkretisiert die Forderung, den Boden nicht kaufen/verkaufen zu können, sondern Bearbeitung über rechtliche und geistige Verhältnisse zu regeln — veranschaulicht den Rechtsrahmen."
           - id: 530decef-dd27-4026-afa1-01cf09c28efc
             chunk_id: 048bdcb9-dd66-564c-bcd3-ed0ca14c2bc7
             chunk_type: secondary_book
             source_id: 332b7fbc-1261-5c00-9ad0-fe767d486ef2
             relation: definiert
             relevance: 0.8
-            begruendung: Ordnet das Recht auf Boden dem Rechtsstaat zu und trennt es vom bezahlten Warencharakter der Arbeit — definiert die Zuordnung des Bodenrechts.
+            begruendung: "Ordnet das Recht auf Boden dem Rechtsstaat zu und trennt es vom bezahlten Warencharakter der Arbeit — definiert die Zuordnung des Bodenrechts."
         chunk_id: 793b29f5-b9dd-4257-b483-fa119df9b812
-      - schlagwort: Preis
-        schlagsatz: Der Preis sagt, was es kostet — nicht, was es einbringt.
+      - schlagwort: Harmoniepreis
+        schlagsatz: Der Preis wird ausgerechnet, nicht verhandelt.
         kurztext: >
-          Ein Preis ist richtig, wenn er dem Erzeuger erlaubt, dasselbe noch
-          einmal zu tun — nicht mehr und nicht weniger. Gerechnet wird in der
-          Assoziation: Wer verkauft, weist aus, woraus der Preis besteht; wer
-          kauft, kann nachrechnen. Zins und Rente stehen nicht darin, denn sie
-          decken nichts, was wiederholt werden müsste. Weil der Preis gerechnet
-          wird, fällt die Preissteuerung weg. Wo zu viele dasselbe herstellen,
-          läuft der Preis ins Leere; wo zu wenige stehen, bleibt Bedarf. Die
-          Assoziation spricht es aus; wer hingeht, geht selbst. Wer am Preis
-          dreht, kuriert am Thermometer statt an der Kälte.
+          Ein Preis ist richtig, wenn er dem Erzeuger erlaubt, dasselbe
+          noch einmal zu tun — nicht mehr und nicht weniger. Er ist ein
+          Eintrag in der Weltbuchhaltung: Jeder Posten bedeutet etwas,
+          und im Ausgleich der Posten entsteht der Preis. Gerechnet wird
+          in der Assoziation: Wer verkauft, weist aus, woraus der Preis
+          besteht; wer kauft, kann nachrechnen. Zins und Rente stehen
+          nicht darin, denn sie decken nichts, was wiederholt werden
+          müsste.
         text: >
-          Ein Preis ist richtig, wenn er dem Erzeuger erlaubt, dasselbe noch
-          einmal zu tun — nicht mehr und nicht weniger. Das Rechtsleben sichert,
-          dass dieser Grundsatz gilt und dass die Rechnung offenliegt. Gerechnet
-          wird in der Assoziation, wo Erzeuger, Handel und Verwender
-          zusammensitzen: Wer verkauft, weist aus, woraus sein Preis sich
-          zusammensetzt — Lebensunterhalt, Erneuerung der Produktionsmittel,
-          Vorleistungen und ein Spielraum für das Weiterkommen. Wer kauft, kann
-          nachrechnen. Keine Stelle setzt Preise fest, keine Behörde und kein
-          Kartell — aber jeder Preis lässt sich prüfen, weil seine Bestandteile
-          offen sind. Zins und Rente stehen nicht darin, denn sie decken nichts,
-          was wiederholt werden müsste. Weil der Preis gerechnet wird und nicht
-          am Markt entsteht, fällt die Preissteuerung weg — und an ihre Stelle
-          tritt eine andere Korrektur: die Bewegung von Menschen. Der Preis
-          hängt an der Zahl derer, die auf einem bestimmten Feld arbeiten. Wo zu
-          viele dasselbe herstellen, finden ihre Erzeugnisse keinen Bedarf mehr
-          — der richtig gerechnete Preis läuft ins Leere. Wo zu wenige stehen,
-          bleibt der Bedarf ungedeckt. Die Assoziation sieht beides, weil sie
-          den Überblick über Erzeugung und Bedarf hat, und spricht es aus; wer
-          hingeht, geht selbst. Das überschüssige Kapital dient dazu, den
-          Arbeitern etwas beizubringen, um sie in andere Berufszweige
-          überzuführen. Wer die Preise über den Geldwert korrigieren wollte,
-          machte dasselbe, als brächte er bei Kälte die Thermometersäule zum
-          Steigen: Er kurierte am Anzeiger statt an der Wirklichkeit.
+          Ein Preis ist richtig, wenn er dem Erzeuger erlaubt, dasselbe
+          noch einmal zu tun — nicht mehr und nicht weniger. Er ist ein
+          Eintrag in der Weltbuchhaltung: Jeder Posten bedeutet etwas —
+          mit Natur verbundene Arbeit oder ersparte Arbeit —, und im
+          Ausgleich der Posten entsteht der Preis. Das Rechtsleben
+          sichert, dass dieser Grundsatz gilt und dass die Rechnung
+          offenliegt. Gerechnet wird in der Assoziation, wo Erzeuger,
+          Handel und Verwender zusammensitzen: Wer verkauft, weist aus,
+          woraus sein Preis sich zusammensetzt — Lebensunterhalt,
+          Erneuerung der Produktionsmittel, Vorleistungen und ein
+          Spielraum für das Weiterkommen. Wer kauft, kann nachrechnen.
+          Keine Stelle setzt Preise fest, keine Behörde und kein Kartell
+          — aber jeder Preis lässt sich prüfen, weil seine Bestandteile
+          offen sind. Zins und Rente stehen nicht darin, denn sie decken
+          nichts, was wiederholt werden müsste. Weil der Preis gerechnet
+          wird und nicht am Markt entsteht, fällt die Preissteuerung weg
+          — und an ihre Stelle tritt eine andere Korrektur: die Bewegung
+          von Menschen. Der Preis hängt an der Zahl derer, die auf einem
+          bestimmten Feld arbeiten. Wo zu viele dasselbe herstellen,
+          finden ihre Erzeugnisse keinen Bedarf mehr — der richtig
+          gerechnete Preis läuft ins Leere. Wo zu wenige stehen, bleibt
+          der Bedarf ungedeckt. Die Assoziation sieht beides, weil sie
+          den Überblick über Erzeugung und Bedarf hat, und spricht es
+          aus; wer hingeht, geht selbst. Das überschüssige Kapital dient
+          dazu, den Arbeitern etwas beizubringen, um sie in andere
+          Berufszweige überzuführen. Wer die Preise über den Geldwert
+          korrigieren wollte, machte dasselbe, als brächte er bei Kälte
+          die Thermometersäule zum Steigen: Er kurierte am Anzeiger
+          statt an der Wirklichkeit.
         references:
           - id: 13f29086-94cd-489f-980d-a873d014d1cd
             chunk_id: 99845e73-64a1-5478-aaca-6794d75c5be0
@@ -3163,57 +3187,57 @@ felder:
             source_id: b516edf9-7daf-5dcd-a783-6a235da7c744
             relation: erlaeutert
             relevance: 0.72
-            begruendung: Behandelt direkt die Preisbestimmung durch Zusammenschluss der Branchen und das Verschwinden der Konkurrenz — entspricht dem Aspekt, dass der Preis gerechnet wird und Preissteuerung wegfällt.
+            begruendung: "Behandelt direkt die Preisbestimmung durch Zusammenschluss der Branchen und das Verschwinden der Konkurrenz — entspricht dem Aspekt, dass der Preis gerechnet wird und Preissteuerung wegfällt."
           - id: 8410822c-dd60-4259-a073-5dd2d61d49aa
             chunk_id: 41621c7f-2551-5263-bc64-f3a497b7637f
             chunk_type: secondary_book
             source_id: a24f052c-0fe4-538f-811b-c696fefcf48f
             relation: erlaeutert
             relevance: 0.68
-            begruendung: Thematisiert das Recht der Mitbestimmung bei der Preisbildung und die zwei in Betracht kommenden Dinge — passt zu Feld 4 Recht/Wirtschaft und zum Preis-Aspekt.
+            begruendung: "Thematisiert das Recht der Mitbestimmung bei der Preisbildung und die zwei in Betracht kommenden Dinge — passt zu Feld 4 Recht/Wirtschaft und zum Preis-Aspekt."
           - id: 6bd145b1-0d20-4416-a8d2-b48811a7cd9a
             chunk_id: 5ada0d46-2f2b-5132-8fd3-8fd8f67053d5
             chunk_type: secondary_book
             source_id: 511f741a-63fd-511d-bd69-5653c5f3b059
             relation: bestaetigt
             relevance: 0.58
-            begruendung: Betont, dass Assoziationen nicht Gesetze machen, sondern arbeiten, um unnötige Arbeit zu vermeiden — stützt die Aussage, dass Preissteuerung wegfällt.
+            begruendung: "Betont, dass Assoziationen nicht Gesetze machen, sondern arbeiten, um unnötige Arbeit zu vermeiden — stützt die Aussage, dass Preissteuerung wegfällt."
           - id: b071e7ff-2f89-44dc-8686-599d3ae2dc78
             chunk_id: 391029c1-56c2-5c9f-894d-f9358a52755b
             chunk_type: book
             source_id: f8e6c475-a0e5-4081-b265-61a7536a183e
             relation: bestaetigt
             relevance: 0.55
-            begruendung: Sagt, dass nicht Gesetze Erzeugung, Zirkulation und Verbrauch regeln, sondern Menschen in Assoziation — bestätigt den Aspekt des gerechneten Preises ohne Steuerung.
+            begruendung: "Sagt, dass nicht Gesetze Erzeugung, Zirkulation und Verbrauch regeln, sondern Menschen in Assoziation — bestätigt den Aspekt des gerechneten Preises ohne Steuerung."
         chunk_id: 4e79b241-751b-426a-9438-c06873387e2e
       - schlagwort: Eigentumszeit
         schlagsatz: Nutzen auf Zeit statt Besitz für immer.
         kurztext: >
-          Werkstätten, Maschinen, Betriebe gehören dem, der sie fähig führt —
-          und nur solange. Eigentum ist Verfügungsrecht auf Zeit, gebunden an
-          Leistung. Die Arbeit erweist die Fähigkeit, das Geistesleben erkennt
-          sie an, das Recht vollzieht den Übergang: nicht an den Erben, nicht an
-          den Meistbietenden. Dem Ausscheidenden wird die eigene Arbeit
-          vergütet; die Verfügung wandert unentgeltlich weiter, denn sie war nie
-          Ware. Der Boden ist niemandes Werk; die Produktionsmittel sind das
-          Werk vieler — darum fallen sie an die Gemeinschaft zurück, wenn keiner
-          sie führt.
+          Produktionsmittel, auch Grund und Boden, gehören dem, der sie
+          fähig führt — und nur solange. Eigentum ist Verfügungsrecht
+          auf Zeit, gebunden an Leistung. Wer aufhört, wählt seinen
+          Nachfolger selbst; das Kapital wandert unentgeltlich weiter,
+          weder an Erben noch an Meistbietende. Persönlich bleibt nur,
+          was er für seine Arbeit bezieht und zurücklegt; es verliert
+          mit der Zeit an Wert. Das Recht sichert den Übergang und nimmt
+          das Kapital nie an sich.
         text: >
-          Werkstätten, Maschinen, Betriebe — die Produktionsmittel gehören dem,
-          der sie fähig führt, und nur solange er sie fähig führt. Eigentum an
-          ihnen ist kein ewiger Besitz, sondern ein Verfügungsrecht auf Zeit,
-          gebunden an tatsächliche Leistung. Die Arbeit erweist die Fähigkeit,
-          das Geistesleben erkennt sie an — und das Recht vollzieht dann den
-          Übergang: Es bestimmt nicht, wer der Fähige ist, es sorgt nur dafür,
-          dass die Verfügung ihm ungehindert zufällt statt dem Erben oder dem
-          Meistbietenden. Dem Ausscheidenden wird vergütet, was er an eigener
-          Arbeit eingebracht hat; die Verfügung selbst aber wandert
-          unentgeltlich weiter, denn sie war nie Ware. Der Unterschied zum Boden
-          liegt in der Herkunft: Der Boden ist niemandes Werk, die
-          Produktionsmittel sind das Werk vieler — darum fallen sie an die
-          Gemeinschaft zurück, wenn keiner sie führt. So bleibt Eigentum in
-          Bewegung, weil es der Fähigkeit folgt statt dem Erbgang: Der Geist
-          bestimmt, das Recht vollzieht.
+          Werkstätten, Maschinen, Betriebe, auch Grund und Boden — die
+          Produktionsmittel gehören dem, der sie fähig führt, und nur
+          solange er die Produktion leitet. Eigentum an ihnen ist kein
+          ewiger Besitz, sondern ein Verfügungsrecht auf Zeit, gebunden
+          an tatsächliche Leistung. Die Arbeit macht die Fähigkeit
+          sichtbar. Wer aufhört, wählt seinen Nachfolger selbst; wer
+          nicht selbst wählen will, setzt eine Korporation der geistigen
+          Organisation ein. Das Kapital geht unentgeltlich und mit allen
+          Verpflichtungen an den Nachfolger über, denn es war nie Ware —
+          nicht an den Erben, nicht an den Meistbietenden. Persönlich
+          bleibt nur, was jemand für seine Arbeit bezieht und davon
+          zurücklegt; alles andere geht über. Und was bleibt, verliert
+          mit der Zeit an Wert. Das Recht sichert nur, dass der Übergang
+          ungehindert geschieht; das Kapital nimmt es nie selbst an
+          sich. So bleibt Eigentum in Bewegung, weil es der Fähigkeit
+          folgt statt dem Erbgang.
         references:
           - id: 71ce4a1e-3328-4b85-bc85-75d6e47981d3
             chunk_id: 1a6473c2-7dba-5bd7-b04f-711fd11a76a0
@@ -3221,66 +3245,68 @@ felder:
             source_id: 36fd1671-61a0-5c25-beda-7e82d72b7fba
             relation: erlaeutert
             relevance: 0.82
-            begruendung: Behandelt explizit die Zeitfrage bei Produktionsmitteln (maschineller Art), die innerhalb einer gewissen Zeit aufgebraucht werden — direkt zum Aspekt Eigentumszeit.
+            begruendung: "Behandelt explizit die Zeitfrage bei Produktionsmitteln (maschineller Art), die innerhalb einer gewissen Zeit aufgebraucht werden — direkt zum Aspekt Eigentumszeit."
           - id: ab67661c-ab2c-4bd0-98e1-f72ffeba9082
             chunk_id: 3196bbf1-e5ad-5470-b9b8-38ea6467423c
             chunk_type: secondary_book
             source_id: c98c5a9c-1e03-5640-8a8b-992251d26f59
             relation: begruendet
             relevance: 0.78
-            begruendung: Begründet, dass man sich künftig durch individuelle Fähigkeiten der Produktionsmittel bedient und Betriebsleitung an Fähigkeit gebunden ist — Kern des Nutzen-auf-Zeit-Prinzips.
+            begruendung: "Begründet, dass man sich künftig durch individuelle Fähigkeiten der Produktionsmittel bedient und Betriebsleitung an Fähigkeit gebunden ist — Kern des Nutzen-auf-Zeit-Prinzips."
           - id: ce35c797-cd53-4e9a-938d-be149b2e777e
             chunk_id: 75523ff4-25d5-5513-a21a-d52981d2c645
             chunk_type: secondary_book
             source_id: adc5385d-fe3c-5275-ad33-ac4f53b2618f
             relation: veranschaulicht
             relevance: 0.72
-            begruendung: Veranschaulicht zeitlich befristeten Besitz (geistige Produkte gehören nach Jahrzehnten der Allgemeinheit) als Beispiel für Eigentum auf Zeit statt für immer.
+            begruendung: "Veranschaulicht zeitlich befristeten Besitz (geistige Produkte gehören nach Jahrzehnten der Allgemeinheit) als Beispiel für Eigentum auf Zeit statt für immer."
           - id: 742e87d5-af1f-4882-af2d-9cffe73f84e7
             chunk_id: 1b349601-0b25-5da6-a891-18fa8ee6ccb8
             chunk_type: secondary_book
             source_id: bf7b8b7f-ea57-5ec3-a966-f6f113c39d57
             relation: bestaetigt
             relevance: 0.7
-            begruendung: Bestätigt, dass Besitz künftig kein Besitz mehr sein wird durch Regelung von Arbeitskraft und Besitz — stützt die Umwandlung von Dauerbesitz in zeitgebundene Verfügung.
+            begruendung: "Bestätigt, dass Besitz künftig kein Besitz mehr sein wird durch Regelung von Arbeitskraft und Besitz — stützt die Umwandlung von Dauerbesitz in zeitgebundene Verfügung."
           - id: f8ccf0a8-fc38-4827-aa74-92ccb04d5911
             chunk_id: 8471d27f-2f56-5b3f-b622-7a302401d03b
             chunk_type: secondary_book
             source_id: 6c69318f-7799-5fc8-9c40-1a14a16a5445
             relation: definiert
             relevance: 0.66
-            begruendung: Definiert Besitz im gesellschaftlichen Leben als ausschließliches Verfügungsverhältnis — grundlegend für das Verständnis von Eigentum als Verfügungsrecht auf Zeit.
+            begruendung: "Definiert Besitz im gesellschaftlichen Leben als ausschließliches Verfügungsverhältnis — grundlegend für das Verständnis von Eigentum als Verfügungsrecht auf Zeit."
         chunk_id: abc1a531-e654-4e9d-9643-3f06c3c4a606
-      - schlagwort: Vertrag
-        schlagsatz: Das Recht bindet, ohne zu bestimmen.
+      - schlagwort: Vertragssicherheit
+        schlagsatz: Das Recht macht keine Verträge, es überwacht sie nur.
         kurztext: >
-          Verträge sind das Rückgrat des Wirtschaftslebens: Was vereinbart ist,
-          gilt. Aber was vereinbart wird — Preise, Mengen, Wege —, bestimmt das
-          Recht nicht. Das entscheiden die Assoziationen, in denen Erzeuger,
-          Handel und Verwender gemeinsam urteilen. Das Recht reicht den leeren
-          Vertrag, die Assoziation schreibt hinein. Eine Grenze bleibt: Das
-          Recht selbst ist unverkäuflich — kein Gesetz gegen Geld, kein Amt für
-          Vermögen; und das Geistige ebenso: kein Schulplatz nach Kontostand.
-          Innerhalb dieser Grenze verhandelt die Wirtschaft frei; außerhalb
-          gilt: nicht verhandelbar.
+          Verträge sind das Rückgrat des Wirtschaftslebens: Was
+          vereinbart ist, gilt. Aber was vereinbart wird — Preise,
+          Mengen, Wege —, bestimmt das Recht nicht; das entscheiden die
+          Assoziationen. Kein Preis wird verordnet. Das Recht reicht den
+          leeren Vertrag, die Assoziation schreibt hinein. Eine Grenze
+          bleibt: Das Recht selbst ist unverkäuflich — kein Gesetz gegen
+          Geld, kein Amt für Vermögen. Innerhalb dieser Grenze
+          verhandelt die Wirtschaft frei; außerhalb gilt: nicht
+          verhandelbar.
         text: >
           Verträge sind das Rückgrat des Wirtschaftslebens: Lieferungen,
-          Abnahmen, Preise — alles beruht darauf, dass Abmachungen halten. Das
-          Rechtsleben verleiht ihnen diese Verbindlichkeit: Was vereinbart ist,
-          gilt, und wer sich nicht daran hält, wird daran gehalten. Aber was
-          vereinbart wird — Preise, Mengen, Qualitäten, Wege —, bestimmt das
-          Recht nicht. Das entscheiden die Beteiligten selbst: die
-          Erzeuger-Verwender-Gemeinschaften (Assoziationen), in denen die, die
-          herstellen, handeln und verbrauchen, gemeinsam urteilen, was ein
-          Erzeugnis wert ist und wohin es gehen soll. So wie die Mittel
-          gesichert vom Recht ins Geistesleben übergehen, geht die verbindliche
-          Form vom Recht in die Wirtschaft über: Das Recht reicht den leeren
-          Vertrag, die Assoziation schreibt hinein. Kein Preis wird verordnet,
-          keiner diktiert — aber jeder vereinbarte gilt. Dabei kennt der Vertrag
-          eine Grenze: Das Recht selbst ist unverkäuflich — kein Gesetz gegen
-          Geld, kein Urteil gegen Zahlung, kein Amt für Vermögen; und das
-          Geistige ist es ebenso: kein Schulplatz nach Kontostand, keine
-          Diagnose nach Zahlungskraft. Innerhalb dieser Grenze verhandelt die
+          Abnahmen, Preise — alles beruht darauf, dass Abmachungen
+          halten. Das Rechtsleben verleiht ihnen diese Verbindlichkeit:
+          Was vereinbart ist, gilt, und wer sich nicht daran hält, wird
+          daran gehalten. Aber was vereinbart wird — Preise, Mengen,
+          Qualitäten, Wege —, bestimmt das Recht nicht. Das entscheiden
+          die Beteiligten selbst: die Erzeuger-Verwender-Gemeinschaften
+          (Assoziationen), in denen die, die herstellen, handeln und
+          verbrauchen, gemeinsam urteilen, was ein Erzeugnis wert ist
+          und wohin es gehen soll. So wie die Mittel gesichert vom Recht
+          ins Geistesleben übergehen, geht die verbindliche Form vom
+          Recht in die Wirtschaft über: Das Recht reicht den leeren
+          Vertrag, die Assoziation schreibt hinein. Kein Preis wird
+          verordnet, keiner diktiert — aber jeder vereinbarte gilt.
+          Dabei kennt der Vertrag eine Grenze: Das Recht selbst ist
+          unverkäuflich — kein Gesetz gegen Geld, kein Urteil gegen
+          Zahlung, kein Amt für Vermögen; und das Geistige ist es
+          ebenso: kein Schulplatz nach Kontostand, keine Diagnose nach
+          Zahlungskraft. Innerhalb dieser Grenze verhandelt die
           Wirtschaft frei; außerhalb gilt: nicht verhandelbar.
         references:
           - id: ece82291-c58c-43a7-b724-9e11b241325b
@@ -3289,14 +3315,14 @@ felder:
             source_id: ad8f3976-697e-56a9-a611-b6f38ac7572c
             relation: erlaeutert
             relevance: 0.9
-            begruendung: Belegt direkt, dass das Gesetz im Wirtschaftsleben nicht ausreicht und nicht bestimmen kann, was im Einzelnen geliefert werden soll — genau die These 'Recht bindet, ohne zu bestimmen'.
+            begruendung: "Belegt direkt, dass das Gesetz im Wirtschaftsleben nicht ausreicht und nicht bestimmen kann, was im Einzelnen geliefert werden soll — genau die These 'Recht bindet, ohne zu bestimmen'."
           - id: a7cf3ad6-2064-44dd-b911-f975fcacb83d
             chunk_id: 7f3af39a-04fa-50e0-ba70-071093113a39
             chunk_type: secondary_book
             source_id: 069a4e27-ea6a-512a-b75b-2e512c0d3f15
             relation: begruendet
             relevance: 0.85
-            begruendung: Führt aus, dass das Wirtschaftsleben auf Leistung/Gegenleistung und dem Vertragsprinzip beruht — begründet die Rolle des Vertrags als Rückgrat, ohne inhaltliche Bestimmung durch das Recht.
+            begruendung: "Führt aus, dass das Wirtschaftsleben auf Leistung/Gegenleistung und dem Vertragsprinzip beruht — begründet die Rolle des Vertrags als Rückgrat, ohne inhaltliche Bestimmung durch das Recht."
           - id: 13829a3f-170e-46df-86ff-93103c93354a
             chunk_id: 391029c1-56c2-5c9f-894d-f9358a52755b
             chunk_type: book
@@ -3310,42 +3336,46 @@ felder:
             source_id: 66ee0b14-82ba-55f8-aa48-8cc3d1e91c8a
             relation: erlaeutert
             relevance: 0.7
-            begruendung: Erläutert die Grenzziehung des Wirtschaftslebens zum Rechtsleben und zur Naturordnung, was den Rahmen 'Recht bindet, bestimmt aber nicht' stützt.
+            begruendung: "Erläutert die Grenzziehung des Wirtschaftslebens zum Rechtsleben und zur Naturordnung, was den Rahmen 'Recht bindet, bestimmt aber nicht' stützt."
           - id: baf6b6f0-249b-4788-9d36-61e7d2292bb7
             chunk_id: 4cdf9683-42a3-5015-b87b-d889e71824bc
             chunk_type: secondary_book
             source_id: 09739c07-c342-5b38-a092-74c4d6274753
             relation: veranschaulicht
             relevance: 0.6
-            begruendung: Veranschaulicht das Verhältnis von Wirtschaftsleben und Recht/Arbeitskraft als gesunde Abhängigkeit — passt zum Aspekt der rechtlichen Rahmung ohne inhaltliche Bestimmung.
+            begruendung: "Veranschaulicht das Verhältnis von Wirtschaftsleben und Recht/Arbeitskraft als gesunde Abhängigkeit — passt zum Aspekt der rechtlichen Rahmung ohne inhaltliche Bestimmung."
         chunk_id: 46a03295-9837-428c-b767-f6adc5b39622
-      - schlagwort: Haftung
-        schlagsatz: Wer verursacht, trägt die Folgen.
+      - schlagwort: Transparenz
+        schlagsatz: Jeder hat ein Recht, alles zu erfahren — wie die Ware entsteht und was danach mit ihr geschieht.
         kurztext: >
-          Was die Wirtschaft hervorbringt, wirkt über den Kauf hinaus:
-          verbrauchte Natur, belastete Gesundheit, Abfall, der bleibt. Das
-          Rechtsleben sichert, dass diese Folgen bei dem bleiben, der sie
-          verursacht. Erst die Haftung macht den Preis wahr: Ein Erzeugnis,
-          dessen Schäden andere tragen, ist nicht billig, sondern unbezahlt. Was
-          sich der Prüfung entzieht, entzieht sich der Verbesserung; was sich
-          der Haftung entzieht, entzieht sich der Wahrheit. Das Recht schreibt
-          nicht vor, was erzeugt wird — aber es sorgt dafür, dass keine Rechnung
-          offen bleibt.
+          Jeder hat das Recht zu erfahren, wie seine Waren hergestellt
+          wurden und werden. Das Rechtsleben sichert, dass man jederzeit
+          in die Prozesse hineinschauen kann — und erfahren, was danach
+          mit der Ware geschieht, bis zur Entsorgung. Das ist volle
+          Transparenz für den Verwender, nicht Gnade des Herstellers,
+          sondern Anspruch. Sie ist das Gegenstück zum Zugang zum Wissen
+          im Geistesleben: Dort kann jeder erfahren, hier muss die
+          Wirtschaft zeigen.
         text: >
-          Was die Wirtschaft hervorbringt, wirkt über den Kaufakt hinaus:
-          verbrauchte Natur, belastete Gesundheit, Abfall, der bleibt. Das
-          Rechtsleben sichert, dass diese Folgen bei dem bleiben, der sie
-          verursacht — sie dürfen nicht auf die Allgemeinheit, die Nachbarn oder
-          die Kommenden abgewälzt werden. Erst die Haftung macht den Preis wahr:
-          Ein Erzeugnis, dessen Schäden andere tragen, ist nicht billig, sondern
-          unbezahlt. Hier findet die Produktinformation, die das Recht dem
-          Geistesleben öffnet, ihr Gegenstück: Dort wird sichtbar, wie etwas
-          hergestellt wird — hier wird getragen, was die Herstellung kostet. Was
-          sich der Prüfung entzieht, entzieht sich der Verbesserung; was sich
-          der Haftung entzieht, entzieht sich der Wahrheit. Das Recht schreibt
-          der Wirtschaft nicht vor, was sie erzeugt und wie — aber es sorgt
-          dafür, dass keine Rechnung offen bleibt. So kann die Wirtschaft frei
-          wirtschaften, ohne auf Kosten derer zu leben, die nicht mitverhandeln.
+          Jeder Mensch hat das Recht zu erfahren, wie die Waren, die er
+          verwendet, hergestellt wurden und werden. Das Rechtsleben
+          sichert, dass man jederzeit in die Prozesse hineinschauen
+          kann: aus welchen Stoffen, unter welchen Bedingungen, mit
+          welchen Folgen für Mensch und Natur eine Ware entsteht. Und
+          dass man erfahren kann, was danach mit ihr geschieht, wenn sie
+          abgegeben ist — wie sie genutzt, weitergegeben, entsorgt wird.
+          Das ist volle Transparenz für den Verwender, nicht als Gnade
+          des Herstellers, sondern als Anspruch. Sie ist das Gegenstück
+          zum Zugang zum Wissen, den das Recht dem Geistesleben öffnet:
+          Dort kann jeder erfahren, wie die Dinge hergestellt werden,
+          die er verwendet; hier ist die Wirtschaft verpflichtet, es zu
+          zeigen. Was verschlossen bleibt, entzieht sich der Prüfung und
+          damit der Verbesserung; was offenliegt, kann besser werden.
+          Das Recht schreibt der Wirtschaft nicht vor, was sie erzeugt
+          und wie — aber es sorgt dafür, dass nichts im Dunkeln bleibt,
+          was die Menschen betrifft, die es verwenden. So kann die
+          Wirtschaft frei wirtschaften, und wer ihre Erzeugnisse nutzt,
+          weiß, was er nutzt.
         references:
           - id: 3b762b86-a55f-4f71-8349-89823fdde2a8
             chunk_id: b0d44658-c44b-51b4-b461-21098fef8a33
@@ -3353,62 +3383,69 @@ felder:
             source_id: cec61afc-bc20-5ae6-bdac-d53ef6bce0b5
             relation: erlaeutert
             relevance: 0.55
-            begruendung: Belegt den Zusammenhang von Rechtsbegriffen und Wirtschaft im sozialen Organismus und stützt die These, dass das Rechtsleben den wirtschaftlichen Rahmen (inkl. Haftungsfolgen) sichert.
+            begruendung: "Belegt den Zusammenhang von Rechtsbegriffen und Wirtschaft im sozialen Organismus und stützt die These, dass das Rechtsleben den wirtschaftlichen Rahmen (inkl. Haftungsfolgen) sichert."
           - id: 0d8120bb-2f46-48fc-9498-23d625dd6a9a
             chunk_id: 4cdf9683-42a3-5015-b87b-d889e71824bc
             chunk_type: secondary_book
             source_id: 09739c07-c342-5b38-a092-74c4d6274753
             relation: bestaetigt
             relevance: 0.5
-            begruendung: Zeigt die gesunde Abhängigkeit des Wirtschaftslebens von Gesetz und Recht und bestätigt damit die Aussage, dass das Recht den fairen Rahmen der Wirtschaft bildet.
+            begruendung: "Zeigt die gesunde Abhängigkeit des Wirtschaftslebens von Gesetz und Recht und bestätigt damit die Aussage, dass das Recht den fairen Rahmen der Wirtschaft bildet."
           - id: 7d647eb8-bd38-459b-ab45-9a92e092c378
             chunk_id: 9d0159df-8012-5c2c-9bec-f2b67b8cb02e
             chunk_type: secondary_book
             source_id: 4a46e806-8717-53b0-aee7-5b45d939f3ad
             relation: veranschaulicht
             relevance: 0.45
-            begruendung: Veranschaulicht, wie Rechts- und Machtverhältnisse auf das Verfügungsrecht und damit auf wirtschaftliche Folgen wirken — nahe an der Haftungsfrage.
+            begruendung: "Veranschaulicht, wie Rechts- und Machtverhältnisse auf das Verfügungsrecht und damit auf wirtschaftliche Folgen wirken — nahe an der Haftungsfrage."
           - id: 2d575ef9-bd19-4313-8241-cbe54d6b15f3
             chunk_id: 9dbcbbb1-125e-565c-ba95-66f4d8b05af3
             chunk_type: book
             source_id: 3b38df84-e9bc-4e70-9032-d3fa65517cfd
             relation: erlaeutert
             relevance: 0.4
-            begruendung: Erläutert, dass der Wirtschaftskreislauf ein eigenes Lebensgesetz hat und ohne rechtliche Einhegung zerstörerisch wirkt — stützt die Notwendigkeit eines rechtlichen Rahmens.
+            begruendung: "Erläutert, dass der Wirtschaftskreislauf ein eigenes Lebensgesetz hat und ohne rechtliche Einhegung zerstörerisch wirkt — stützt die Notwendigkeit eines rechtlichen Rahmens."
           - id: b6b881ec-905f-4053-b3cc-edc45ca5a4c5
             chunk_id: 7a0cf888-b7e8-5c72-9a7d-19e8ad7fc597
             chunk_type: secondary_book
             source_id: 66ee0b14-82ba-55f8-aa48-8cc3d1e91c8a
             relation: begruendet
             relevance: 0.35
-            begruendung: Begründet die Grenzziehung des Wirtschaftslebens gegenüber Naturordnung und Rechtsleben und damit die Zuständigkeit des Rechts für die Folgen wirtschaftlichen Handelns.
+            begruendung: "Begründet die Grenzziehung des Wirtschaftslebens gegenüber Naturordnung und Rechtsleben und damit die Zuständigkeit des Rechts für die Folgen wirtschaftlichen Handelns."
         chunk_id: b87b9f79-5e7f-45ee-99d9-798c2873db30
       - schlagwort: Einspruch
-        schlagsatz: Kein Missstand bleibt verborgen.
+        schlagsatz: Wer einen Missstand meldet, steht unter dem Schutz des Rechts.
         kurztext: >
           Wirtschaft beruht auf Vertrauen, und Vertrauen braucht
-          Korrigierbarkeit. Darum garantiert das Rechtsleben jedem — Arbeiter,
-          Verbraucher, Nachbar —, Missstände öffentlich zu machen, ohne Nachteil
-          zu fürchten. Die Einwände werden dort erfasst, wo sie hingehören: am
-          Erzeugnis, am Betrieb, am Verfahren — ohne Vorprüfung. Was die
-          Assoziationen von innen leisten, leistet dieses Recht von außen: Es
-          hält die Wirtschaft korrigierbar für die, die in ihren Verträgen nicht
-          mit am Tisch sitzen.
+          Korrigierbarkeit. Wer im Betrieb arbeitet, sieht Missstände
+          zuerst. Darum schafft das Rechtsleben eine Rechtsgrundlage für
+          alle, die darauf hinweisen: Wer aufdeckt, wird geschützt,
+          nicht verfolgt, und muss weder Kündigung noch Klage fürchten.
+          Auch Verbraucher und Nachbarn können Einwände einbringen; sie
+          werden offen erfasst, ohne Vorprüfung. Was die Assoziationen
+          von innen leisten, leistet dieses Recht von außen: Es hält die
+          Wirtschaft korrigierbar.
         text: >
           Wirtschaft beruht auf Vertrauen, und Vertrauen braucht
-          Korrigierbarkeit. Darum garantiert das Rechtsleben jedem — dem
-          Arbeiter im Betrieb, dem Verbraucher am Produkt, dem Nachbarn an der
-          Fabrik —, Missstände öffentlich zu machen, ohne Nachteil zu fürchten:
-          Wer aufdeckt, wird geschützt, nicht verfolgt. Die Einwände werden dort
-          sichtbar erfasst, wo sie hingehören — am Erzeugnis, am Betrieb, am
-          Verfahren —, formal gesammelt, ohne Vorprüfung ihres Werts; so zeigt
-          sich, was viele bewegt, ohne dass eine Instanz entscheidet, was gehört
-          wird. Was die Assoziationen von innen leisten — den Bedarf wahrnehmen,
-          den Mangel bemerken, die Preise berichtigen —, leistet dieses Recht
-          von außen: Es hält die Wirtschaft korrigierbar für die, die in ihren
-          Verträgen nicht mit am Tisch sitzen. So bleibt das Wirtschaftsleben in
-          Bewegung und wirtschaftet nicht im Verborgenen — denn was niemand
-          beanstanden kann, verbessert auch niemand.
+          Korrigierbarkeit. Wer in einem Betrieb arbeitet, sieht
+          Missstände zuerst: verschwiegene Gefahren, geschönte Werte,
+          verdeckte Schäden. Darum schafft das Rechtsleben eine
+          Rechtsgrundlage für alle, die über Missstände im Unternehmen
+          informieren: Wer aufdeckt, wird geschützt, nicht verfolgt — er
+          muss weder Kündigung noch Versetzung, weder Klage noch
+          Schadenersatzforderung fürchten, weil er gesagt hat, was er
+          sah. Ebenso können Verbraucher am Produkt und Nachbarn an der
+          Fabrik Einwände einbringen. Die Hinweise werden dort sichtbar
+          erfasst, wo sie hingehören — am Erzeugnis, am Betrieb, am
+          Verfahren —, formal gesammelt, ohne Vorprüfung ihres Werts; so
+          zeigt sich, was viele bewegt, ohne dass eine Instanz
+          entscheidet, was gehört wird. Was die Assoziationen von innen
+          leisten — den Bedarf wahrnehmen, den Mangel bemerken, die
+          Preise berichtigen —, leistet dieses Recht von außen: Es hält
+          die Wirtschaft korrigierbar für die, die in ihren Verträgen
+          nicht mit am Tisch sitzen. So bleibt das Wirtschaftsleben in
+          Bewegung und wirtschaftet nicht im Verborgenen — denn was
+          niemand beanstanden kann, verbessert auch niemand.
         references:
           - id: c242f9fe-7846-43b0-8716-d331a5df993e
             chunk_id: 785f5557-63b5-53e9-8ed2-1e41dbe79826
@@ -3416,37 +3453,39 @@ felder:
             source_id: 3b38df84-e9bc-4e70-9032-d3fa65517cfd
             relation: erlaeutert
             relevance: 0.55
-            begruendung: Belegt den Rechtsboden, auf dem nachteilige Wirkungen für Menschengruppen verhindert werden — stützt die Aussage, dass das Recht den fairen Rahmen sichert und Missstände korrigierbar hält.
+            begruendung: "Belegt den Rechtsboden, auf dem nachteilige Wirkungen für Menschengruppen verhindert werden — stützt die Aussage, dass das Recht den fairen Rahmen sichert und Missstände korrigierbar hält."
           - id: ca1f4639-140b-47ad-b1a3-9cb758be8151
             chunk_id: 7a0cf888-b7e8-5c72-9a7d-19e8ad7fc597
             chunk_type: secondary_book
             source_id: 66ee0b14-82ba-55f8-aa48-8cc3d1e91c8a
             relation: begruendet
             relevance: 0.5
-            begruendung: Zeigt die Grenze des Wirtschaftslebens zum Rechtsleben und begründet, warum das Recht von außen den korrigierbaren Rahmen für die Wirtschaft bildet.
+            begruendung: "Zeigt die Grenze des Wirtschaftslebens zum Rechtsleben und begründet, warum das Recht von außen den korrigierbaren Rahmen für die Wirtschaft bildet."
           - id: c6c60e7b-419e-446c-b031-a0e05dd66df2
             chunk_id: 391029c1-56c2-5c9f-894d-f9358a52755b
             chunk_type: book
             source_id: f8e6c475-a0e5-4081-b265-61a7536a183e
             relation: veranschaulicht
             relevance: 0.45
-            begruendung: Veranschaulicht, dass nicht Gesetze, sondern sachkundige Menschen in Assoziationen regeln — kontrastiert und ergänzt die Rolle des Rechts als äußeren Korrekturrahmen.
+            begruendung: "Veranschaulicht, dass nicht Gesetze, sondern sachkundige Menschen in Assoziationen regeln — kontrastiert und ergänzt die Rolle des Rechts als äußeren Korrekturrahmen."
           - id: b934db6d-cb21-4af9-86d2-2a6a9c7579fb
             chunk_id: 5ada0d46-2f2b-5132-8fd3-8fd8f67053d5
             chunk_type: secondary_book
             source_id: 511f741a-63fd-511d-bd69-5653c5f3b059
             relation: erlaeutert
             relevance: 0.4
-            begruendung: Erläutert, dass Assoziationen keine Gesetze machen, sondern arbeiten — verdeutlicht die Arbeitsteilung zwischen innerer Assoziation und äußerem Recht.
+            begruendung: "Erläutert, dass Assoziationen keine Gesetze machen, sondern arbeiten — verdeutlicht die Arbeitsteilung zwischen innerer Assoziation und äußerem Recht."
           - id: 49af9e8c-864e-41c2-b74f-85086b1c4039
             chunk_id: 8ffc5d25-014d-5a4e-bb06-9b7821606939
             chunk_type: secondary_book
             source_id: 537d2b7b-5e95-5878-82ab-cc24d9d74c08
             relation: veranschaulicht
             relevance: 0.35
-            begruendung: Veranschaulicht das Netz der Assoziationen und die Transparenz zwischen ihnen, was die Korrigierbarkeit und Sichtbarkeit von Missständen im Wirtschaftsleben stützt.
+            begruendung: "Veranschaulicht das Netz der Assoziationen und die Transparenz zwischen ihnen, was die Korrigierbarkeit und Sichtbarkeit von Missständen im Wirtschaftsleben stützt."
         chunk_id: 6a5de5af-5c6f-4895-a055-ba014e926871
     chunk_id: ecc87e55-95ac-4e68-84eb-c1cdc4c1cc4c
+
+
 
   - id: dm-04k
     feld: 4
@@ -3454,45 +3493,58 @@ felder:
     pol: krank
     titel: "Die Politik entscheidet wer gewinnt"
     kurz: >
-      Im kranken Feld bestimmt das Recht, wer gewinnt, statt den Rahmen für alle
-      zu sichern. Arbeiten darf, wem es erlaubt wird; Boden wird zur Beute; der
-      Preis zeigt Macht statt Kosten. Verfügungsrechte zirkulieren als Papier,
-      Vorrechte begünstigen die einen, Abgaben folgen politischen Setzungen.
-      Juristische Konstrukte verbergen, wer verantwortlich ist.
+      Im kranken Feld bestimmt das Recht, wer gewinnt, statt den Rahmen
+      für alle zu sichern. Wer Arbeit hat, muss folgen; Haus und
+      Grundstück sind Waren wie jede andere; der Preis zeigt Macht statt
+      Aufwand. Verfügungsrechte zirkulieren als Papier, Vorrechte
+      begünstigen die einen, Geheimnisse behindern die Entwicklung. Wer
+      meldet, wird zum Problem.
     text: |
-      Im kranken Feld Recht -> Wirtschaft sichert das Recht nicht den fairen Rahmen, es verteilt Vorteile. Der Wettbewerb verlagert sich vom Erzeugnis auf den Einfluss, und wer am Hebel sitzt, bestimmt, wer gedeiht.
+      Im kranken Feld Recht -> Wirtschaft sichert das Recht nicht den fairen Rahmen, es verteilt Vorteile.
+      Der Wettbewerb verlagert sich vom Erzeugnis auf den Einfluss, und wer am Hebel sitzt, bestimmt, wer
+      gedeiht.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Erlaubnis:** Lizenzen und Konzessionen legen fest, wer arbeiten darf; die knappe Erlaubnis wird selbst zur Ware. **Bodenrente:** Boden und Wohnraum werden Gegenstand der Spekulation; die Rendite kommt aus der Miete derer, die wohnen müssen. **Willkürpreis:** Monopole, Kartelle und politische Eingriffe bilden den Preis; er zeigt, wo Macht sitzt. **Papiermacht:** Aktien und Verbriefungen lösen die Verfügung von Fähigkeit und Produktion; der Zins ist Einkommen, weil Geld da war. **Vorrechte:** Subventionen, Auflagen und vorab entschiedene Vergaben stehen schon im Vertrag, wenn das Recht ihn reicht. **Zwangsabgabe:** Bezahlt wird, was festgesetzt ist, nicht was jemand verursacht. **Verschleierung:** Holdings und Briefkästen beschränken nicht nur die Haftung, sondern die Auffindbarkeit der Verantwortung.
+      Sieben Aspekte zeigen, wie das geschieht. **Weisungsbefugnis:** Wer bei mir Arbeit hat, muss folgen
+      — fest, befristet oder freiberuflich. **Bodenrente:** Haus, Wohnung, Grundstück sind Waren wie jede
+      andere; die Rendite kommt aus dem Grundbedürfnis. **Willkürpreis:** Monopole, Kartelle und
+      politische Eingriffe bilden den Preis; er zeigt, wo Macht sitzt. **Papiermacht:** Geld und
+      Wertpapiere sind Verfügungsrechte; der Zins ist Einkommen, weil Geld da war. **Vorrechte:**
+      Subventionen, Auflagen und vorab entschiedene Vergaben stehen schon im Vertrag, wenn das Recht ihn
+      reicht. **Geheimnisschutz:** Patente und NDAs verriegeln, was Verwender wissen dürften.
+      **Vergeltung:** Wer meldet, wird zum Problem — die Firma verteidigt ihr Bild.
 
-      Der Gegenpol ist „Das Gesetz sichert den fairen Rahmen“: Dort bindet das Recht, ohne zu bestimmen, und Arbeit und Boden bleiben außerhalb des Warenverkehrs.
+      Der Gegenpol ist „Das Gesetz sichert den fairen Rahmen“: Dort bindet das Recht, ohne zu bestimmen,
+      und Arbeit und Boden bleiben außerhalb des Warenverkehrs.
     aspekte:
-      - schlagwort: Erlaubnis
-        schlagsatz: Arbeiten darf, wem es erlaubt wird.
+      - schlagwort: Weisungsbefugnis
+        schlagsatz: Wer eine Arbeit hat, muss folgen.
         kurztext: >
-          Wer wirtschaftlich tätig sein darf, entscheiden nicht Können und
-          Vertrauen, sondern behördliche Erlaubnis — oder Geld. Lizenzen und
-          Berufsverbote legen fest, wer anbieten darf. Der Staat, dem verwehrt
-          sein müsste, Arbeit zuzuweisen, weist sie zu: über das Erlauben und
-          Verbieten. Weil die Erlaubnis knapp gehalten wird, wird sie selbst zur
-          Ware: Konzessionen werden gehandelt und vererbt. Die Tüchtigen ohne
-          Erlaubnis bleiben draußen, die Erlaubten ohne Tüchtigkeit bleiben
-          drin. Den Zutritt zur eigenen Arbeit muss man kaufen.
+          Hier gilt: Wer bei mir Arbeit hat — fest, befristet oder als
+          Freiberufler nach Stunden —, folgt meinen Anweisungen. Ich
+          habe seine Arbeitskraft gekauft, also bestimme ich Art, Zeit
+          und Ort. Das ist Handel unter Ungleichen: Er braucht das
+          Einkommen, ich habe den Auftrag. Das Recht nennt es
+          Weisungsbefugnis. Weil Arbeitskraft vom Menschen nicht zu
+          trennen ist, wird er als Mensch mitgekauft. Er arbeitet nicht
+          für die Sache, sondern für den Anweisenden.
         text: >
-          Wer wirtschaftlich tätig sein darf, entscheiden nicht das Können und
-          das Vertrauen der Beteiligten, sondern behördliche Erlaubnis — oder
-          Geld. Lizenzen, Konzessionen und Berufsverbote legen fest, wer einen
-          Betrieb eröffnen, ein Gewerbe ausüben, eine Leistung anbieten darf.
-          Der Staat, dem verwehrt sein müsste, Arbeit zuzuweisen, weist sie zu —
-          auf dem Umweg über das Erlauben und Verbieten: Was einer arbeitet,
-          entscheidet nicht er selbst aus seinen Fähigkeiten, sondern die
-          Behörde aus ihren Listen. Und weil die Erlaubnis knapp gehalten wird,
-          wird sie selbst zur Ware: Konzessionen werden gehandelt, verpachtet,
-          vererbt — wer sie bezahlen kann, braucht kein Können mehr, und wer nur
-          Können hat, kommt nicht hinein. So entsteht die doppelte Sperre: Die
-          Tüchtigen ohne Erlaubnis bleiben draußen, die Erlaubten ohne
-          Tüchtigkeit bleiben drin. Der Mensch, den das Recht aus dem
-          Warenverkehr heraushalten sollte, muss sich den Zutritt zur eigenen
-          Arbeit erst kaufen.
+          Hier denkt der Arbeitgeber: Wer bei mir Arbeit hat, muss
+          folgen — gleichgültig, ob er unbefristet angestellt ist, auf
+          Zeit gebunden oder als Freiberufler Stunden oder Tage
+          abrechnet. Ich zahle dafür, also bestimme ich, was getan wird,
+          wann, wie lange und auf welche Weise. Das Recht gibt mir dafür
+          einen Namen: Weisungsbefugnis. Es regelt Art, Maß und Zeit der
+          Arbeit nicht mehr unter Gleichen als Bürgern, sondern stellt
+          sich hinter den Vertrag zwischen Ungleichen: Der eine braucht
+          das Einkommen, der andere hat den Auftrag. Was dabei verkauft
+          wird, ist nicht eine Leistung, sondern die Verfügbarkeit des
+          Menschen. Seine Arbeitskraft ist von ihm nicht zu trennen,
+          also wird er als Mensch mitgekauft. Er arbeitet nicht mehr aus
+          seiner Fähigkeit und für die Sache, sondern nach der Anweisung
+          dessen, der bezahlt. Was einer kann, wird zu dem, was man von
+          ihm verlangt; wer widerspricht, riskiert Stelle oder Auftrag.
+          Und wo das Recht diese Befugnis gibt, muss niemand mehr
+          überzeugen: Die Anordnung genügt.
         references:
           - id: 577a72fe-e601-4761-96ed-a66bf4322092
             chunk_id: 4cdf9683-42a3-5015-b87b-d889e71824bc
@@ -3500,63 +3552,67 @@ felder:
             source_id: 09739c07-c342-5b38-a092-74c4d6274753
             relation: kritisiert
             relevance: 0.55
-            begruendung: Behandelt die Abhängigkeit des Wirtschaftslebens von Gesetz und Recht über Arbeitskraft — genau der Aspekt, dass Erlaubnis/Recht bestimmt, wer arbeiten darf; Steiner problematisiert diese Abhängigkeit.
+            begruendung: "Behandelt die Abhängigkeit des Wirtschaftslebens von Gesetz und Recht über Arbeitskraft — genau der Aspekt, dass Erlaubnis/Recht bestimmt, wer arbeiten darf; Steiner problematisiert diese Abhängigkeit."
           - id: 97eb954c-d3a3-46d4-b75d-66cadd153014
             chunk_id: 48b902d1-b868-589e-b665-72eb3429eea7
             chunk_type: secondary_book
             source_id: 7879ca81-485f-5163-92c8-337d39ca904f
             relation: deckt_auf
             relevance: 0.5
-            begruendung: Zeigt, dass Arbeit einem Rechtsverhältnis unterstellt wird statt bezahlt zu werden — deckt den Mechanismus auf, dass Recht/Zuteilung über die Arbeitsmöglichkeit entscheidet.
+            begruendung: "Zeigt, dass Arbeit einem Rechtsverhältnis unterstellt wird statt bezahlt zu werden — deckt den Mechanismus auf, dass Recht/Zuteilung über die Arbeitsmöglichkeit entscheidet."
           - id: dbff118a-cc0e-4ab8-a987-a44565b3f6df
             chunk_id: 79bd180b-a2b1-51e8-9494-85591b8a8cef
             chunk_type: secondary_book
             source_id: adc5385d-fe3c-5275-ad33-ac4f53b2618f
             relation: kritisiert
             relevance: 0.45
-            begruendung: Thematisiert staatliche Festlegung von Arbeitsverhältnissen (Arbeitstag, Verhältnis Arbeiter-Leiter) — Beleg für behördliche Regulierung des Zugangs zur Arbeit.
+            begruendung: "Thematisiert staatliche Festlegung von Arbeitsverhältnissen (Arbeitstag, Verhältnis Arbeiter-Leiter) — Beleg für behördliche Regulierung des Zugangs zur Arbeit."
           - id: f8d0fd10-f63c-4e04-a6ee-b66bfa1edd09
             chunk_id: 24553b88-48a5-5028-b105-6439cf0db13e
             chunk_type: secondary_book
             source_id: fcbbca3e-9dbf-5722-9de0-17e14bb955dd
             relation: zeigt_gegenbild
             relevance: 0.4
-            begruendung: Fordert Trennung von Staat/Rechtsgebiet und Wirtschaftsgebiet — Gegenbild zur Vermischung, die Erlaubniswirtschaft erzeugt.
+            begruendung: "Fordert Trennung von Staat/Rechtsgebiet und Wirtschaftsgebiet — Gegenbild zur Vermischung, die Erlaubniswirtschaft erzeugt."
           - id: 20b93107-e01a-4594-a672-fb21f003009f
             chunk_id: bc8874ec-49ae-55a1-97e5-5789eb10f503
             chunk_type: secondary_book
             source_id: 7bfb2f42-4765-5dd8-a7c6-931ca7b9eb88
             relation: zeigt_gegenbild
             relevance: 0.4
-            begruendung: Arbeitsrecht fällt dem selbständigen Staat auf demokratischer Basis zu — Gegenentwurf zur willkürlichen Erlaubnisvergabe.
+            begruendung: "Arbeitsrecht fällt dem selbständigen Staat auf demokratischer Basis zu — Gegenentwurf zur willkürlichen Erlaubnisvergabe."
         chunk_id: 54da0fa7-7ec0-4468-8fa7-2ec00af12393
       - schlagwort: Bodenrente
-        schlagsatz: Wer wohnen muss, zahlt, was der Hortende verlangt.
+        schlagsatz: Haus, Wohnung, Grundstück sind Waren wie jede andere.
         kurztext: >
-          Boden und Wohnraum, auf die jeder angewiesen ist, werden Objekt von
-          Spekulation. Naturgrundlage und eingearbeitete Leistung verschmelzen
-          in einem Kaufpreis — auch das, was niemand geschaffen hat, wird
-          gehandelt. Wer hortet, muss nicht nutzen; die Preise steigen, weil die
-          Not derer wächst, die nicht ausweichen können. Die Rendite kommt ohne
-          Leistung: aus der Miete derer, die wohnen müssen, aus der Pacht derer,
-          die anbauen wollen. Der gesicherte Anspruch wird zur Beute des
-          Zahlungskräftigsten — und das Recht schützt die Beute.
+          Hier sagt der Eigentümer: Haus, Wohnung, Grundstück sind Waren
+          wie jede andere. Was ich gebaut habe und was die Natur schon
+          war, kaufe und verkaufe ich in einem Preis. Ich besitze, was
+          ich nicht nutze — leer oder vermietet; entweder ich warte, bis
+          der Preis steigt, oder ich kassiere, ohne etwas zu geben. Wer
+          wohnen muss, zahlt, was ich verlange. Wer Geld hat, bekommt
+          den Boden. Das Recht schützt mein Eigentum.
         text: >
-          Eigentum an der Grundversorgung wird absolut gesetzt: Boden und
-          Wohnraum, auf die jeder Mensch angewiesen ist, werden Objekt von
-          Spekulation und Monopolbildung. Die Trennlinie im Boden wird
-          eingeebnet — Naturgrundlage und eingearbeitete Leistung verschmelzen
-          in einem Kaufpreis, und gehandelt wird fortan beides zusammen: auch
-          das, was niemand geschaffen hat. Wer hortet, muss nicht nutzen; die
-          Preise steigen nicht, weil Werte entstehen, sondern weil die Not derer
-          wächst, die nicht ausweichen können. Die Rendite kommt ohne Leistung:
-          Sie wird aus dem Grundbedürfnis gezogen — bezahlt mit der Miete derer,
-          die wohnen müssen, mit der Pacht derer, die anbauen wollen, mit der
-          Verdrängung derer, die nicht mithalten. So unterdrückt das absolute
-          Eigentum genau die Bedürfnisse, deren Befriedigung der Boden dienen
-          sollte: Der gesicherte Anspruch, den das Recht der Wirtschaft öffnen
-          müsste, wird zur Beute des Zahlungskräftigsten — und das Recht schützt
-          die Beute.
+          Hier sagt der Eigentümer: Haus, Wohnung, Grundstück sind Waren
+          wie jede andere. Das Recht gibt mir dafür das absolute
+          Eigentum: Ich darf kaufen, halten, vererben und verkaufen, an
+          wen ich will und zu dem Preis, den der Markt hergibt. Es macht
+          keinen Unterschied, was ich am Grundstück gearbeitet habe —
+          Rodung, Entwässerung, Gebäude — und was vor aller Arbeit da
+          war: Naturgrundlage, Wasser, Rohstoffe im Grund. Beides geht
+          in einem Kaufpreis auf, und gehandelt wird auch das, was
+          niemand geschaffen hat. Ich muss nicht nutzen, was ich
+          besitze: Wohnt ein anderer in meiner Wohnung, nutzt er sie,
+          nicht ich. Ich besitze, was ich nicht nutze — leer oder
+          vermietet. Entweder ich warte, bis der Preis steigt, oder ich
+          kassiere, ohne etwas zu geben. Der Preis steigt nicht, weil
+          Werte entstehen, sondern weil die Not derer wächst, die nicht
+          ausweichen können. Wer wohnen muss, zahlt Miete, wer anbauen
+          will, Pacht — in der Höhe, die ich verlange. Wer Geld hat,
+          bekommt den Boden; wer ihn braucht und nichts hat, bekommt
+          keinen — dann liegen seine Fähigkeiten brach. Das Recht, das
+          den Zugang nach Bedarf und Fähigkeit ordnen müsste, ordnet ihn
+          nach Geldmacht — und schützt die Beute.
         references:
           - id: ae8cb189-697d-40fc-940f-3752bf454d61
             chunk_id: 2bc96356-f9fa-5f1f-9335-cf489ffd7ffa
@@ -3564,64 +3620,67 @@ felder:
             source_id: 4a46e806-8717-53b0-aee7-5b45d939f3ad
             relation: deckt_auf
             relevance: 0.9
-            begruendung: Behandelt explizit die Bodenrente als Preis für Grund und Boden und legt damit den Mechanismus offen, den der Aspekt beschreibt.
+            begruendung: "Behandelt explizit die Bodenrente als Preis für Grund und Boden und legt damit den Mechanismus offen, den der Aspekt beschreibt."
           - id: a118e232-b521-4f9a-b107-f401b8ddc624
             chunk_id: 29014b59-33c8-5cb1-80d4-b2f976703ac9
             chunk_type: secondary_book
             source_id: 33402240-be44-57c3-8923-a5fd9d00056f
             relation: deckt_auf
             relevance: 0.88
-            begruendung: Zeigt, wie der Boden zur Ware wurde und damit Spekulation und Preisbildung ohne eigene Leistung ermöglicht werden.
+            begruendung: "Zeigt, wie der Boden zur Ware wurde und damit Spekulation und Preisbildung ohne eigene Leistung ermöglicht werden."
           - id: a711abf6-d026-40c6-8b36-db0163e16a73
             chunk_id: 06ec80d2-97a2-55ae-92f7-05ceaa708497
             chunk_type: secondary_book
             source_id: ad8f3976-697e-56a9-a611-b6f38ac7572c
             relation: kritisiert
             relevance: 0.85
-            begruendung: Thematisiert die Ungerechtigkeit der Wert- und Preissteigerungen des Bodens, die von vielen bemerkt wird — direkt einschlägig für den Aspekt.
+            begruendung: "Thematisiert die Ungerechtigkeit der Wert- und Preissteigerungen des Bodens, die von vielen bemerkt wird — direkt einschlägig für den Aspekt."
           - id: baed9c41-dc29-4b2b-bcfc-61e50d330c8d
             chunk_id: 9d0159df-8012-5c2c-9bec-f2b67b8cb02e
             chunk_type: secondary_book
             source_id: 4a46e806-8717-53b0-aee7-5b45d939f3ad
             relation: deckt_auf
             relevance: 0.82
-            begruendung: Legt dar, wie Rechts- und Machtverhältnisse dem Verfügungsberechtigten fortwährend Vorteile verschaffen — passt zur Aussage 'das Recht schützt die Beute'.
+            begruendung: "Legt dar, wie Rechts- und Machtverhältnisse dem Verfügungsberechtigten fortwährend Vorteile verschaffen — passt zur Aussage 'das Recht schützt die Beute'."
           - id: 477fc416-2d7b-42de-955d-a7d94c9a1cf5
             chunk_id: 575c291c-30e1-5b36-b5f4-f7d9b1039fdf
             chunk_type: secondary_book
             source_id: 4a46e806-8717-53b0-aee7-5b45d939f3ad
             relation: deckt_auf
             relevance: 0.78
-            begruendung: Beschreibt die Eigentendenz des volkswirtschaftlichen Prozesses, Bodenrente zu erzeugen und die Landwirtschaft teurer zu machen — stützt die Analyse der Bodenrente.
+            begruendung: "Beschreibt die Eigentendenz des volkswirtschaftlichen Prozesses, Bodenrente zu erzeugen und die Landwirtschaft teurer zu machen — stützt die Analyse der Bodenrente."
         chunk_id: 529207b2-054a-45cc-9395-84da4a6600d7
       - schlagwort: Willkürpreis
-        schlagsatz: Der Preis sagt, wer stärker ist — nicht, was es kostet.
+        schlagsatz: Der Preis sagt, wer stärker ist — nicht, was aufgewendet wurde.
         kurztext: >
-          Der Preis wird nicht gerechnet, sondern gebildet — und Bildung heißt
-          Macht. Monopole setzen, Kartelle sprechen sich ab, Spekulanten treiben
-          Kurse. Von der anderen Seite greift der Staat zu: Preisdeckel,
-          Subventionen aus politischem Kalkül. Dazwischen verschwindet der
-          gerechnete Preis: Kein Erzeuger weist aus, kein Verwender kann
-          nachrechnen. Der Preis zeigt nicht, wo Hände fehlen, sondern wo Macht
-          sitzt. Was eine Anzeige sein sollte, wird zum Hebel — und wer am Hebel
-          sitzt, bestimmt, wer gedeiht.
+          Hier sagt der Anbieter: Der Preis ist, was ich durchsetze. Ich
+          bin allein am Markt, oder wir sprechen uns ab, oder ich treibe
+          den Kurs. Der Staat greift von der anderen Seite zu:
+          Preisdeckel, Subventionen aus politischem Kalkül. Keiner weist
+          aus, was aufgewendet wurde, keiner kann nachrechnen. Die
+          Posten bedeuten nichts mehr; der Preis zeigt nicht, wo Hände
+          fehlen, sondern wo Macht sitzt. Wer am Hebel sitzt, bestimmt,
+          wer gedeiht.
         text: >
-          Der Preis wird nicht gerechnet, sondern gebildet — und Bildung heißt
-          hier Macht. Von der einen Seite greift die Wirtschaft zu: Monopole
-          setzen, was ihnen passt; Kartelle sprechen sich ab; Spekulanten
-          treiben die Kurse, bis der Preis nur noch den Druck der Nachfrage und
-          die Macht des Angebots ausdrückt, nicht mehr die Kosten der
-          Herstellung. Von der anderen Seite greift der Staat zu: Preisdeckel,
-          Mindestpreise, Subventionen, die das eine verbilligen und das andere
-          verteuern — nicht aus Sachkenntnis, sondern aus politischem Kalkül.
-          Dazwischen verschwindet der gerechnete Preis, der offenlegen würde,
-          was ein Erzeugnis tatsächlich kostet: Kein Erzeuger weist aus, kein
-          Verwender kann nachrechnen, kein Zusammenhang zwischen
-          Lebensunterhalt, Produktionsmitteln und Vorleistungen ist sichtbar.
-          Damit ist der Preis blind: Er zeigt nicht, wo Hände fehlen und wo zu
-          viele stehen, sondern wo Macht sitzt und wo Ohnmacht leidet. Was eine
-          Anzeige sein sollte, wird zum Hebel — und wer am Hebel sitzt,
-          bestimmt, wer gedeiht und wer verkümmert.
+          Hier sagt der Anbieter: Der Preis ist, was ich durchsetze.
+          Wenn ich allein anbiete, setze ich, was mir passt; wenn wir
+          viele sind, sprechen wir uns ab; und wenn ich auf steigende
+          Preise wette, treibe ich den Kurs. Dann drückt der Preis nur
+          noch den Druck der Nachfrage und die Macht des Angebots aus,
+          nicht mehr den Aufwand der Herstellung. Das Recht lässt mich
+          gewähren — und greift selbst zu: Preisdeckel, Mindestpreise,
+          Subventionen, die das eine verbilligen und das andere
+          verteuern, nicht aus Sachkenntnis, sondern aus politischem
+          Kalkül. Beide bilden den Preis, keiner rechnet ihn. Kein
+          Erzeuger weist aus, was aufgewendet wurde, kein Verwender kann
+          nachrechnen, und kein Zusammenhang zwischen Lebensunterhalt,
+          Produktionsmitteln und Vorleistungen ist sichtbar. So ist die
+          Buchung falsch: Der Posten bedeutet nicht mehr Arbeit oder
+          ersparte Arbeit, sondern Macht. Der Preis zeigt nicht, wo
+          Hände fehlen und wo zu viele stehen, sondern wo Macht sitzt
+          und wo Ohnmacht leidet. Was eine Anzeige sein sollte, wird zum
+          Hebel — und wer am Hebel sitzt, bestimmt, wer gedeiht und wer
+          verkümmert.
         references:
           - id: ed32b6e5-0e35-4953-8cfe-e835100dfe6b
             chunk_id: 6fa0c133-377c-55b9-81da-c427d5d75a5e
@@ -3629,70 +3688,73 @@ felder:
             source_id: 36fd1671-61a0-5c25-beda-7e82d72b7fba
             relation: deckt_auf
             relevance: 0.82
-            begruendung: Zeigt, dass Kartelle/Trusts Monopolpreise über den gewöhnlichen Preis hinaus schaffen — genau die Willkürpreis-These, dass Preise Machtverhältnisse abbilden statt Kosten.
+            begruendung: "Zeigt, dass Kartelle/Trusts Monopolpreise über den gewöhnlichen Preis hinaus schaffen — genau die Willkürpreis-These, dass Preise Machtverhältnisse abbilden statt Kosten."
           - id: 82f7fef6-49fe-473b-99a0-5bc916951e82
             chunk_id: 5bca94ba-4c6b-595a-9a31-e91470aaa875
             chunk_type: secondary_book
             source_id: f6cac5c2-13e9-59a3-b5c1-178565db0872
             relation: kritisiert
             relevance: 0.7
-            begruendung: Kritisiert die herrschende Ansicht, bei der Preisfrage lasse sich nichts anderes machen als was sich von selbst (Angebot/Nachfrage) ergibt — Gegenpol zur These, dass Preise politisch/machtvoll gebildet werden.
+            begruendung: "Kritisiert die herrschende Ansicht, bei der Preisfrage lasse sich nichts anderes machen als was sich von selbst (Angebot/Nachfrage) ergibt — Gegenpol zur These, dass Preise politisch/machtvoll gebildet werden."
           - id: 1ce12b4c-6abc-4c40-aec6-bccac72517e9
             chunk_id: 5c61ad47-6b83-5497-b893-c85f6ef61f50
             chunk_type: secondary_book
             source_id: 4ba32799-0912-586e-a741-aa14e59f21f1
             relation: deckt_auf
             relevance: 0.68
-            begruendung: Behandelt die Bedingungen der Preishöhe auf Verkäufer- und Käuferseite und entlarvt die Vorstellung eines einfach gerechneten Preises.
+            begruendung: "Behandelt die Bedingungen der Preishöhe auf Verkäufer- und Käuferseite und entlarvt die Vorstellung eines einfach gerechneten Preises."
           - id: b289677f-3258-4a97-95b1-8a6bd8d44e13
             chunk_id: 096b606f-99bc-5b64-b1de-3658c9a8fe7d
             chunk_type: secondary_book
             source_id: 4a46e806-8717-53b0-aee7-5b45d939f3ad
             relation: zeigt_gegenbild
             relevance: 0.66
-            begruendung: Betont, dass die Herstellung richtiger Preise nichts Einfaches ist und durchschaut werden muss — Gegenbild zum reinen Machtpreis.
+            begruendung: "Betont, dass die Herstellung richtiger Preise nichts Einfaches ist und durchschaut werden muss — Gegenbild zum reinen Machtpreis."
           - id: a53c0986-4016-4738-8dd7-b31016a04302
             chunk_id: 6640dec2-7658-528d-bb5e-da37c2b329bf
             chunk_type: secondary_book
             source_id: 5e67ef35-a1fd-5322-b0b9-6224e06fe0ed
             relation: deckt_auf
             relevance: 0.6
-            begruendung: Zeigt, dass gerechte Preisbestimmung unmöglich ist, solange Produktionsmittel und Grund und Boden als Verfügungsmacht im Wirtschaftsleben wirken — Preis als Machtfrage.
+            begruendung: "Zeigt, dass gerechte Preisbestimmung unmöglich ist, solange Produktionsmittel und Grund und Boden als Verfügungsmacht im Wirtschaftsleben wirken — Preis als Machtfrage."
         chunk_id: dc579699-6244-4718-b40e-22d504a508d6
       - schlagwort: Papiermacht
         schlagsatz: Papier verfügt — Können geht leer aus.
         kurztext: >
-          Verfügungsrechte werden zur Ware: Aktien, Optionen, Verbriefungen
-          zirkulieren losgelöst von Fähigkeit und Produktion. Wer nie einen
-          Betrieb geführt hat, verfügt über tausende; wer ihn führt, gehört zur
-          Verfügungsmasse. Das Patent löst Wissen vom Menschen ab. Geld kann
-          kein Geld verdienen — was wächst, sind Ansprüche an fremde Arbeit. Der
-          Zins ist das Urbild: Einkommen, weil Geld da war. Das Fundament ist
-          das Geld selbst, auch das Papier: Der Staat erklärt es zum
-          Zahlungsmittel, seine Deckung ist Macht. Erzeugt eine Stelle Geld aus
-          dem Nichts, lösen sich die Papiere von ihrem Boden.
+          Geld und Wertpapiere sind Verfügungsrechte — und werden zur
+          Ware: Aktien, Optionen, Verbriefungen zirkulieren losgelöst
+          von Fähigkeit und Produktion. Wer nie einen Betrieb geführt
+          hat, verfügt über tausende; wer ihn führt, gehört zur
+          Verfügungsmasse. Geld ist Papier, es kann kein Geld verdienen
+          — was wächst, sind Ansprüche an fremde Arbeit. Der Zins ist
+          das Urbild: Einkommen, weil Geld da war. Der Staat erklärt das
+          Geld zum Zahlungsmittel, seine Deckung ist Macht.
         text: >
-          Verfügungsrechte werden zur Ware: Aktien, Optionen, Futures,
-          Verbriefungen — Papiere zirkulieren losgelöst von Fähigkeit und
-          Produktion. Wer nie einen Betrieb geführt hat, verfügt über tausende;
-          wer ihn führt, gehört zur Verfügungsmasse. Das Verfügungsrecht, das
-          dem Fähigen zufallen müsste, wird gekauft, gebündelt, weiterverkauft
-          und gegen sich selbst gewettet — in Schichten, die von der Werkbank
-          aus nicht mehr zu sehen sind. Das Patent löst das Wissen vom Menschen
-          ab und macht es zum Vermögenswert, den kaufen kann, wer nie geforscht
-          hat. Geld kann kein Geld verdienen — denn das, was wächst, sind
-          Ansprüche an fremde Arbeit, die irgendwann jemand einlösen muss. So
-          kommt das Eigentum zur Ruhe statt in Bewegung: Es folgt dem Erbgang
-          und dem Meistbietenden, und die Fähigkeit arbeitet für die Papiere
-          anderer. Der Zins ist das Urbild: Einkommen allein dafür, dass Geld da
-          war. Und das Fundament aller Papiere ist das Geld selbst — auch das
-          ist Papier: Der Staat erklärt es zum Zahlungsmittel, jeder muss es
-          annehmen, seine Deckung ist keine Leistung, nicht Gold, sondern bloße
-          Macht. Preis, Geldmenge, Deckung und Lebensdauer — alles, was den
-          Wirtschaftsprozess abbilden müsste — wird durch die Politik gesetzt
-          und auf Druck der Wirtschaft manipuliert. Erzeugt eine Stelle Geld aus
-          dem Nichts, löst sich die Menge von dem, was sie abbilden soll — und
-          die Papiere darüber verlieren ihren Boden.
+          Geld und Wertpapiere sind Verfügungsrechte, und beide werden
+          zur Ware: Aktien, Optionen, Futures, Verbriefungen — Papiere
+          zirkulieren losgelöst von Fähigkeit und Produktion. Wer nie
+          einen Betrieb geführt hat, verfügt über tausende; wer ihn
+          führt, gehört zur Verfügungsmasse. Das Verfügungsrecht, das
+          dem Fähigen zufallen müsste, wird gekauft, gebündelt,
+          weiterverkauft und gegen sich selbst gewettet — auf Ebenen,
+          die von der Werkbank aus nicht mehr zu sehen sind. Das Patent
+          löst das Wissen vom Menschen ab und macht es zum
+          Vermögenswert, den kaufen kann, wer nie geforscht hat. Geld
+          ist Papier, es kann kein Geld verdienen — denn das, was
+          wächst, sind Ansprüche an fremde Arbeit, die irgendwann jemand
+          einlösen muss. So kommt das Eigentum in Stauung statt in
+          Bewegung: Es folgt dem Erbgang und dem Meistbietenden, und die
+          Fähigkeit arbeitet für die Papiere anderer. Der Zins ist das
+          Urbild: Einkommen allein dafür, dass Geld da war. Und das
+          Fundament aller Papiere ist das Geld selbst: Der Staat erklärt
+          es zum Zahlungsmittel, jeder muss es annehmen, seine Deckung
+          ist keine Leistung, nicht Gold, sondern bloße Macht. Preis,
+          Geldmenge, Deckung und Lebensdauer — alles, was den
+          Wirtschaftsprozess abbilden müsste — wird durch die Politik
+          gesetzt und auf Druck der Wirtschaft manipuliert. Erzeugt eine
+          Stelle Geld aus dem Nichts, löst sich die Menge von dem, was
+          sie abbilden soll — und die Papiere darüber verlieren ihren
+          Boden.
         references:
           - id: 7b381756-841c-4b22-a206-c2ce35805e31
             chunk_id: f450cade-ee76-504d-b745-48f24fe3d022
@@ -3700,68 +3762,70 @@ felder:
             source_id: 2097962e-459d-515e-8a2f-defcc299b6b6
             relation: deckt_auf
             relevance: 0.9
-            begruendung: Zeigt direkt, dass ein Stück Papier niemals in derselben Weise Ware sein kann wie ein Laib Brot — entlarvt die Papiernatur als Grundlage der Verfügungsmacht.
+            begruendung: "Zeigt direkt, dass ein Stück Papier niemals in derselben Weise Ware sein kann wie ein Laib Brot — entlarvt die Papiernatur als Grundlage der Verfügungsmacht."
           - id: b4b1c971-01a6-47b9-81b9-713bf712c697
             chunk_id: fdcffabb-b1c0-5d26-a733-da589ac35801
             chunk_type: secondary_book
             source_id: 2097962e-459d-515e-8a2f-defcc299b6b6
             relation: deckt_auf
             relevance: 0.88
-            begruendung: Man kauft kein Gut, sondern ein Recht — Verfügungsrechte als Krebsschaden der sozialen Ordnung, genau der Aspekt Papiermacht statt Können.
+            begruendung: "Man kauft kein Gut, sondern ein Recht — Verfügungsrechte als Krebsschaden der sozialen Ordnung, genau der Aspekt Papiermacht statt Können."
           - id: 1b03562c-3d90-4bb5-900f-ad8789d99f9f
             chunk_id: a8cdda0f-704b-5156-b5ba-900d50a0b9e3
             chunk_type: secondary_book
             source_id: 069a4e27-ea6a-512a-b75b-2e512c0d3f15
             relation: kritisiert
             relevance: 0.85
-            begruendung: Geld trägt Zinsen, ohne dass das Geld arbeitet — Einkommen aus bloßem Dasein des Papiers, Urbild des Zinses aus dem Kurztext.
+            begruendung: "Geld trägt Zinsen, ohne dass das Geld arbeitet — Einkommen aus bloßem Dasein des Papiers, Urbild des Zinses aus dem Kurztext."
           - id: d5d5786f-0f89-4629-9d6f-5b408ce23a33
             chunk_id: ce180069-958b-5d07-b547-38bf85e2b06d
             chunk_type: secondary_book
             source_id: e784e17d-d6f2-5f21-85bc-9f496c3271d6
             relation: deckt_auf
             relevance: 0.82
-            begruendung: Geld wird durch bloße Abstempelung/Marke zum Warencharakter erhoben — Papier löst sich vom Boden, staatliche Erklärung als Zahlungsmittel.
+            begruendung: "Geld wird durch bloße Abstempelung/Marke zum Warencharakter erhoben — Papier löst sich vom Boden, staatliche Erklärung als Zahlungsmittel."
           - id: fa52b0d2-8822-46f7-98ba-c5976ab4c48f
             chunk_id: 9d0159df-8012-5c2c-9bec-f2b67b8cb02e
             chunk_type: secondary_book
             source_id: 4a46e806-8717-53b0-aee7-5b45d939f3ad
             relation: deckt_auf
             relevance: 0.78
-            begruendung: Freies Verfügungsrecht über Produktionsmittel unter Rechts- und Machtverhältnissen — wer verfügt, ohne zu können; Können wird zur Verfügungsmasse.
+            begruendung: "Freies Verfügungsrecht über Produktionsmittel unter Rechts- und Machtverhältnissen — wer verfügt, ohne zu können; Können wird zur Verfügungsmasse."
         chunk_id: 8e8a7b93-6ed7-4bd5-a1a2-ed7edf8cba8a
       - schlagwort: Vorrechte
         schlagsatz: Das Recht bevorzugt – und nennt es Rahmen.
         kurztext: >
-          Das Recht, das nur binden dürfte, bestimmt: Subventionen für die
-          einen, Auflagen für die anderen, Vergaben, die vor der Ausschreibung
-          entschieden sind. Der Vertrag ist nicht mehr leer, wenn das Recht ihn
-          reicht — die Bedingungen stehen schon darin. Der Wettbewerb verlagert
-          sich vom Erzeugnis auf den Einfluss. Zölle dienen als Waffe; Bauern
-          und Verbraucher werden zu Geiseln fremder Konflikte. Das Rechtsleben,
-          das den fairen Rahmen sichern sollte, wird selbst zum Markt —
+          Das Recht, das nur binden dürfte, bestimmt: Subventionen für
+          die einen, Auflagen für die anderen, Vergaben, die vor der
+          Ausschreibung entschieden sind. Der Vertrag ist nicht mehr
+          leer, wenn das Recht ihn reicht — die Bedingungen stehen schon
+          darin. Der Wettbewerb verlagert sich vom Erzeugnis auf den
+          Einfluss. Zölle dienen als Waffe. Das Rechtsleben, das den
+          fairen Rahmen sichern sollte, wird selbst zum Markt —
           gehandelt wird der Rahmen.
         text: >
-          Das Recht, das nur binden dürfte, bestimmt: Wirtschaftliche Sanktionen
-          und Vorrechte per Gesetz entscheiden, wer gewinnt und wer verliert —
-          nicht die wirtschaftliche Sacherkenntnis. Subventionen für die einen,
-          Auflagen für die anderen; Ausnahmeregelungen, die sich die
-          Begünstigten in die Entwürfe schreiben lassen; Vergaben, die vor der
-          Ausschreibung entschieden sind. Der Vertrag ist nicht mehr leer, wenn
-          das Recht ihn reicht: Die Bedingungen stehen schon darin, bevor die
-          Beteiligten zu verhandeln beginnen. Damit verlagert sich der
-          Wettbewerb vom Erzeugnis auf den Einfluss — nicht wer besser
-          herstellt, gewinnt, sondern wer die Gesetzgebung besser erreicht. Die
-          Assoziationen, die aus Sachkenntnis urteilen sollten, was ein
-          Erzeugnis wert ist und wohin es gehen soll, urteilen ins Leere: Über
-          Wert und Weg hat das Dekret schon entschieden. Auch über die
-          Landesgrenze hinweg greift das Recht in den Handel: Zölle dienen als
-          Waffe der Bestrafung und Erpressung, der Güteraustausch wird nicht aus
-          Sachgründen unterbrochen, sondern aus Machtkalkül — Bauern, Betriebe
-          und Verbraucher werden zu Geiseln fremder Konflikte. So wird das
+          Das Recht, das nur binden dürfte, bestimmt: Wirtschaftliche
+          Sanktionen und Vorrechte per Gesetz entscheiden, wer gewinnt
+          und wer verliert — nicht die wirtschaftliche Sacherkenntnis.
+          Subventionen für die einen, Auflagen für die anderen;
+          Ausnahmeregelungen, die sich die Begünstigten in die Entwürfe
+          schreiben lassen; Vergaben, die vor der Ausschreibung
+          entschieden sind. Der Vertrag ist nicht mehr leer, wenn das
+          Recht ihn reicht: Die Bedingungen stehen schon darin, bevor
+          die Beteiligten zu verhandeln beginnen. Damit verlagert sich
+          der Wettbewerb vom Erzeugnis auf den Einfluss — nicht wer
+          besser herstellt, gewinnt, sondern wer die Gesetzgebung besser
+          erreicht. Die Assoziationen, die aus Sachkenntnis urteilen
+          sollten, was ein Erzeugnis wert ist und wohin es gehen soll,
+          urteilen ins Leere: Über Wert und Weg hat das Dekret schon
+          entschieden. Auch über die Landesgrenze hinweg greift das
+          Recht in den Handel: Zölle dienen als Waffe der Bestrafung und
+          Erpressung, der Güteraustausch wird nicht aus Sachgründen
+          unterbrochen, sondern aus Machtkalkül — Bauern, Betriebe und
+          Verbraucher werden zu Geiseln fremder Konflikte. So wird das
           Rechtsleben, das den fairen Rahmen sichern sollte, selbst zum
-          lukrativsten Markt — und gehandelt wird dort, was es nie geben dürfte:
-          der Rahmen selbst.
+          lukrativsten Markt — und gehandelt wird dort, was es nie geben
+          dürfte: der Rahmen selbst.
         references:
           - id: af0a9a39-89be-4bf0-ac31-efcf966acd51
             chunk_id: 48bdae8b-d523-53ec-89f6-de77bc9a8373
@@ -3769,68 +3833,64 @@ felder:
             source_id: f3b36ec2-031d-4715-ad66-dfc7f43cc491
             relation: deckt_auf
             relevance: 0.72
-            begruendung: Zeigt konkret, wie ein Gesetz das Marktstaerkeverhaeltnis zugunsten bereits Starker verschiebt und Neulinge behindert – genau das 'Recht bevorzugt' des Aspekts.
+            begruendung: "Zeigt konkret, wie ein Gesetz das Marktstaerkeverhaeltnis zugunsten bereits Starker verschiebt und Neulinge behindert – genau das 'Recht bevorzugt' des Aspekts."
           - id: 2b7ad5fa-4a54-4004-ad39-64101591fd4d
             chunk_id: 9d0159df-8012-5c2c-9bec-f2b67b8cb02e
             chunk_type: secondary_book
             source_id: 4a46e806-8717-53b0-aee7-5b45d939f3ad
             relation: kritisiert
             relevance: 0.66
-            begruendung: Kritisiert Rechts- und Machtverhaeltnisse, unter denen der Verfuegungsberechtigte fortwaehrend bevorzugt wird – passt zur These des Rechts als verdecktem Vorrecht.
+            begruendung: "Kritisiert Rechts- und Machtverhaeltnisse, unter denen der Verfuegungsberechtigte fortwaehrend bevorzugt wird – passt zur These des Rechts als verdecktem Vorrecht."
           - id: 809fe6e3-ab4d-43dd-b4bf-4d7526544dde
             chunk_id: a3914032-6595-56ae-81f3-30bc66858b42
             chunk_type: book
             source_id: f8e6c475-a0e5-4081-b265-61a7536a183e
             relation: zeigt_gegenbild
             relevance: 0.55
-            begruendung: Bestimmt Eigentum als reines Verfuegungsrecht im sozialen Organismus – Gegenbild zu einem Recht, das den Rahmen selbst zum Markt macht.
+            begruendung: "Bestimmt Eigentum als reines Verfuegungsrecht im sozialen Organismus – Gegenbild zu einem Recht, das den Rahmen selbst zum Markt macht."
           - id: 3b37b61a-ca07-4d18-898c-7e465b51027a
             chunk_id: 4cdf9683-42a3-5015-b87b-d889e71824bc
             chunk_type: secondary_book
             source_id: 09739c07-c342-5b38-a092-74c4d6274753
             relation: warnt
             relevance: 0.5
-            begruendung: Warnt vor falscher Abhaengigkeit des Wirtschaftslebens von Gesetz und Recht und fordert eine gesunde, naturgemaesse Bindung – beruehrt die Frage, wer den Rahmen setzt.
+            begruendung: "Warnt vor falscher Abhaengigkeit des Wirtschaftslebens von Gesetz und Recht und fordert eine gesunde, naturgemaesse Bindung – beruehrt die Frage, wer den Rahmen setzt."
           - id: ffef3a4a-cfb0-4806-a89a-3d130efd9957
             chunk_id: ea42d0df-7178-5669-8e8d-176adb46586a
             chunk_type: secondary_book
             source_id: 127f8b77-9d70-5d04-a380-7146605e8d19
             relation: kritisiert
             relevance: 0.48
-            begruendung: Kritisiert die bestehende Einheit von Wirtschafts-, Rechts- und Geistesleben als Chaos – stuetzt die These, dass der Rechtsrahmen nicht neutral ist.
+            begruendung: "Kritisiert die bestehende Einheit von Wirtschafts-, Rechts- und Geistesleben als Chaos – stuetzt die These, dass der Rechtsrahmen nicht neutral ist."
         chunk_id: 5bc1929b-7177-406e-8391-8d08122e2bdb
-      - schlagwort: Zwangsabgabe
-        schlagsatz: Bezahlt wird, was festgesetzt ist — nicht, was geschieht.
+      - schlagwort: Geheimnisschutz
+        schlagsatz: Patente, NDAs und andere Geheimnisse behindern die Entwicklung.
         kurztext: >
-          Abgaben bemessen sich nicht an der wirtschaftlichen Realität, sondern
-          an politischen Setzungen. Die Zwangsgebühr wird erhoben, ob du das
-          Angebot nutzt oder nicht. Das Steuersystem ist so kompliziert, dass du
-          einen Berater brauchst; die Last bemisst sich an seiner Kunst. Gesund
-          trägt jeder die Folgen dessen, was er verursacht; hier zahlt jeder,
-          was ihm zugeschrieben wird. Steuern lassen sich nur in Staatsgeld
-          entrichten — so erzwingt das Steuerrecht die Nachfrage nach dem
-          Staatsgeld. Die Einkommensteuer greift zu, bevor irgendein Bedarf
-          entstanden ist.
+          Hier sage ich: Wie meine Ware entsteht, geht niemanden etwas
+          an. Das Recht hilft mir dabei: Patente sperren die Nutzung,
+          Verschwiegenheitsklauseln binden die Mitarbeiter, das
+          Geschäftsgeheimnis ist geschützt. Wer wissen will, was in
+          seinem Produkt steckt, steht vor einer Tür, die das Recht
+          selbst verriegelt. Der Verwender hat keinen Anspruch. Was ich
+          geheim halte, kann kein anderer weiterentwickeln. So behindert
+          der Schutz meines Vorsprungs die Entwicklung aller.
         text: >
-          Abgaben werden nicht an der wirtschaftlichen Realität bemessen,
-          sondern an politischen Setzungen. Die Zwangsfernsehgebühr wird
-          erhoben, ob du das Angebot nutzt oder nicht — unterstellt wird eine
-          fiktive Nutzung. Das Steuersystem ist so kompliziert, dass du einen
-          Berater brauchst, um deine Pflichten zu erfüllen: Die Last bemisst
-          sich nicht an deiner realen Lage, sondern an der Kunst des Beraters
-          oder an seinem Mut, das Gewünschte aus den Formularen herauszulesen.
-          Das ist die Umkehrung der Haftung: Gesund trägt jeder die Folgen
-          dessen, was er verursacht — hier zahlt jeder, was ihm zugeschrieben
-          wird, ob er verursacht, nutzt oder nachfragt. Wer wirkliche Schäden
-          anrichtet, kommt oft davon; wer nichts veranlasst hat, zahlt die
-          Fiktion. Tiefer greift der Steuerzwang in der staatlichen Währung:
-          Steuern lassen sich in nichts anderem entrichten — damit erzwingt das
-          Steuerrecht die Nachfrage nach dem Staatsgeld und macht alternativen
-          Währungen das Leben schwer. Und Steiner geht weiter: Wer Einkommen
-          besteuert, besteuert eine Abstraktion — das Zeichen, nicht das Gut.
-          Die Einkommensteuer greift beim Zufluss zu, bevor irgendein Bedarf
-          entstanden ist, und macht den Staat zum Komplizen der abstrakten
-          Geldwirtschaft, über die er sich beklagt.
+          Hier sagt der Unternehmer: Was in meinem Betrieb geschieht,
+          geht niemanden etwas an. Das Recht hilft ihm dabei. Patente
+          sperren für Jahre, was erfunden wurde;
+          Verschwiegenheitsklauseln (NDAs) binden Mitarbeiter und
+          Geschäftspartner, noch lange nachdem sie gegangen sind; das
+          Geschäftsgeheimnis ist gesetzlich geschützt, und wer es
+          verrät, wird verfolgt. Wer wissen will, aus welchen Stoffen
+          und unter welchen Bedingungen eine Ware entsteht und was
+          danach mit ihr geschieht, steht vor einer Tür, die das Recht
+          selbst verriegelt. Der Verwender hat keinen Anspruch, der
+          Hersteller hat das Vorrecht, zu schweigen. Zugleich behindert
+          das Geheimnis die Entwicklung: Was einer für sich behält, kann
+          kein anderer prüfen, verbessern oder weiterführen, und so wird
+          derselbe Fortschritt an vielen Orten mühsam wiederholt oder
+          bleibt ganz aus. Das Recht schützt den Vorsprung des Einzelnen
+          und nimmt dafür in Kauf, dass die Entwicklung aller stockt.
         references:
           - id: 22bacf76-e579-4268-b790-a815ed4dbac6
             chunk_id: 0e0ba24a-e7a3-5357-82fc-42ac7f8d99e9
@@ -3838,58 +3898,55 @@ felder:
             source_id: 3b38df84-e9bc-4e70-9032-d3fa65517cfd
             relation: deckt_auf
             relevance: 0.55
-            begruendung: Steiner beschreibt das Steuerrecht des politischen Staates als Zwangsmechanismus, der seine Erhaltung durch festgesetzte Forderungen aufbringt — passt zur These, dass bemessen wird, was festgesetzt ist, nicht was geschieht.
+            begruendung: "Steiner beschreibt das Steuerrecht des politischen Staates als Zwangsmechanismus, der seine Erhaltung durch festgesetzte Forderungen aufbringt — passt zur These, dass bemessen wird, was festgesetzt ist, nicht was geschieht."
           - id: b74c086d-f5be-4705-8b94-a0e604f03892
             chunk_id: e4a5ea5a-7a6f-5083-8f53-2d73c87d6c32
             chunk_type: secondary_book
             source_id: b20bab67-46cc-54a3-8ed5-cbbe99ae659d
             relation: kritisiert
             relevance: 0.4
-            begruendung: Zeigt, dass im volkswirtschaftlichen Prozess nicht sicher bestimmbar ist, wo etwas gezahlt wird — stützt die Kritik an politisch festgesetzten statt realitätsbezogenen Abgaben.
+            begruendung: "Zeigt, dass im volkswirtschaftlichen Prozess nicht sicher bestimmbar ist, wo etwas gezahlt wird — stützt die Kritik an politisch festgesetzten statt realitätsbezogenen Abgaben."
           - id: 2351b8bf-a670-417d-a007-4e06c42e9fed
             chunk_id: 40212445-f046-58d1-afa4-06a629d5f98e
             chunk_type: secondary_book
             source_id: b20bab67-46cc-54a3-8ed5-cbbe99ae659d
             relation: zeigt_gegenbild
             relevance: 0.35
-            begruendung: Thematisiert, ob eine Leistung tatsächlich bezahlt wird — Kontrast zur Zwangsabgabe, die unabhängig vom Geschehen erhoben wird.
+            begruendung: "Thematisiert, ob eine Leistung tatsächlich bezahlt wird — Kontrast zur Zwangsabgabe, die unabhängig vom Geschehen erhoben wird."
           - id: 259cc916-0e01-4ff3-8b1f-6e2af2ea3b67
             chunk_id: fc6f44e9-98e4-5c07-97ef-ca0cf743e04c
             chunk_type: secondary_book
             source_id: f6cac5c2-13e9-59a3-b5c1-178565db0872
             relation: kritisiert
             relevance: 0.3
-            begruendung: Betont, dass wirtschaftliche Übertragung der Anerkennung durch Mitmenschen bedarf — gegen die rein festgesetzte, zwangsweise Bemessung.
+            begruendung: "Betont, dass wirtschaftliche Übertragung der Anerkennung durch Mitmenschen bedarf — gegen die rein festgesetzte, zwangsweise Bemessung."
         chunk_id: 067bf0f4-86ab-4d47-a9b3-1104a120560d
-      - schlagwort: Verschleierung
-        schlagsatz: Vor Gericht steht eine Konstruktion — kein Mensch.
+      - schlagwort: Vergeltung
+        schlagsatz: Wer meldet, wird zum Problem.
         kurztext: >
-          AG, GmbH, Holdings, Briefkästen: Juristische Konstrukte machen
-          undurchschaubar, wer entscheidet. Der Mensch haftet mit allem, die
-          Konstruktion mit dem Stammkapital — Gesellschaft mit beschränkter
-          Haftung. Beschränkt wird nicht nur die Haftung, sondern die
-          Auffindbarkeit der Verantwortung. Wer einen Missstand öffentlich
-          machen will, findet keinen Verantwortlichen: Die Kette endet im
-          Ausland, die Klage bei einer Hülle, die sich auflöst. Was niemandem
-          zurechenbar ist, verbessert niemand. Die Macht wirtschaftet im
-          Verborgenen — nicht gegen das Recht, sondern durch es.
+          Hier sagen wir: Wir müssen uns verteidigen. Eine Meldung von
+          innen gefährdet unseren Ruf, und wir wollen gut dastehen. Wer
+          meldet, hat uns in ein schlechtes Licht gerückt; er gilt als
+          illoyal und nicht mehr tragbar. Das Recht gibt ihm keinen
+          Schutz, uns aber die Mittel: Loyalitätspflicht,
+          Schweigeklauseln, Kündigung. Wir verteidigen unser Bild, nicht
+          die Sache. Der Missstand bleibt, denn wer ihn sieht, lernt zu
+          schweigen.
         text: >
-          Juristische Konstrukte verschleiern wirtschaftliche Macht:
-          Rechtsformen wie AG, GmbH oder Stiftungen, verschachtelt über Holdings
-          und Briefkästen, machen undurchschaubar, wer wirklich entscheidet. Die
-          rechtliche Verbindlichkeit wird zur Intransparenz, die Gleichheit vor
-          dem Gesetz zur leeren Hülle: Der Mensch haftet mit allem, die
-          Konstruktion mit dem Stammkapital — schon der Name sagt es:
-          Gesellschaft mit beschränkter Haftung. Beschränkt wird aber nicht nur
-          die Haftung, sondern die Auffindbarkeit der Verantwortung selbst.
-          Damit läuft der Einspruch ins Leere: Wer einen Missstand öffentlich
-          machen will, findet keinen Verantwortlichen — die Kette der
-          Beteiligungen endet im Ausland, die Auskunft beim Geschäftsgeheimnis,
-          die Klage bei einer Hülle, die sich auflöst und andernorts neu
-          gründet. Was niemandem zurechenbar ist, kann niemand beanstanden; und
-          was niemand beanstanden kann, verbessert auch niemand. So wirtschaftet
-          die Macht im Verborgenen — nicht gegen das Recht, sondern durch es:
-          Die Verschleierung ist ordnungsgemäß eingetragen.
+          Hier sagt die Firma: Wir müssen uns verteidigen. Eine Meldung
+          von innen gefährdet unseren Ruf, die Kunden, das Vertrauen der
+          Geldgeber, und wir wollen vor allem gut dastehen. Wer einen
+          Missstand meldet, hat uns in ein schlechtes Licht gerückt;
+          also wird die Sache klein gehalten: intern geklärt, an die
+          Vertraulichkeit erinnert, der Meldende als illoyal behandelt,
+          versetzt oder entlassen. Das Recht lässt das zu. Es gibt dem
+          Hinweisgeber keine Grundlage, auf die er sich berufen könnte,
+          und der Firma die Mittel in die Hand: Loyalitätspflicht,
+          Verschwiegenheitsklauseln, die Kündigung. So wird nicht der
+          Missstand zum Thema, sondern der Mensch, der ihn gesehen hat.
+          Die Firma verteidigt ihr Bild, nicht die Sache. Der Missstand
+          bleibt, denn wer ihn sieht, lernt zu schweigen — und die
+          anderen lernen es mit.
         references:
           - id: 1eaf0b7d-171e-4bc8-bfbc-b6b0ac4bc81f
             chunk_id: b2489e81-d235-5e17-8a6c-64ce6154fa8d
@@ -3897,28 +3954,28 @@ felder:
             source_id: 2097962e-459d-515e-8a2f-defcc299b6b6
             relation: deckt_auf
             relevance: 0.72
-            begruendung: Steiner fordert das Verschwinden des Begriffs der juristischen Persönlichkeit und zeigt, dass die Konstruktion den Menschen verdeckt — deckt die Verschleierung durch Rechtskonstrukte auf.
+            begruendung: "Steiner fordert das Verschwinden des Begriffs der juristischen Persönlichkeit und zeigt, dass die Konstruktion den Menschen verdeckt — deckt die Verschleierung durch Rechtskonstrukte auf."
           - id: 46c9babe-e147-4a6c-81ef-43f493cbba5c
             chunk_id: f8992660-3793-57bd-9616-a00f8ed39a1f
             chunk_type: secondary_book
             source_id: 069a4e27-ea6a-512a-b75b-2e512c0d3f15
             relation: kritisiert
             relevance: 0.55
-            begruendung: Trennt Wirtschaftsgesetzmäßigkeit und Recht und kritisiert die Vermischung, die die Zurechenbarkeit von Verantwortung verschleiert.
+            begruendung: "Trennt Wirtschaftsgesetzmäßigkeit und Recht und kritisiert die Vermischung, die die Zurechenbarkeit von Verantwortung verschleiert."
           - id: 265624ed-2680-4451-b28f-fab1839111cb
             chunk_id: 48b902d1-b868-589e-b665-72eb3429eea7
             chunk_type: secondary_book
             source_id: 7879ca81-485f-5163-92c8-337d39ca904f
             relation: kritisiert
             relevance: 0.5
-            begruendung: Kritisiert, dass Arbeit einem Rechtsverhältnis unterstellt wird — Bezug zur Konstruktion, die den Menschen verdeckt.
+            begruendung: "Kritisiert, dass Arbeit einem Rechtsverhältnis unterstellt wird — Bezug zur Konstruktion, die den Menschen verdeckt."
           - id: 080f49de-ad96-46d8-9e8a-71cfce288793
             chunk_id: 6020a410-451d-5481-8730-1d6275864a76
             chunk_type: secondary_book
             source_id: add296af-0f66-5d41-a270-3ba21c18937c
             relation: zeigt_gegenbild
             relevance: 0.45
-            begruendung: Fordert Überwindung der Politik selbst — Gegenbild zu einer Macht, die im Verborgenen durch das Recht wirtschaftet.
+            begruendung: "Fordert Überwindung der Politik selbst — Gegenbild zu einer Macht, die im Verborgenen durch das Recht wirtschaftet."
         chunk_id: 71119899-2546-494a-bf93-cd94becc963c
     chunk_id: fa9914f5-59b4-4965-a814-223b29128fd3
 
