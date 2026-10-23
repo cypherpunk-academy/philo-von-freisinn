@@ -8,14 +8,12 @@ typology:
   title: name
   aliases: aliases
   overview:
-    short: kurz
     text: text
     references: references
     chunk_id: chunk_id
   members:
     from: epochen
     name: name
-    short: kurz
     text: text
     chunk_id: chunk_id
 

@@ -8,7 +8,6 @@ typology:
   aliases: aliases
   basis: grundlage
   overview:
-    short: uebersicht_kurz
     text: uebersicht
     chunk_id: chunk_id
   health:
@@ -19,15 +18,11 @@ typology:
     id: feld
     title: richtung
     label: titel
-    short: kurz
     text: text
     exclude: [ 7, 8, 9 ]
     chunk_id: chunk_id
   members:
     from: aspekte
-    name: schlagwort
-    lead: schlagsatz
-    short: kurztext
     text: text
     quotes: zitate
     chunk_id: chunk_id
