@@ -1,0 +1,441 @@
+# Stand der Beschreibung aus supabase public.vector_chunks
+# (collection philo-von-freisinn, chunk_type typology,
+# segment_title "12 Weltanschauungen", chunk_id 4b6b2b78-eae5-5a01-8c3b-bf212a2547b9).
+# public.rag_chunks hat dort keine Zeilen.
+# Kurz- und Langtexte der zwölf Weltanschauungen: aus Sigismund von Gleich,
+# "Die Wahrheit als Gesamtumfang aller Weltansichten", Rudolf Steiner GA 151
+# und den Weltanschauungs-Prompts unter assistants/sigrid-von-gleich/worldviews.
+
+typology:
+  slug: 12-weltanschauungen
+  title: name
+  aliases: aliases
+  overview:
+    text: text
+    references: references
+    chunk_id: chunk_id
+  members:
+    from: weltanschauungen
+    name: name
+    text: text
+    chunk_id: chunk_id
+
+name: "12 Weltanschauungen"
+aliases:
+  - Weltanschauungen
+  - "zwölf Weltanschauungen"
+  - Weltanschauungsnuancen
+  - Weltanschauungstypen
+  - "12 Weltanschauungstypen"
+kurz: >
+  Die 12 Weltanschauungen sind nach Rudolf Steiner zwölf gleichberechtigte
+  Arten, die Welt zu betrachten, vom Materialismus bis zum Mathematismus. Sie
+  ordnen sich wie der Tierkreis: Die einen erfassen mehr die äußere, sinnliche
+  Welt, die anderen mehr die innere, geistige; Realismus und Idealismus stehen
+  in der Mitte. Erst alle zusammen umfassen die Wahrheit, und jede kann in
+  sieben Seelenstimmungen auftreten.
+text: |
+  Die **12 Weltanschauungen** (auch zwölf Weltanschauungen, Weltanschauungsnuancen, Weltanschauungstypen oder 12 Weltanschauungstypen genannt) sind nach Rudolf Steiner zwölf grundlegende Arten, das Universum zu betrachten. Sie entspringen den zwölf Grundtypen des Menschentums und führen zusammengenommen zur Wahrheit, wie zwölf Strahlen einer Sonne.
+
+  **Mitglieder:** Materialismus, Sensualismus, Phänomenalismus, Realismus, Dynamismus, Individualismus (Monadismus), Spiritualismus, Pneumatismus, Psychismus, Idealismus, Rationalismus, Mathematismus.
+
+  **Beschreibung:** Die Weltanschauungen ordnen sich polar: Die hellen Sommerzeichen (Mathematismus, Materialismus, Sensualismus, Phänomenalismus) erfassen die äußere, sinnlich-räumliche Welt; die dunklen Winterzeichen (Monadismus, Spiritualismus, Pneumatismus, Psychismus) die innere, geistige Welt. Realismus und Idealismus bilden die Mitte. Jede Weltanschauung kann in sieben Seelenstimmungen (z. B. Okkultismus, Mystik) auftreten. Die Typologie ist nicht als Hierarchie, sondern als gleichwertiger, zwölffacher Zugang zur Wahrheit zu verstehen – jeder Mensch hat je nach Veranlagung einen individuellen Zugang.
+references:
+  - chunk_id: 874557bb-178c-5d20-845d-b0627eb94588
+    relevance: 0.95
+    description: Es gibt zwölf Weltanschauungen entsprechend den zwölf Grundtypen
+      des Menschentums, die zusammengenommen zur Wahrheit führen wie zwölf
+      Strahlen einer Sonne.
+  - chunk_id: c3a179e4-ced8-5fe7-8af0-c95f4e31d55a
+    relevance: 0.95
+    description: Die Weltanschauungen der hellen Sommer-Tierkreisbilder
+      (Mathematismus, Materialismus, Sensualismus, Phänomenalismus) erfassen die
+      äußeren, sinnlich-räumlichen Erscheinungen, während die der dunklen
+      Winter-Sternbilder...
+  - chunk_id: 90c93630-a035-5103-bc91-820be0f33d73
+    relevance: 0.9
+    description: Die zwölf Weltanschauungen erfassen objektive Weltprinzipien, und
+      es gibt sieben Seelenstimmungen, in denen sie auftreten können.
+  - chunk_id: 404f560b-31c3-545e-8a83-dfd2f59270a1
+    relevance: 0.85
+    description: Die sieben Seelenstimmungen, in denen die zwölf Weltanschauungen
+      auftreten können, sind Okkultismus, Transzendentalismus, Mystik,
+      Empirismus, Voluntarismus, Logismus und Gnosis.
+  - chunk_id: e358c493-bad8-5c55-92fc-98dde8e765d3
+    relevance: 0.8
+    description: Jeder Mensch hat einen individuellen Zugang zur Anthroposophie
+      entsprechend seiner Veranlagung, Schicksalslage und
+      Weltanschauungsrichtung.
+  - chunk_id: 2710da88-df4f-5f47-b47a-380b2e8a55a4
+    relevance: 0.7
+    description: Die universelle Wahrheit kann nur begriffen werden, wenn man den
+      Gesamtumfang aller Weltansichten berücksichtigt.
+weltanschauungen:
+  - name: Materialismus
+    kurz: >
+      Der Materialismus sucht die Einheit der Welt im Stofflichen und seinen
+      Gesetzen. Was allen zugänglich, messbar und nachprüfbar ist, gilt ihm als
+      tragender Grund. Er ist die Weltanschauung des Krebses, des Sommers und
+      der Lebensmitte, in der die Seele ganz der Sinneswelt zugewandt ist. Für
+      das Gebiet der Materie ist er der beste Schlüssel; einseitig wird er, wo
+      er den Geist leugnet.
+    text: >
+      Der Materialismus nimmt das Stoffliche als den Grund alles Seins. Er sucht
+      die Einheit der Welt im Greifbaren, Gemeinsamen und Gegenwärtigen: in dem,
+      was jeder wahrnehmen, messen und nachprüfen kann. Raum, Zeit und Ursache
+      ordnen ihm die Welt, und ihre Gesetze will der Denker restlos
+      durchdringen. Rudolf Steiner ordnet ihn dem Krebs zu, dem ersten
+      Sommerzeichen. Sigismund von Gleich verbindet ihn mit der Lebensmitte, in
+      der die Seele am tiefsten ins Leibliche untergetaucht ist und die Sorgen
+      der äußeren Existenz sich stark geltend machen. Seine Stärke ist Klarheit,
+      Strenge und Nachvollziehbarkeit. Seit dem 15. Jahrhundert hat sich das
+      Ich-Bewusstsein vom unmittelbaren Weltsein gelöst und im Gehirn ein
+      Werkzeug für die gesetzmäßige Erkenntnis der Stoffeswelt gefunden; viel
+      Scharfsinniges ist auf diesem Boden entdeckt worden, und für das Gebiet
+      der Materie gilt er uneingeschränkt. Einseitig wird er, wo er nur gelten
+      lässt, was so aussieht, wie die Sinne es zeigen — etwa wenn nur
+      Elementarteilchen und ihre Wechselwirkungen als wirklich gelten und
+      Bewusstsein als bloßes Nebenprodukt neuronaler Prozesse. Dann gerät die
+      Seele, wie Gleich an Haeckel zeigt, in Geistesfinsternis gerade dort, wo
+      das Sinneslicht am hellsten ist. Sein Gegenpol ist der Spiritualismus im
+      Steinbock. Was der Materialismus richtig sieht, die Gesetze der Materie,
+      bleibt wahr; er braucht die anderen Weltanschauungen, um nicht zu
+      übersehen, was in der Materie wirkt.
+    chunk_id: 650d7bc6-7213-43fe-99bb-212d1c1a1b1c
+  - name: Sensualismus
+    kurz: >
+      Der Sensualismus vertraut allein dem, was die Sinne unmittelbar geben:
+      Farben, Töne, Wärme, Düfte. Sie sind ihm die ursprüngliche Sprache der
+      Welt, das Denken ein verfeinertes Empfinden. Er ist die Weltanschauung des
+      Löwen und des Hochsommers, herzlich und sonnenhaft. Sein Gegenpol ist der
+      Pneumatismus, die Hingabe an die Geistesoffenbarung.
+    text: >
+      Der Sensualismus lässt als gewiss nur gelten, was durch die
+      Sinnesempfindung gegeben ist. Farben, Töne, Wärme, Düfte und Geschmäcker
+      sind ihm keine bloß subjektiven Eindrücke und keine toten Schwingungen,
+      sondern die ursprüngliche Sprache der Welt, lebendige Qualitäten, die in
+      die Seele hineinströmen. Was das Denken hinzufügt, betrachtet er als
+      verfeinertes, umgewandeltes Empfinden; auch der gesunde Menschenverstand
+      und der moralische Sinn sind ihm Sinnesorgane höherer Ordnung, ein
+      natürliches Taktgefühl des Herzens. Rudolf Steiner ordnet ihn dem Löwen
+      zu, dem Zeichen, in dem die Sonne im Hochsommer am mächtigsten wirkt.
+      Sigismund von Gleich findet seine Grundhaltung im Hochsommerspruch des
+      Seelenkalenders: an Sinnesoffenbarung hingegeben. Seine Haltung ist
+      herzlich, wohlwollend und aristokratisch im besten Sinne; er scheut
+      Abstraktionen, die das Erlebte in bloße Mengen auflösen, und führt den
+      Menschen zur eigenen Empfindung zurück. Einseitig wird er, wo er das
+      Ideenelement, das sich beim Wahrnehmen mit einstellt, nicht als wirklich
+      anerkennt; so verengt sich der naive Realismus des Alltags leicht zu einem
+      instinktiven Sensualismus. Sein Gegenpol ist der Pneumatismus im
+      Wassermann, die Hingabe an die Geistesoffenbarung. Beide teilen nach
+      Gleich einen pantheistischen Zug, und bei Friedrich Schiller treten sie
+      zusammen auf.
+    chunk_id: e5b3d28e-4312-48fb-8c85-8c03af909c30
+  - name: Phänomenalismus
+    kurz: >
+      Der Phänomenalismus hält sich an die erscheinende Welt als Ganzes: äußere
+      Wahrnehmungen, Vorstellungen, Gefühle, Ideen. Er sucht nichts hinter den
+      Erscheinungen, denn sie selbst offenbaren das Wesen. Er ist die
+      Weltanschauung der Jungfrau und beginnt mit staunender Bewunderung. Sein
+      Gegenpol ist der Psychismus — Welterscheinung und erkennende Seele.
+    text: >
+      Der Phänomenalismus nimmt die Welt so, wie sie sich der empfänglichen
+      Seele gibt: als Erscheinung. Anders als der Sensualismus beschränkt er
+      sich nicht auf reine Sinneseindrücke, sondern umfasst die ganze
+      erscheinende Welt, äußere Wahrnehmungen ebenso wie Vorstellungen, Gefühle
+      und Ideen. Anders als der Materialismus legt er kein totes Ding an sich
+      unter die Erscheinungen. Rudolf Steiner beschreibt seinen Ausgangspunkt
+      so: Ich weiß von dieser Welt nur zu sagen, dass sie mir erscheint.
+      Sigismund von Gleich wendet diese Bescheidenheit ins Positive. Die
+      Erscheinung ist keine Täuschung, wie bei Kant oder Schopenhauer, sondern
+      das Sich-Offenbaren des Wesens; Wesen und Erscheinung gehören zusammen.
+      Goethes Satz trägt diese Haltung: Man suche nur nichts hinter den
+      Phänomenen, sie selbst sind die Lehre. Erkennen beginnt hier mit
+      Bewunderung und Ehrfurcht vor dem Gegebenen; aus der Hingabe an die
+      Phänomene tritt ihre ideelle Gesetzmäßigkeit von selbst hervor.
+      Atomistische Modelle und mechanische Hypothesen, die das Anschauliche ins
+      Undenkbare auflösen, lehnt er ab. Steiner ordnet ihn der Jungfrau zu. Mit
+      dem Psychismus in den Fischen bildet er nach Gleich die Urpolarität alles
+      Erkennens: Welterscheinung und erkennende Menschenseele. Bei Lotze treten
+      beide zusammen auf. Einseitig wird der Phänomenalismus, wo er beim bloßen
+      Erscheinen stehen bleibt und darauf verzichtet, von Wirklichkeit zu
+      sprechen.
+    chunk_id: 92932915-6992-48cd-abe8-0ee56c2f00a2
+  - name: Realismus
+    kurz: >
+      Der Realismus erkennt an allen Dingen neben der sinnlichen auch die
+      geistige Seite an und hält beide im Gleichgewicht. Wahrnehmung und Begriff
+      sind ihm zwei Seiten einer einheitlichen Wirklichkeit, die erst der
+      Erkennende auseinanderlegt. Er ist die Weltanschauung der Waage, des
+      Aristoteles und der reifen Lebensjahre. Sein Gegenpol und seine Ergänzung
+      ist der Idealismus.
+    text: >
+      Der Realismus steht in der Waage, auf der Gleichgewichtsachse zwischen den
+      Weltanschauungen der Sinneswelt und denen der Geisteswelt. Er erkennt an
+      allen Dingen neben der äußeren, sinnlich erfahrbaren Seite eine verborgen
+      geistige an und lässt keine der beiden fallen. Der naive Realismus des
+      Alltags nimmt das Erlebte in der Gestalt, in der es auftritt, für die
+      Wirklichkeit; weil der heutige Mensch das Gedachte schwächer erlebt als
+      das Gesehene, kippt er leicht in einen instinktiven Sensualismus. Der
+      geläuterte Realismus, den Sigismund von Gleich bei Rudolf Steiner
+      begründet sieht, geht weiter: Die Welt ist eine einheitliche Wirklichkeit,
+      die erst der erkennende Mensch in Wahrnehmung und Begriff auseinanderlegt.
+      Im Erkennen fügt er beide wieder zusammen; erst das Ineinanderarbeiten von
+      Idee und Beobachtung ist die Wirklichkeit. Der Idealismus schaut wie
+      Platon von oben nach unten, der Realismus wie Aristoteles von unten nach
+      oben; dessen Bestimmung der Tugend als Mitte zwischen zwei Extremen zeigt
+      dieselbe Haltung. Gleich verbindet ihn mit der Herbstreife des Lebens, in
+      der Schicksalsschläge den Menschen für beide Seiten des Daseins reif
+      machen. Weil er die Mitte hält, wird er von beiden Seiten verkannt: Dem
+      Spiritualisten gilt er als Materialist, dem Materialisten als
+      Spiritualist. Sein Gegenpol und seine Ergänzung ist der Idealismus im
+      Widder. Steiner nennt seinen eigenen Standpunkt beides: Idealismus, weil
+      er in der Idee den Weltgrund sieht, Realismus, weil er die Idee als das
+      Reale anspricht.
+    chunk_id: 26b2a34b-9f94-467f-b81b-620ae2104b06
+  - name: Dynamismus
+    kurz: >
+      Der Dynamismus sieht hinter allem Geschehen wirkende Kräfte: Schwerkraft,
+      Lebenstrieb, Wille. Er ist irrationalistisch, denn er hat es mit blinden,
+      willensartigen Mächten zu tun, die aller Vernunft vorausgehen. Er ist die
+      Weltanschauung des Skorpions. Er zeigt den dunklen Pol der Kräfte, damit
+      der Mensch ihn erkennt und lenkt. Sein Gegenpol ist der Rationalismus.
+    text: >
+      Der Dynamismus erkennt das Wesen der Wirklichkeit nicht in Formen,
+      Eigenschaften oder Begriffen, sondern in den verborgenen Kräften, die
+      alles durchdringen, vom fallenden Stein bis zur menschlichen Leidenschaft.
+      Schwerkraft, Magnetismus, Lebenstrieb und Wille sind ihm Äußerungen
+      derselben übersinnlichen Mächte. Rudolf Steiner ordnet ihn dem Skorpion
+      zu. Sigismund von Gleich nennt ihn den Gegenpol des Rationalismus und
+      kennzeichnet ihn als Irrationalismus: Er hat es mit blinden,
+      willensartigen Kräften und Instinkten zu tun. Das Wesen der Naturkräfte
+      durchschaut man nach Gleich erst, wenn man sie als Oberfläche tief
+      verborgener, im Stoff unbewusst-willenhaft waltender Geistesmächte
+      erkennt. Schopenhauers Wille und Nietzsches Wille zur Macht gehören in
+      diese Richtung. Der Dynamismus ist schonungslos ehrlich: Er lehnt jede
+      moralische Vermenschlichung der Natur ab und zeigt, wie der Mensch selbst
+      bis in Triebe, Geschlecht und Willen von Naturkräften durchdrungen ist. Er
+      kennt die Doppelseite dieser Kräfte. In ihrem niederen, unbewussten Pol
+      wirken sie als egoistische Triebe, als Machtgier, Hass und
+      Vernichtungswut; wo dieser Pol das Denken beherrscht, führt er zum Recht
+      des Stärkeren, zu Nihilismus und Selbstzerstörung. Darum zeigt der
+      Dynamismus den Abgrund — nicht aus Pessimismus, sondern damit der Mensch
+      Verantwortung für die Lenkung der Kräfte übernimmt und das Starke ins Gute
+      wendet. Mit Monadismus und Realismus gehört er zu den
+      Willensweltanschauungen des Herbstes, die nach Gleich vom Adler beherrscht
+      werden.
+    chunk_id: 2a64dfcf-5981-4f37-b42f-04a442436fc1
+  - name: Individualismus (Monadismus)
+    kurz: >
+      Der Individualismus sieht die Welt nicht als Gefüge von Dingen, sondern
+      als Vielheit unteilbarer Wesen, deren jedes ein eigenes Innenleben trägt.
+      Einheit ist ihm Beziehung, nicht Verschmelzung. Er ist die Weltanschauung
+      des Schützen, der tätigen Überzeugung und der freien Persönlichkeit. Sein
+      Gegenpol ist der Mathematismus.
+    text: >
+      Der Monadismus, hier auch Individualismus genannt, sieht die Welt als
+      Vielheit von Wesen. Nichts ist bloßer Teil; jedes Wesen ist ein Ganzes und
+      trägt sein Innenleben wie einen leuchtenden Kern. Leibniz hat diese Wesen
+      Monaden genannt. Sie unterscheiden sich durch Grade des Bewusstseins, die
+      sich, wie Sigismund von Gleich betont, zahlenmäßig nicht erfassen lassen;
+      darum prallt alles bloß mathematische Denken an diesem Reich ab, und darum
+      ist der Mathematismus in den Zwillingen sein Gegenpol. Leibniz selbst hat
+      beide entwickelt. Rudolf Steiner ordnet den Monadismus dem Schützen zu.
+      Nach Gleich erfasst er, was das Ich sich von der Weltgeistigkeit
+      verinnerlicht und zu eigen gemacht hat: das Innenreich des Genius. Als
+      Geistesführer der Schützenweltanschauung nennt Gleich Paulus, dessen
+      Prinzip die tätige Überzeugung und die Beziehung ist — den großen
+      Impulsgeber der freien Persönlichkeit. Erkennen geschieht hier im
+      Zwischen: Denken allein zerlegt, Hingabe allein schwebt; erst in der
+      Begegnung zeigt sich ein Wesen, und Gleiches wird von Gleichem erkannt.
+      Einheit ist kein Zustand, sondern ein Geschehen, das entsteht, wenn Wesen
+      einander begegnen, ohne sich aufzuheben. Individualismus ist darum nicht
+      Egoismus: Wer sich selbst verliert, kann kein Du schauen; wer sich nur
+      behauptet, bleibt im Es gefangen. Das Rechte wird in der moralischen
+      Intuition erfasst, die Regel ist nur das Nachdenken der Beziehung. Mit
+      Dynamismus und Realismus gehört er zu den Willensweltanschauungen des
+      Herbstes.
+    chunk_id: 96b25263-756b-4ecc-8364-9b2a4f76225d
+  - name: Spiritualismus
+    kurz: >
+      Der Spiritualismus sieht in der sichtbaren Welt die Offenbarung eines
+      reichen Organismus geistiger Wesen. Der Geist ist das eigentlich
+      Wirkliche; der Mensch ist ein ewiger Geist, der durch wiederholte
+      Erdenleben geht. Er ist die Weltanschauung des Steinbocks, des Winters und
+      des Alters. Sein Gegenpol ist der Materialismus.
+    text: >
+      Der Spiritualismus erkennt in der gesamten sichtbaren Welt die Offenbarung
+      geistiger Wesen. Er spricht nicht von einer allgemeinen Geistigkeit,
+      sondern von gestuften, individuellen Wesenheiten mit verschiedenen Rängen
+      und Aufgaben, den Hierarchien von den Engeln bis zu den Seraphim. Der
+      Geist ist ihm das eigentlich Wirkliche; die Materie ist sein äußerster
+      Ausdruck, das Ende der Schöpfungswege. Der Mensch ist in seinem Kern ein
+      ewiger Geist, der vor der Geburt besteht, durch wiederholte Erdenleben
+      geht und sein Schicksal selbst gestaltet. Erkennen ist hier
+      Wiedererinnerung an vorgeburtliches Wissen; Philosophie geht in
+      Geisteswissenschaft über. Im Christus-Impuls sieht er die Kraft, die den
+      Tod überwindet und dem Ich erlaubt, den Geist aus Freiheit zu erkennen.
+      Rudolf Steiner ordnet ihn dem Steinbock zu, dem Zeichen der
+      Wintersonnenwende, und sagt, die Gnosis sei dort in ihrem Haus. Sigismund
+      von Gleich nennt ihn die tiefste und geistigste aller Weltanschauungen und
+      die natürliche Weltanschauung des Alters, in dem das Seelisch-Geistige
+      sich vom Leib löst. Sein Gegenpol ist der Materialismus im Krebs: Dieser
+      sieht richtig die Gesetze der Materie und verkennt den Geist; der
+      Spiritualismus sieht richtig die geistige Wirklichkeit, wird aber
+      einseitig, wo ihm die Sinneswelt ins Unbestimmte entschwindet, wie bei
+      manchen Gnostikern. Der reife Spiritualismus leugnet die Materie nicht,
+      sondern liest sie als Offenbarung des Geistes.
+    chunk_id: 053112e8-17e9-460f-9a99-229a4342c78a
+  - name: Pneumatismus
+    kurz: >
+      Der Pneumatismus erlebt die Welt als ein einziges, alles durchflutendes
+      Geistwesen, dessen eine Seite die Sinneswelt ist. Die andere Seite zeigt
+      sich dem erweckten inneren Schauen. Er ist die Weltanschauung des
+      Wassermanns und der Tiefwinterstimmung: an Geistesoffenbarung hingegeben.
+      Sein Gegenpol ist der Sensualismus.
+    text: >
+      Der Pneumatismus sieht in der Sinneswelt nur die eine Seite eines einzigen
+      geistigen Grundwesens, das alles durchflutet. Die andere, innere Seite
+      desselben Wesens erschließt sich durch ein Vermögen, das im Menschen
+      geweckt werden kann: das geistige Schauen, die intellektuelle Anschauung
+      oder den moralischen Sinn, den die Inder Manas nennen und Rudolf Steiner
+      als imaginatives Bewusstsein beschreibt. Die Welt erscheint ihm als
+      lebendiger Strom von Ätherkräften, als Lichtmeer der Imaginationen, in das
+      das Ich eintauchen und mit dem All-Einen eins werden kann. Während der
+      Spiritualismus viele individuelle Geistwesen schaut, betont der
+      Pneumatismus den einen Geist. Sinnlichkeit und Geistigkeit sind ihm keine
+      Gegensätze, sondern zwei Pole desselben Seins, die in der harmonischen
+      Seele, Schillers schöner Seele, zur Einheit kommen. Steiner ordnet ihn dem
+      Wassermann zu. Sigismund von Gleich findet seine Grundstimmung im
+      Winterspruch des Seelenkalenders: an Geistesoffenbarung hingegeben. Er
+      gehört zu den Weltanschauungen der Gefühlsgeistigkeit, in denen das Fühlen
+      beim Erkennen stark mitspricht; Shaftesbury, Hemsterhuis, Novalis und
+      Schelling stehen in dieser Linie. Sein Gegenpol ist der Sensualismus im
+      Löwen, mit dem er einen pantheistischen Zug teilt. Den Sensualismus
+      verurteilt er nicht, sondern zeigt seine Grenze: Er hält den Menschen in
+      der Sinneswelt fest und hindert ihn, sein Geist-Selbst zu wecken. Der Weg
+      dahin führt über Sammlung, Meditation und Kontemplation.
+    chunk_id: 10387b79-7ded-42b4-8db1-8130a2a0f09c
+  - name: Psychismus
+    kurz: >
+      Der Psychismus erfasst den innersten Kern des Menschen: das Ich als reine
+      Denktätigkeit. Im intuitiven Selbsterleben zeigt sich dieses Ich als
+      unzerstörbar, und die Welt als beseelt, der eigenen Seele wesensverwandt.
+      Er ist die Weltanschauung der Fische. Sein Gegenpol ist der
+      Phänomenalismus — erkennende Seele und Welterscheinung.
+    text: >
+      Der Psychismus geht von der Erfahrung des eigenen Ich aus. Im Denken
+      erlebt der Mensch Wirklichkeit unmittelbar, nicht als Abbild; das Ich ist
+      reine Denktätigkeit und zeigt sich im intuitiven Selbsterleben als
+      unzerstörbar. Von dieser inneren Gewissheit aus erscheint die Welt als
+      beseelt: Die menschliche Seele ist der Weltseele, der Urseele,
+      wesensverwandt. Erkenntnis ist darum Intuition und Selbsterkenntnis, bis
+      zur Einsicht, dass die Innenwelt des Menschen das Innere der Natur ist.
+      Sigismund von Gleich sieht in Fichte den Denker, der den Willen
+      intuitiv-psychistisch erfassen konnte, und findet bei Lotze neben einem
+      reinen Phänomenalismus einen echten Psychismus. Rudolf Steiner ordnet ihn
+      den Fischen zu. Mit dem Phänomenalismus in der Jungfrau bildet er nach
+      Gleich die Urpolarität, von der alles Erkennen ausgeht: Welterscheinung
+      und erkennende Menschenseele. Während der Monadismus erfasst, was das Ich
+      sich von der Weltgeistigkeit verinnerlicht hat, erfasst der Psychismus den
+      innersten Kern selbst. Mit Pneumatismus und Spiritualismus gehört er zu
+      den Winterweltanschauungen, deren schauendes Bewusstsein sich den
+      Geheimnissen jenseits der Todesschwelle nähert. Er erkennt keine Autorität
+      als letzte Begründung an; alles wird am reinen Denken und an der Erfahrung
+      des Ich geprüft. Leidenschaften werden überwunden, und die Liebe gilt ihm
+      als Quelle von Wahrheit und Gewissheit, im Sinn des Christus-Impulses.
+      Einseitig wird er, wo das Innere die erscheinende Welt verdrängt.
+    chunk_id: 12c46cd3-7849-48aa-90d0-ced9f195e1d3
+  - name: Idealismus
+    kurz: >
+      Der Idealismus schaut in allem Sinnlichen die Verwirklichung schaffender
+      Ideen. Die sichtbare Welt ist Abprägung und Metamorphose geistiger
+      Urbilder, und der Mensch ist berufen, die Idee des Menschen bewusst zu
+      verwirklichen. Er ist die Weltanschauung des Widders, des Frühlings und
+      der Jugend, die wie Platon von oben nach unten schaut.
+    text: >
+      Der Idealismus sieht in den Ideen die wirkenden Urbilder, die alles
+      Sinnliche durchwalten. Die sichtbare Welt ist die stufenweise
+      Verwirklichung und Metamorphose dieser Urbilder im Stoff; die Materie
+      empfängt die Form, die Idee bewegt und gestaltet. Rudolf Steiner grenzt
+      ihn vom Rationalismus ab: Wer zu den Ideen, die er in der Natur findet,
+      auch die gelten lässt, die aus dem Moralischen und Intellektuellen kommen,
+      ist Idealist. Die Welt wird so zu einem sinnvollen Werdeprozess; ohne die
+      in ihr wirkenden Ideale wäre sie sinnleer. Der Mensch steht in ihrer
+      Mitte: Er ist berufen, die Idee des Menschen bewusst zu verwirklichen und
+      die Schöpfung fortzusetzen. Die Linie reicht von Platon und Aristoteles
+      über Plotin, Scotus Erigena und Thomas von Aquin zu Goethe, Hegel und
+      Steiner. Steiner ordnet ihn dem Widder zu, dem ersten Frühlingszeichen.
+      Sigismund von Gleich nennt ihn die natürliche Weltanschauung der Jugend,
+      die die Sinneswelt noch im Licht vorgeburtlichen Ideenschauens erlebt; am
+      Ende der zwanziger Jahre schwindet dieser jugendliche Idealismus oft unter
+      nüchternen Erfahrungen. Mit Mathematismus und Rationalismus gehört er zu
+      den Vernunftweltanschauungen des Frühlings, hält aber schon das
+      Gleichgewicht zwischen Innen und Außen. Sein Gegenpol und seine Ergänzung
+      ist der Realismus in der Waage: Der Idealismus schaut wie Platon von oben
+      nach unten, der Realismus wie Aristoteles von unten nach oben. Ohne den
+      Realismus wird er dualistisch und reißt die Welt in Scheinwelt und
+      Ideenwelt auseinander.
+    chunk_id: fdc8d864-ebd6-4b8c-b252-4a171993c8e0
+  - name: Rationalismus
+    kurz: >
+      Der Rationalismus lässt die Ideen gelten, die die Vernunft in den Dingen
+      findet, und verbindet das Wahre mit dem Guten und Fruchtbaren. Erkenntnis
+      verpflichtet: Sie verlangt Aufrichtigkeit und den Einsatz der ganzen
+      Persönlichkeit. Er ist die Weltanschauung des Stiers. Sein Gegenpol ist
+      der Dynamismus, der Irrationalismus der blinden Kräfte.
+    text: >
+      Der Rationalismus erkennt in der Welt Ideen, die die Vernunft in den
+      Dingen selbst findet. Rudolf Steiner zeichnet den Weg vom Materialismus
+      über den Mathematismus zum Rationalismus: Wer mehr gelten lässt als Zahl
+      und Form, nämlich die Ideen, die er in der Natur findet, wird Rationalist.
+      Wahrheit ist ihm nicht bloß logisch richtig, sondern lebensfördernd,
+      ethisch gediegen und schöpferisch wertvoll; Goethes Wort „Was fruchtbar
+      ist, allein ist wahr“ gilt ihm als Leitsatz. Das Höchste im Menschen ist
+      die moralisch gerichtete, praktische Vernunft. Erkennen verpflichtet: Es
+      verlangt Aufrichtigkeit, Wahrheitsgewissen und den vollen Einsatz der
+      Persönlichkeit. Bloß ausgedachtem Wissen ohne Lebensbezug misstraut er.
+      Die Welt ist ihm von objektiven Werten durchdrungen — Wahrheit, Güte,
+      Schönheit —, die der Mensch vernehmen und frei verwirklichen kann; das
+      Wort hat zeugende Kraft. Sokrates, Herder, Goethe und Schleiermacher
+      stehen in dieser Linie. Steiner ordnet ihn dem Stier zu. Nach Sigismund
+      von Gleich herrscht in den Vernunftweltanschauungen des Frühlings die
+      Kraft der Stier-Sonne: Die Gedankenorganisation des Menschen dringt ins
+      lebendige Ideengefüge der Welt ein. Der Rationalismus ist auf die
+      Außenwelt gerichtet, aber denkerischer als die Sommerweltanschauungen.
+      Sein Gegenpol ist der Dynamismus im Skorpion, der Irrationalismus der
+      blinden, willensartigen Kräfte. Einseitig wird er, wo er die Natur
+      moralisch vermenschlicht und die Kräfte übersieht, die unterhalb der
+      Vernunft wirken.
+    chunk_id: 7e509755-96e2-4ed8-9005-fa13e17ad931
+  - name: Mathematismus
+    kurz: >
+      Der Mathematismus erforscht die räumliche Außenwelt nach Form, Zahl und
+      Struktur. Begriffe sind ihm objektive Ordnungen, prüfbar im Experiment und
+      im Modell; Gewissheit entsteht durch Zweifel und Prüfen und bleibt
+      vorläufig. Er ist die Weltanschauung der Zwillinge. Sein Gegenpol ist der
+      Monadismus, an dessen Reich der Wesen das Rechnen abprallt.
+    text: >
+      Der Mathematismus sieht in Form, Zahl und Struktur das, was an der Welt
+      klar erkennbar ist. Rudolf Steiner stellt ihn auf den Weg vom
+      Materialismus zum Rationalismus; Sigismund von Gleich nennt ihn auf die
+      Außenwelt gerichtet, aber noch entschiedener denkerisch als den
+      Rationalismus, weil er die räumliche Welt nach ihren Form- und
+      Zahlenverhältnissen berechnen will. Wahrnehmung liefert ihm die Rohdaten,
+      das Denken formt Begriffe. Diese sind keine bloßen Namen, sondern
+      objektive Ordnungen wie Raum, Zeit und Menge, prüfbar im Experiment, in
+      der Simulation, im Modell. Gewissheit entsteht durch Zweifel, Prüfen und
+      Verbessern und bleibt vorläufig: Die moderne Physik zeigt, dass die
+      Messung das Gemessene verändert und Schärfe an einer Stelle Unschärfe an
+      einer anderen erzeugt. Wahrheit entsteht hier im Gespräch, wie in
+      Heisenbergs Auseinandersetzungen mit Bohr und Einstein, nicht durch
+      Dogmen. Die Linie reicht von Pythagoras und Platon bis in die Gegenwart.
+      Gegen einen verengten Mathematizismus, der alles auf Formeln und Atome
+      zurückführen will, kennt er seine Grenze: Die Gleichung versagt beim
+      Erleben von Rot. Steiner ordnet ihn den Zwillingen zu. Sein Gegenpol ist
+      der Monadismus im Schützen; an dessen Reich der Wesen, die sich durch
+      Grade des Bewusstseins unterscheiden, prallt alles bloß rechnende Denken
+      ab. Leibniz hat beide entwickelt. Mit Rationalismus und Idealismus gehört
+      er zu den Vernunftweltanschauungen des Frühlings.
+    chunk_id: 03336bd1-7647-4c26-ada9-848eddff29fb
+chunk_id: 825f8bdd-db52-457e-a3de-8a74abb2c27c

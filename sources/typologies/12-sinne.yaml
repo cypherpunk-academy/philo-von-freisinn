@@ -1,0 +1,384 @@
+# Neue Typologie (nicht aus supabase public.vector_chunks).
+# Quellen: Rudolf Steiner, "Allgemeine Menschenkunde als Grundlage der
+# Pädagogik" (GA 293), 8. Vortrag, 29. August 1919; "Geisteswissenschaft als
+# Erkenntnis der Grundimpulse sozialer Gestaltung" (GA 199), 3. Vortrag,
+# 8. August 1920; ergänzend "Fachwissenschaften und Anthroposophie" (GA 73a).
+
+typology:
+  slug: 12-sinne
+  title: name
+  aliases: aliases
+  overview:
+    text: text
+    references: references
+    chunk_id: chunk_id
+  members:
+    from: sinne
+    name: name
+    text: text
+    chunk_id: chunk_id
+
+name: "12 Sinne"
+aliases:
+  - "Zwölf Sinne"
+  - "Sinneslehre"
+  - "Sinne des Menschen"
+  - "Willenssinne, Gefühlssinne, Erkenntnissinne"
+  - "Ich-Sinn"
+  - "Gedankensinn"
+kurz: >
+  Nach Rudolf Steiner hat der Mensch nicht fünf, sondern zwölf Sinne: vom
+  Ich-Sinn, Gedankensinn und Sprachsinn über Hör-, Wärme-, Seh-, Geschmacks- und
+  Geruchssinn bis zu Tast-, Lebens-, Bewegungs- und Gleichgewichtssinn. Er
+  gliedert sie in Willens-, Gefühls- und Erkenntnissinne. Durch die zwölf Sinne
+  zerlegt sich die Welt, im Urteilen setzt der Mensch sie wieder zusammen.
+text: |
+  Die **12 Sinne** sind nach Rudolf Steiner das vollständige System der menschlichen Sinnesorganisation. Die gewöhnliche Wissenschaft kennt nur fünf bis sieben; die übrigen sind weniger auffällig, oder der Mensch „verschläft“ sie, weil sie im Willen wirken.
+
+  **Mitglieder:** Ich-Sinn, Gedankensinn, Sprachsinn (Wortsinn), Hörsinn, Wärmesinn, Sehsinn, Geschmackssinn, Geruchssinn, Tastsinn, Lebenssinn, Bewegungssinn, Gleichgewichtssinn.
+
+  **Beschreibung:** In der „Allgemeinen Menschenkunde“ (GA 293) gliedert Steiner die Sinne dreifach. *Willenssinne* sind Tast-, Lebens-, Bewegungs- und Gleichgewichtssinn; *Gefühlssinne* sind Geruchs-, Geschmacks-, Seh- und Wärmesinn; *Erkenntnissinne* sind Ich-, Gedanken-, Sprach- und Hörsinn. Auch diese beruhen aber auf einem schlafenden Willen. In GA 199 ordnet er die Sinne nach ihrer Richtung: sieben sind mehr nach außen gerichtet (Ich- bis Geschmackssinn), fünf öffnen sich nach innen und zeigen die Wirkungen der Welt im eigenen Leib. Die zwölf Sinne sind keine bloße Aufzählung: Weil die Welt sich durch sie in zwölf Glieder zerlegt, muss der Mensch das Getrennte im Urteilen wieder verbinden. Das Urteilen wird so zu einem lebendigen Vorgang des ganzen Menschen. Für die Erziehung folgt daraus, alle Sinne gleichmäßig zu pflegen. Beim Aufstieg zur höheren Erkenntnis werden die äußeren Sinne zu Toren: Durch Seh- und Wärmesinn führt der Weg in die Imagination, durch Hör- und Sprachsinn in die Inspiration, durch Gedanken- und Ich-Sinn in die Intuition.
+references:
+  - chunk_id: 9f4d29d3-c55b-5ce7-8de3-bb92fc63ee2e
+    relevance: 1
+    description: Steiner zählt Hör-, Wärme-, Seh-, Geschmacks- und Geruchssinn,
+      Gleichgewichts-, Bewegungs- und Lebenssinn auf; so ergibt sich die Tafel
+      der zwölf Sinne.
+  - chunk_id: 619c9012-db52-57e1-b4e5-928bca514e47
+    relevance: 1
+    description: Die zwölf Sinne geben das vollständige System der Sinnesorgane;
+      sieben sind mehr nach außen gerichtet, fünf öffnen sich nach innen.
+  - chunk_id: 2b9e7347-f832-579d-8a87-644730255531
+    relevance: 0.95
+    description: Tast-, Lebens-, Bewegungs- und Gleichgewichtssinn sind
+      Willenssinne; der Mensch verschläft sie, weil er im Willen schläft.
+  - chunk_id: 3a28d456-cfe2-5165-a924-78cb7649c929
+    relevance: 0.95
+    description: Geruchs-, Geschmacks-, Seh- und Wärmesinn sind hauptsächlich Gefühlssinne.
+  - chunk_id: b03a118b-1da4-58de-bf3b-c42e6711b35c
+    relevance: 0.95
+    description: Ich-, Gedanken-, Hör- und Sprachsinn sind mehr Erkenntnissinne,
+      weil der Wille in ihnen schlafender Wille ist.
+  - chunk_id: 7f4f9a90-9d94-5e8f-9c0a-3f6eef49c713
+    relevance: 0.9
+    description: Die Wahrnehmung des anderen Ich beruht auf dem Ich-Sinn, so wie die
+      Wahrnehmung der Farbe auf dem Sehsinn.
+  - chunk_id: 609393b6-5f05-52fc-a125-1750105d3492
+    relevance: 0.85
+    description: Der Gedankensinn nimmt die Gedanken anderer Menschen wahr; er ist
+      vom Sprachsinn verschieden.
+  - chunk_id: b6bb6a7a-944a-5e40-ac16-75c6c7c0eb07
+    relevance: 0.85
+    description: Beim Aufstieg zur höheren Erkenntnis dringt das Geistig-Seelische
+      durch die äußeren Sinne nach außen; durch das Auge gelangt es in die
+      Region der Imagination.
+  - chunk_id: 5fd39f5d-19c5-52c9-833b-0937982e0d7b
+    relevance: 0.8
+    description: Durch den Gehörsinn verlässt man den Leib und erlebt die Inspiration.
+  - chunk_id: a67a55c9-434c-5219-9365-797b57b2d423
+    relevance: 0.5
+    description: Gleichgewichts-, Bewegungs- und Lebenssinn emanzipieren sich aus
+      dem Innern des Menschen.
+sinne:
+  - name: Ich-Sinn
+    kurz: >
+      Der Ich-Sinn nimmt das Ich eines anderen Menschen wahr, so wie der Sehsinn
+      die Farbe. Er ist vom Erleben des eigenen Ich ganz verschieden. Sein Organ
+      ist über den ganzen Menschen ausgebreitet. Im Wahrnehmen pendelt die Seele
+      zwischen Hingabe und Abwehr, Sympathie und Antipathie, Einschlafen und
+      Aufwachen.
+    text: >
+      Der Ich-Sinn ist nach Rudolf Steiner der Sinn für die Wahrnehmung des
+      anderen Ich. Er muss streng unterschieden werden vom Erleben des eigenen
+      Ich: Fasse ich meine Lebenstätigkeiten im Wort „Ich“ zusammen, so habe ich
+      etwas rein Innerliches; erkenne ich einen anderen Menschen als Ich, so
+      vollzieht sich eine Tätigkeit im Wechselspiel zwischen ihm und mir. Das
+      Erleben des eigenen Ich ist ein Willensvorgang, das Wahrnehmen des fremden
+      Ich ein Erkenntnisvorgang. Man könnte, sagt Steiner, für dieses Wahrnehmen
+      das Wort „Ichen“ gebrauchen wie das Wort „Sehen“. Das Organ dafür ist
+      nicht außen sichtbar wie das Auge, sondern über den ganzen Menschen
+      ausgebreitet und von sehr feiner Substantialität. Den Analogieschluss, man
+      erschließe aus der Gestalt des anderen, dass er wie man selbst ein Ich
+      habe, nennt Steiner eine Torheit. Vielmehr wirkt der andere wie eine
+      Attacke; man wehrt sich, erlahmt, gibt sich wieder hin: Sympathie und
+      Antipathie vibrieren. In der Sympathie schläft man in den anderen hinein,
+      in der Antipathie wacht man auf. Das fremde Ich wird so in einem
+      schlafenden Willen erkundet und rasch in die Erkenntnis hinübergeleitet.
+      In GA 199 ist der Ich-Sinn der am weitesten nach außen gerichtete Sinn;
+      durch ihn verlassen, erscheinen die Intuitionen, tingiert mit Wesenhaftem
+      der geistigen Außenwelt.
+    chunk_id: 7e264551-cbcf-43dc-81ed-fe44a2e9954a
+  - name: Gedankensinn
+    kurz: >
+      Der Gedankensinn nimmt nicht die eigenen Gedanken wahr, sondern die
+      Gedanken anderer Menschen. Er ist vom Sprachsinn verschieden: Die
+      Lautsprache vermittelt die Gedanken nur. Man könnte sie ebenso aus
+      Gebärden oder eurythmischen Bewegungen ablesen. Er ist ein Erkenntnissinn
+      und führt in die Intuition.
+    text: >
+      Den Gedankensinn bezeichnet Rudolf Steiner als eigenen Sinn, getrennt vom
+      Ich-Sinn und von allen übrigen Sinnen. Er ist nicht der Sinn für die
+      Wahrnehmung der eigenen Gedanken, sondern für das Wahrnehmen der Gedanken
+      anderer Menschen. Die Psychologen, sagt Steiner, sind so sehr von der
+      Zusammengehörigkeit von Sprache und Denken beeinflusst, dass sie glauben,
+      mit der Sprache werde immer auch das Denken aufgenommen. Das sei ein
+      Unding. Man könnte die Gedanken ebenso aus Gebärden im äußeren Raum
+      wahrnehmen wie aus der Lautsprache; die Lautsprache vermittelt die
+      Gedanken nur. Wären für alle Laute die eurythmischen Zeichen ausgebildet,
+      so könnte man aus den eurythmischen Bewegungen eines Menschen seine
+      Gedanken ebenso ablesen, wie man sie hörend aufnimmt. Auch in GA 199
+      betont Steiner, um die Gedanken eines anderen Wesens wahrzunehmen, gehöre
+      ein anderes Sinnesorgan dazu als der bloße Wortsinn. Mit dem Gedankensinn
+      dringt man tiefer in die äußere Welt ein als mit dem Wortsinn. Er gehört
+      zu den Erkenntnissinnen, in denen der Wille schläft. Verlässt das
+      Geistig-Seelische den Leib durch den Gedankensinn, so dringt es in das
+      Gebiet der Intuitionen.
+    chunk_id: 6ba6bb5f-6372-49e9-a8a2-294231d98ff3
+  - name: Sprachsinn (Wortsinn)
+    kurz: >
+      Der Sprachsinn nimmt den Inhalt von Worten wahr. Er ist vom Hörsinn
+      verschieden, denn man kann hören, ohne Worte zu verstehen. Durch ihn
+      dringt man tiefer in das Innere eines anderen Wesens ein als durch den
+      bloßen Ton. Er ist ein Erkenntnissinn und führt in die Inspiration,
+      tingiert mit dem Sich-eins-Fühlen mit dem fremden Wesen.
+    text: >
+      Den Sprachsinn, auch Wortsinn oder Wortesinn, unterscheidet Rudolf Steiner
+      deutlich vom Hörsinn. Es sei eine vollständige Verkennung zu glauben, mit
+      dem Gehör sei schon erschöpft, was der Wortsinn enthält: Man könnte hören
+      und doch den Inhalt der Worte nicht so wahrnehmen, dass man ihn versteht.
+      Auch organisch besteht ein Unterschied: Das Hören des Tones ist durch das
+      Ohr vermittelt, das Wahrnehmen der Worte durch andere Organe, die ebenso
+      physischer Natur sind. Durch den Hörsinn dringt man in das Wesen eines
+      Dinges ein, etwa in die Seele des Metallischen; durch den Wortsinn ist man
+      schon ganz in das Innere eines Wesens hineingegossen. Vom Gedankensinn ist
+      er wiederum zu unterscheiden, weil die Sprache die Gedanken nur
+      vermittelt. In der „Allgemeinen Menschenkunde“ gehört der Sprachsinn zu
+      den Erkenntnissinnen. In GA 199 gehört er zu den nach außen gerichteten
+      Sinnen. Steiner hält es für besonders wichtig, ein Gefühl für dieses Organ
+      zu gewinnen, das ebenso real in der physischen Organisation vorhanden ist
+      wie der Gehörsinn. Verlässt man durch den Sprachsinn den Leib, so erlebt
+      man Inspirationen, die tingiert sind mit innerem Erleben, mit dem
+      Sich-eins-Fühlen mit dem fremden Wesen.
+    chunk_id: c5dad588-3549-4a73-927d-6e9925ba7241
+  - name: Hörsinn
+    kurz: >
+      Der Hörsinn nimmt den Ton wahr und dringt damit in das innere Wesen der
+      Körper ein: Schlägt man eine Metallplatte an, so hört man etwas von der
+      Seele des Metallischen. Er gehört zu den Erkenntnissinnen. Verlässt das
+      Geistig-Seelische den Leib durch das Ohr, so gelangt es in das Gebiet der
+      Inspiration.
+    text: >
+      Der Hörsinn ist nach Rudolf Steiner einer der gewöhnlich anerkannten
+      Sinne, aber er reicht tiefer, als man meint. Während der Wärmesinn nur das
+      wahrnimmt, was als allgemeine Wärme die Körper durchdringt, nimmt der
+      Hörsinn wahr, was mit dem inneren Wesen der Körper zusammenhängt. Schlägt
+      man eine metallene Platte an, so nimmt man etwas von ihrer Substantialität
+      wahr; man bekommt gewissermaßen die Seele des Metallischen. Vom Sprachsinn
+      ist der Hörsinn verschieden: Hören heißt noch nicht, den Inhalt von Worten
+      zu verstehen. In der „Allgemeinen Menschenkunde“ zählt Steiner ihn zu den
+      Erkenntnissinnen, in denen der Wille ein schlafender Wille ist, der mit
+      der Erkenntnistätigkeit mitvibriert. In GA 199 gehört er zu den nach außen
+      gerichteten Sinnen. Für den Aufstieg zur höheren Erkenntnis ist er ein
+      entscheidendes Tor: Verlässt man durch das Ohr den Leib, so kommt man in
+      die geistig-seelische Welt und erlebt die Inspiration. Inspirationen
+      gehören mehr dem seelisch-geistigen Inneren an als Imaginationen; man
+      fühlt sich von ihnen durchdrungen, wie man sich leiblich von der
+      eingeatmeten Luft durchdrungen fühlt. In der Sinneswelt erscheinen von den
+      Inspirationen nur die Abdrücke, durch Wort- und Hörsinn.
+    chunk_id: a37e1fdc-7284-4050-9c27-f26794b0296e
+  - name: Wärmesinn
+    kurz: >
+      Der Wärmesinn nimmt wahr, was als Wärme die Körper durchdringt, und reicht
+      damit tiefer als der Sehsinn. Er ist vom Tastsinn streng zu unterscheiden:
+      Der Tastsinn ist willensmäßig, der Wärmesinn gefühlsmäßig. Durch ihn
+      erscheinen in der höheren Erkenntnis Imaginationen, die seelisch warm oder
+      kalt wirken.
+    text: >
+      Den Wärmesinn trennt Rudolf Steiner ausdrücklich vom Tastsinn. Beide
+      zusammenzuwerfen sei ungefähr so, wie wenn man Rauch und Staub in eins
+      zählte, weil sie äußerlich gleich aussehen; es seien zwei durchaus
+      verschiedene Arten, sich mit der Welt in Beziehung zu setzen. Der Tastsinn
+      ist mehr willensmäßig, der Wärmesinn nur gefühlsmäßig. In der „Allgemeinen
+      Menschenkunde“ gehört er darum zu den Gefühlssinnen, neben Geruch,
+      Geschmack und Sehen; das naive Bewusstsein bemerkt die Verwandtschaft mit
+      dem Fühlen nur deshalb nicht, weil es Wärme und Tasten verwechselt. In GA
+      199 beschreibt Steiner, wie der Wärmesinn tiefer in den Körper eindringt
+      als der Sehsinn: Er vermittelt nicht die Oberfläche, sondern das, was die
+      Körperlichkeit von außen durchdringt und im Inneren durchsetzt. Er gehört
+      zu den nach außen gerichteten Sinnen. Verlässt man in der höheren
+      Erkenntnis durch den Wärmesinn den Leib, so bekommt man Imaginationen, die
+      nicht gelassen erscheinen wie die reinen Bilder des Sehsinns. Sie sind
+      tingiert: Sie wirken sympathisch oder antipathisch, seelisch warm oder
+      kalt.
+    chunk_id: 0f4f9631-77e9-493c-b359-84d7d3a33e1d
+  - name: Sehsinn
+    kurz: >
+      Der Sehsinn vermittelt die Oberfläche der Körper: Farbe, Hell und Dunkel.
+      Die Form sieht das Auge allein nicht; sie wird über den Bewegungssinn
+      hinzugefügt, und im Verbinden beider urteilt der Mensch. Steiner zählt den
+      Sehsinn zu den Gefühlssinnen. Durch das Auge führt der Weg in die reine
+      Imagination.
+    text: >
+      Der Sehsinn vermittelt nach Rudolf Steiner die Oberfläche der äußeren
+      Körperlichkeit, die farbig, hell und dunkel entgegentritt. In der
+      „Allgemeinen Menschenkunde“ zählt er ihn zu den Gefühlssinnen. Dass man
+      das nicht bemerkt, liegt daran, dass man keine Betrachtungen anstellt wie
+      Goethe in seiner Farbenlehre, wo die Verwandtschaft der Farben mit dem
+      Gefühl bis hin zu Willensimpulsen ausgesprochen ist. Außerdem sieht man
+      fast immer zugleich Farben und Formen. Durch die eigentliche Tätigkeit des
+      Auges sieht man aber nur die Farbe; die Kreisform eines farbigen Kreises
+      nimmt man wahr, indem man sich unbewusst des über den ganzen Leib
+      ausgebreiteten Bewegungssinns bedient und die Form innerlich
+      nachvollzieht. Weil Farbe und Form auf zwei Wegen kommen, ist man
+      innerlich genötigt, sie zusammenzufügen; darin urteilt man. An diesem
+      Beispiel zeigt Steiner, dass das Urteilen ein lebendiger Vorgang des
+      ganzen Menschen ist. Wer zum Sehen erziehen will, muss das wissen. In GA
+      199 ist der Sehsinn ein nach außen gerichteter Sinn. Verlässt das
+      Geistig-Seelische durch das Auge den Leib, so gelangt es in die Region der
+      Imagination und erlebt reine Bildimaginationen, „so wie der Regenbogen ein
+      Bild ist“.
+    chunk_id: 896abf61-1015-4ac3-8da5-bf7d41da01c0
+  - name: Geschmackssinn
+    kurz: >
+      Der Geschmackssinn nimmt wahr, was sich von der Oberfläche der Körper löst
+      und in der Wechselwirkung mit dem eigenen Organismus auf uns zugeht. Er
+      steht an der Grenze zwischen den äußeren und den inneren Sinnen. Er gehört
+      zu den Gefühlssinnen. Durch ihn erscheinen Imaginationen, die mit letzten
+      Resten von Materialität tingiert sind.
+    text: >
+      Der Geschmackssinn liegt nach Rudolf Steiner gewissermaßen auf der anderen
+      Seite des Sehsinns. Was an der Oberfläche der Körper entgegentritt,
+      vermittelt der Sehsinn; was sich in der Empfindung von der Oberfläche
+      loslöst und in der Wechselwirkung mit dem eigenen Organismus auf uns
+      zugeht, vermittelt der Geschmackssinn. Beim Schmecken berühren uns die
+      Körper nur, und unsere Absonderungen verbinden sich oberflächlich mit
+      unserem Inneren. In GA 199 rechnet Steiner ihn noch zu den sieben nach
+      außen gerichteten Sinnen, nennt ihn aber schon zweifelhaft: Er steht an
+      der Grenze zwischen dem, was die äußeren Körper betrifft, und dem, was sie
+      als Wirkung auf uns ausüben. In der „Allgemeinen Menschenkunde“ gehört er
+      zu den Gefühlssinnen; das naive Bewusstsein empfindet beim Schmecken und
+      Riechen die Verwandtschaft mit dem Fühlen besonders deutlich. Für die
+      höhere Erkenntnis gilt: Verlässt man durch das Geschmacksorgan den Leib,
+      so erscheinen die Imaginationen nicht als reine, duftige Bilder, sondern
+      verdichtet, tingiert mit einem letzten Rest von Materialität. Steiner sagt
+      drastisch: Man bekommt Gespenster.
+    chunk_id: 37154cf6-4d73-4652-a548-af079ee0bb7a
+  - name: Geruchssinn
+    kurz: >
+      Der Geruchssinn ist materiell viel innerlicher als der Geschmackssinn:
+      Riechen ist schon eine bedeutsame Veränderung im eigenen Inneren. Er
+      gehört zu den Gefühlssinnen und in GA 199 zu den fünf Sinnen, die sich
+      nach innen öffnen und die Wirkungen der Welt in uns zeigen.
+    text: >
+      Den Geruchssinn stellt Rudolf Steiner dem Hörsinn gegenüber. Wie man durch
+      den Hörsinn tiefer in das Innere der äußeren Körper dringt als durch den
+      Wärmesinn, so ist das, was der Körper durch den Geruch auf uns ausübt,
+      viel stärker innerlich als das, was der Geschmackssinn wahrnimmt. Das
+      Riechen ist materiell viel innerlicher als das Schmecken. Beim Schmecken
+      berühren uns die Körper nur; das Riechen ist schon eine bedeutsame
+      Veränderung in unserem Inneren, und die Nasenschleimhaut ist viel
+      innerlicher organisiert als die Geschmackswerkzeuge. Darum gehört der
+      Geruchssinn in GA 199 zu den fünf Sinnen, die sich nach innen öffnen:
+      Lebens-, Bewegungs-, Gleichgewichts-, Tast- und Geruchssinn. Sie zeigen
+      innere Vorgänge, die Wirkungen der Außenwelt in uns sind, und vermitteln
+      durch das Wahrnehmen des Inneren unser Verhältnis zum Kosmos. In der
+      „Allgemeinen Menschenkunde“ zählt Steiner den Geruchssinn zu den
+      Gefühlssinnen; beim Riechen und Schmecken empfindet schon das naive
+      Bewusstsein die Verwandtschaft mit dem Fühlen.
+    chunk_id: 67850847-fe35-41ab-ab44-666806b5fb54
+  - name: Tastsinn
+    kurz: >
+      Durch den Tastsinn nimmt man eigentlich nur sich selbst wahr: nicht den
+      Gegenstand, sondern die Veränderung, die er im eigenen Organismus bewirkt,
+      etwa wie weit ein harter Körper die Organe zurückschiebt. Er ist ein
+      Willenssinn, eine Auseinandersetzung des Willens mit der Umgebung, und vom
+      Wärmesinn streng zu unterscheiden.
+    text: >
+      Beim Tastsinn ist nach Rudolf Steiner das Wahrnehmen schon ganz von den
+      Dingen abgesondert, noch mehr als beim Geruchssinn. Wer einen Gegenstand
+      betastet, nimmt eigentlich nur sich selbst wahr. Der Gegenstand drückt
+      stark auf uns, weil er hart ist, oder wenig, weil er weich ist;
+      wahrgenommen wird aber nicht er, sondern die Veränderung in uns selbst.
+      Ein harter Gegenstand schiebt die Organe weit zurück, und dieses
+      Zurückschieben wird als Veränderung im eigenen Organismus wahrgenommen.
+      Darum gehört der Tastsinn in GA 199 zu den nach innen geöffneten Sinnen.
+      In der „Allgemeinen Menschenkunde“ ist er einer der vier Willenssinne,
+      neben Lebens-, Bewegungs- und Gleichgewichtssinn: Wenn man etwas betastet,
+      ist das im Grunde eine Auseinandersetzung zwischen dem eigenen Willen und
+      der Umgebung. Beim Tastsinn sieht man äußerlich, dass man die Hand bewegt;
+      deshalb ist er, anders als die drei übrigen Willenssinne, allgemein
+      anerkannt. Steiner warnt davor, ihn mit dem Wärmesinn zusammenzuwerfen:
+      Der Tastsinn ist willensmäßig, der Wärmesinn gefühlsmäßig.
+    chunk_id: 789eac08-9d24-4993-9d40-5827ceeab4be
+  - name: Lebenssinn
+    kurz: >
+      Der Lebenssinn nimmt das Gestimmtsein des eigenen Leibes wahr: ob man zu
+      viel oder zu wenig gegessen hat, ob man ermüdet ist, ob man sich behaglich
+      oder unbehaglich fühlt. Durch ihn geht man am meisten in sich selbst
+      hinein. Er ist ein Willenssinn, den der Mensch gewöhnlich verschläft.
+    text: >
+      Den Lebenssinn beschreibt Rudolf Steiner als Sinn für die Wahrnehmung des
+      Gestimmtseins des Leibes im weitesten Sinn. Viele Menschen sind von ihm
+      sehr abhängig: Sie nehmen wahr, ob sie zu viel oder zu wenig gegessen
+      haben, ob sie ermüdet sind oder nicht, und fühlen sich dadurch behaglich
+      oder unbehaglich. Die Wahrnehmung der Zustände des eigenen Leibes spiegelt
+      sich im Lebenssinn. Wahrgenommen werden dabei nicht die Lebensvorgänge
+      selbst, sondern das, was als innere Behaglichkeit oder Unbehaglichkeit
+      davon empfunden wird und im Schlaf nicht wahrgenommen wird. In GA 199 ist
+      er der Sinn, durch den der Mensch am meisten in sich selbst hineingeht: Er
+      vermittelt das allgemeine Lebensgefühl, dass wir sind und uns innerlich
+      erfühlen. Damit steht er dem Ich-Sinn gegenüber, durch den der Mensch am
+      meisten aus sich herausgeht. In der „Allgemeinen Menschenkunde“ gehört er
+      zu den Willenssinnen, in die der Wille sehr stark hineinwirkt. Weil der
+      Mensch im Willen schläft, verschläft er diese Sinne, und in den meisten
+      Psychologien sind sie gar nicht angeführt.
+    chunk_id: 01674116-11ce-4200-bdf3-b0e279f30db7
+  - name: Bewegungssinn
+    kurz: >
+      Der Bewegungssinn nimmt innerlich wahr, ob man ruht oder sich bewegt, ob
+      die Muskeln gebeugt oder gestreckt sind. Er ist über den ganzen Leib
+      ausgebreitet und wirkt unbewusst auch beim Sehen mit: Die Form eines
+      Gegenstands nimmt man über ihn wahr. Er ist ein Willenssinn.
+    text: >
+      Durch den Bewegungssinn unterscheidet der Mensch nach Rudolf Steiner, ob
+      er in Ruhe oder in Bewegung ist und ob seine Muskeln gebeugt sind oder
+      nicht. Man nimmt das nicht nur daran wahr, dass die äußeren Gegenstände
+      vorüberziehen, sondern innerlich: an der Verlängerung und Verkürzung der
+      Muskeln, an der Veränderung der eigenen Leibeskonfiguration. In GA 199
+      gehört er zu den nach innen geöffneten Sinnen und steht dem Gedankensinn
+      gegenüber. In der „Allgemeinen Menschenkunde“ ist er ein Willenssinn: Man
+      fühle doch, wie der Wille in das Wahrnehmen von Bewegungen hineinwirkt,
+      selbst wenn man sie im Stehen ausführt. Eine besondere Rolle spielt er im
+      Sehen. Die Kreisform eines farbigen Kreises sieht das Auge allein nicht;
+      man nimmt sie wahr, indem man sich unbewusst des über den ganzen Leib
+      ausgebreiteten Bewegungssinns bedient, im Ätherleib und Astralleib eine
+      Kreiswindung ausführt und sie dann in die Erkenntnis hinaufhebt. Die Form
+      holt man so aus dem ganzen Leib heraus. Der Mensch vollzieht, sagt
+      Steiner, die Formen der Geometrie im Kosmos und hebt sie in die Erkenntnis
+      hinauf. Erst indem Farbe und Form zusammenkommen, wird geurteilt.
+    chunk_id: 6fb41c06-0d93-4fac-a86b-5f657f345531
+  - name: Gleichgewichtssinn
+    kurz: >
+      Durch den Gleichgewichtssinn weiß man, wie man sich zu rechts und links,
+      vorn und hinten verhält, ob man steht oder liegt, damit man nicht umfällt.
+      Wird sein Organ zerstört, so fällt man um, wie man ohne Auge keine Farben
+      sieht. Er ist ein Willenssinn, in den der ruhende Wille hineinwirkt.
+    text: >
+      Den Gleichgewichtssinn erkennen nach Rudolf Steiner manche Psychologen
+      bereits an, aber meist ohne Zusammenhang mit den übrigen Sinnen. Er
+      vermittelt ein sinnlich geartetes Bewusstsein davon, dass wir im
+      Gleichgewicht sind. Durch ein innerliches Wahrnehmen wissen wir, wie wir
+      uns zu rechts und links, zu vorn und rückwärts verhalten, damit wir nicht
+      umfallen. Wird das Organ des Gleichgewichtssinns zerstört, so fallen wir
+      um und können uns nicht mehr ins Gleichgewicht setzen, so wie wir uns zu
+      den Farben nicht in Beziehung bringen können, wenn das Auge zerstört ist.
+      In GA 199 beschreibt Steiner ihn als Sinn, durch den wir unterscheiden, ob
+      wir stehen oder liegen. Mit ihm dringen wir ganz in unser Inneres ein: Wir
+      nehmen die Beziehung unseres Inneren zur Außenwelt wahr, innerhalb derer
+      wir uns im Gleichgewicht fühlen, aber wir nehmen sie ganz innerlich wahr.
+      Er steht dem Wortsinn gegenüber. In der „Allgemeinen Menschenkunde“ gehört
+      er zu den Willenssinnen; auch in die Wahrnehmung des Gleichgewichts wirkt
+      der ruhende Wille hinein. Wie Lebens- und Bewegungssinn wird er gewöhnlich
+      verschlafen.
+    chunk_id: a3d08202-1b33-41a0-a250-2e2058d0c6aa
+chunk_id: 53fd3cae-246d-43dd-8c92-6f6d4954fda8

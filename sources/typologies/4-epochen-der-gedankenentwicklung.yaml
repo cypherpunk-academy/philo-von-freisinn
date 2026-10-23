@@ -1,0 +1,201 @@
+# Neue Typologie (nicht aus supabase public.vector_chunks).
+# Quelle: Rudolf Steiner, "Die Rätsel der Philosophie" (GA 18),
+# "Zur Orientierung über die Leitlinien der Darstellung", Abs. 5–15,
+# ergänzt aus den folgenden Kapiteln des Buchs.
+
+typology:
+  slug: 4-epochen-der-gedankenentwicklung
+  title: name
+  aliases: aliases
+  overview:
+    text: text
+    references: references
+    chunk_id: chunk_id
+  members:
+    from: epochen
+    name: name
+    text: text
+    chunk_id: chunk_id
+
+name: "4 Epochen der Gedankenentwicklung"
+aliases:
+  - "Vier Epochen der Gedankenentwicklung"
+  - "Epochen der Gedankenentwicklung"
+  - "Epochen des philosophischen Menschheitsstrebens"
+  - "Epochen der Philosophiegeschichte"
+  - "Rätsel der Philosophie"
+kurz: >
+  Rudolf Steiner unterscheidet in „Die Rätsel der Philosophie“ vier Epochen des
+  abendländischen Philosophierens von je sieben bis acht Jahrhunderten. Der
+  Gedanke wird erst wie eine Wahrnehmung von außen erlebt, dann als Erzeugnis
+  der Seele gefühlt, dann auf seine Wirklichkeit geprüft. Heute sucht die
+  selbstbewusste Seele ein Weltbild, in dem sie und die Natur zugleich Platz
+  haben.
+text: |
+  Die **4 Epochen der Gedankenentwicklung** (auch *Epochen des philosophischen Menschheitsstrebens* genannt) sind nach Rudolf Steiner die großen Abschnitte, in denen sich das abendländische Philosophieren entwickelt hat. In der Einleitung zu „Die Rätsel der Philosophie“ stellt er sie voran, als Ergebnis, nicht als Ausgangspunkt seiner Betrachtung.
+
+  **Mitglieder:**
+  1. **Das erwachende Gedankenleben** – vom griechischen Altertum (Pherekydes, Thales) bis zur Begründung des Christentums.
+  2. **Das Erwachen des Selbstbewusstseins** – von der Begründung des Christentums bis etwa Scotus Erigena (gest. 877).
+  3. **Die Prüfung des Gedankenlebens auf seine Wirklichkeit** – Scholastik, Nominalismus und Realismus, mittelalterliche Mystik.
+  4. **Die selbstbewusste Seele vor dem Naturbild** – von Descartes, Giordano Bruno und Leibniz bis in die Gegenwart.
+
+  **Beschreibung:** Jede Epoche dauert sieben bis acht Jahrhunderte. In jeder wirkt unter der äußeren Geschichte ein anderer geistiger Impuls, der in die Persönlichkeiten einstrahlt. Die deutlichen Unterschiede der Epochen sind Steiner ein Beweis für objektive geistige Impulse, die sich im Zeitenlauf fortentwickeln. Vor der ersten Epoche lebt die Seele in sinnbildlichen Vorstellungen; erst in Griechenland wird echter Gedanke geboren. Die Gegenwart steht etwa in der Mitte der vierten Epoche. Ihre Grundfrage: Wie gelangt die Seele zu einem Weltbild, in dem die Innenwelt und die Natur zugleich sicher verankert sind? Am Schluss des Buchs weist Steiner diese Frage auf eine Anthroposophie hin.
+references:
+  - chunk_id: a5568ad8-99e8-54c4-b8d3-daf47b74c343
+    relevance: 1
+    description: Die Entwicklung des Gedankenlebens ist durch vier Epochen
+      fortgeschritten; vom Gedanken als Wahrnehmung von außen bis zum Weltbild
+      der selbstbewussten Seele gegenüber dem Naturbild.
+  - chunk_id: ee8928a3-5ac2-5245-bc51-cb6d9f196688
+    relevance: 0.95
+    description: Die erste Epoche beginnt im griechischen Altertum mit Pherekydes
+      und Thales und endet mit der Begründung des Christentums; vorher lebte die
+      Seele in Bildern.
+  - chunk_id: 9c89338b-a838-53ed-b219-ae9dedfb43b1
+    relevance: 0.9
+    description: Der Grieche schaut den Gedanken in und an der Welt der Dinge; der
+      Gedanke bleibt das Band zwischen Seele und Welt.
+  - chunk_id: 86aa130f-3a6e-5907-92a1-baaf46b37251
+    relevance: 0.9
+    description: Die zweite Epoche reicht bis Scotus Erigena; das Denken taucht in
+      das religiöse Vorstellen unter, das Selbstbewusstsein wird erlebt, noch
+      nicht gedanklich erfasst.
+  - chunk_id: f0fa5f1d-c9b3-5797-b56e-6ee625eff41c
+    relevance: 0.9
+    description: Mit dem Ablauf der dritten Epoche ist das Selbstbewusstsein
+      erstarkt; Descartes' „Ich denke, also bin ich“ leuchtet als Wahrzeichen
+      der neuen Stufe.
+  - chunk_id: 19ce6204-b5e9-5863-a955-5e36e87bf27f
+    relevance: 0.85
+    description: In der vierten Epoche stellt sich das Naturbild der
+      Naturwissenschaften auf eigenen Boden und enthält nichts mehr von der
+      selbstbewussten Seele.
+  - chunk_id: bc79a6bf-2401-56bb-9448-90b32002c29a
+    relevance: 0.8
+    description: Die dritte Epoche erprobt den Gedanken in seiner inneren Kraft; zu
+      Beginn der vierten will das Selbstbewusstsein ein Weltbild gestalten, dem
+      das Naturbild entgegentritt.
+  - chunk_id: 64637760-20d9-533b-bafb-927e6a1c45e6
+    relevance: 0.5
+    description: Von Pherekydes bis zu den Sophisten ist das allmähliche Einleben
+      des Gedankens in der griechischen Weltanschauungsentwicklung zu
+      beobachten.
+epochen:
+  - name: "Das erwachende Gedankenleben (Griechenland bis zur Begründung des
+      Christentums)"
+    kurz: >
+      In der ersten Epoche erwacht in Griechenland der Gedanke. Vorher lebte die
+      Seele in Bildern und fühlte sich als Glied des Weltorganismus. Der Grieche
+      erlebt den Gedanken wie eine Wahrnehmung, als etwas, das er in und an den
+      Dingen schaut. So wird der Gedanke zum Erzieher der Seele zur
+      Selbstständigkeit.
+    text: >
+      Die erste Epoche beginnt nach Rudolf Steiner im griechischen Altertum;
+      geschichtlich lässt sie sich bis zu Pherekydes von Syros und Thales von
+      Milet zurückverfolgen. Sie endet mit den Zeiten, in welche die Begründung
+      des Christentums fällt. Steiner nennt sie die Epoche des erwachenden
+      Gedankenlebens. Vorher lebte die Menschenseele in bildlichen,
+      sinnbildlichen Vorstellungen; was in orientalischen und ägyptischen
+      Weltbetrachtungen gedankenähnlich erscheint, ist vor echter Betrachtung
+      Bild, nicht Gedanke. Solange die Seele durch das Bild vorstellt, fühlt sie
+      sich innig mit den Welterscheinungen verbunden, als Glied des
+      Weltorganismus. Erwacht der Gedanke in seiner Bildlosigkeit, so fühlt sie
+      die Trennung von Welt und Seele; der Gedanke wird ihr Erzieher zur
+      Selbstständigkeit. Doch der Grieche erlebt den Gedanken anders als der
+      heutige Mensch: Er empfindet ihn, wie man jetzt Rot oder Gelb empfindet,
+      und schaut ihn in und an der Welt der Dinge. Deshalb bleibt der Gedanke
+      das Band, das die Seele mit der Welt verbindet; die Loslösung beginnt
+      erst. Weil die Seele meint, den Gedanken aus der Welt empfangen zu haben,
+      kann sie von ihm die Enthüllung der Welträtsel erwarten. In Platon und
+      Aristoteles erreicht diese Entwicklung ihren Höhepunkt; dann flutet sie
+      ab.
+    chunk_id: aa602ede-002b-4ba6-81f9-21d01f938a63
+  - name: "Das Erwachen des Selbstbewusstseins (bis Scotus Erigena)"
+    kurz: >
+      In der zweiten Epoche fühlt die Seele den Gedanken nicht mehr als
+      Wahrnehmung von außen, sondern als Erzeugnis ihres eigenen Inneren. Ein
+      mächtigerer Impuls als das Gedankenleben strahlt herein: Das
+      Selbstbewusstsein erwacht. Es wird erlebt, aber noch nicht gedanklich
+      erfasst. Das Denken taucht in das religiöse Vorstellen unter.
+    text: >
+      Mit dem entstehenden Christentum setzt nach Rudolf Steiner eine neue
+      Epoche ein. Die Seele kann den Gedanken nicht mehr wie eine Wahrnehmung
+      aus der äußeren Welt empfinden; sie fühlt ihn als Erzeugnis ihres eigenen
+      Wesens. Aus den Untergründen des geistigen Werdens strahlt ein viel
+      mächtigerer Impuls herein, als das Gedankenleben war: Das
+      Selbstbewusstsein erwacht erst jetzt in einer Art, die seinem eigentlichen
+      Wesen entspricht. Steiner hofft, eine künftige Betrachtung werde diese
+      Zeit die des „Erwachens des Selbstbewusstseins“ nennen. Der Mensch wird
+      den ganzen Umfang seines Seelenlebens als Ich gewahr, doch die Philosophen
+      dieser Zeit empfinden das mehr dunkel, als sie es deutlich wissen. Sie
+      tauchen mit ihrem Denken ganz in das religiöse Vorstellen unter. Durch
+      dieses Vorstellen sucht die Seele, die sich im erwachten Selbstbewusstsein
+      ganz auf sich gestellt sieht, ihre Eingliederung in das Leben des
+      Weltorganismus wiederzugewinnen. Der Gedanke wird bloßes Mittel, um eine
+      aus religiösen Quellen gewonnene Anschauung auszudrücken. Eingebettet in
+      diese Anschauung wächst er, vom religiösen Vorstellen genährt, wie ein
+      Pflanzenkeim im Schoß der Erde, bis er hervorbricht. Diesen Charakter
+      behält das Philosophieren bis etwa zu Scotus Erigena (gest. 877), sieben
+      bis acht Jahrhunderte nach der Begründung des Christentums.
+    chunk_id: 7b45d46c-e771-4db4-8020-67e0317fd26d
+  - name: "Die Prüfung des Gedankenlebens auf seine Wirklichkeit (Scholastik und
+      Mystik)"
+    kurz: >
+      In der dritten Epoche erwacht die Kraft des Gedankenlebens wieder. Die
+      Seele findet, dass der Gedanke ihr ureigenster Besitz ist, und fragt: Wie
+      kann sich in ihm etwas aussprechen, was nicht bloß von der Seele erdacht
+      ist? Nominalismus, Realismus, Scholastik und mittelalterliche Mystik
+      prüfen den Gedanken auf seinen Wirklichkeitscharakter.
+    text: >
+      Die dritte Epoche zeigt nach Rudolf Steiner einen völlig anderen
+      Charakter. Die führenden Philosophen fühlen die Kraft des Gedankenlebens
+      wieder erwachen. Die Menschenseele hat die Selbstständigkeit, die sie
+      durch Jahrhunderte durchlebt hat, innerlich befestigt und beginnt zu
+      suchen, was eigentlich ihr ureigenster Besitz ist. Sie findet: das
+      Gedankenleben. Alles andere wird ihr von außen gegeben; den Gedanken
+      erzeugt sie aus den Untergründen ihrer eigenen Wesenheit, und sie ist
+      dabei mit vollem Bewusstsein anwesend. So entsteht der Trieb, im Gedanken
+      eine Erkenntnis zu gewinnen, die über das Verhältnis der Seele zur Welt
+      aufklärt. Die Frage dieses Zeitalters lautet: Wie kann sich im
+      Gedankenleben etwas aussprechen, was nicht bloß von der Seele erdacht ist?
+      Nominalismus und Realismus, die Scholastik und die mittelalterliche Mystik
+      offenbaren diesen Grundcharakter. Die Seele prüft das Gedankenleben auf
+      seinen Wirklichkeitscharakter; ihre philosophische Stärke ist ein Einleben
+      in das Gedankenelement, die Kraft, den Gedanken in seinem eigenen Wesen
+      durchzuarbeiten. Im Verlauf der Epoche wächst die Fähigkeit, sich des
+      Gedankens zu bedienen. Durch diese jahrhundertelange innere Arbeit
+      erstarkt das Selbstbewusstsein so, dass es am Ende der Epoche das
+      Gedankenleben als mit dem Wesen der Seele verbunden fühlt und darin eine
+      innere Sicherheit des Daseins empfindet.
+    chunk_id: 51c9b587-9b46-4a42-b6cf-b85536003477
+  - name: "Die selbstbewusste Seele vor dem Naturbild (seit Descartes, Bruno und
+      Leibniz)"
+    kurz: >
+      Die vierte Epoche beginnt, wo die selbstbewusste Seele aus ihrem
+      Gedankenbesitz ein Weltbild gestalten will, wie es Descartes' „Ich denke,
+      also bin ich“ ankündigt. Ihr tritt das Naturbild der Naturwissenschaften
+      entgegen, das von der Seele nichts enthält. Die Gegenwart steht ungefähr
+      in der Mitte dieser Epoche.
+    text: >
+      Am Übergang zur vierten Epoche leuchtet nach Rudolf Steiner wie ein
+      mächtiger Stern Descartes' Wort „Ich denke, also bin ich“. Man fühlt das
+      Wesen der Seele im Gedankenleben strömen und vermeint, in diesem Strömen
+      das wahre Sein der Seele selbst zu erleben. Spinoza folgert, wahre
+      Erkenntnis könne nur die sein, die so erlebt wird wie das auf sich selbst
+      gebaute Gedankenleben. Giordano Bruno und Leibniz fragen: Wie muss die
+      Welt vorgestellt werden, damit in ihr die selbstbewusste Menschenseele den
+      ihr angemessenen Platz hat? Mit Weltbildern, die aus dieser Frage
+      entstehen, beginnt die vierte Epoche. Zugleich setzen die aufblühenden
+      Naturwissenschaften dem philosophischen Weltbild ein Naturbild an die
+      Seite, das sich allmählich auf eigenen Boden stellt und in das sich nichts
+      mischen soll, was die Seele aus sich selbst schöpft. In diesem Naturbild
+      findet die Seele von sich nichts mehr. In der ersten Epoche löste sich die
+      Seele von der Außenwelt; in der vierten hat sich das Naturbild vom
+      seelischen Eigenleben gelöst. Der Seele droht, sich eingestehen zu müssen,
+      dass alles, was sie von sich erkennt, nur für sie selbst Bedeutung hat.
+      Die Gegenwart bildet ungefähr die Mitte dieser Epoche; ihr maßgebender
+      Impuls ist die Frage nach einem Weltbild, in dem Innenwelt und Natur
+      zugleich sicher verankert sind.
+    chunk_id: ef3f1590-5812-4f80-9622-205e357cb7f1
+chunk_id: 97923a87-52dd-4b72-802e-1c6ea143ea31

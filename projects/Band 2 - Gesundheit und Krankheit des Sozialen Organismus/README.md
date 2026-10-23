@@ -4,8 +4,9 @@ A visual matrix mapping healthy and pathological dynamics across Steiner's socia
 
 ## Directory Structure
 
+The matrix YAML lives in the assistant sources, not in this project: `sources/typologies/soziale-gesundheit.yaml`.
+
 ```
-content/       YAML source of truth for all matrix fields
 scripts/       Python generators (A2 poster, A0 large-format)
 output/        Generated SVG/JPG (auto-regenerated via pre-commit hook)
 assets/        Reference images, backgrounds, triangle graphics
@@ -17,7 +18,7 @@ docs/          Specification and design documents
 
 ### Level 1: YAML-only (auto-regenerated)
 
-Edit `content/soziale-gesundheit.yaml` and commit. The pre-commit hook runs both generators and stages the updated output automatically.
+Edit `sources/typologies/soziale-gesundheit.yaml` (from the assistant root) and commit. The pre-commit hook runs both generators and stages the updated output automatically.
 
 Good for: text corrections, label changes, rewording aspects.
 
