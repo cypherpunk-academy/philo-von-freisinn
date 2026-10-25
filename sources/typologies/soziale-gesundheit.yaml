@@ -47,6 +47,7 @@ uebersicht: |
   Die Felder, in denen zwei Glieder zugleich auf das dritte wirken, sind hier nicht ausgeführt.
 generated_at: 2026-08-06
 model: claude-opus-4-6 (manuelle Redaktion)
+chunk_id: ea4d9fd1-1f38-4520-aa5f-978a930f846f
 
 felder:
 
@@ -5239,125 +5240,13 @@ felder:
           geschieht, bestimmen die Begegnenden selbst. Zuordnung ohne Zuteilung:
           aus der lebendigen Kenntnis derer, die geben und die empfangen.
         text: >
-          Wenn niemand von oben zuteilt, braucht es einen Ort, an dem sich
-          Fähigkeit und Bedarf begegnen. Die Wirtschaft stellt diesen Ort bereit
-          — nicht als Markt, auf dem getauscht wird, sondern als Raum, in dem
-          sichtbar wird, was da ist und was fehlt: Der Forscher, der eine Frage
-          hat, findet den Betrieb, der sie braucht; die Ärztin, die eine Methode
-          entwickelt, findet die Gemeinschaft, die sie erproben will; der
-          Handwerksmeister, der ausbilden kann, findet den jungen Menschen, der
-          lernen will. Was in einer gesunden Ordnung die Assoziation leistet —
-          Erzeuger, Händler und Verbraucher bringen ihr Wissen zusammen, damit
-          das Richtige zum Richtigen kommt —, gilt hier für die Schnittstelle
-          zwischen Wirtschaft und Geist: Die Menschen, die etwas können, und die
-          Menschen, die etwas brauchen, treten einander gegenüber und
-          entscheiden aus eigener Kenntnis, was zusammengehört. Kein Gremium
-          filtert, kein Antrag steht dazwischen, kein Indikator ersetzt das
-          Urteil derer, die in der Sache stehen. Die Wirtschaft baut den Raum
-          und hält ihn offen — aber was darin geschieht, bestimmen die
-          Begegnenden selbst. So entsteht Zuordnung ohne Zuteilung: nicht
-          geplant, nicht zufällig, sondern aus der lebendigen Kenntnis derer,
-          die geben und die empfangen.
-        references:
-          - id: 7e95d3ca-8623-4f56-8f05-7ae56beae3b9
-            chunk_id: 3196bbf1-e5ad-5470-b9b8-38ea6467423c
-            chunk_type: secondary_book
-            source_id: c98c5a9c-1e03-5640-8a8b-992251d26f59
-            relation: veranschaulicht
-            relevance: 0.55
-            begruendung: Belegt die Idee, dass individuelle Fähigkeiten sich der Produktionsmittel und Betriebe bedienen – also Können und Bedarf einander finden, ohne zentrale Zuteilung.
-          - id: 489dc42e-ab86-40ee-bfc7-7aa5a97d8267
-            chunk_id: 2b1b0271-e70e-5237-9c81-bafc693906a5
-            chunk_type: secondary_book
-            source_id: 87debe49-9fa0-53c4-b62f-a328d86fadb0
-            relation: erlaeutert
-            relevance: 0.5
-            begruendung: Beschreibt das gesunde assoziative Leben, in dem der Produktionsprozess so geordnet wird, dass Fähigkeit und Bedarf der Beteiligten sich wechselseitig zuordnen.
-          - id: 2225d04a-2286-4377-a8ea-f4a9c0113055
-            chunk_id: 188a10b0-739f-5e4a-bbf8-e2fd6119823e
-            chunk_type: secondary_book
-            source_id: c914180b-272f-579c-bc96-ff6e85c6edcc
-            relation: begruendet
-            relevance: 0.45
-            begruendung: Zeigt, wie sich Berufe und Produktions-/Konsumtionsverhältnisse aus dem Zusammenspiel der Wirtschaftsweisen ergeben – Zuordnung aus lebendiger Kenntnis statt Gremium.
-          - id: 78be005b-0851-4855-8336-12167fd40936
-            chunk_id: 8b3b53c7-f7c0-59f3-bde5-5b6fcbdc3029
-            chunk_type: secondary_book
-            source_id: ac3bf276-e37f-56b0-8d05-4788cfc2018e
-            relation: bestaetigt
-            relevance: 0.4
-            begruendung: Arbeitsteilung führt dazu, dass jeder für die anderen arbeitet; das stützt die Begegnung von Können und Brauchen im Wirtschaftsraum.
-          - id: e3cdd67a-7147-4389-b8ab-de1f4f0369de
-            chunk_id: 9c7e65f6-602c-5959-b729-1a121e661efc
-            chunk_type: secondary_book
-            source_id: add296af-0f66-5d41-a270-3ba21c18937c
-            relation: veranschaulicht
-            relevance: 0.35
-            begruendung: Assoziatives Wesen als konkretes Beispiel, wie wirtschaftliche Zuordnung aus der Sache selbst erwächst (Fabriken wandern aufs Land).
-        chunk_id: 7d4c1f32-ba0f-445d-9e56-93fd39d1576a
+          Wenn niemand von oben zuteilt, braucht es einen Ort, an dem sich Fähigkeit und Bedarf begegnen. Die Wirtschaft stellt diesen Ort bereit — nicht als Markt, auf dem getauscht wird, sondern als Raum, in dem sichtbar wird, was da ist und was fehlt: Der Forscher, der eine Frage hat, findet den Betrieb, der sie braucht; die Ärztin, die eine Methode entwickelt, findet die Gemeinschaft, die sie erproben will; der Handwerksmeister, der ausbilden kann, findet den jungen Menschen, der lernen will. Was in einer gesunden Ordnung die Assoziation leistet — Erzeuger, Händler und Verbraucher bringen ihr Wissen zusammen, damit das Richtige zum Richtigen kommt —, gilt hier für die Schnittstelle zwischen Wirtschaft und Geist: Die Menschen, die etwas können, und die Menschen, die etwas brauchen, treten einander gegenüber und entscheiden aus eigener Kenntnis, was zusammengehört. Kein Gremium filtert, kein Antrag steht dazwischen, kein Indikator ersetzt das Urteil derer, die in der Sache stehen. Die Wirtschaft baut den Raum und hält ihn offen — aber was darin geschieht, bestimmen die Begegnenden selbst. So entsteht Zuordnung ohne Zuteilung: nicht geplant, nicht zufällig, sondern aus der lebendigen Kenntnis derer, die geben und die empfangen.
       - schlagwort: Brüderlichkeit
         schlagsatz: Füreinander arbeiten, statt gegeneinander rechnen.
         kurztext: >
-          Brüderlichkeit ist keine Gefühlsangelegenheit. Sie ist eine
-          Erkenntnis: Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit
-          entwickelt haben. Was ich empfange, gebe ich zurück — an Menschen,
-          deren Früchte ich nie sehen werde. Wer das versteht, rechnet nicht. So
-          wie der Rechtssinn aus Einsicht in das Gesetz handelt, handelt der
-          wirtschaftende Mensch aus Einsicht in die gegenseitige Abhängigkeit.
-          Am reinsten zeigt sie sich dort, wo die Wirtschaft dem Geist gibt:
-          dem, der nichts tauschen kann und alles schenkt. Wer versteht, braucht
-          keine Rechnung.
+          Brüderlichkeit ist keine Gefühlsangelegenheit. Sie ist eine Erkenntnis: Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben. Was ich empfange, gebe ich zurück — an Menschen, deren Früchte ich nie sehen werde. Wer das versteht, rechnet nicht. So wie der Rechtssinn aus Einsicht in das Gesetz handelt, handelt der wirtschaftende Mensch aus Einsicht in die gegenseitige Abhängigkeit. Am reinsten zeigt sie sich dort, wo die Wirtschaft dem Geist gibt: dem, der nichts tauschen kann und alles schenkt. Wer versteht, braucht keine Rechnung.
         text: >
-          Brüderlichkeit ist keine Gefühlsangelegenheit. Sie ist eine
-          Erkenntnis: Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit
-          entwickelt haben. Was ich empfange, gebe ich zurück – an Menschen,
-          deren Früchte ich nie sehen werde. Wer das versteht, rechnet nicht. Er
-          gibt nicht aus Pflicht und erwartet keinen Dank, sondern handelt aus
-          Einsicht in den Zusammenhang. So wie der Rechtssinn aus Einsicht in
-          das Gesetz handelt, so handelt der wirtschaftende Mensch aus Einsicht
-          in die gegenseitige Abhängigkeit. Brüderlichkeit ist das Leitprinzip
-          des Wirtschaftslebens. Sie ist die Grundlage, ohne die keine Struktur
-          trägt. Am reinsten zeigt sie sich dort, wo die Wirtschaft dem Geist
-          gibt: dem Bruder, der nichts tauschen kann und alles schenkt. Wer
-          versteht, braucht keine Rechnung.
-        references:
-          - id: 5466b6b7-3a28-4de9-94ea-ea40d7955ce4
-            chunk_id: bb340ad0-c682-5d5a-8909-6b1f33f116ce
-            chunk_type: secondary_book
-            source_id: 3388bde7-8c85-58cd-9881-a2c17e3aa16d
-            relation: veranschaulicht
-            relevance: 0.82
-            begruendung: Belegt die Brüderlichkeit als wirtschaftliche Kraft, die den Menschen dem Menschen gegenüberstellt – genau der Kern des Aspekts 'Füreinander arbeiten'.
-          - id: aacaa41c-03a8-4d2b-b40f-7c79ec62d2b6
-            chunk_id: 1967a3e9-7081-59e5-abba-84a53d8ed5d5
-            chunk_type: secondary_book
-            source_id: 64c2c868-eb32-51c9-a077-e6dff196412c
-            relation: definiert
-            relevance: 0.78
-            begruendung: Formuliert prägnant 'Brüderlichkeit für das Wirtschaftsleben' als Signum des sozialen Organismus und ordnet sie dem Wirtschaftsleben zu.
-          - id: ca5a72f3-6eb8-4031-b912-cfad4b969ae7
-            chunk_id: 08259cbe-2f3b-5bb2-9173-10cfe5a36ee8
-            chunk_type: secondary_book
-            source_id: 66ee0b14-82ba-55f8-aa48-8cc3d1e91c8a
-            relation: erlaeutert
-            relevance: 0.7
-            begruendung: Zeigt, wie menschliche Arbeitskraft aus dem Wirtschaftsleben herausgelöst und in den gesunden sozialen Organismus gestellt wird – Grundlage für füreinander statt gegeneinander.
-          - id: fbc4a9d3-84f4-4379-8d40-e57b23c00d29
-            chunk_id: 6d4879c6-6d0c-5f61-be1a-2ddacc8907b1
-            chunk_type: secondary_book
-            source_id: e30630ea-8514-5a3b-a718-9845ee3795a2
-            relation: begruendet
-            relevance: 0.66
-            begruendung: Begründet, dass eine brüderliche Gesellschaftsordnung Zwangssysteme überflüssig macht – stützt die These, dass Einsicht statt Rechnung wirkt.
-          - id: 544d3535-66fa-4513-a4f3-7b0b9c4362a7
-            chunk_id: ddcfebb9-7d23-5b82-83f1-e5dd6f1a60a3
-            chunk_type: secondary_book
-            source_id: a32dff5c-174a-5ab9-9bed-08c49727b79e
-            relation: bestaetigt
-            relevance: 0.6
-            begruendung: Bestätigt, dass im Wirtschaftsleben an Einsicht und innere Impulse der Menschen appelliert wird – passt zur brüderlichen Erkenntnis statt Rechnung.
-        chunk_id: 9e1a14c1-ba34-42b8-a48e-42fc4a6eed72
-    chunk_id: e662fd8e-7d68-46f3-93cf-1e2a67b0dafa
+          Brüderlichkeit ist keine Gefühlsangelegenheit. Sie ist eine Erkenntnis: Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben. Was ich empfange, gebe ich zurück – an Menschen, deren Früchte ich nie sehen werde. Wer das versteht, rechnet nicht. Er gibt nicht aus Pflicht und erwartet keinen Dank, sondern handelt aus Einsicht in den Zusammenhang. So wie der Rechtssinn aus Einsicht in das Gesetz handelt, so handelt der wirtschaftende Mensch aus Einsicht in die gegenseitige Abhängigkeit. Brüderlichkeit ist das Leitprinzip des Wirtschaftslebens. Sie ist die Grundlage, ohne die keine Struktur trägt. Am reinsten zeigt sie sich dort, wo die Wirtschaft dem Geist gibt: dem Bruder, der nichts tauschen kann und alles schenkt. Wer versteht, braucht keine Rechnung.
 
   - id: dm-06k
     feld: 6
@@ -5392,61 +5281,7 @@ felder:
           den Menschen vor Erschöpfung. Die Wirtschaft finanziert ihre eigene
           Zukunft nicht.
         text: >
-          Die Wirtschaft lebt von geistiger Arbeit und versorgt sie nicht. Der
-          Maintainer pflegt nachts die Bibliothek, auf der tausend Firmen
-          aufbauen. Die Forscherin begutachtet unbezahlt, was andere
-          veröffentlichen. Der Entwickler hält allein Software am Laufen, die
-          auf Millionen Geräten läuft — ohne Vertrag, ohne Rückhalt. Sechzig
-          Prozent der Maintainer der digitalen Infrastruktur werden nicht
-          bezahlt. Bei jedem Build: „139 packages are looking for funding" —
-          Bedürfnis sichtbar, automatisch erhoben, folgenlos; die Meldung lässt
-          sich abschalten. In einer gesunden Wirtschaft erhält der
-          Geistesarbeiter das Notwendige für das, was sonst niemand tut. Hier
-          erhält er nichts und verbrennt. Angriffsfläche: erschöpfter
-          Maintainer, geduldiger Angreifer, Hintertür in Software auf einem
-          Großteil der Server — ein Sozialproblem, das als Sicherheitsproblem
-          erscheint. Es fehlt nicht an Mitteln, sondern an der Form: Geben folgt
-          dem Schock, wenn etwas passiert ist, nie dem Bedarf voraus. Copyleft
-          schützt den Text vor Einschließung, nicht den Menschen vor Erschöpfung
-          — Weitergabe ja, Lebensunterhalt nein. Die Wirtschaft finanziert ihre
-          eigene Zukunft nicht und merkt es erst beim Zusammenbruch.
-        references:
-          - id: 2c998981-2c8c-42b6-a7a7-70434124457b
-            chunk_id: 65dffd93-13b6-5072-ad1a-f7dda7eb48d8
-            chunk_type: book
-            source_id: 3b38df84-e9bc-4e70-9032-d3fa65517cfd
-            relation: deckt_auf
-            relevance: 0.72
-            begruendung: Zeigt den Niedergang des Geisteslebens als Ursache der wirtschaftlichen Katastrophen — genau die Struktur 'Wirtschaft lebt von geistiger Arbeit und versorgt sie nicht'.
-          - id: 082c902c-4c39-476c-99a1-aff789ceb23b
-            chunk_id: 19358885-6b0f-5590-a5be-7a1d6f8e1ef3
-            chunk_type: secondary_book
-            source_id: 12ba016a-3148-55df-8a20-a5cd5a6f7723
-            relation: deckt_auf
-            relevance: 0.68
-            begruendung: "Der Geistige wird zum Schuldner des Geldbesitzers: die strukturelle Überlastung des geistig Arbeitenden durch das Geld."
-          - id: f56e0ca7-21cd-4aef-ac10-a705248fefb5
-            chunk_id: df76dcb7-c49e-502e-b153-0404f7aabbf4
-            chunk_type: secondary_book
-            source_id: 39f31965-e446-5ca5-96e8-a51c4a395cf5
-            relation: warnt
-            relevance: 0.66
-            begruendung: Warnt, dass eine bloß wirtschaftliche Bewegung auf Geistesgrundlage gestellt werden muss — sonst bricht das Ungetragene zusammen.
-          - id: 4f41f49e-234f-4198-9946-0145416be9bd
-            chunk_id: af9384c0-331e-5e89-a816-93e0b0bb9b89
-            chunk_type: secondary_book
-            source_id: e784e17d-d6f2-5f21-85bc-9f496c3271d6
-            relation: zeigt_gegenbild
-            relevance: 0.6
-            begruendung: "Gegenbild: emanzipiertes Geistesleben, das den Wirtschaftsprozess so beeinflusst, dass Kapital nicht mehr im alten Sinn wirkt."
-          - id: e5bfff19-7fe7-4112-87bc-afe25afa2690
-            chunk_id: b21cf830-5a41-5d74-ac02-4598a2e99c8f
-            chunk_type: secondary_book
-            source_id: 60df1c43-8698-54d4-a1b3-15a130ef17e5
-            relation: kritisiert
-            relevance: 0.58
-            begruendung: Kritisiert die materielle Vorbedingung als einseitig — verweist auf das Spannungsverhältnis zwischen wirtschaftlicher Bedrückung und geistiger Aufnahme.
-        chunk_id: a4acdf5d-4c6c-461c-88b1-3f2f8c572f2a
+          Die Wirtschaft lebt von geistiger Arbeit und versorgt sie nicht. Der Maintainer, der nachts die Bibliothek pflegt, auf der tausend Firmen aufbauen. Die Forscherin, die unbezahlt begutachtet, was andere veröffentlichen. Der Entwickler, der seit Jahren allein eine Software wartet, die auf Millionen Geräten läuft — ohne Vertrag, ohne Rückhalt, ohne dass ihn jemand kennt. Sechzig Prozent der Maintainer, die die digitale Infrastruktur der Welt tragen, werden nicht bezahlt. Bei jedem Build meldet die Paketverwaltung etwas wie „139 packages are looking for funding" — das Bedürfnis ist perfekt sichtbar, automatisch erhoben, und folgenlos; man kann die Meldung abschalten. Mit einer gesunden Wirtschaft erhält der Geistesarbeiter das Notwendige, damit er tun kann, was sonst niemand tut. Hier erhält er nichts — und verbrennt. Was übrig bleibt, ist die Angriffsfläche: Ein erschöpfter Maintainer, ein geduldiger Angreifer, der sich über Jahre als Nachfolger aufbaut, und am Ende eine Hintertür in einer Software, die auf einem Großteil der Server der Welt läuft. Das war kein Sicherheitsproblem, das sich sozial auswirkte — es war ein Sozialproblem, das sich als Sicherheitsproblem zeigte. Es fehlt nicht an Mitteln, es fehlt an der Form, in der sie ankommen: Auch wo großzügig gegeben wird, geschieht es nach dem Schock, nach der Pandemie, nach dem Einbruch — nie vor ihm. Der Rückstrom reagiert auf Katastrophen, nicht auf Bedarf. Selbst das Copyleft, das Urheberrecht gegen sich selbst wendet, schützt den Text vor Einschließung, nicht den Menschen vor Erschöpfung. Weitergabe ja, Lebensunterhalt nein. Am Ende finanziert die Wirtschaft ihre eigene Zukunft nicht — und merkt es erst, wenn sie zusammenbricht.
       - schlagwort: Betriebsgeheimnis
         schlagsatz: Das Dach wird zum Deckel.
         kurztext: >
@@ -6220,7 +6055,4 @@ felder:
       (China, aber auch westliche Tendenzen); KI-Modelle unter Konzernkontrolle
       mit staatlichen Auflagen.
     spannung: 5
-    chunk_id: 4f6c20e1-4b0e-4a73-aa14-3e92aaae29d1
-chunk_id: ea4d9fd1-1f38-4520-aa5f-978a930f846f
-
-chunk_id: ea4d9fd1-1f38-4520-aa5f-978a930f846f
+    chunk_id: 4f6c20e1-4b0e-4a73-aa14-3e92aaae29d
