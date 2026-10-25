@@ -2988,7 +2988,7 @@ felder:
       der Assoziation gerechnet — als Eintrag in der Weltbuchhaltung.
       Eigentum an Produktionsmitteln ist Verfügung auf Zeit, gebunden an
       Fähigkeit. Das Recht hält Verträge, ohne ihren Inhalt zu bestimmen,
-      sichert Transparenz und schützt, wer Missstände meldet.
+      sichert Transparenz und ermöglicht konstruktive Einbringung, wo es geht.
     text: |
       Im gesunden Feld Recht -> Wirtschaft sichert das Gesetz den fairen Rahmen, in dem die Wirtschaft
       frei verhandelt. Es bindet, ohne zu bestimmen: Was unter Gleichen als Bürgern festgelegt wird, kommt
@@ -3002,7 +3002,7 @@ felder:
       gehören dem, der sie fähig führt, und nur so lange; das Kapital wandert unentgeltlich weiter.
       **Vertragssicherheit:** Was vereinbart ist, gilt; was vereinbart wird, entscheidet die Assoziation.
       Das Recht selbst ist unverkäuflich. **Transparenz:** Jeder kann erfahren, wie Ware entsteht und was
-      danach mit ihr geschieht. **Einspruch:** Wer Missstände meldet, steht unter dem Schutz des Rechts.
+      danach mit ihr geschieht. **Einbringung:** Konstruktiv vorschlagen — vermerkt, nicht befohlen.
 
       Der Gegenpol ist „Die Politik entscheidet wer gewinnt“: Dort wird das Recht selbst zum Markt, und
       gehandelt wird der Rahmen.
@@ -3413,39 +3413,36 @@ felder:
             relevance: 0.35
             begruendung: "Begründet die Grenzziehung des Wirtschaftslebens gegenüber Naturordnung und Rechtsleben und damit die Zuständigkeit des Rechts für die Folgen wirtschaftlichen Handelns."
         chunk_id: b87b9f79-5e7f-45ee-99d9-798c2873db30
-      - schlagwort: Einspruch
-        schlagsatz: Wer einen Missstand meldet, steht unter dem Schutz des Rechts.
+      - schlagwort: Einbringung
+        schlagsatz: Konstruktiv vorschlagen — vermerkt, nicht befohlen.
         kurztext: >
-          Wer im Betrieb arbeitet, sieht Missstände zuerst; er will
-          praktisch mit der Situation umgehen und muss reagieren können.
-          Darum schafft das Rechtsleben eine Rechtsgrundlage für alle,
-          die darauf hinweisen: Wer aufdeckt, wird geschützt, nicht
-          verfolgt, und muss weder Kündigung noch Klage fürchten.
-          Verbraucher und Nachbarn können Einwände einbringen; sie werden
-          erfasst, ohne Vorprüfung. Was die Assoziationen von innen
-          leisten, leistet dieses Recht von außen: Es hält die Wirtschaft
-          korrigierbar.
+          Wer in einer Assoziation mitarbeitet, kann dort ohnehin
+          mitgestalten. Das Recht öffnet dazu, wo es möglich ist, auch
+          über die eigene Aufgabe hinaus: konstruktiv sagen, was geändert
+          werden soll und wie es gehen könnte — wie bei einem Pull
+          Request. Wer zuständig ist, muss nicht annehmen; eingereicht
+          und vermerkt wird, was kommt. Wo der Weg möglich ist, soll das
+          Recht ihn nicht schließen. So bleibt die Wirtschaft offen für
+          Verbesserung.
         text: >
-          Wer in einem Betrieb arbeitet, sieht Missstände zuerst:
-          verschwiegene Gefahren, geschönte Werte, verdeckte Schäden. Er
-          will praktisch mit der Situation umgehen und muss reagieren
-          können. Darum schafft das Rechtsleben eine
-          Rechtsgrundlage für alle, die über Missstände im Unternehmen
-          informieren: Wer aufdeckt, wird geschützt, nicht verfolgt — er
-          muss weder Kündigung noch Versetzung, weder Klage noch
-          Schadenersatzforderung fürchten, weil er gesagt hat, was er
-          sah. Ebenso können Verbraucher am Produkt und Nachbarn an der
-          Fabrik Einwände einbringen. Die Hinweise werden dort sichtbar
-          erfasst, wo sie hingehören — am Erzeugnis, am Betrieb, am
-          Verfahren —, formal gesammelt, ohne Vorprüfung ihres Werts; so
-          zeigt sich, was viele bewegt, ohne dass eine Instanz
-          entscheidet, was gehört wird. Was die Assoziationen von innen
-          leisten — den Bedarf wahrnehmen, den Mangel bemerken, die
-          Preise berichtigen —, leistet dieses Recht von außen: Es hält
-          die Wirtschaft korrigierbar für die, die in ihren Verträgen
-          nicht mit am Tisch sitzen. So bleibt das Wirtschaftsleben in
-          Bewegung und wirtschaftet nicht im Verborgenen — denn was
-          niemand beanstanden kann, verbessert auch niemand.
+          Wer Teil einer Assoziation ist und an einer Aufgabe mitarbeitet,
+          kann dort ohnehin mitgestalten — sagen, was sich ändern ließe
+          und wie es gehen könnte. Das Rechtsleben erweitert diese
+          Möglichkeit, soweit es geht, auch über die eigene Aufgabe und
+          über die Grenzen anderer Verantwortung hinweg: konstruktiv
+          vorschlagen, nicht nur beanstanden — wie ein Pull Request, nicht
+          als Befehl. Wer die Verantwortung trägt, muss nicht annehmen;
+          niemand wird gezwungen, fremde Vorschläge auszuführen. Aber wo
+          ein solcher Weg offen ist, soll er nicht verschlossen werden:
+          Was eingereicht wird, wird vermerkt und sichtbar erfasst, ohne
+          Vorprüfung, ob es passt. In der Assoziation geschieht das von
+          innen; das Recht sichert von außen, dass auch Wer nicht am
+          Vertragstisch sitzt — Verbraucher, Nachbarn, Beteiligte
+          anderer Glieder — einen solchen Vorschlag machen darf, ohne
+          Nachteil zu fürchten. Transparenz zeigt, was ist; Einbringung
+          erlaubt, wie es sein könnte. Nicht überall ist das in gleicher
+          Weise möglich — das Recht bestimmt nicht den Inhalt, es hält
+          die Wege offen, wo sie möglich sind.
         references:
           - id: c242f9fe-7846-43b0-8716-d331a5df993e
             chunk_id: 785f5557-63b5-53e9-8ed2-1e41dbe79826
