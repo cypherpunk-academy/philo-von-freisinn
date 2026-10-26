@@ -9,6 +9,7 @@ paths:
   quotes: sources/quotes
   concepts: sources/concepts
   typologies: sources/typologies
+  curated-texts: sources/curated-texts
   thoughts: sources/thoughts
   co-created-quotes: writings/co-created/quotes
   co-created-summaries: writings/co-created/summaries
@@ -146,4 +147,4 @@ typologies:
 lexical-strip-hybrid:
   - Rudolf Steiner
   - Steiner
-last-updated: 2026-09-27T12:07:26.468Z
+last-updated: 2026-10-26T09:53:21.270Z
