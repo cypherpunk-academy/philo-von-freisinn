@@ -3992,7 +3992,8 @@ felder:
     titel: "Die Wirtschaft trägt den Staat"
     kurz: >
       Das Rechtsleben erzeugt keine Güter und braucht doch Gebäude, Menschen und
-      Zeit. Die Wirtschaft trägt es aus ihren Erträgen: Sie gibt dem Recht die
+      Zeit. Die Wirtschaft trägt es — durch Ausgabensteuer aus dem Kreislauf,
+      wenn einzelne kaufen: Sie gibt dem Recht die
       Mittel zur Durchsetzung, speist die Sicherung gegen Krankheit und Alter,
       versorgt die Menschen im Rechtsleben, liefert, was bestellt wird, und
       stellt Bürger frei. Über die Verwendung bestimmt sie nicht: Wer zahlt,
@@ -4055,7 +4056,35 @@ felder:
             source_id: null
             relation: erlaeutert
             relevance: 0.85
-            begruendung: "Aufsätze Dreigliederung, Abs. 6–7: Rechtsstaat regelt Steuerbedarf und -verwendung; Assoziationen verteilen die Forderung; Staat als Konsumorganisation."
+            begruendung: "Aufsätze Dreigliederung, Abs. 6: Rechtsleben regelt allgemeinen Steuerbedarf und Steuerverwendung."
+          - id: 9c733a37-face-4145-a606-0c191db6852f
+            chunk_id: 9c733a37-face-4145-a606-0c191db6852f
+            chunk_type: book
+            source_id: null
+            relation: erlaeutert
+            relevance: 0.85
+            begruendung: "Aufsätze Dreigliederung, Abs. 7: Assoziationen verteilen die Steuerforderung auf die Zweige; Rechtsstaat steht dem Kreislauf als Konsumorganisation gegenüber."
+          - id: 73d9adf0-7464-4742-be9e-8ac66a956aea
+            chunk_id: 73d9adf0-7464-4742-be9e-8ac66a956aea
+            chunk_type: lecture
+            source_id: null
+            relation: begruendet
+            relevance: 0.88
+            begruendung: "Zürich 25.10.1919, Abs. 55: Anlage bei der Bank gilt als Ausgabe; Kapital wird besteuert, wenn es produktiv wird."
+          - id: bacab0e5-f769-466c-9d35-cfa8b38ed693
+            chunk_id: bacab0e5-f769-466c-9d35-cfa8b38ed693
+            chunk_type: lecture
+            source_id: null
+            relation: erlaeutert
+            relevance: 0.87
+            begruendung: "Zürich 25.10.1919, Abs. 56: Nicht indirekte oder direkte Steuer, sondern der Zeitpunkt des Übergangs in den Wirtschaftsprozess."
+          - id: b320b9ee-efcb-4a55-886f-e4e5ceea9ea5
+            chunk_id: b320b9ee-efcb-4a55-886f-e4e5ceea9ea5
+            chunk_type: book
+            source_id: null
+            relation: begruendet
+            relevance: 0.82
+            begruendung: "Kernpunkte der sozialen Frage, Kap. II, Abs. 41: Steuerrecht durch Harmonisierung der Forderungen des Rechtsbewusstseins mit denen des Wirtschaftslebens."
           - id: ea8a70ba-305e-4c1b-a75a-4006acbc52b8
             chunk_id: ea8a70ba-305e-4c1b-a75a-4006acbc52b8
             chunk_type: lecture
