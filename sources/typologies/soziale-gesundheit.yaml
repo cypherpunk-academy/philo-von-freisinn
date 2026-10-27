@@ -3992,7 +3992,8 @@ felder:
     titel: "Die Wirtschaft trägt den Staat"
     kurz: >
       Das Rechtsleben erzeugt keine Güter und braucht doch Gebäude, Menschen und
-      Zeit. Die Wirtschaft trägt es aus ihren Erträgen: Sie gibt dem Recht die
+      Zeit. Die Wirtschaft trägt es — durch Ausgabensteuer aus dem Kreislauf,
+      wenn einzelne Menschen kaufen und Geld in den Verkehr geht: Sie gibt dem Recht die
       Mittel zur Durchsetzung, speist die Sicherung gegen Krankheit und Alter,
       versorgt die Menschen im Rechtsleben, liefert, was bestellt wird, und
       stellt Bürger frei. Über die Verwendung bestimmt sie nicht: Wer zahlt,
@@ -4000,46 +4001,126 @@ felder:
     text: |
       Im gesunden Feld Wirtschaft -> Recht trägt die Wirtschaft den Staat, wie das Fundament das Haus trägt: Es entscheidet nicht, wer darin wohnt. Die Herkunft der Mittel ist wirtschaftlich, ihre Verwendung ist es nicht.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Ertrag:** Alles gemeinschaftlich Genutzte wird aus den Erträgen der Arbeit betrieben; über die Abgaben entscheidet das Rechtsleben unter Gleichen. **Durchsetzung:** Ein Recht braucht Mittel, um zu gelten; wer die Vollstreckung finanziert, erwirbt keinen Einfluss auf das, was vollstreckt wird. **Sicherung:** Was den Einzelnen trifft, trägt die Gemeinschaft; der Anspruch folgt dem Menschsein, nicht dem Marktwert. **Versorgung:** Die Wirtschaft ernährt und behaust die Menschen im Rechtsleben; keine Lieferung begründet eine Weisung. **Lieferung:** Ob und wofür bestimmt das Recht, das Wie verantwortet die Wirtschaft. **Freistellung:** Wer Abgeordneter, Schöffe oder Wahlhelfer ist, wird freigestellt und findet seinen Platz unverändert. **Enthaltung:** Die Wirtschaft zahlt und bestimmt nicht; erst diese Trennung macht alle anderen Beiträge gesund.
+      Sieben Aspekte zeigen, wie das geschieht. **Versorgung:** Das Recht erzeugt nichts; es lebt von der Ausgabensteuer — wenn Geld in den Wirtschaftsprozess übergeht; Bedarf und Verwendung bestimmt das Recht, die Last auf die Zweige legen die Assoziationen fest. **Durchsetzung:** Ein Recht braucht Mittel, um zu gelten; wer die Vollstreckung finanziert, erwirbt keinen Einfluss auf das, was vollstreckt wird. **Sicherung:** Was den Einzelnen trifft, trägt die Gemeinschaft; der Anspruch folgt dem Menschsein, nicht dem Marktwert. **Auskommen:** Die Wirtschaft ernährt und behaust die Menschen im Rechtsleben; keine Lieferung begründet eine Weisung. **Lieferung:** Ob und wofür bestimmt das Recht, das Wie verantwortet die Wirtschaft. **Freistellung:** Wer Abgeordneter, Schöffe oder Wahlhelfer ist, wird freigestellt und findet seinen Platz unverändert. **Enthaltung:** Die Wirtschaft zahlt und bestimmt nicht; erst diese Trennung macht alle anderen Beiträge gesund.
 
       Der Gegenpol ist „Die Wirtschaft kauft die Politik“: Dort wird aus dem Beitrag ein Druckmittel, und wer zahlt, bestimmt doch.
     aspekte:
-      - schlagwort: Ertrag
-        schlagsatz: Ohne Ertrag kein Rechtsstaat.
+      - schlagwort: Versorgung
+        schlagsatz: Das Recht erzeugt nichts — es braucht Versorgung.
         kurztext: >
-          Das Rechtsleben erzeugt keine Güter und braucht doch Gebäude, Wege und
-          Menschen. Alles gemeinschaftlich Genutzte wird aus den Erträgen der
-          wirtschaftlichen Arbeit betrieben. Die Wirtschaft gibt, ohne zu
-          diktieren: Über die Abgaben entscheidet das Rechtsleben unter
-          Gleichen, nicht der Zahler. Die Herkunft der Mittel ist
-          wirtschaftlich, ihre Verwendung ist es nicht. Kein Betrieb erwirbt mit
-          seiner Steuer ein Stimmrecht. Die Wirtschaft trägt den Rechtsstaat,
-          wie das Fundament das Haus trägt: Es entscheidet nicht, wer darin
-          wohnt.
+          Das Rechtsleben erzeugt keine Güter und braucht doch Gesetzgebung,
+          Verwaltung, Gerichte, Ordnung, Verteidigung des Gemeinwesens und Vollzug.
+          Die Menschen
+          dafür reift das Geistesleben heran; die Mittel kommen aus der
+          Wirtschaft — als Ausgabensteuer, wenn Geld direkt mit Gütern
+          verbunden ist, nicht als Einkommensteuer auf abstrakte Zeilen im
+          Konto. Das Rechtsleben bestimmt Bedarf und Verwendung der Mittel; die
+          Assoziationen der Wirtschaft legen fest, welcher Zweig wie viel Steuer
+          trägt.
         text: >
-          Das Rechtsleben erzeugt keine Güter — und braucht doch Gebäude,
-          Geräte, Wege und Menschen, die darin arbeiten. Alles gemeinschaftlich
-          Genutzte — Gerichte, Behörden, Straßen, Schulen, Krankenhäuser — wird
-          aus den Erträgen der wirtschaftlichen Arbeit betrieben: Steuern,
-          Abgaben und Beiträge sind der Anteil der Wirtschaft am Gemeinsamen.
-          Sie gibt dabei, ohne zu diktieren — so wie sie das Geistesleben durch
-          Schenkung trägt, trägt sie das Rechtsleben durch Abgabe. Der
-          Unterschied liegt im Empfänger: Über die geschenkten Mittel
-          entscheidet das Geistesleben frei aus der Sache; über die Abgaben
-          entscheidet das Rechtsleben demokratisch unter Gleichen. Beiden
-          gemeinsam ist die Richtung: Die Herkunft der Mittel ist
-          wirtschaftlich, ihre Verwendung ist es nicht. Kein Betrieb erwirbt mit
-          seiner Steuer ein Stimmrecht, kein großer Zahler ein größeres Gewicht.
-          Die Wirtschaft trägt den Rechtsstaat, wie das Fundament das Haus
-          trägt: Es entscheidet nicht, wer darin wohnt.
+          Das Rechtsleben erzeugt keine Güter — und braucht doch Gesetzgebung,
+          Verwaltung und Gerichtsbarkeit, Schutz der Ordnung und Verteidigung
+          des Gemeinwesens, Vollstreckung und Haft, Verwaltungsgebäude und
+          Reisen: alles, was Rechtseinrichtungen brauchen, damit unter Gleichen
+          gelten kann, was für alle gilt. Die Menschen, die urteilen,
+          verwalten und vollziehen, kommen aus dem Geistesleben; der Kreislauf
+          bildet sie nicht, aber ihr Wirken im Recht kostet Güter und Geld.
+          Alles Gemeinsame wird aus dem Wirtschaftskreislauf getragen, nicht aus
+          besteuertem Einkommen: Geld ist gesund, wenn es direkt mit Gütern
+          verbunden ist — nicht als abstrakte Zeile im Konto, auf die eine
+          Einkommensteuer zielt. Deshalb wird besteuert, was wirklich
+          wirtschaftet: wenn der Einzelne ausgibt und das Geld in den Prozess
+          übergeht, auch wenn es vorher bei einer Bank liegt.
+          So ist die Steuer Hingabe des Kreislaufs an die Allgemeinheit, kein
+          Parasit an ihm. Das ist die Ausgabensteuer, statt Einkommensteuer
+          oder indirekter Steuer: Sie fließt aus dem Portemonnaie des einzelnen
+          Menschen, nicht aus Konsortien. Der Rechtsstaat steht dem Kreislauf
+          als Konsumorganisation gegenüber: Er regelt, welcher Steuerbedarf
+          gilt und wofür die Mittel verwendet werden; wie viel Steuer welcher
+          Wirtschaftszweig trägt, legen die Assoziationen der Wirtschaft fest. Das
+          Steuerrecht entsteht aus der Harmonisierung von Rechtsbewusstsein und
+          Wirtschaftsleben. Die Wirtschaft gibt, ohne zu diktieren — über die
+          Verwendung entscheidet das Rechtsleben demokratisch unter Gleichen.
+          Der Kreislauf trägt den Staat, wie das Fundament das Haus trägt: Er
+          entscheidet nicht, wer darin wohnt.
         references:
+          - id: 73567970-4f70-49e9-8d5b-5c6d1798628d
+            chunk_id: 73567970-4f70-49e9-8d5b-5c6d1798628d
+            chunk_type: lecture
+            source_id: null
+            relation: bestaetigt
+            relevance: 0.95
+            begruendung: "Zürich 25.10.1919, Abs. 57: Was wirklich wirtschaftet, gibt Mittel für die Gemeinschaft als Ausgabensteuer, niemals als Einkommensteuer."
+          - id: e0c47538-0641-4f10-9636-42c2cba867e6
+            chunk_id: e0c47538-0641-4f10-9636-42c2cba867e6
+            chunk_type: lecture
+            source_id: null
+            relation: begruendet
+            relevance: 0.9
+            begruendung: "Zürich 25.10.1919, Abs. 53–54: Einkommensteuer trifft den Kontozufluss; wirtschaftlich wird Geld erst bei der Ausgabe — direkte Verbindung mit Gütern."
+          - id: e459f18c-4755-564a-87bb-ef496847f601
+            chunk_id: e459f18c-4755-564a-87bb-ef496847f601
+            chunk_type: book
+            source_id: f8e6c475-a0e5-4081-b265-61a7536a183e
+            relation: begruendet
+            relevance: 0.78
+            begruendung: "Kernpunkte, Kap. II: Rechtseinrichtungen und Lebenshaltung — im gesunden Organismus getrennte Herkunft der Mittel für das Recht."
+          - id: c85d6c47-f3de-5690-82f2-d26644358c92
+            chunk_id: c85d6c47-f3de-5690-82f2-d26644358c92
+            chunk_type: book
+            source_id: 3b38df84-e9bc-4e70-9032-d3fa65517cfd
+            relation: erlaeutert
+            relevance: 0.76
+            begruendung: "Aufsätze Dreigliederung: Rechtsstaat als Konsumorganisation dem Wirtschaftskreislauf gegenüber."
+          - id: 3dca0a78-9753-43fc-8135-b3d920b1ceeb
+            chunk_id: 3dca0a78-9753-43fc-8135-b3d920b1ceeb
+            chunk_type: book
+            source_id: null
+            relation: erlaeutert
+            relevance: 0.85
+            begruendung: "Aufsätze Dreigliederung, Abs. 6: Rechtsleben regelt allgemeinen Steuerbedarf und Steuerverwendung."
+          - id: 9c733a37-face-4145-a606-0c191db6852f
+            chunk_id: 9c733a37-face-4145-a606-0c191db6852f
+            chunk_type: book
+            source_id: null
+            relation: erlaeutert
+            relevance: 0.85
+            begruendung: "Aufsätze Dreigliederung, Abs. 7: Assoziationen verteilen die Steuerforderung auf die Zweige; Rechtsstaat steht dem Kreislauf als Konsumorganisation gegenüber."
+          - id: 73d9adf0-7464-4742-be9e-8ac66a956aea
+            chunk_id: 73d9adf0-7464-4742-be9e-8ac66a956aea
+            chunk_type: lecture
+            source_id: null
+            relation: begruendet
+            relevance: 0.88
+            begruendung: "Zürich 25.10.1919, Abs. 55: Anlage bei der Bank gilt als Ausgabe; Kapital wird besteuert, wenn es produktiv wird."
+          - id: bacab0e5-f769-466c-9d35-cfa8b38ed693
+            chunk_id: bacab0e5-f769-466c-9d35-cfa8b38ed693
+            chunk_type: lecture
+            source_id: null
+            relation: erlaeutert
+            relevance: 0.87
+            begruendung: "Zürich 25.10.1919, Abs. 56: Nicht indirekte oder direkte Steuer, sondern der Zeitpunkt des Übergangs in den Wirtschaftsprozess."
+          - id: b320b9ee-efcb-4a55-886f-e4e5ceea9ea5
+            chunk_id: b320b9ee-efcb-4a55-886f-e4e5ceea9ea5
+            chunk_type: book
+            source_id: null
+            relation: begruendet
+            relevance: 0.82
+            begruendung: "Kernpunkte der sozialen Frage, Kap. II, Abs. 41: Steuerrecht durch Harmonisierung der Forderungen des Rechtsbewusstseins mit denen des Wirtschaftslebens."
+          - id: ea8a70ba-305e-4c1b-a75a-4006acbc52b8
+            chunk_id: ea8a70ba-305e-4c1b-a75a-4006acbc52b8
+            chunk_type: lecture
+            source_id: null
+            relation: veranschaulicht
+            relevance: 0.8
+            begruendung: "Stuttgart 3.5.1919, Abs. 18: Dem Staat fließt zu, was aus dem Portemonnaie des einzelnen Menschen kommt, nicht von wirtschaftlichen Gruppen."
           - id: 5b106c55-41cf-4a81-817a-817f44fe489b
             chunk_id: 0e0ba24a-e7a3-5357-82fc-42ac7f8d99e9
             chunk_type: book
             source_id: 3b38df84-e9bc-4e70-9032-d3fa65517cfd
             relation: erlaeutert
-            relevance: 0.82
-            begruendung: Belegt direkt, dass der politische Staat seine Erhaltung durch das Steuerrecht aus den Erträgen der Wirtschaft deckt — genau der Aspekt 'Ertrag trägt den Rechtsstaat'.
+            relevance: 0.55
+            begruendung: Ergänzt den Zusammenhang von Steuerrecht und Erhaltung des politischen Staates aus dem Wirtschaftsleben.
           - id: dc533dc8-4805-43eb-bf3f-f59ee0bd4e28
             chunk_id: 7a0cf888-b7e8-5c72-9a7d-19e8ad7fc597
             chunk_type: secondary_book
@@ -4198,14 +4279,14 @@ felder:
             relevance: 0.6
             begruendung: Erläutert, dass ein selbständiges Rechtsglied bewirkt, dass die Arbeitskraft nicht aus wirtschaftlichen Untergründen zur Ware wird — passt zur Sicherungslogik des Aspekts.
         chunk_id: b68bb785-a81c-47f7-a2d5-c818193e1936
-      - schlagwort: Versorgung
+      - schlagwort: Auskommen
         schlagsatz: Geld ist Versprechen; Nahrung ist Wirklichkeit.
         kurztext: >
-          Richterinnen, Polizisten, Abgeordnete erzeugen selbst kein Brot — und
+          Richterinnen, Polizisten, Abgeordnete, Beamte erzeugen selbst kein Brot — und
           leben doch von alledem. Geld ist nur die Anweisung; eingelöst wird sie
           von der realen Produktion. Die Wirtschaft ernährt, kleidet und behaust
-          die Menschen, die im Rechtsleben arbeiten. Mit der Versorgung endet
-          ihr Beitrag. Was die Versorgten leisten, gehört allein dem
+          die Menschen, die im Rechtsleben arbeiten. Mit dem Auskommen endet
+          ihr Beitrag. Was diese Menschen im Amt leisten, gehört allein dem
           Rechtsleben; keine Lieferung begründet eine Weisung. Sie trägt die
           Tragenden — und trägt ihnen nichts auf.
         text: >
@@ -4216,8 +4297,8 @@ felder:
           eigentliche Tragen geschieht darum nicht in den Kassen, sondern in den
           Feldern, Werkstätten und Betrieben: Die Wirtschaft ernährt, kleidet
           und behaust die Menschen, die im Rechtsleben arbeiten — sie trägt die
-          Träger des Rechts. Hier liegt die Übergabe: Mit der Versorgung endet
-          der Beitrag der Wirtschaft. Was die Versorgten leisten — Recht
+          Träger des Rechts. Hier liegt die Übergabe: Mit dem Auskommen endet
+          der Beitrag der Wirtschaft. Was diese Menschen leisten — Recht
           sprechen, verwalten, beschließen —, gehört allein dem Rechtsleben;
           keine Lieferung begründet eine Weisung. So wie die Mittel gesichert
           vom Recht ins Geistesleben übergehen und die verbindliche Form vom
@@ -4231,21 +4312,21 @@ felder:
             source_id: 66ee0b14-82ba-55f8-aa48-8cc3d1e91c8a
             relation: erlaeutert
             relevance: 0.72
-            begruendung: Beschreibt das Wirtschaftsleben als eigenständiges, an Naturordnung und Rechtsleben grenzendes Gebiet — entspricht der Trennung von Versorgung (Wirtschaft) und Rechtsleben im Kurztext.
+            begruendung: Beschreibt das Wirtschaftsleben als eigenständiges, an Naturordnung und Rechtsleben grenzendes Gebiet — entspricht der Trennung von Auskommen (Wirtschaft) und Rechtsleben im Kurztext.
           - id: 143aea89-f36f-4847-9599-114db252e2a1
             chunk_id: 4cdf9683-42a3-5015-b87b-d889e71824bc
             chunk_type: secondary_book
             source_id: 09739c07-c342-5b38-a092-74c4d6274753
             relation: bestaetigt
             relevance: 0.66
-            begruendung: Spricht von einer 'gesunden Abhängigkeit' des Wirtschaftslebens vom Recht über die Arbeitskraft — stützt die These, dass die Versorgung mit dem Beitrag endet und keine Weisung begründet.
+            begruendung: Spricht von einer 'gesunden Abhängigkeit' des Wirtschaftslebens vom Recht über die Arbeitskraft — stützt die These, dass das Auskommen mit dem Beitrag endet und keine Weisung begründet.
           - id: dafff66f-2c63-4d88-88b9-4f297dc419c7
             chunk_id: 1174dc38-fb27-5d74-9ba9-2aa6196b6dff
             chunk_type: secondary_book
             source_id: 6c69318f-7799-5fc8-9c40-1a14a16a5445
             relation: begruendet
             relevance: 0.64
-            begruendung: Argumentiert, die Abhängigkeit des Wohlstands von der Arbeit sei eine 'gesunde Abhängigkeit' — begründet die Grenzziehung zwischen wirtschaftlicher Versorgung und rechtlicher Sphäre.
+            begruendung: Argumentiert, die Abhängigkeit des Wohlstands von der Arbeit sei eine 'gesunde Abhängigkeit' — begründet die Grenzziehung zwischen wirtschaftlichem Auskommen und rechtlicher Sphäre.
           - id: 4b0ca8a2-a317-4766-8e8d-7ab84db584cd
             chunk_id: 6e50a938-5ba6-5a43-9078-7574485efaac
             chunk_type: secondary_book
@@ -4259,7 +4340,7 @@ felder:
             source_id: 0476bf67-4e9c-5913-a438-47dbd7adcee3
             relation: erlaeutert
             relevance: 0.55
-            begruendung: Zeigt, dass im wirtschaftlich Zustandegebrachten das staatlich-rechtliche Verhältnis steckt — erläutert die Verschränkung von Wirtschaft und Recht bei der Versorgung.
+            begruendung: Zeigt, dass im wirtschaftlich Zustandegebrachten das staatlich-rechtliche Verhältnis steckt — erläutert die Verschränkung von Wirtschaft und Recht beim Auskommen.
         chunk_id: 257a9b10-15f1-4d14-8f94-5c42a1630c06
       - schlagwort: Lieferung
         schlagsatz: Das Recht bestellt, die Wirtschaft liefert.
@@ -4470,52 +4551,20 @@ felder:
     pol: krank
     titel: "Die Wirtschaft kauft die Politik"
     kurz: >
-      Im kranken Feld wird der Beitrag der Wirtschaft zum Druckmittel. Konzerne
-      drohen mit Abwanderung, sind zu groß, um belangt zu werden, und bauen
-      Schutzrechte ab oder um sie herum. Richter und Aufsicht werden gekauft,
-      Streit geht vor private Tribunale, Arbeitskraft wird gehandelt wie Ware.
-      Mit Spenden und fertigen Entwürfen kauft die Wirtschaft das Gesetz, bevor
-      es entsteht.
+      Im kranken Feld wird der Beitrag der Wirtschaft zum Druckmittel. Konzerne holen die günstigsten Bedingungen heraus, drohen zur Not mit Abwanderung, sind zu groß, um belangt zu werden, und bauen Schutzrechte ab oder um sie herum. Richter und Aufsicht werden gekauft, Streit geht vor private Tribunale, Arbeitskraft wird gehandelt wie Ware. Mit Spenden und fertigen Entwürfen kauft die Wirtschaft das Gesetz, bevor es entsteht.
     text: |
       Im kranken Feld Wirtschaft -> Recht gibt die Wirtschaft nicht mehr, ohne mit der Gabe etwas zu erwerben. Das Fundament verhandelt über die Statik: Die Mittel, die das Recht tragen sollten, werden zum Hebel, mit dem es gelenkt wird.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Erpressung:** Konzerne drohen mit Abwanderung und erzwingen Steuerbefreiungen; bezahlt wird das von denen, die nicht drohen können. **Machtspiel:** Wer zu groß ist, wird gerettet statt bestraft; die Geltung macht vor der Größe halt. **Schutzabbau:** Arbeits-, Umwelt- und Verbraucherschutz fallen im Namen der Wettbewerbsfähigkeit, oder das Geschäft wird um sie herumgebaut. **Bestechung:** Geld, Drohung, Beziehung und Drehtür erreichen die Hand, die urteilen soll. **Privatjustiz:** Schiedsklauseln, Konzernklagen gegen Staaten und Nutzungsbedingungen bilden ein paralleles Rechtssystem. **Sklaventum:** Der Markt vereinbart, was dem Recht zusteht, Maß und Art der Arbeit: rechtlich frei, wirtschaftlich leibeigen. **Lobbykauf:** Spenden und fertige Gesetzentwürfe kaufen das Gesetz schon im Entwurf.
+      Sieben Aspekte zeigen, wie das geschieht. **Ausnutzung:** Konzerne holen die günstigsten Bedingungen heraus, Sonderregelungen und Steuerbefreiungen, und drohen zur Not mit Abwanderung; bezahlt wird das von denen, die nicht ausweichen können. **Machtspiel:** Wer zu groß ist, wird gerettet statt bestraft; die Geltung macht vor der Größe halt. **Schutzabbau:** Arbeits-, Umwelt- und Verbraucherschutz fallen im Namen der Wettbewerbsfähigkeit, oder das Geschäft wird um sie herumgebaut. **Bestechung:** Geld, Drohung, Beziehung und Drehtür erreichen die Hand, die urteilen soll. **Privatjustiz:** Schiedsklauseln, Konzernklagen gegen Staaten und Nutzungsbedingungen bilden ein paralleles Rechtssystem. **Sklaventum:** Der Markt vereinbart, was dem Recht zusteht, Maß und Art der Arbeit: rechtlich frei, wirtschaftlich leibeigen. **Lobbykauf:** Spenden und fertige Gesetzentwürfe kaufen das Gesetz schon im Entwurf.
 
       Der Gegenpol ist „Die Wirtschaft trägt den Staat“: Dort zahlt die Wirtschaft und bestimmt nicht.
     aspekte:
-      - schlagwort: Erpressung
-        schlagsatz: Wer Macht hat, droht dem Haus.
+      - schlagwort: Ausnutzung
+        schlagsatz: Wer Macht hat, stellt Forderungen.
         kurztext: >
-          Konzerne drohen mit Abwanderung, um Steuerbefreiungen und niedrigere
-          Standards zu erzwingen. Die Abgabe, die den Rechtsstaat tragen sollte,
-          wird zum Druckmittel: Nicht der Beitrag verschafft Gewicht, sondern
-          die Drohung, ihn zu entziehen. Gemeinden unterbieten einander,
-          Steueroasen bieten Briefkästen statt Standorte. Steiner nannte diese
-          Konkurrenz zwischen Wirtschaftsgebieten eine Vorform des Krieges.
-          Bezahlt wird das Entgegenkommen von denen, die nicht drohen können:
-          Handwerk und Angestellte tragen, was die Drohenden sich ersparen. Das
-          Fundament verhandelt über die Statik.
+          Konzerne prüfen, wo sie welche Bedingungen bekommen, und holen heraus, was sich herausholen lässt: Sonderregelungen, Steuerbefreiungen, niedrigere Standards. Gibt der Standort nicht nach, folgt zur Not die Drohung mit Abwanderung. Die Abgabe, die den Rechtsstaat tragen sollte, wird zum Druckmittel: Nicht der Beitrag verschafft Gewicht, sondern die Möglichkeit, ihn zu entziehen. Gemeinden unterbieten einander, Steueroasen bieten Briefkästen statt Standorte. Steiner nannte diese Konkurrenz zwischen Wirtschaftsgebieten eine Vorform des Krieges. Bezahlt wird das Entgegenkommen von denen, die nicht ausweichen können: Handwerk und Angestellte tragen, was die anderen sich ersparen. Das Fundament verhandelt über die Statik.
         text: >
-          Konzerne drohen mit Abwanderung, um Sonderregelungen,
-          Steuerbefreiungen oder die Absenkung von Sozialstandards zu erzwingen
-          — das Recht wird zum Verhandlungsobjekt. Die Abgabe, die den
-          Rechtsstaat tragen sollte, wird als Druckmittel eingesetzt: Nicht der
-          Beitrag verschafft Gewicht, sondern die Drohung, ihn zu entziehen. Je
-          größer der Zahler, desto lauter die Drohung — und desto williger das
-          Entgegenkommen: Gemeinden unterbieten einander mit
-          Gewerbesteuersätzen, Staaten konkurrieren um die niedrigsten
-          Standards, Steueroasen bieten Briefkästen statt Standorte — und wer am
-          glaubwürdigsten gehen kann, diktiert den Bleibenden die Bedingungen.
-          Steiner nannte diese Konkurrenz zwischen Wirtschaftsgebieten eine
-          Vorform des Krieges; sie beginnt beim Gewerbesteuersatz und geht über
-          Sanktionen und Handelskriege bis zu militärischen
-          Auseinandersetzungen. Bezahlt wird das Entgegenkommen von denen, die
-          nicht drohen können: Der Handwerksbetrieb, die Angestellte, die
-          Bäckerei an der Ecke zahlen den vollen Satz und tragen mit, was die
-          Drohenden sich ersparen — sie sind an den Ort gebunden, den der
-          Konzern als Faustpfand hält. So kehrt sich das Tragen um: Das
-          Fundament trägt das Haus nicht mehr — es verhandelt über die Statik
-          und lässt gelegentlich spüren, dass es auch nachgeben könnte.
+          Konzerne vergleichen, wo sie die günstigsten Bedingungen bekommen und von wem, und holen heraus, was sich herausholen lässt: Sonderregelungen, Steuerbefreiungen, die Absenkung von Sozialstandards. Gibt ein Standort nicht nach, folgt zur Not die Drohung mit Abwanderung — das Recht wird zum Verhandlungsobjekt. Die Abgabe, die den Rechtsstaat tragen sollte, wird als Druckmittel eingesetzt: Nicht der Beitrag verschafft Gewicht, sondern die Möglichkeit, ihn zu entziehen. Je größer der Zahler, desto gewichtiger die Forderung — und desto williger das Entgegenkommen: Gemeinden unterbieten einander mit Gewerbesteuersätzen, Staaten konkurrieren um die niedrigsten Standards, Steueroasen bieten Briefkästen statt Standorte — und wer am glaubwürdigsten gehen kann, diktiert den Bleibenden die Bedingungen. Steiner nannte diese Konkurrenz zwischen Wirtschaftsgebieten eine Vorform des Krieges; sie beginnt beim Gewerbesteuersatz und geht über Sanktionen und Handelskriege bis zu militärischen Auseinandersetzungen. Bezahlt wird das Entgegenkommen von denen, die nicht ausweichen können: Der Handwerksbetrieb, die Angestellte, die Bäckerei an der Ecke zahlen den vollen Satz und tragen mit, was die anderen sich ersparen — sie sind an den Ort gebunden, den der Konzern als Faustpfand hält. So kehrt sich das Tragen um: Das Fundament trägt das Haus nicht mehr — es verhandelt über die Statik und lässt gelegentlich spüren, dass es auch nachgeben könnte.
         references:
           - id: 6b862006-ac3a-471c-97d7-67755596071c
             chunk_id: fdcffabb-b1c0-5d26-a733-da589ac35801
@@ -4719,7 +4768,7 @@ felder:
           Prüfung ist die Bewerbung für später; die Zahlung heißt Karriere und
           wird erst nach dem Ausscheiden fällig, wenn keine Vorschrift mehr
           greift. Niemand muss bestochen werden — die Aussicht genügt. Damit
-          kippt die Versorgung in ihr Gegenteil: Gesund trägt die Wirtschaft die
+          kippt das Auskommen in sein Gegenteil: Gesund trägt die Wirtschaft die
           Träger des Rechts — ernährt, kleidet, behaust sie — und trägt ihnen
           nichts auf. Hier sucht sich die Zahlung den direkten Weg: nicht über
           Kassen und Besoldung, durch die alle gleich versorgt werden, sondern
@@ -4886,9 +4935,9 @@ felder:
           Abnahme. So wird aus „Wer zahlt, bestimmt nicht" das Gegenteil: Wer
           zahlt, bestimmt doch — nur leiser, früher und gründlicher, nämlich
           schon im Entwurf. Die Trennung von Zahlen und Bestimmen machte alle
-          anderen Beiträge gesund; fällt sie, kippen sie alle mit: Der Ertrag
-          wird zur Erpressung, die Durchsetzung zur Lähmung, die Sicherung zum
-          Schutzabbau, die Versorgung zur Bestechung, die Lieferung zur
+          anderen Beiträge gesund; fällt sie, kippen sie alle mit: Die Versorgung
+          wird zur Ausnutzung, die Durchsetzung zur Lähmung, die Sicherung zum
+          Schutzabbau, das Auskommen zur Bestechung, die Lieferung zur
           Privatjustiz, die Freistellung zur Drehtür. Die Unbestechlichkeit des
           Rechts war eine Frage der Ordnung, nicht des Charakters — ist die
           Ordnung selbst gekauft, hilft auch kein Charakter mehr.
