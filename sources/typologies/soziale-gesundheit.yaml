@@ -4560,43 +4560,16 @@ felder:
     text: |
       Im kranken Feld Wirtschaft -> Recht gibt die Wirtschaft nicht mehr, ohne mit der Gabe etwas zu erwerben. Das Fundament verhandelt über die Statik: Die Mittel, die das Recht tragen sollten, werden zum Hebel, mit dem es gelenkt wird.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Erpressung:** Konzerne drohen mit Abwanderung und erzwingen Steuerbefreiungen; bezahlt wird das von denen, die nicht drohen können. **Machtspiel:** Wer zu groß ist, wird gerettet statt bestraft; die Geltung macht vor der Größe halt. **Schutzabbau:** Arbeits-, Umwelt- und Verbraucherschutz fallen im Namen der Wettbewerbsfähigkeit, oder das Geschäft wird um sie herumgebaut. **Bestechung:** Geld, Drohung, Beziehung und Drehtür erreichen die Hand, die urteilen soll. **Privatjustiz:** Schiedsklauseln, Konzernklagen gegen Staaten und Nutzungsbedingungen bilden ein paralleles Rechtssystem. **Sklaventum:** Der Markt vereinbart, was dem Recht zusteht, Maß und Art der Arbeit: rechtlich frei, wirtschaftlich leibeigen. **Lobbykauf:** Spenden und fertige Gesetzentwürfe kaufen das Gesetz schon im Entwurf.
+      Sieben Aspekte zeigen, wie das geschieht. **Ausnutzung:** Konzerne holen die günstigsten Bedingungen heraus, Sonderregelungen und Steuerbefreiungen, und drohen zur Not mit Abwanderung; bezahlt wird das von denen, die nicht ausweichen können. **Machtspiel:** Wer zu groß ist, wird gerettet statt bestraft; die Geltung macht vor der Größe halt. **Schutzabbau:** Arbeits-, Umwelt- und Verbraucherschutz fallen im Namen der Wettbewerbsfähigkeit, oder das Geschäft wird um sie herumgebaut. **Bestechung:** Geld, Drohung, Beziehung und Drehtür erreichen die Hand, die urteilen soll. **Privatjustiz:** Schiedsklauseln, Konzernklagen gegen Staaten und Nutzungsbedingungen bilden ein paralleles Rechtssystem. **Sklaventum:** Der Markt vereinbart, was dem Recht zusteht, Maß und Art der Arbeit: rechtlich frei, wirtschaftlich leibeigen. **Lobbykauf:** Spenden und fertige Gesetzentwürfe kaufen das Gesetz schon im Entwurf.
 
       Der Gegenpol ist „Die Wirtschaft trägt den Staat“: Dort zahlt die Wirtschaft und bestimmt nicht.
     aspekte:
-      - schlagwort: Erpressung
-        schlagsatz: Wer Macht hat, droht dem Haus.
+      - schlagwort: Ausnutzung
+        schlagsatz: Wer Macht hat, stellt Forderungen.
         kurztext: >
-          Konzerne drohen mit Abwanderung, um Steuerbefreiungen und niedrigere
-          Standards zu erzwingen. Die Abgabe, die den Rechtsstaat tragen sollte,
-          wird zum Druckmittel: Nicht der Beitrag verschafft Gewicht, sondern
-          die Drohung, ihn zu entziehen. Gemeinden unterbieten einander,
-          Steueroasen bieten Briefkästen statt Standorte. Steiner nannte diese
-          Konkurrenz zwischen Wirtschaftsgebieten eine Vorform des Krieges.
-          Bezahlt wird das Entgegenkommen von denen, die nicht drohen können:
-          Handwerk und Angestellte tragen, was die Drohenden sich ersparen. Das
-          Fundament verhandelt über die Statik.
+          Konzerne prüfen, wo sie welche Bedingungen bekommen, und holen heraus, was sich herausholen lässt: Sonderregelungen, Steuerbefreiungen, niedrigere Standards. Gibt der Standort nicht nach, folgt zur Not die Drohung mit Abwanderung. Die Abgabe, die den Rechtsstaat tragen sollte, wird zum Druckmittel: Nicht der Beitrag verschafft Gewicht, sondern die Möglichkeit, ihn zu entziehen. Gemeinden unterbieten einander, Steueroasen bieten Briefkästen statt Standorte. Steiner nannte diese Konkurrenz zwischen Wirtschaftsgebieten eine Vorform des Krieges. Bezahlt wird das Entgegenkommen von denen, die nicht ausweichen können: Handwerk und Angestellte tragen, was die anderen sich ersparen. Das Fundament verhandelt über die Statik.
         text: >
-          Konzerne drohen mit Abwanderung, um Sonderregelungen,
-          Steuerbefreiungen oder die Absenkung von Sozialstandards zu erzwingen
-          — das Recht wird zum Verhandlungsobjekt. Die Abgabe, die den
-          Rechtsstaat tragen sollte, wird als Druckmittel eingesetzt: Nicht der
-          Beitrag verschafft Gewicht, sondern die Drohung, ihn zu entziehen. Je
-          größer der Zahler, desto lauter die Drohung — und desto williger das
-          Entgegenkommen: Gemeinden unterbieten einander mit
-          Gewerbesteuersätzen, Staaten konkurrieren um die niedrigsten
-          Standards, Steueroasen bieten Briefkästen statt Standorte — und wer am
-          glaubwürdigsten gehen kann, diktiert den Bleibenden die Bedingungen.
-          Steiner nannte diese Konkurrenz zwischen Wirtschaftsgebieten eine
-          Vorform des Krieges; sie beginnt beim Gewerbesteuersatz und geht über
-          Sanktionen und Handelskriege bis zu militärischen
-          Auseinandersetzungen. Bezahlt wird das Entgegenkommen von denen, die
-          nicht drohen können: Der Handwerksbetrieb, die Angestellte, die
-          Bäckerei an der Ecke zahlen den vollen Satz und tragen mit, was die
-          Drohenden sich ersparen — sie sind an den Ort gebunden, den der
-          Konzern als Faustpfand hält. So kehrt sich das Tragen um: Das
-          Fundament trägt das Haus nicht mehr — es verhandelt über die Statik
-          und lässt gelegentlich spüren, dass es auch nachgeben könnte.
+          Konzerne vergleichen, wo sie die günstigsten Bedingungen bekommen und von wem, und holen heraus, was sich herausholen lässt: Sonderregelungen, Steuerbefreiungen, die Absenkung von Sozialstandards. Gibt ein Standort nicht nach, folgt zur Not die Drohung mit Abwanderung — das Recht wird zum Verhandlungsobjekt. Die Abgabe, die den Rechtsstaat tragen sollte, wird als Druckmittel eingesetzt: Nicht der Beitrag verschafft Gewicht, sondern die Möglichkeit, ihn zu entziehen. Je größer der Zahler, desto gewichtiger die Forderung — und desto williger das Entgegenkommen: Gemeinden unterbieten einander mit Gewerbesteuersätzen, Staaten konkurrieren um die niedrigsten Standards, Steueroasen bieten Briefkästen statt Standorte — und wer am glaubwürdigsten gehen kann, diktiert den Bleibenden die Bedingungen. Steiner nannte diese Konkurrenz zwischen Wirtschaftsgebieten eine Vorform des Krieges; sie beginnt beim Gewerbesteuersatz und geht über Sanktionen und Handelskriege bis zu militärischen Auseinandersetzungen. Bezahlt wird das Entgegenkommen von denen, die nicht ausweichen können: Der Handwerksbetrieb, die Angestellte, die Bäckerei an der Ecke zahlen den vollen Satz und tragen mit, was die anderen sich ersparen — sie sind an den Ort gebunden, den der Konzern als Faustpfand hält. So kehrt sich das Tragen um: Das Fundament trägt das Haus nicht mehr — es verhandelt über die Statik und lässt gelegentlich spüren, dass es auch nachgeben könnte.
         references:
           - id: 6b862006-ac3a-471c-97d7-67755596071c
             chunk_id: fdcffabb-b1c0-5d26-a733-da589ac35801
@@ -4968,7 +4941,7 @@ felder:
           zahlt, bestimmt doch — nur leiser, früher und gründlicher, nämlich
           schon im Entwurf. Die Trennung von Zahlen und Bestimmen machte alle
           anderen Beiträge gesund; fällt sie, kippen sie alle mit: Die Versorgung
-          wird zur Erpressung, die Durchsetzung zur Lähmung, die Sicherung zum
+          wird zur Ausnutzung, die Durchsetzung zur Lähmung, die Sicherung zum
           Schutzabbau, das Auskommen zur Bestechung, die Lieferung zur
           Privatjustiz, die Freistellung zur Drehtür. Die Unbestechlichkeit des
           Rechts war eine Frage der Ordnung, nicht des Charakters — ist die
