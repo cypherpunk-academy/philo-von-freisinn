@@ -293,7 +293,7 @@ FAN_GROUPS = {
         "heading_lines": ["Die Wirtschaft", "versorgt den Geist"],
         "align_heading_to": {
             "yaml_id": "dm-05g",
-            "schlagwort": "Versorgung",
+            "schlagwort": "Auskommen",
         },
         "shift_down_to_page": True,
         "heading_lift_clear": True,

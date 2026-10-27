@@ -4001,21 +4001,22 @@ felder:
     text: |
       Im gesunden Feld Wirtschaft -> Recht trägt die Wirtschaft den Staat, wie das Fundament das Haus trägt: Es entscheidet nicht, wer darin wohnt. Die Herkunft der Mittel ist wirtschaftlich, ihre Verwendung ist es nicht.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Ertrag:** Der Rechtsstaat lebt von der Ausgabensteuer — wenn Geld in den Wirtschaftsprozess übergeht; Bedarf und Verwendung bestimmt das Recht, die Last auf die Zweige legen die Assoziationen fest. **Durchsetzung:** Ein Recht braucht Mittel, um zu gelten; wer die Vollstreckung finanziert, erwirbt keinen Einfluss auf das, was vollstreckt wird. **Sicherung:** Was den Einzelnen trifft, trägt die Gemeinschaft; der Anspruch folgt dem Menschsein, nicht dem Marktwert. **Versorgung:** Die Wirtschaft ernährt und behaust die Menschen im Rechtsleben; keine Lieferung begründet eine Weisung. **Lieferung:** Ob und wofür bestimmt das Recht, das Wie verantwortet die Wirtschaft. **Freistellung:** Wer Abgeordneter, Schöffe oder Wahlhelfer ist, wird freigestellt und findet seinen Platz unverändert. **Enthaltung:** Die Wirtschaft zahlt und bestimmt nicht; erst diese Trennung macht alle anderen Beiträge gesund.
+      Sieben Aspekte zeigen, wie das geschieht. **Versorgung:** Das Recht erzeugt nichts; es lebt von der Ausgabensteuer — wenn Geld in den Wirtschaftsprozess übergeht; Bedarf und Verwendung bestimmt das Recht, die Last auf die Zweige legen die Assoziationen fest. **Durchsetzung:** Ein Recht braucht Mittel, um zu gelten; wer die Vollstreckung finanziert, erwirbt keinen Einfluss auf das, was vollstreckt wird. **Sicherung:** Was den Einzelnen trifft, trägt die Gemeinschaft; der Anspruch folgt dem Menschsein, nicht dem Marktwert. **Auskommen:** Die Wirtschaft ernährt und behaust die Menschen im Rechtsleben; keine Lieferung begründet eine Weisung. **Lieferung:** Ob und wofür bestimmt das Recht, das Wie verantwortet die Wirtschaft. **Freistellung:** Wer Abgeordneter, Schöffe oder Wahlhelfer ist, wird freigestellt und findet seinen Platz unverändert. **Enthaltung:** Die Wirtschaft zahlt und bestimmt nicht; erst diese Trennung macht alle anderen Beiträge gesund.
 
       Der Gegenpol ist „Die Wirtschaft kauft die Politik“: Dort wird aus dem Beitrag ein Druckmittel, und wer zahlt, bestimmt doch.
     aspekte:
-      - schlagwort: Ertrag
-        schlagsatz: Ohne Ertrag kein Rechtsstaat.
+      - schlagwort: Versorgung
+        schlagsatz: Das Recht erzeugt nichts — es braucht Versorgung.
         kurztext: >
-          Das Rechtsleben erzeugt keine Güter und braucht Gerichte, Verwaltung,
-          Ordnung, Verteidigung, Vollzug, Verwaltungsgebäude und Reisen. Die
-          Menschen dafür reift das Geistesleben heran; getragen wird ihr Wirken
-          von der Ausgabensteuer, wenn Geld direkt mit Gütern verbunden ist —
-          nicht von einer Einkommensteuer auf abstrakte Zeilen im Konto. Das
-          Rechtsleben bestimmt Bedarf und Verwendung; die Assoziationen der
-          Wirtschaft legen fest, welcher Zweig wie viel Steuer trägt. Wer zahlt,
-          kauft kein Stimmrecht.
+          Das Rechtsleben erzeugt keine Güter und braucht doch Gesetzgebung,
+          Verwaltung, Gerichte, Ordnung, Verteidigung des Gemeinwesens und Vollzug.
+          Die Menschen
+          dafür reift das Geistesleben heran; die Mittel kommen aus der
+          Wirtschaft — als Ausgabensteuer, wenn Geld direkt mit Gütern
+          verbunden ist, nicht als Einkommensteuer auf abstrakte Zeilen im
+          Konto. Das Rechtsleben bestimmt Bedarf und Verwendung der Mittel; die
+          Assoziationen der Wirtschaft legen fest, welcher Zweig wie viel Steuer
+          trägt.
         text: >
           Das Rechtsleben erzeugt keine Güter — und braucht doch Gesetzgebung,
           Verwaltung und Gerichtsbarkeit, Schutz der Ordnung und Verteidigung
@@ -4040,8 +4041,7 @@ felder:
           Steuerrecht entsteht aus der Harmonisierung von Rechtsbewusstsein und
           Wirtschaftsleben. Die Wirtschaft gibt, ohne zu diktieren — über die
           Verwendung entscheidet das Rechtsleben demokratisch unter Gleichen.
-          Wer zahlt, erwirbt kein Stimmrecht und kein größeres Gewicht. Der
-          Kreislauf trägt den Staat, wie das Fundament das Haus trägt: Er
+          Der Kreislauf trägt den Staat, wie das Fundament das Haus trägt: Er
           entscheidet nicht, wer darin wohnt.
         references:
           - id: 73567970-4f70-49e9-8d5b-5c6d1798628d
@@ -4279,14 +4279,14 @@ felder:
             relevance: 0.6
             begruendung: Erläutert, dass ein selbständiges Rechtsglied bewirkt, dass die Arbeitskraft nicht aus wirtschaftlichen Untergründen zur Ware wird — passt zur Sicherungslogik des Aspekts.
         chunk_id: b68bb785-a81c-47f7-a2d5-c818193e1936
-      - schlagwort: Versorgung
+      - schlagwort: Auskommen
         schlagsatz: Geld ist Versprechen; Nahrung ist Wirklichkeit.
         kurztext: >
-          Richterinnen, Polizisten, Abgeordnete erzeugen selbst kein Brot — und
+          Richterinnen, Polizisten, Abgeordnete, Beamte erzeugen selbst kein Brot — und
           leben doch von alledem. Geld ist nur die Anweisung; eingelöst wird sie
           von der realen Produktion. Die Wirtschaft ernährt, kleidet und behaust
-          die Menschen, die im Rechtsleben arbeiten. Mit der Versorgung endet
-          ihr Beitrag. Was die Versorgten leisten, gehört allein dem
+          die Menschen, die im Rechtsleben arbeiten. Mit dem Auskommen endet
+          ihr Beitrag. Was diese Menschen im Amt leisten, gehört allein dem
           Rechtsleben; keine Lieferung begründet eine Weisung. Sie trägt die
           Tragenden — und trägt ihnen nichts auf.
         text: >
@@ -4297,8 +4297,8 @@ felder:
           eigentliche Tragen geschieht darum nicht in den Kassen, sondern in den
           Feldern, Werkstätten und Betrieben: Die Wirtschaft ernährt, kleidet
           und behaust die Menschen, die im Rechtsleben arbeiten — sie trägt die
-          Träger des Rechts. Hier liegt die Übergabe: Mit der Versorgung endet
-          der Beitrag der Wirtschaft. Was die Versorgten leisten — Recht
+          Träger des Rechts. Hier liegt die Übergabe: Mit dem Auskommen endet
+          der Beitrag der Wirtschaft. Was diese Menschen leisten — Recht
           sprechen, verwalten, beschließen —, gehört allein dem Rechtsleben;
           keine Lieferung begründet eine Weisung. So wie die Mittel gesichert
           vom Recht ins Geistesleben übergehen und die verbindliche Form vom
@@ -4312,21 +4312,21 @@ felder:
             source_id: 66ee0b14-82ba-55f8-aa48-8cc3d1e91c8a
             relation: erlaeutert
             relevance: 0.72
-            begruendung: Beschreibt das Wirtschaftsleben als eigenständiges, an Naturordnung und Rechtsleben grenzendes Gebiet — entspricht der Trennung von Versorgung (Wirtschaft) und Rechtsleben im Kurztext.
+            begruendung: Beschreibt das Wirtschaftsleben als eigenständiges, an Naturordnung und Rechtsleben grenzendes Gebiet — entspricht der Trennung von Auskommen (Wirtschaft) und Rechtsleben im Kurztext.
           - id: 143aea89-f36f-4847-9599-114db252e2a1
             chunk_id: 4cdf9683-42a3-5015-b87b-d889e71824bc
             chunk_type: secondary_book
             source_id: 09739c07-c342-5b38-a092-74c4d6274753
             relation: bestaetigt
             relevance: 0.66
-            begruendung: Spricht von einer 'gesunden Abhängigkeit' des Wirtschaftslebens vom Recht über die Arbeitskraft — stützt die These, dass die Versorgung mit dem Beitrag endet und keine Weisung begründet.
+            begruendung: Spricht von einer 'gesunden Abhängigkeit' des Wirtschaftslebens vom Recht über die Arbeitskraft — stützt die These, dass das Auskommen mit dem Beitrag endet und keine Weisung begründet.
           - id: dafff66f-2c63-4d88-88b9-4f297dc419c7
             chunk_id: 1174dc38-fb27-5d74-9ba9-2aa6196b6dff
             chunk_type: secondary_book
             source_id: 6c69318f-7799-5fc8-9c40-1a14a16a5445
             relation: begruendet
             relevance: 0.64
-            begruendung: Argumentiert, die Abhängigkeit des Wohlstands von der Arbeit sei eine 'gesunde Abhängigkeit' — begründet die Grenzziehung zwischen wirtschaftlicher Versorgung und rechtlicher Sphäre.
+            begruendung: Argumentiert, die Abhängigkeit des Wohlstands von der Arbeit sei eine 'gesunde Abhängigkeit' — begründet die Grenzziehung zwischen wirtschaftlichem Auskommen und rechtlicher Sphäre.
           - id: 4b0ca8a2-a317-4766-8e8d-7ab84db584cd
             chunk_id: 6e50a938-5ba6-5a43-9078-7574485efaac
             chunk_type: secondary_book
@@ -4340,7 +4340,7 @@ felder:
             source_id: 0476bf67-4e9c-5913-a438-47dbd7adcee3
             relation: erlaeutert
             relevance: 0.55
-            begruendung: Zeigt, dass im wirtschaftlich Zustandegebrachten das staatlich-rechtliche Verhältnis steckt — erläutert die Verschränkung von Wirtschaft und Recht bei der Versorgung.
+            begruendung: Zeigt, dass im wirtschaftlich Zustandegebrachten das staatlich-rechtliche Verhältnis steckt — erläutert die Verschränkung von Wirtschaft und Recht beim Auskommen.
         chunk_id: 257a9b10-15f1-4d14-8f94-5c42a1630c06
       - schlagwort: Lieferung
         schlagsatz: Das Recht bestellt, die Wirtschaft liefert.
@@ -4800,7 +4800,7 @@ felder:
           Prüfung ist die Bewerbung für später; die Zahlung heißt Karriere und
           wird erst nach dem Ausscheiden fällig, wenn keine Vorschrift mehr
           greift. Niemand muss bestochen werden — die Aussicht genügt. Damit
-          kippt die Versorgung in ihr Gegenteil: Gesund trägt die Wirtschaft die
+          kippt das Auskommen in sein Gegenteil: Gesund trägt die Wirtschaft die
           Träger des Rechts — ernährt, kleidet, behaust sie — und trägt ihnen
           nichts auf. Hier sucht sich die Zahlung den direkten Weg: nicht über
           Kassen und Besoldung, durch die alle gleich versorgt werden, sondern
@@ -4967,9 +4967,9 @@ felder:
           Abnahme. So wird aus „Wer zahlt, bestimmt nicht" das Gegenteil: Wer
           zahlt, bestimmt doch — nur leiser, früher und gründlicher, nämlich
           schon im Entwurf. Die Trennung von Zahlen und Bestimmen machte alle
-          anderen Beiträge gesund; fällt sie, kippen sie alle mit: Der Ertrag
+          anderen Beiträge gesund; fällt sie, kippen sie alle mit: Die Versorgung
           wird zur Erpressung, die Durchsetzung zur Lähmung, die Sicherung zum
-          Schutzabbau, die Versorgung zur Bestechung, die Lieferung zur
+          Schutzabbau, das Auskommen zur Bestechung, die Lieferung zur
           Privatjustiz, die Freistellung zur Drehtür. Die Unbestechlichkeit des
           Rechts war eine Frage der Ordnung, nicht des Charakters — ist die
           Ordnung selbst gekauft, hilft auch kein Charakter mehr.
