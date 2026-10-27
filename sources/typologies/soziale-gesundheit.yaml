@@ -4008,9 +4008,9 @@ felder:
       - schlagwort: Ertrag
         schlagsatz: Ohne Ertrag kein Rechtsstaat.
         kurztext: >
-          Das Rechtsleben erzeugt keine Güter und braucht ein ausgewogenes
-          Ganzes: Gerichte, Verwaltung, Ordnung, Verteidigung, Vollzug, Bau
-          und Betrieb — sieben Seiten desselben Bedarfs. Die Menschen dafür
+          Das Rechtsleben erzeugt keine Güter und braucht Gerichte, Verwaltung,
+          Ordnung, Verteidigung, Vollzug, Verwaltungsgebäude und Reisen — der
+          Bedarf öffentlichen Rechts. Die Menschen dafür
           reift das Geistesleben heran; getragen wird ihr Wirken von der
           Ausgabensteuer, wenn Geld in den Wirtschaftsprozess übergeht, nicht
           von Einkommen als bloßem Zeichen. Bedarf und Verwendung bestimmt das
@@ -4018,11 +4018,11 @@ felder:
           kauft kein Stimmrecht. Der Kreislauf trägt den Staat, ohne zu
           bestimmen, wer wohnt.
         text: >
-          Das Rechtsleben erzeugt keine Güter — und braucht doch ein
-          ausgewogenes Ganzes, damit unter Gleichen gelten kann, was für alle
-          gilt: Gerichte und Verwaltung, Schutz der Ordnung und Verteidigung
-          des Gemeinwesens, Vollstreckung und Haft, Gebäude und Wege, Unterhalt
-          im Alltag — sieben Seiten in einem Gleichgewicht. Die Menschen, die urteilen,
+          Das Rechtsleben erzeugt keine Güter — und braucht doch Gesetzgebung,
+          Verwaltung und Gerichtsbarkeit, Schutz der Ordnung und Verteidigung
+          des Gemeinwesens, Vollstreckung und Haft, Verwaltungsgebäude und
+          Reisen: alles, was Rechtseinrichtungen brauchen, damit unter Gleichen
+          gelten kann, was für alle gilt. Die Menschen, die urteilen,
           verwalten und vollziehen, kommen aus dem Geistesleben; der Kreislauf
           bildet sie nicht, aber ihr Wirken im Recht kostet Güter und Geld.
           Alles Gemeinsame wird aus dem Wirtschaftskreislauf getragen, nicht aus
@@ -4057,6 +4057,20 @@ felder:
             relation: begruendet
             relevance: 0.9
             begruendung: "Zürich 25.10.1919, Abs. 53–54: Einkommensteuer und Besteuerung von Geldzeichen statt wirklicher Güter; Geld wird wirtschaftlich erst bei der Ausgabe."
+          - id: e459f18c-4755-564a-87bb-ef496847f601
+            chunk_id: e459f18c-4755-564a-87bb-ef496847f601
+            chunk_type: book
+            source_id: f8e6c475-a0e5-4081-b265-61a7536a183e
+            relation: begruendet
+            relevance: 0.78
+            begruendung: "Kernpunkte, Kap. II: Rechtseinrichtungen und Lebenshaltung — im gesunden Organismus getrennte Herkunft der Mittel für das Recht."
+          - id: c85d6c47-f3de-5690-82f2-d26644358c92
+            chunk_id: c85d6c47-f3de-5690-82f2-d26644358c92
+            chunk_type: book
+            source_id: 3b38df84-e9bc-4e70-9032-d3fa65517cfd
+            relation: erlaeutert
+            relevance: 0.76
+            begruendung: "Aufsätze Dreigliederung: Rechtsstaat als Konsumorganisation dem Wirtschaftskreislauf gegenüber."
           - id: 3dca0a78-9753-43fc-8135-b3d920b1ceeb
             chunk_id: 3dca0a78-9753-43fc-8135-b3d920b1ceeb
             chunk_type: book
