@@ -26,12 +26,23 @@ aliases:
   - "Willenssinne, Gefühlssinne, Erkenntnissinne"
   - "Ich-Sinn"
   - "Gedankensinn"
+glieder:
+  - Ich-Sinn
+  - Gedankensinn
+  - Sprachsinn (Wortsinn)
+  - Hörsinn
+  - Wärmesinn
+  - Sehsinn
+  - Geschmackssinn
+  - Geruchssinn
+  - Tastsinn
+  - Lebenssinn
+  - Bewegungssinn
+  - Gleichgewichtssinn
 kurz: >
-  Nach Rudolf Steiner hat der Mensch nicht fünf, sondern zwölf Sinne: vom
-  Ich-Sinn, Gedankensinn und Sprachsinn über Hör-, Wärme-, Seh-, Geschmacks- und
-  Geruchssinn bis zu Tast-, Lebens-, Bewegungs- und Gleichgewichtssinn. Er
-  gliedert sie in Willens-, Gefühls- und Erkenntnissinne. Durch die zwölf Sinne
-  zerlegt sich die Welt, im Urteilen setzt der Mensch sie wieder zusammen.
+  Die 12 Sinne sind nach Rudolf Steiner das vollständige System der menschlichen
+  Sinnesorganisation: von den Willenssinnen über die Gefühlssinne bis zu den
+  Erkenntnissinnen.
 text: |
   Die **12 Sinne** sind nach Rudolf Steiner das vollständige System der menschlichen Sinnesorganisation. Die gewöhnliche Wissenschaft kennt nur fünf bis sieben; die übrigen sind weniger auffällig, oder der Mensch „verschläft“ sie, weil sie im Willen wirken.
 
