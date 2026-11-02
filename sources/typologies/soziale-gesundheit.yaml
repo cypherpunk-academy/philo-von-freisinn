@@ -3991,58 +3991,169 @@ felder:
     pol: gesund
     titel: "Die Wirtschaft trägt den Staat"
     kurz: >
-      Das Rechtsleben erzeugt keine Güter und braucht doch Gebäude, Menschen und
-      Zeit. Die Wirtschaft trägt es — durch Ausgabensteuer aus dem Kreislauf,
-      wenn einzelne Menschen kaufen und Geld in den Verkehr geht: Sie gibt dem Recht die
-      Mittel zur Durchsetzung, speist die Sicherung gegen Krankheit und Alter,
-      versorgt die Menschen im Rechtsleben, liefert, was bestellt wird, und
-      stellt Bürger frei. Über die Verwendung bestimmt sie nicht: Wer zahlt,
-      bestimmt nicht.
+      Das Rechtsleben erzeugt keine Güter und braucht doch Menschen, Mittel und
+      Zeit. Die Wirtschaft trägt es: Sie versorgt die Menschen im Rechtsleben
+      mit dem Nötigen, stellt die Werkzeuge der Durchsetzung bereit, sorgt über
+      Steuermarken dafür, dass beim Kauf die Ausgabensteuer entrichtet ist,
+      führt ein verlässliches Geldsystem, baut die bestellte Infrastruktur und
+      stellt Bürger für ihr Mitwirken frei. Über die Verwendung bestimmt sie
+      nicht: Wer zahlt, bestimmt nicht.
     text: |
       Im gesunden Feld Wirtschaft -> Recht trägt die Wirtschaft den Staat, wie das Fundament das Haus trägt: Es entscheidet nicht, wer darin wohnt. Die Herkunft der Mittel ist wirtschaftlich, ihre Verwendung ist es nicht.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Versorgung:** Das Recht erzeugt nichts; es lebt von der Ausgabensteuer — wenn Geld in den Wirtschaftsprozess übergeht; Bedarf und Verwendung bestimmt das Recht, die Last auf die Zweige legen die Assoziationen fest. **Durchsetzung:** Ein Recht braucht Mittel, um zu gelten; wer die Vollstreckung finanziert, erwirbt keinen Einfluss auf das, was vollstreckt wird. **Sicherung:** Was den Einzelnen trifft, trägt die Gemeinschaft; der Anspruch folgt dem Menschsein, nicht dem Marktwert. **Auskommen:** Die Wirtschaft ernährt und behaust die Menschen im Rechtsleben; keine Lieferung begründet eine Weisung. **Lieferung:** Ob und wofür bestimmt das Recht, das Wie verantwortet die Wirtschaft. **Freistellung:** Wer Abgeordneter, Schöffe oder Wahlhelfer ist, wird freigestellt und findet seinen Platz unverändert. **Enthaltung:** Die Wirtschaft zahlt und bestimmt nicht; erst diese Trennung macht alle anderen Beiträge gesund.
+      Sieben Aspekte zeigen, wie das geschieht. **Versorgung:** Die Wirtschaft versorgt alle, die im Rechtsleben arbeiten, mit Nahrung, Wohnung und Kleidung und behandelt sie wie jeden anderen Verbraucher. **Durchsetzung:** Sie stellt die Mittel her, mit denen das Recht seine Urteile in die Welt bringt; das Recht entscheidet über den Einsatz. **Steuer:** Über Steuermarken, die beim Verkauf entwertet werden, ist die Steuer mit jedem Geschäft entrichtet; die Wirtschaft verwaltet kein Steuergeld. **Geldsystem:** Sie führt das Geld als wandernde Buchhaltung ihrer Leistungen und bindet es an die vorhandenen Produktionsmittel. **Infrastruktur:** Das Recht bestellt, die Wirtschaft baut, betreibt und unterhält, was sie leisten kann. **Freistellung:** Wer für Wahlen, Ämter, Schöffendienst und Debatte freigestellt wird, verliert sein Auskommen nicht. **Enthaltung:** Die Wirtschaft zahlt und bestimmt nicht; erst diese Trennung macht alle anderen Beiträge gesund.
 
       Der Gegenpol ist „Die Wirtschaft kauft die Politik“: Dort wird aus dem Beitrag ein Druckmittel, und wer zahlt, bestimmt doch.
     aspekte:
       - schlagwort: Versorgung
-        schlagsatz: Das Recht erzeugt nichts — es braucht Versorgung.
+        schlagsatz: Das Recht erzeugt nichts — es braucht Versorgung. Persönliche Versorgung.
         kurztext: >
-          Das Rechtsleben erzeugt keine Güter und braucht doch Gesetzgebung,
-          Verwaltung, Gerichte, Ordnung, Verteidigung des Gemeinwesens und Vollzug.
-          Die Menschen
-          dafür reift das Geistesleben heran; die Mittel kommen aus der
-          Wirtschaft — als Ausgabensteuer, wenn Geld direkt mit Gütern
-          verbunden ist, nicht als Einkommensteuer auf abstrakte Zeilen im
-          Konto. Das Rechtsleben bestimmt Bedarf und Verwendung der Mittel; die
-          Assoziationen der Wirtschaft legen fest, welcher Zweig wie viel Steuer
-          trägt.
+          Die Wirtschaft versorgt alle, die im Rechtsleben arbeiten, mit
+          Nahrung, Wohnung und Kleidung. Sie behandelt Richter, Abgeordnete
+          und Beamte wie jeden anderen Verbraucher und macht keinen
+          Unterschied, ob ihr Urteil ihr gefällt. Mit der Versorgung endet der
+          Beitrag der Wirtschaft: Sie trägt die Tragenden — und trägt ihnen
+          nichts auf. So hält die Wirtschaft dem Recht den Rücken frei, damit
+          es sich ganz seiner Aufgabe widmet.
         text: >
-          Das Rechtsleben erzeugt keine Güter — und braucht doch Gesetzgebung,
-          Verwaltung und Gerichtsbarkeit, Schutz der Ordnung und Verteidigung
-          des Gemeinwesens, Vollstreckung und Haft, Verwaltungsgebäude und
-          Reisen: alles, was Rechtseinrichtungen brauchen, damit unter Gleichen
-          gelten kann, was für alle gilt. Die Menschen, die urteilen,
-          verwalten und vollziehen, kommen aus dem Geistesleben; der Kreislauf
+          Das Rechtsleben erzeugt keine Güter — und braucht doch Menschen, die
+          urteilen, verwalten, beschließen und vollziehen. Die Wirtschaft
+          versorgt alle, die im Rechtsleben arbeiten, mit Nahrung, Wohnung und
+          Kleidung. Sie behandelt Richter, Abgeordnete und Beamte wie jeden
+          anderen Verbraucher und macht keinen Unterschied, ob ihr Urteil ihr
+          gefällt. Die Menschen bringt das Geistesleben hervor; der Kreislauf
           bildet sie nicht, aber ihr Wirken im Recht kostet Güter und Geld.
-          Alles Gemeinsame wird aus dem Wirtschaftskreislauf getragen, nicht aus
-          besteuertem Einkommen: Geld ist gesund, wenn es direkt mit Gütern
-          verbunden ist — nicht als abstrakte Zeile im Konto, auf die eine
-          Einkommensteuer zielt. Deshalb wird besteuert, was wirklich
-          wirtschaftet: wenn der Einzelne ausgibt und das Geld in den Prozess
-          übergeht, auch wenn es vorher bei einer Bank liegt.
-          So ist die Steuer Hingabe des Kreislaufs an die Allgemeinheit, kein
-          Parasit an ihm. Das ist die Ausgabensteuer, statt Einkommensteuer
-          oder indirekter Steuer: Sie fließt aus dem Portemonnaie des einzelnen
-          Menschen, nicht aus Konsortien. Der Rechtsstaat steht dem Kreislauf
-          als Konsumorganisation gegenüber: Er regelt, welcher Steuerbedarf
-          gilt und wofür die Mittel verwendet werden; wie viel Steuer welcher
-          Wirtschaftszweig trägt, legen die Assoziationen der Wirtschaft fest. Das
-          Steuerrecht entsteht aus der Harmonisierung von Rechtsbewusstsein und
-          Wirtschaftsleben. Die Wirtschaft gibt, ohne zu diktieren — über die
-          Verwendung entscheidet das Rechtsleben demokratisch unter Gleichen.
-          Der Kreislauf trägt den Staat, wie das Fundament das Haus trägt: Er
-          entscheidet nicht, wer darin wohnt.
+
+          Das eigentliche Tragen geschieht nicht in den Kassen, sondern in den
+          Feldern, Werkstätten und Betrieben. Mit der Versorgung endet der
+          Beitrag der Wirtschaft: Was die Versorgten leisten — Recht sprechen,
+          verwalten, beschließen —, gehört allein dem Rechtsleben. So hält die
+          Wirtschaft dem Recht den Rücken frei, damit es sich ganz seiner
+          Aufgabe widmet: Sie trägt die Tragenden — und trägt ihnen nichts
+          auf.
+        references:
+          - id: 45b6f560-4e3f-4de9-a932-790786097a08
+            chunk_id: 7a0cf888-b7e8-5c72-9a7d-19e8ad7fc597
+            chunk_type: secondary_book
+            source_id: 66ee0b14-82ba-55f8-aa48-8cc3d1e91c8a
+            relation: erlaeutert
+            relevance: 0.72
+            begruendung: Beschreibt das Wirtschaftsleben als eigenständiges, an Naturordnung und Rechtsleben grenzendes Gebiet — entspricht der Trennung von Versorgung (Wirtschaft) und Rechtsleben im Kurztext.
+          - id: 143aea89-f36f-4847-9599-114db252e2a1
+            chunk_id: 4cdf9683-42a3-5015-b87b-d889e71824bc
+            chunk_type: secondary_book
+            source_id: 09739c07-c342-5b38-a092-74c4d6274753
+            relation: bestaetigt
+            relevance: 0.66
+            begruendung: Spricht von einer 'gesunden Abhängigkeit' des Wirtschaftslebens vom Recht über die Arbeitskraft — stützt die These, dass die Versorgung mit dem Beitrag endet und keine Weisung begründet.
+          - id: dafff66f-2c63-4d88-88b9-4f297dc419c7
+            chunk_id: 1174dc38-fb27-5d74-9ba9-2aa6196b6dff
+            chunk_type: secondary_book
+            source_id: 6c69318f-7799-5fc8-9c40-1a14a16a5445
+            relation: begruendet
+            relevance: 0.64
+            begruendung: Argumentiert, die Abhängigkeit des Wohlstands von der Arbeit sei eine 'gesunde Abhängigkeit' — begründet die Grenzziehung zwischen wirtschaftlicher Versorgung und rechtlicher Sphäre.
+          - id: 6e044cb0-319b-47b0-8f58-5a75a423e296
+            chunk_id: e4dab3f8-a81f-5e23-9812-ea37a2405ad6
+            chunk_type: secondary_book
+            source_id: 0476bf67-4e9c-5913-a438-47dbd7adcee3
+            relation: erlaeutert
+            relevance: 0.55
+            begruendung: Zeigt, dass im wirtschaftlich Zustandegebrachten das staatlich-rechtliche Verhältnis steckt — erläutert die Verschränkung von Wirtschaft und Recht bei der Versorgung.
+        chunk_id: 990b66f0-294e-48ab-81f9-0c4ff3261d88
+      - schlagwort: Durchsetzung
+        schlagsatz: Geltung braucht Werkzeuge. Bereitstellung der Sicherheit.
+        kurztext: >
+          Die Wirtschaft stellt die Mittel her, mit denen das Recht seine
+          Urteile in die Welt bringt: Gebäude, Fahrzeuge, Ausrüstung und
+          Technik für Polizei, Justiz und Verteidigung. Sie liefert, was
+          gebraucht wird und was sie liefern kann, und meldet ehrlich, wo ihre
+          Grenzen liegen. Das Recht entscheidet über den Einsatz und richtet
+          sich dabei nach dem, was die Wirtschaft tatsächlich bereitstellen
+          kann. Sonst gilt Recht nur auf dem Papier.
+        text: >
+          Was das Recht dem frei gefundenen Urteil hinzufügt — die Geltung —,
+          braucht Mittel, um wirklich zu sein. Ein Recht, das sich nicht
+          durchsetzen lässt, gilt nur auf dem Papier — und ein Papier schützt
+          niemanden. Die Wirtschaft stellt die Mittel her, mit denen das Recht
+          seine Urteile in die Welt bringt: Gebäude, Fahrzeuge, Ausrüstung und
+          Technik für Polizei, Justiz und Verteidigung. Sie liefert, was
+          gebraucht wird und was sie liefern kann, und meldet ehrlich, wo ihre
+          Grenzen liegen.
+
+          Das Recht entscheidet über den Einsatz und richtet sich dabei nach
+          dem, was die Wirtschaft tatsächlich bereitstellen kann. So schließt
+          sich ein Bogen durch die Sphären: Das Geistesleben findet das
+          Urteil, das Rechtsleben verleiht ihm Geltung, die Wirtschaft gibt
+          der Geltung ihre Hände. Gegen wen das Recht sich durchsetzt,
+          bestimmt allein das Recht. Denn Gleichheit vor dem Gesetz beginnt
+          damit, dass die Mittel des Rechts niemandem gehören, der selbst
+          Partei sein könnte.
+        references:
+          - id: aed49449-5f18-44b1-9843-5a9374bd5278
+            chunk_id: 46db8ebd-054e-5c1e-8137-4498b1d78811
+            chunk_type: secondary_book
+            source_id: afae47b0-9017-526e-90b8-b00354dbec51
+            relation: erlaeutert
+            relevance: 0.55
+            begruendung: Behandelt die Gliederung des sozialen Organismus in geistiges, rechtlich-staatliches und wirtschaftliches Glied und stützt damit die These, dass das Rechtsleben als eigenständiges Glied der Werkzeuge der Wirtschaft bedarf.
+          - id: cc5b0d6c-39d5-4c32-a585-a2cba32ad79b
+            chunk_id: 7a0cf888-b7e8-5c72-9a7d-19e8ad7fc597
+            chunk_type: secondary_book
+            source_id: 66ee0b14-82ba-55f8-aa48-8cc3d1e91c8a
+            relation: veranschaulicht
+            relevance: 0.5
+            begruendung: Zeigt das Wirtschaftsleben als eigenständiges, an Natur und Rechtsleben grenzendes Gebiet — veranschaulicht die strukturelle Trennung, auf der die Werkzeug-These aufbaut.
+          - id: ebb06483-7ab5-4433-9ffb-4b81c34e3eb1
+            chunk_id: a4bc6284-8a30-5aa2-ab13-c916e5c79604
+            chunk_type: book
+            source_id: 3b38df84-e9bc-4e70-9032-d3fa65517cfd
+            relation: begruendet
+            relevance: 0.5
+            begruendung: Fordert einen eigenständigen Rechtsorganismus neben dem Wirtschaftskreis, was die Unabhängigkeit der Rechtsdurchsetzung von wirtschaftlicher Parteilichkeit begründet.
+          - id: b39ea8f8-ec33-46a1-a6d7-1c5fb7153f4b
+            chunk_id: 687a8511-0b83-57aa-8eb6-7a0823495e10
+            chunk_type: secondary_book
+            source_id: 7bfb2f42-4765-5dd8-a7c6-931ca7b9eb88
+            relation: erlaeutert
+            relevance: 0.45
+            begruendung: Beschreibt das regulierende Rechtsleben zwischen Geistes- und Wirtschaftsleben als lebensfähiges Glied — erläutert die Einbettung der Rechtsgeltung in den Gesamtorganismus.
+          - id: de3d3ed0-822a-4ca2-b07d-086c94863907
+            chunk_id: b0d44658-c44b-51b4-b461-21098fef8a33
+            chunk_type: secondary_book
+            source_id: cec61afc-bc20-5ae6-bdac-d53ef6bce0b5
+            relation: bestaetigt
+            relevance: 0.4
+            begruendung: Betont, dass Rechtsbegriffe im Wirtschaftlichen enthalten sein müssen, was die Verschränkung von Recht und Wirtschaft im Sinne der Werkzeug-These bestätigt.
+        chunk_id: 8b600ed4-03af-477a-8880-01eef669969b
+      - schlagwort: Steuer
+        schlagsatz: Die Wirtschaft stellt sicher, dass jeder Steuern bezahlt.
+        kurztext: >
+          Steuermarken werden online gekauft, und das Geld fließt dabei direkt
+          an das Rechtsleben. Bei jedem Verkauf entwertet die Wirtschaft die
+          vorgeschriebene Zahl an Marken und sorgt so dafür, dass mit jedem
+          Geschäft die Steuer tatsächlich entrichtet ist. Sie verwaltet kein
+          Steuergeld, und das Recht muss dafür nicht selbst in die Betriebe
+          hineinregieren. Besteuert wird die Ausgabe, nicht das Einkommen.
+          Bedarf und Verwendung bestimmt das Recht.
+        text: >
+          Steuermarken werden online gekauft, und das Geld fließt dabei direkt
+          an das Rechtsleben. Bei jedem Verkauf entwertet die Wirtschaft die
+          vorgeschriebene Zahl an Marken und sorgt so dafür, dass mit jedem
+          Geschäft die Steuer tatsächlich entrichtet ist. Sie verwaltet kein
+          Steuergeld, und das Recht muss dafür nicht selbst in die Betriebe
+          hineinregieren.
+
+          Besteuert wird, was wirklich wirtschaftet: wenn der Einzelne ausgibt
+          und das Geld in den Prozess übergeht, auch wenn es vorher bei einer
+          Bank liegt — nicht als abstrakte Zeile im Konto, auf die eine
+          Einkommensteuer zielt. Das ist die Ausgabensteuer: Sie fließt aus
+          dem Portemonnaie des einzelnen Menschen, nicht aus Konsortien. Der
+          Rechtsstaat steht dem Kreislauf als Konsumorganisation gegenüber: Er
+          regelt, welcher Steuerbedarf gilt und wofür die Mittel verwendet
+          werden; wie viel Steuer welcher Wirtschaftszweig trägt, legen die
+          Assoziationen der Wirtschaft fest. So ist die Steuer Hingabe des
+          Kreislaufs an die Allgemeinheit, kein Parasit an ihm.
         references:
           - id: 73567970-4f70-49e9-8d5b-5c6d1798628d
             chunk_id: 73567970-4f70-49e9-8d5b-5c6d1798628d
@@ -4149,184 +4260,30 @@ felder:
             relation: erlaeutert
             relevance: 0.4
             begruendung: Erläutert, dass im wirtschaftlich Zustandegebrachten das staatlich-rechtliche Verhältnis steckt — veranschaulicht die Verschränkung von Ertrag und Recht.
-        chunk_id: 990b66f0-294e-48ab-81f9-0c4ff3261d88
-      - schlagwort: Durchsetzung
-        schlagsatz: Geltung braucht Werkzeuge.
-        kurztext: >
-          Was das Recht dem Urteil hinzufügt — die Geltung —, braucht Mittel, um
-          wirklich zu sein. Ein Recht, das sich nicht durchsetzen lässt, gilt
-          nur auf dem Papier. Die Wirtschaft stellt die Werkzeuge bereit:
-          Justizgebäude, Vollstreckung, Unterhalt derer, die das Recht wahren.
-          Das Geistesleben findet das Urteil, das Rechtsleben verleiht Geltung,
-          die Wirtschaft gibt der Geltung ihre Hände. Wer die Vollstreckung
-          finanziert, erwirbt keinen Einfluss darauf, was vollstreckt wird.
-          Gleichheit vor dem Gesetz beginnt damit, dass die Mittel des Rechts
-          niemandem gehören, der selbst Partei sein könnte.
-        text: >
-          Was das Recht dem frei gefundenen Urteil hinzufügt — die Geltung —,
-          braucht Mittel, um wirklich zu sein: Gerichte müssen tagen können,
-          Urteile vollstreckt, Verstöße verfolgt werden. Ein Recht, das sich
-          nicht durchsetzen lässt, gilt nur auf dem Papier — und ein Papier
-          schützt niemanden. Die Wirtschaft stellt die Werkzeuge dieser Geltung
-          bereit: die Justizgebäude und ihre Ausstattung, die Mittel der
-          Vollstreckung, den Unterhalt derer, die das Recht wahren. So schließt
-          sich ein Bogen durch die Sphären: Das Geistesleben findet das Urteil,
-          das Rechtsleben verleiht ihm Geltung, die Wirtschaft gibt der Geltung
-          ihre Hände. Die Rollenteilung bleibt dabei strikt: Wer die
-          Vollstreckung finanziert, erwirbt keinen Einfluss darauf, was
-          vollstreckt wird — gegen wen das Recht sich durchsetzt, bestimmt
-          allein das Recht. Denn Gleichheit vor dem Gesetz beginnt damit, dass
-          die Mittel des Rechts niemandem gehören, der selbst Partei sein
-          könnte.
-        references:
-          - id: aed49449-5f18-44b1-9843-5a9374bd5278
-            chunk_id: 46db8ebd-054e-5c1e-8137-4498b1d78811
-            chunk_type: secondary_book
-            source_id: afae47b0-9017-526e-90b8-b00354dbec51
-            relation: erlaeutert
-            relevance: 0.55
-            begruendung: Behandelt die Gliederung des sozialen Organismus in geistiges, rechtlich-staatliches und wirtschaftliches Glied und stützt damit die These, dass das Rechtsleben als eigenständiges Glied der Werkzeuge der Wirtschaft bedarf.
-          - id: cc5b0d6c-39d5-4c32-a585-a2cba32ad79b
-            chunk_id: 7a0cf888-b7e8-5c72-9a7d-19e8ad7fc597
-            chunk_type: secondary_book
-            source_id: 66ee0b14-82ba-55f8-aa48-8cc3d1e91c8a
-            relation: veranschaulicht
-            relevance: 0.5
-            begruendung: Zeigt das Wirtschaftsleben als eigenständiges, an Natur und Rechtsleben grenzendes Gebiet — veranschaulicht die strukturelle Trennung, auf der die Werkzeug-These aufbaut.
-          - id: ebb06483-7ab5-4433-9ffb-4b81c34e3eb1
-            chunk_id: a4bc6284-8a30-5aa2-ab13-c916e5c79604
-            chunk_type: book
-            source_id: 3b38df84-e9bc-4e70-9032-d3fa65517cfd
-            relation: begruendet
-            relevance: 0.5
-            begruendung: Fordert einen eigenständigen Rechtsorganismus neben dem Wirtschaftskreis, was die Unabhängigkeit der Rechtsdurchsetzung von wirtschaftlicher Parteilichkeit begründet.
-          - id: b39ea8f8-ec33-46a1-a6d7-1c5fb7153f4b
-            chunk_id: 687a8511-0b83-57aa-8eb6-7a0823495e10
-            chunk_type: secondary_book
-            source_id: 7bfb2f42-4765-5dd8-a7c6-931ca7b9eb88
-            relation: erlaeutert
-            relevance: 0.45
-            begruendung: Beschreibt das regulierende Rechtsleben zwischen Geistes- und Wirtschaftsleben als lebensfähiges Glied — erläutert die Einbettung der Rechtsgeltung in den Gesamtorganismus.
-          - id: de3d3ed0-822a-4ca2-b07d-086c94863907
-            chunk_id: b0d44658-c44b-51b4-b461-21098fef8a33
-            chunk_type: secondary_book
-            source_id: cec61afc-bc20-5ae6-bdac-d53ef6bce0b5
-            relation: bestaetigt
-            relevance: 0.4
-            begruendung: Betont, dass Rechtsbegriffe im Wirtschaftlichen enthalten sein müssen, was die Verschränkung von Recht und Wirtschaft im Sinne der Werkzeug-These bestätigt.
-        chunk_id: 8b600ed4-03af-477a-8880-01eef669969b
-      - schlagwort: Sicherung
-        schlagsatz: Die Wirtschaft erzeugt — wer erhält, sagt das Recht.
-        kurztext: >
-          Krankheit, Alter, Unfall, Arbeitslosigkeit — was den Einzelnen trifft,
-          trägt die Gemeinschaft. Das Rechtsleben bestimmt, was jedem zusteht,
-          weil er Mensch ist; die Wirtschaft speist die Kassen. Wer mehr
-          einzahlt, hat keinen näheren Anspruch; wer wenig einzahlen konnte,
-          keinen ferneren. Weil die Arbeitskraft keine Ware ist, darf auch die
-          Sicherung des Arbeitenden keine sein — sie folgt seinem Menschsein,
-          nicht seinem Marktwert. Wirtschaftlicher Überschuss wird zur
-          rechtlichen Gewissheit: dass keiner fällt, weil ihn niemand mehr
-          braucht.
-        text: >
-          Krankheit, Alter, Unfall, Arbeitslosigkeit — was den Einzelnen trifft,
-          trägt die Gemeinschaft. Das Rechtsleben bestimmt, was jedem zusteht,
-          weil er Mensch ist; die Wirtschaft speist die Kassen, aus denen dieser
-          Anspruch erfüllt wird: die Beiträge zur Kranken-, Renten- und
-          Arbeitslosenversicherung, die Mittel des Ausgleichs zwischen Starken
-          und Schwachen. Die Arbeitsteilung ist klar: Die Wirtschaft stellt
-          bereit, das Rechtsleben setzt die Verteilungsregeln — nach Bedarf und
-          gleichem Recht, nicht nach Beitragsmacht. Wer mehr einzahlt, hat
-          keinen näheren Anspruch; wer wenig einzahlen konnte, keinen ferneren.
-          Das ist die Konsequenz aus dem Schutz der Arbeit: Weil die
-          Arbeitskraft keine Ware ist, darf auch die Sicherung des Arbeitenden
-          keine sein — sie folgt seinem Menschsein, nicht seinem Marktwert. So
-          verwandelt sich wirtschaftlicher Überschuss in rechtliche Gewissheit:
-          dass keiner fällt, weil ihn niemand mehr braucht.
-        references:
-          - id: 388a1d79-1078-4c8b-83ff-3ccf2978bb43
-            chunk_id: c5c88038-6b5d-58c5-8264-8eca9149dc8e
-            chunk_type: book
-            source_id: f8e6c475-a0e5-4081-b265-61a7536a183e
-            relation: bestaetigt
-            relevance: 0.9
-            begruendung: "Belegt direkt den Kern des Aspekts: Altgewordene, Invaliden, Witwen, Kranke haben ein Recht auf Lebensunterhalt, dessen Kapitalgrundlage aus dem Kreislauf des sozialen Organismus zufließt — wirtschaftlicher Überschuss wird zur rechtlichen Gewissheit."
-          - id: b837c3f8-beac-4215-b978-b05ae3e7789c
-            chunk_id: c5b7d6aa-9b64-5a91-8e52-bf58def22128
-            chunk_type: secondary_book
-            source_id: e784e17d-d6f2-5f21-85bc-9f496c3271d6
-            relation: erlaeutert
-            relevance: 0.75
-            begruendung: Zeigt, dass bei unzureichender Arbeitskraft das Wirtschaftsleben verarmt und auf rechtlichem Boden Abhilfe geschaffen werden muss — die Sicherung folgt dem Recht, nicht dem Marktwert.
-          - id: 4015ddd3-1648-4f57-844f-ed83b87715f1
-            chunk_id: dabfd492-9311-5223-99aa-c63e62194f9c
-            chunk_type: secondary_book
-            source_id: a10887bd-72ce-5422-8490-1a3f48e3b6c3
-            relation: begruendet
-            relevance: 0.7
-            begruendung: Begründet, warum die Arbeitskraft aus dem Kreislauf des Wirtschaftslebens herausgelöst werden muss — stützt die Aussage, dass Sicherung des Arbeitenden keine Ware sein darf.
-          - id: d554d1e3-acf0-436e-b305-38dd721f13f6
-            chunk_id: e392b9b7-0166-542d-a2b9-d12a2fca494d
-            chunk_type: secondary_book
-            source_id: e820f01d-db41-5fc6-9a70-159687b5d97a
-            relation: veranschaulicht
-            relevance: 0.65
-            begruendung: Veranschaulicht die konkrete Umsetzung in Arbeiterversicherung und Versicherungswesen als Ausdruck rechtlich gefasster sozialer Sicherung.
-          - id: beb3255f-b91c-463c-9d22-6985878f07bb
-            chunk_id: 11fe51ad-360e-5cd2-842d-45991607685d
-            chunk_type: secondary_book
-            source_id: afae47b0-9017-526e-90b8-b00354dbec51
-            relation: erlaeutert
-            relevance: 0.6
-            begruendung: Erläutert, dass ein selbständiges Rechtsglied bewirkt, dass die Arbeitskraft nicht aus wirtschaftlichen Untergründen zur Ware wird — passt zur Sicherungslogik des Aspekts.
         chunk_id: b68bb785-a81c-47f7-a2d5-c818193e1936
-      - schlagwort: Auskommen
-        schlagsatz: Geld ist Versprechen; Nahrung ist Wirklichkeit.
+      - schlagwort: Geldsystem
+        schlagsatz: Die Wirtschaft stellt allen ein Geldsystem zur Verfügung.
         kurztext: >
-          Richterinnen, Polizisten, Abgeordnete, Beamte erzeugen selbst kein Brot — und
-          leben doch von alledem. Geld ist nur die Anweisung; eingelöst wird sie
-          von der realen Produktion. Die Wirtschaft ernährt, kleidet und behaust
-          die Menschen, die im Rechtsleben arbeiten. Mit dem Auskommen endet
-          ihr Beitrag. Was diese Menschen im Amt leisten, gehört allein dem
-          Rechtsleben; keine Lieferung begründet eine Weisung. Sie trägt die
-          Tragenden — und trägt ihnen nichts auf.
+          Die Wirtschaft übernimmt die Verwaltung des Geldes, die heute beim
+          Staat liegt, und führt es als wandernde Buchhaltung ihrer
+          Leistungen. Sie bindet die Währung an das, was an brauchbaren
+          Produktionsmitteln tatsächlich da ist, und gibt dem Geld damit
+          festen Boden. So erhält auch das Rechtsleben ein verlässliches Geld,
+          ohne selbst den Geldwert festlegen zu müssen. Geld ist nur
+          Anweisung; eingelöst wird sie von der realen Produktion.
         text: >
-          Richterinnen, Polizisten, Verwaltungsangestellte, Abgeordnete erzeugen
-          selbst kein Brot, keine Kleidung, kein Haus — und leben doch von
-          alledem. Was sie erhalten, ist zunächst Geld; aber Geld ist nur die
-          Anweisung, eingelöst wird sie von der realen Produktion. Das
-          eigentliche Tragen geschieht darum nicht in den Kassen, sondern in den
-          Feldern, Werkstätten und Betrieben: Die Wirtschaft ernährt, kleidet
-          und behaust die Menschen, die im Rechtsleben arbeiten — sie trägt die
-          Träger des Rechts. Hier liegt die Übergabe: Mit dem Auskommen endet
-          der Beitrag der Wirtschaft. Was diese Menschen leisten — Recht
-          sprechen, verwalten, beschließen —, gehört allein dem Rechtsleben;
-          keine Lieferung begründet eine Weisung. So wie die Mittel gesichert
-          vom Recht ins Geistesleben übergehen und die verbindliche Form vom
-          Recht in die Wirtschaft, geht hier die reale Leistung von der
-          Wirtschaft ins Recht über: Sie trägt die Tragenden — und trägt ihnen
-          nichts auf.
+          Die Wirtschaft übernimmt die Verwaltung des Geldes, die heute beim
+          Staat liegt, und führt es als wandernde Buchhaltung ihrer
+          Leistungen. Sie bindet die Währung an das, was an brauchbaren
+          Produktionsmitteln tatsächlich da ist, und gibt dem Geld damit
+          festen Boden. So erhält auch das Rechtsleben ein verlässliches Geld,
+          ohne selbst den Geldwert festlegen zu müssen.
+
+          Geld ist nur die Anweisung; eingelöst wird sie von der realen
+          Produktion. Es ist gesund, wenn es direkt mit Gütern verbunden ist —
+          nicht als abstrakte Zeile im Konto. Darum gehört die Verwaltung des
+          Geldes dorthin, wo die Güter entstehen: in die Wirtschaft.
         references:
-          - id: 45b6f560-4e3f-4de9-a932-790786097a08
-            chunk_id: 7a0cf888-b7e8-5c72-9a7d-19e8ad7fc597
-            chunk_type: secondary_book
-            source_id: 66ee0b14-82ba-55f8-aa48-8cc3d1e91c8a
-            relation: erlaeutert
-            relevance: 0.72
-            begruendung: Beschreibt das Wirtschaftsleben als eigenständiges, an Naturordnung und Rechtsleben grenzendes Gebiet — entspricht der Trennung von Auskommen (Wirtschaft) und Rechtsleben im Kurztext.
-          - id: 143aea89-f36f-4847-9599-114db252e2a1
-            chunk_id: 4cdf9683-42a3-5015-b87b-d889e71824bc
-            chunk_type: secondary_book
-            source_id: 09739c07-c342-5b38-a092-74c4d6274753
-            relation: bestaetigt
-            relevance: 0.66
-            begruendung: Spricht von einer 'gesunden Abhängigkeit' des Wirtschaftslebens vom Recht über die Arbeitskraft — stützt die These, dass das Auskommen mit dem Beitrag endet und keine Weisung begründet.
-          - id: dafff66f-2c63-4d88-88b9-4f297dc419c7
-            chunk_id: 1174dc38-fb27-5d74-9ba9-2aa6196b6dff
-            chunk_type: secondary_book
-            source_id: 6c69318f-7799-5fc8-9c40-1a14a16a5445
-            relation: begruendet
-            relevance: 0.64
-            begruendung: Argumentiert, die Abhängigkeit des Wohlstands von der Arbeit sei eine 'gesunde Abhängigkeit' — begründet die Grenzziehung zwischen wirtschaftlichem Auskommen und rechtlicher Sphäre.
           - id: 4b0ca8a2-a317-4766-8e8d-7ab84db584cd
             chunk_id: 6e50a938-5ba6-5a43-9078-7574485efaac
             chunk_type: secondary_book
@@ -4334,44 +4291,44 @@ felder:
             relation: veranschaulicht
             relevance: 0.6
             begruendung: Definiert Geld als Mittel gemeinsamer Wirtschaftsführung — veranschaulicht die Formel 'Geld ist Versprechen', das erst durch reale Wirtschaft eingelöst wird.
-          - id: 6e044cb0-319b-47b0-8f58-5a75a423e296
-            chunk_id: e4dab3f8-a81f-5e23-9812-ea37a2405ad6
-            chunk_type: secondary_book
-            source_id: 0476bf67-4e9c-5913-a438-47dbd7adcee3
+          - id: c7ea53a5-50cb-4b66-8a6f-5cdd2fddc7f6
+            chunk_id: e0c47538-0641-4f10-9636-42c2cba867e6
+            chunk_type: lecture
+            source_id: null
             relation: erlaeutert
-            relevance: 0.55
-            begruendung: Zeigt, dass im wirtschaftlich Zustandegebrachten das staatlich-rechtliche Verhältnis steckt — erläutert die Verschränkung von Wirtschaft und Recht beim Auskommen.
+            relevance: 0.6
+            begruendung: "Zürich 25.10.1919, Abs. 53–54: Wirtschaftlich wird Geld erst bei der Ausgabe — direkte Verbindung mit Gütern; stützt, dass Geld an reale Güter gebunden ist."
         chunk_id: 257a9b10-15f1-4d14-8f94-5c42a1630c06
-      - schlagwort: Lieferung
-        schlagsatz: Das Recht bestellt, die Wirtschaft liefert.
+      - schlagwort: Infrastruktur
+        schlagsatz: Das Recht entscheidet, welche Infrastruktur gebraucht wird, die Wirtschaft liefert, was sie kann.
         kurztext: >
-          Gerichtsgebäude, Stimmzettel, Verwaltungsnetze: Die Beschlüsse des
-          Rechtslebens werden zu Aufträgen an die Wirtschaft. Das Ob und Wofür
-          bestimmt das Rechtsleben demokratisch aus den Vorschlägen des
-          Geisteslebens. Das Wie verantwortet die Wirtschaft aus eigener
-          Kompetenz, verhandelt in ihren Assoziationen. Der Auftrag ist ein
-          Vertrag: Das Recht bestellt und bindet sich wie jeder andere, die
-          Wirtschaft liefert. So dient die Wirtschaft dem Gemeinwesen, ohne ihm
-          zu gehören — und das Gemeinwesen empfängt, ohne selbst wirtschaften zu
-          müssen.
+          Die Wirtschaft baut, betreibt und unterhält, was das Recht als
+          gemeinsame Aufgabe bestellt hat, etwa Straßen, Gerichtsgebäude,
+          Netze und Register. Sie liefert im Rahmen dessen, was an
+          Arbeitskraft, Material und Naturgrundlage tatsächlich vorhanden ist,
+          und meldet ehrlich, wo diese Grenzen liegen. Ihre Sachkenntnis
+          betrifft die Frage, wie etwas am besten gebaut wird, nicht ob es
+          gebaut wird. Der Auftrag ist ein Vertrag: Das Recht bestellt und
+          bindet sich.
         text: >
-          Gerichtsgebäude werden gebaut, Stimmzettel gedruckt, Fahrzeuge
-          geliefert, Verwaltungsnetze betrieben — die Beschlüsse des
-          Rechtslebens werden zu Aufträgen an die Wirtschaft. Sie erbringt diese
-          Sachleistungen als das, was sie am besten kann: herstellen,
-          organisieren, liefern. Die Verantwortung ist dabei sauber geteilt. Das
-          Ob und Wofür bestimmt das Rechtsleben demokratisch aus den Vorschlägen
-          des Geisteslebens — welche Schule gebaut, welche Ausstattung beschafft
-          wird. Das Wie verantwortet die Wirtschaft aus eigener Kompetenz —
-          Material, Verfahren, Wege, verhandelt in ihren
+          Die Wirtschaft baut, betreibt und unterhält, was das Recht als
+          gemeinsame Aufgabe bestellt hat, etwa Straßen, Gerichtsgebäude,
+          Netze und Register. Sie liefert im Rahmen dessen, was an
+          Arbeitskraft, Material und Naturgrundlage tatsächlich vorhanden ist,
+          und meldet ehrlich, wo diese Grenzen liegen. Ihre Sachkenntnis
+          betrifft die Frage, wie etwas am besten gebaut wird, nicht ob es
+          gebaut wird.
+
+          Die Verantwortung ist dabei sauber geteilt. Das Ob und Wofür
+          bestimmt das Rechtsleben demokratisch aus den Vorschlägen des
+          Geisteslebens; das Wie verantwortet die Wirtschaft aus eigener
+          Kompetenz — Material, Verfahren, Wege, verhandelt in ihren
           Erzeuger-Verwender-Gemeinschaften. Keine Behörde muss produzieren
-          können, kein Betrieb beschließen dürfen; jede Seite bleibt in ihrer
-          Stärke. Die Form dafür kennt das Nachbarfeld schon: Der Auftrag ist
-          ein Vertrag — das Recht bestellt und bindet sich an die Abmachung wie
-          jeder andere Vertragspartner auch, die Wirtschaft füllt die Abmachung
-          und liefert. So dient die Wirtschaft dem Gemeinwesen, ohne ihm zu
-          gehören — und das Gemeinwesen empfängt, ohne selbst wirtschaften zu
-          müssen.
+          können, kein Betrieb beschließen dürfen. Der Auftrag ist ein
+          Vertrag: Das Recht bestellt und bindet sich an die Abmachung wie
+          jeder andere Vertragspartner, die Wirtschaft füllt sie und liefert.
+          So dient die Wirtschaft dem Gemeinwesen, ohne ihm zu gehören — und
+          das Gemeinwesen empfängt, ohne selbst wirtschaften zu müssen.
         references:
           - id: 90094047-954e-4f28-b60a-e18e664113a0
             chunk_id: 7f3af39a-04fa-50e0-ba70-071093113a39
@@ -4412,34 +4369,32 @@ felder:
       - schlagwort: Freistellung
         schlagsatz: Keine freie Zeit — kein freies Urteil.
         kurztext: >
-          Demokratie lebt von Menschen, die Zeit einbringen: Abgeordnete,
-          Schöffen, Wahlhelfer, Bürger an öffentlichen Projekten. Mitwirken kann
-          nur, wer freigestellt wird. Die Wirtschaft gibt hier ihre knappste
-          Ressource ab: Arbeitszeit. Sie trägt den Ausfall, hält den Platz offen
-          — wer zurückkehrt, findet ihn unverändert; wer ganz in den
-          öffentlichen Dienst geht, wird aus dem Gemeinsamen versorgt. Gesetze,
-          die jeder verstehen können muss, brauchen auch jeden, der sie
-          mitgestalten kann. Die Wirtschaft gibt den Bürger frei, für die Zeit,
-          in der er nicht Arbeitskraft ist, sondern Rechtsgenosse.
+          Die Wirtschaft erarbeitet so viel Überschuss, dass Menschen für
+          Wahlen, Ämter, Schöffendienst und öffentliche Debatte freigestellt
+          werden, ohne ihr Auskommen zu verlieren. Sie organisiert die Arbeit
+          so, dass genug Zeit bleibt, sich zu informieren und
+          mitzuentscheiden. Damit schafft sie die Voraussetzung, dass Bürger
+          mündig urteilen. Wer zurückkehrt, findet seinen Platz im Betrieb
+          unverändert vor. Denn Gesetze, die jeder verstehen muss, brauchen
+          jeden, der sie mitgestalten kann.
         text: >
-          Demokratie lebt nicht allein von Geld, sondern von Menschen, die ihre
-          Zeit einbringen. Das Rechtsleben braucht Abgeordnete und
-          Kommunalpolitiker, die sich ganz der öffentlichen Sache widmen;
-          Schöffen und Wahlhelfer, die das Recht im Einzelfall tragen; Bürger,
-          die an Projekten für die Allgemeinheit arbeiten; und Menschen, die
-          Wahlen organisieren, Transparenz herstellen und die Kommunikation des
-          Gemeinwesens pflegen. Mitwirken kann nur, wer dafür freigestellt wird.
-          Deshalb gibt die Wirtschaft hier ihre knappste Ressource ab:
-          Arbeitszeit. Sie trägt den Ausfall, hält den Arbeitsplatz offen und
-          sorgt dafür, dass öffentliches Engagement kein berufliches Risiko
-          bedeutet — wer zurückkehrt, findet seinen Platz im Betrieb unverändert
-          vor; wer ganz in den öffentlichen Dienst geht, wird aus dem
-          Gemeinsamen versorgt, nicht aus dem Betrieb bezahlt. Denn Gesetze, die
-          jeder verstehen können muss, brauchen auch jeden, der sie mitgestalten
-          kann. So gleicht sich die Leistung aus: Wie das Recht den Menschen aus
-          dem Warenverkehr herausnimmt, gibt die Wirtschaft den Bürger frei —
-          für die Stunden, Monate oder Jahre, in denen er nicht Arbeitskraft
-          ist, sondern Rechtsgenosse unter Gleichen.
+          Die Wirtschaft erarbeitet so viel Überschuss, dass Menschen für
+          Wahlen, Ämter, Schöffendienst und öffentliche Debatte freigestellt
+          werden, ohne ihr Auskommen zu verlieren. Sie organisiert die Arbeit
+          so, dass genug Zeit bleibt, sich zu informieren und
+          mitzuentscheiden. Damit schafft sie die Voraussetzung, dass Bürger
+          mündig urteilen.
+
+          Demokratie lebt nicht allein von Geld, sondern von Menschen, die
+          ihre Zeit einbringen: Abgeordnete, Schöffen, Wahlhelfer, Bürger an
+          Projekten für die Allgemeinheit. Deshalb gibt die Wirtschaft hier
+          ihre knappste Ressource ab: Arbeitszeit. Sie trägt den Ausfall und
+          hält den Arbeitsplatz offen — wer zurückkehrt, findet seinen Platz
+          im Betrieb unverändert vor. Denn Gesetze, die jeder verstehen können
+          muss, brauchen auch jeden, der sie mitgestalten kann. Wie das Recht
+          den Menschen aus dem Warenverkehr herausnimmt, gibt die Wirtschaft
+          den Bürger frei: für die Zeit, in der er nicht Arbeitskraft ist,
+          sondern Rechtsgenosse unter Gleichen.
         references:
           - id: 35fd88e0-b013-41fa-a0ed-9304a6e09621
             chunk_id: da5ad2b1-621a-5777-9c4a-5dd143a138a3
@@ -4480,32 +4435,30 @@ felder:
       - schlagwort: Enthaltung
         schlagsatz: Wer zahlt, bestimmt nicht.
         kurztext: >
-          Die Wirtschaft stellt das Geld bereit und führt die Zahlungen aus,
-          entscheidet aber nicht, wohin die Mittel fließen. Ob ein Verfahren
-          vorgezogen oder eine Straße gebaut wird, bestimmt das Rechtsleben
-          unter Gleichen — nicht der Kostenträger. Das ist der schwerste
-          Beitrag, denn die Versuchung liegt in der Sache: Wer zahlt, könnte
-          bestimmen wollen. Das Recht zieht von außen die Grenze, dass nicht
-          alles käuflich ist; die Wirtschaft hält sie von innen ein. Erst die
-          Trennung von Zahlen und Bestimmen macht alle anderen Beiträge gesund.
-          Das Geld kann die Regeln nicht kaufen, nach denen es selbst gilt.
+          Die Wirtschaft liefert Geld, Waren und Dienstleistungen an das
+          Rechtsleben und hält sich aus seinen Entscheidungen heraus. Sie
+          verzichtet auf Lobbyismus, Parteispenden und Gesetzentwürfe aus
+          Branchenbüros. Gerade durch diese Zurückhaltung stärkt sie das
+          Recht, in dem jeder mündige Mensch gleich zählt. Die Versuchung
+          liegt in der Sache: Wer zahlt, könnte bestimmen wollen. Erst diese
+          Trennung macht alle anderen Beiträge gesund. Mit ihr wird das Tragen
+          zum Dienst.
         text: >
-          Die Wirtschaft stellt das Geld bereit und führt die Zahlungen aus,
-          aber sie entscheidet nicht darüber, wohin die Mittel fließen. Ob ein
-          Verfahren vorgezogen, eine Leistung bewilligt oder eine Straße gebaut
-          wird, bestimmt das Rechtsleben demokratisch unter Gleichen – nicht der
-          Kostenträger. Diese Enthaltung ist der schwerste Beitrag der
-          Wirtschaft, denn die Versuchung liegt in der Sache: Wer zahlt, könnte
-          bestimmen wollen. Das Recht zieht von außen die Grenze, dass nicht
-          alles käuflich ist. Die Wirtschaft hält von innen die Grenze ein,
-          indem sie gibt, ohne mit der Gabe etwas zu erwerben. Erst diese
-          Trennung von Zahlen und Bestimmen macht alle anderen Beiträge gesund.
-          Mit ihr wird das Tragen zum Dienst, ohne sie würde es zur Leine. Das
-          Recht bleibt unbestechlich aus Struktur, nicht bloß aus Tugend. Das
-          Geld kann die Regeln nicht kaufen, nach denen es selbst gilt, weil die
-          Wirtschaft strukturell keinen Einfluss auf die Rechtsetzung hat. Die
-          Unbestechlichkeit des Rechts ist also keine Frage des Charakters,
-          sondern eine Frage der Ordnung.
+          Die Wirtschaft liefert Geld, Waren und Dienstleistungen an das
+          Rechtsleben und hält sich aus seinen Entscheidungen heraus. Sie
+          verzichtet auf Lobbyismus, Parteispenden und Gesetzentwürfe aus
+          Branchenbüros. Gerade durch diese Zurückhaltung stärkt sie das
+          Recht, in dem jeder mündige Mensch gleich zählt.
+
+          Diese Enthaltung ist der schwerste Beitrag der Wirtschaft, denn die
+          Versuchung liegt in der Sache: Wer zahlt, könnte bestimmen wollen.
+          Das Recht zieht von außen die Grenze, dass nicht alles käuflich ist;
+          die Wirtschaft hält sie von innen ein, indem sie gibt, ohne mit der
+          Gabe etwas zu erwerben. Erst diese Trennung von Zahlen und Bestimmen
+          macht alle anderen Beiträge gesund. Mit ihr wird das Tragen zum
+          Dienst, ohne sie würde es zur Leine. Das Geld kann die Regeln nicht
+          kaufen, nach denen es selbst gilt: Die Unbestechlichkeit des Rechts
+          ist keine Frage des Charakters, sondern eine Frage der Ordnung.
         references:
           - id: 48554310-4c46-4443-b78b-0da8c4a8a7fd
             chunk_id: 7a0cf888-b7e8-5c72-9a7d-19e8ad7fc597
@@ -4768,13 +4721,13 @@ felder:
           Prüfung ist die Bewerbung für später; die Zahlung heißt Karriere und
           wird erst nach dem Ausscheiden fällig, wenn keine Vorschrift mehr
           greift. Niemand muss bestochen werden — die Aussicht genügt. Damit
-          kippt das Auskommen in sein Gegenteil: Gesund trägt die Wirtschaft die
+          kippt die Versorgung in ihr Gegenteil: Gesund trägt die Wirtschaft die
           Träger des Rechts — ernährt, kleidet, behaust sie — und trägt ihnen
           nichts auf. Hier sucht sich die Zahlung den direkten Weg: nicht über
           Kassen und Besoldung, durch die alle gleich versorgt werden, sondern
           an der Ordnung vorbei in die Hand, die urteilen soll. Aus dem
           Unterhalt, der unabhängig macht, wird der Umschlag, der abhängig
-          macht; aus der Lieferung, die keine Anweisung begründet, die Anweisung
+          macht; aus der Versorgung, die keine Anweisung begründet, die Anweisung
           selbst. Ein gekaufter Richter richtet nicht mehr — er liefert. Und wer
           weiß, dass Urteile käuflich sind, glaubt auch dem unbestochenen
           Richter nicht mehr.
@@ -4936,8 +4889,8 @@ felder:
           zahlt, bestimmt doch — nur leiser, früher und gründlicher, nämlich
           schon im Entwurf. Die Trennung von Zahlen und Bestimmen machte alle
           anderen Beiträge gesund; fällt sie, kippen sie alle mit: Die Versorgung
-          wird zur Ausnutzung, die Durchsetzung zur Lähmung, die Sicherung zum
-          Schutzabbau, das Auskommen zur Bestechung, die Lieferung zur
+          wird zur Ausnutzung, die Durchsetzung zur Lähmung, die Steuer zum
+          Schutzabbau, das Geldsystem zur Bestechung, die Infrastruktur zur
           Privatjustiz, die Freistellung zur Drehtür. Die Unbestechlichkeit des
           Rechts war eine Frage der Ordnung, nicht des Charakters — ist die
           Ordnung selbst gekauft, hilft auch kein Charakter mehr.
