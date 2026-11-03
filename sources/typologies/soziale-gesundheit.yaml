@@ -4306,25 +4306,35 @@ felder:
       - schlagwort: Geldsystem
         schlagsatz: Die Wirtschaft stellt allen ein Geldsystem zur Verfügung.
         kurztext: >
-          Die Wirtschaft übernimmt die Verwaltung des Geldes, die heute beim
-          Staat liegt, und führt es als wandernde Buchhaltung ihrer
-          Leistungen. Sie bindet die Währung an das, was an brauchbaren
-          Produktionsmitteln tatsächlich da ist, und gibt dem Geld damit
-          festen Boden. So erhält auch das Rechtsleben ein verlässliches Geld,
-          ohne selbst den Geldwert festlegen zu müssen. Geld ist nur
-          Anweisung; eingelöst wird sie von der realen Produktion.
+          Die Wirtschaft führt das Geldsystem als wandernde Buchhaltung ihrer
+          Leistungen und bindet die Währung an die vorhandenen
+          Produktionsmittel. Im Zentrum steht der richtige Preis: Wer etwas
+          erzeugt, erhält so viel, bis er dasselbe wieder herstellen kann. Es
+          gibt Kaufgeld, Leihgeld und Schenkgeld — drei qualitativ
+          verschiedene Arten. So erhält auch das Rechtsleben verlässliches
+          Geld, ohne selbst den Geldwert festzulegen.
         text: >
-          Die Wirtschaft übernimmt die Verwaltung des Geldes, die heute beim
-          Staat liegt, und führt es als wandernde Buchhaltung ihrer
-          Leistungen. Sie bindet die Währung an das, was an brauchbaren
-          Produktionsmitteln tatsächlich da ist, und gibt dem Geld damit
-          festen Boden. So erhält auch das Rechtsleben ein verlässliches Geld,
-          ohne selbst den Geldwert festlegen zu müssen.
+          Die Wirtschaft stellt allen ein Geldsystem zur Verfügung. Sie
+          übernimmt die Verwaltung des Geldes, die heute beim Staat liegt, und
+          führt es als wandernde Buchhaltung ihrer Leistungen. Sie bindet die
+          Währung an das, was an brauchbaren Produktionsmitteln tatsächlich da
+          ist. So erhält auch das Rechtsleben ein verlässliches Geld, ohne
+          selbst den Geldwert festlegen zu müssen.
 
-          Geld ist nur die Anweisung; eingelöst wird sie von der realen
-          Produktion. Es ist gesund, wenn es direkt mit Gütern verbunden ist —
-          nicht als abstrakte Zeile im Konto. Darum gehört die Verwaltung des
-          Geldes dorthin, wo die Güter entstehen: in die Wirtschaft.
+          Im Zentrum dieses Geldsystems steht der Preis. Der richtige Preis
+          entsteht in den Assoziationen: Wer etwas erzeugt, erhält dafür so
+          viel, dass er seine Bedürfnisse befriedigen kann, bis er dasselbe
+          Produkt wieder hergestellt hat. Nicht der Lohn für die Arbeit wird
+          festgesetzt, sondern die gegenseitigen Preise. Das Geld ist nur die
+          Anweisung auf diese Werte; eingelöst wird sie von der realen
+          Produktion.
+
+          Dabei sind drei Arten von Geld zu unterscheiden, die qualitativ
+          verschieden sind: Kaufgeld für den Verbrauch, Leihgeld für
+          Unternehmungen und Schenkgeld für das, was das freie Geistesleben
+          braucht. Nur wenn das Geld so geführt wird und im Kreislauf mit
+          Gütern verbunden bleibt, dient es dem Rechtsleben — und bleibt Sache
+          der Wirtschaft, nicht des Staates.
         references:
           - id: 4b0ca8a2-a317-4766-8e8d-7ab84db584cd
             chunk_id: 6e50a938-5ba6-5a43-9078-7574485efaac
@@ -4340,6 +4350,20 @@ felder:
             relation: erlaeutert
             relevance: 0.6
             begruendung: "Zürich 25.10.1919, Abs. 53–54: Wirtschaftlich wird Geld erst bei der Ausgabe — direkte Verbindung mit Gütern; stützt, dass Geld an reale Güter gebunden ist."
+          - id: c495e097-9343-4085-b7f1-46442369958f
+            chunk_id: 780897ba-0d93-5e40-b388-659ef7523174
+            chunk_type: secondary_book
+            source_id: b22e8aa5-9404-5f01-aa82-358f54a8c13d
+            relation: begruendet
+            relevance: 0.9
+            begruendung: "Nationalökonomischer Kurs, Vortrag 9: drei qualitativ verschiedene Arten von Geld — Kaufgeld, Leihgeld, Schenkungsgeld."
+          - id: aa646518-0523-468e-b551-0910a4edc549
+            chunk_id: ae65cc43-50b1-5f4c-8584-185776c6c8b2
+            chunk_type: lecture
+            source_id: null
+            relation: begruendet
+            relevance: 0.9
+            begruendung: "Zürich 25.10.1919: Urzelle des Wirtschaftslebens — für das Erzeugte so viel erhalten, bis ein gleiches Produkt wieder hergestellt ist; Bestimmung der gegenseitigen Preise."
         chunk_id: 257a9b10-15f1-4d14-8f94-5c42a1630c06
       - schlagwort: Infrastruktur
         schlagsatz: Das Recht entscheidet, welche Infrastruktur gebraucht wird, die Wirtschaft liefert, was sie kann.
