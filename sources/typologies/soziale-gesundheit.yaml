@@ -4073,31 +4073,29 @@ felder:
       - schlagwort: Durchsetzung
         schlagsatz: Geltung braucht Werkzeuge. Bereitstellung der Sicherheit.
         kurztext: >
-          Die Wirtschaft stellt die Mittel her, mit denen das Recht seine
-          Urteile in die Welt bringt: Gebäude, Fahrzeuge, Ausrüstung und
-          Technik für Polizei, Justiz und Verteidigung. Sie liefert, was
-          gebraucht wird und was sie liefern kann, und meldet ehrlich, wo ihre
-          Grenzen liegen. Das Recht entscheidet über den Einsatz und richtet
-          sich dabei nach dem, was die Wirtschaft tatsächlich bereitstellen
-          kann. Sonst gilt Recht nur auf dem Papier.
+          Die Wirtschaft stellt die Sachmittel her, mit denen das Rechtsleben
+          wirkt: Gebäude, Fahrzeuge, Ausrüstung und Technik für Polizei,
+          Justiz, Verwaltung und Verteidigung. Produktionsassoziationen
+          liefern dem Rechtsstaat als Konsumorganisation, was gebraucht wird
+          und was sie leisten können, und melden ehrlich ihre Grenzen. Was
+          unter Gleichen gilt und wie die Mittel eingesetzt werden,
+          entscheidet das Rechtsleben — jeder mündige Bürger hat daran teil.
         text: >
-          Was das Recht dem frei gefundenen Urteil hinzufügt — die Geltung —,
-          braucht Mittel, um wirklich zu sein. Ein Recht, das sich nicht
-          durchsetzen lässt, gilt nur auf dem Papier — und ein Papier schützt
-          niemanden. Die Wirtschaft stellt die Mittel her, mit denen das Recht
-          seine Urteile in die Welt bringt: Gebäude, Fahrzeuge, Ausrüstung und
-          Technik für Polizei, Justiz und Verteidigung. Sie liefert, was
-          gebraucht wird und was sie liefern kann, und meldet ehrlich, wo ihre
-          Grenzen liegen.
+          Die Wirtschaft stellt die Sachmittel her, mit denen das Rechtsleben
+          wirkt: Gebäude, Fahrzeuge, Ausrüstung und Technik für Polizei,
+          Justiz, Verwaltung und Verteidigung. Das Rechtsleben umfasst alles,
+          worin der mündige Mensch dem anderen als Gleicher gegenübersteht —
+          was rechtens ist, was jeder darf und wozu er verpflichtet sein kann.
+          Dafür braucht es Einrichtungen; die Wirtschaft liefert deren
+          Sachmittel.
 
-          Das Recht entscheidet über den Einsatz und richtet sich dabei nach
-          dem, was die Wirtschaft tatsächlich bereitstellen kann. So schließt
-          sich ein Bogen durch die Sphären: Das Geistesleben findet das
-          Urteil, das Rechtsleben verleiht ihm Geltung, die Wirtschaft gibt
-          der Geltung ihre Hände. Gegen wen das Recht sich durchsetzt,
-          bestimmt allein das Recht. Denn Gleichheit vor dem Gesetz beginnt
-          damit, dass die Mittel des Rechts niemandem gehören, der selbst
-          Partei sein könnte.
+          Wie bei der Versorgung steht der Rechtsstaat dem
+          Wirtschaftskreislauf als Konsumorganisation gegenüber. Hier
+          antworten die Produktionsassoziationen: Sie stellen her, was das
+          Rechtsleben bestellt, liefern, was sie leisten können, und melden
+          ehrlich, wo ihre Grenzen liegen. Über den Einsatz entscheidet allein
+          das Rechtsleben unter Gleichen. Die Wirtschaft gibt der Geltung ihre
+          Hände und bestimmt nicht, gegen wen oder wofür diese Geltung gilt.
         references:
           - id: aed49449-5f18-44b1-9843-5a9374bd5278
             chunk_id: 46db8ebd-054e-5c1e-8137-4498b1d78811
@@ -4134,6 +4132,20 @@ felder:
             relation: bestaetigt
             relevance: 0.4
             begruendung: Betont, dass Rechtsbegriffe im Wirtschaftlichen enthalten sein müssen, was die Verschränkung von Recht und Wirtschaft im Sinne der Werkzeug-These bestätigt.
+          - id: 0bb0f7da-f9ae-4482-b1e8-4cc9e9e2451d
+            chunk_id: c85d6c47-f3de-5690-82f2-d26644358c92
+            chunk_type: book
+            source_id: 3b38df84-e9bc-4e70-9032-d3fa65517cfd
+            relation: erlaeutert
+            relevance: 0.85
+            begruendung: "Aufsätze Dreigliederung Abs. 7: Rechtsstaat als Konsumorganisation dem Wirtschaftskreislauf gegenüber — stützt die Produktionsassoziationen als Lieferseite für die Sachmittel des Rechtslebens."
+          - id: 954caf11-eadf-4f2b-a143-9785d7cec74b
+            chunk_id: e459f18c-4755-564a-87bb-ef496847f601
+            chunk_type: book
+            source_id: f8e6c475-a0e5-4081-b265-61a7536a183e
+            relation: begruendet
+            relevance: 0.8
+            begruendung: "Kernpunkte Kap. II: Wirkungen aus Rechtseinrichtungen und wirtschaftlicher Tätigkeit kommen aus zwei Richtungen; Assoziationen entfalten bloß wirtschaftliche Tätigkeit — begründet die Trennung von Sachlieferung und Rechtsentscheid."
         chunk_id: 8b600ed4-03af-477a-8880-01eef669969b
       - schlagwort: Steuer
         schlagsatz: Die Wirtschaft stellt sicher, dass jeder Steuern bezahlt.
