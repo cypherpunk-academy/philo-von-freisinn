@@ -4001,7 +4001,7 @@ felder:
     text: |
       Im gesunden Feld Wirtschaft -> Recht trägt die Wirtschaft den Staat, wie das Fundament das Haus trägt: Es entscheidet nicht, wer darin wohnt. Die Herkunft der Mittel ist wirtschaftlich, ihre Verwendung ist es nicht.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Versorgung:** Die Wirtschaft versorgt alle, die im Rechtsleben arbeiten, mit Nahrung, Wohnung und Kleidung und behandelt sie wie jeden anderen Verbraucher. **Infrastruktur:** Sie baut und liefert die Sachmittel der Sicherheit und die allgemeine Infrastruktur für alle; das Recht entscheidet, die Wirtschaft liefert, was sie kann. **Unterhalt:** Alte, Invaliden, Witwen und Kranke haben Anspruch auf Lebensunterhalt; das Recht setzt ihn fest, die Wirtschaft rechnet ihn in die Preise ein und trägt ihn als Schenkungsgeld. **Steuer:** Über Steuermarken, die beim Verkauf entwertet werden, ist die Steuer mit jedem Geschäft entrichtet; die Wirtschaft verwaltet kein Steuergeld. **Geldsystem:** Sie führt das Geld als wandernde Buchhaltung ihrer Leistungen und bindet es an die vorhandenen Produktionsmittel. **Freistellung:** Wer für Wahlen, Ämter, Schöffendienst und Debatte freigestellt wird, verliert sein Auskommen nicht. **Enthaltung:** Die Wirtschaft zahlt und bestimmt nicht; erst diese Trennung macht alle anderen Beiträge gesund.
+      Sieben Aspekte zeigen, wie das geschieht. **Versorgung:** Die Wirtschaft versorgt alle, die im Rechtsleben arbeiten, mit Nahrung, Wohnung und Kleidung und behandelt sie wie jeden anderen Verbraucher. **Infrastruktur:** Sie baut und liefert die Sachmittel der Sicherheit und die allgemeine Infrastruktur für alle; das Recht entscheidet, die Wirtschaft liefert, was sie kann. **Unterhalt:** Alte Menschen, Arbeitsunfähige, Allein-Gebliebene und Kranke haben Anspruch auf Lebensunterhalt; das Recht setzt ihn fest, die Wirtschaft rechnet ihn in die Preise ein und trägt ihn als Schenkungsgeld. **Steuer:** Über Steuermarken, die beim Verkauf entwertet werden, ist die Steuer mit jedem Geschäft entrichtet; die Wirtschaft verwaltet kein Steuergeld. **Geldsystem:** Sie führt das Geld als wandernde Buchhaltung ihrer Leistungen und bindet es an die vorhandenen Produktionsmittel. **Freistellung:** Wer für Wahlen, Ämter, Schöffendienst und Debatte freigestellt wird, verliert sein Auskommen nicht. **Enthaltung:** Die Wirtschaft zahlt und bestimmt nicht; erst diese Trennung macht alle anderen Beiträge gesund.
 
       Der Gegenpol ist „Die Wirtschaft kauft die Politik“: Dort wird aus dem Beitrag ein Druckmittel, und wer zahlt, bestimmt doch.
     aspekte:
@@ -4188,22 +4188,23 @@ felder:
       - schlagwort: Unterhalt
         schlagsatz: Wer nicht verdienen kann, hat Anspruch — das Recht setzt ihn fest, die Wirtschaft trägt ihn.
         kurztext: >
-          Altgewordene, Invaliden, Witwen und Kranke haben Anspruch auf
-          Lebensunterhalt, so wie Kinder auf Erziehung. Seine Höhe setzt das
-          Rechtsbewusstsein fest, nicht der Markt. Die Wirtschaft richtet sich
-          danach und trägt ihn: Er ist in die Preise eingerechnet und fließt
-          als Schenkungsgeld, nicht als Kaufgeld. Die Arbeitenden haben dann
-          entsprechend weniger, doch dieses „Weniger“ tragen alle gleichmäßig.
-          Niemand fällt heraus, nur weil er nichts mehr verkaufen kann.
+          Alte Menschen, Arbeitsunfähige, Allein-Gebliebene und Kranke haben
+          Anspruch auf Lebensunterhalt, so wie Kinder auf Erziehung. Seine
+          Höhe setzt das Rechtsbewusstsein fest, nicht der Markt. Die
+          Wirtschaft richtet sich danach und trägt ihn: Er ist in die Preise
+          eingerechnet und fließt als Schenkungsgeld, nicht als Kaufgeld. Die
+          Arbeitenden haben dann entsprechend weniger, doch dieses „Weniger“
+          tragen alle gleichmäßig. Niemand fällt heraus, nur weil er nichts
+          mehr verkaufen kann.
         text: >
-          Nicht jeder kann verdienen. Altgewordene, Invaliden, Witwen und
-          Kranke haben ein Recht auf Lebensunterhalt, so wie Kinder ein Recht
-          auf Erziehung haben. Dieser Anspruch entsteht nicht aus einer
-          Leistung, die verkauft wird, sondern daraus, dass einer Mensch ist.
-          Darum setzt nicht der Markt seine Höhe fest, sondern das
-          Rechtsbewusstsein, in dem jeder mündige Mensch gleich zählt. Die
-          Wirtschaft wird davon abhängig und trägt, was das Recht festgelegt
-          hat. Was den Nichtverdienenden zusteht, ist in die Preise
+          Nicht jeder kann verdienen. Alte Menschen, Arbeitsunfähige,
+          Allein-Gebliebene und Kranke haben ein Recht auf Lebensunterhalt, so
+          wie Kinder ein Recht auf Erziehung haben. Dieser Anspruch entsteht
+          nicht aus einer Leistung, die verkauft wird, sondern daraus, dass
+          einer Mensch ist. Darum setzt nicht der Markt seine Höhe fest,
+          sondern das Rechtsbewusstsein, in dem jeder mündige Mensch gleich
+          zählt. Die Wirtschaft wird davon abhängig und trägt, was das Recht
+          festgelegt hat. Was den Nichtverdienenden zusteht, ist in die Preise
           eingerechnet: Einen wirklichen Wertmaßstab hat man erst, wenn alles
           einbezogen ist, was für die aufgebracht werden muss, die nicht
           arbeiten können. Das Geld, das so fließt, ist Schenkungsgeld, nicht
