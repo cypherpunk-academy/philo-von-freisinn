@@ -4008,31 +4008,31 @@ felder:
       - schlagwort: Versorgung
         schlagsatz: Das Recht erzeugt nichts — es braucht Versorgung. Persönliche Versorgung.
         kurztext: >
-          Die Wirtschaft versorgt alle, die im Rechtsleben arbeiten, mit
-          Nahrung, Wohnung und Kleidung. Sie behandelt Richter, Abgeordnete
-          und Beamte wie jeden anderen Verbraucher und macht keinen
-          Unterschied, ob ihr Urteil ihr gefällt. Mit der Versorgung endet der
-          Beitrag der Wirtschaft: Sie trägt die Tragenden — und trägt ihnen
-          nichts auf. So hält die Wirtschaft dem Recht den Rücken frei, damit
-          es sich ganz seiner Aufgabe widmet.
+          Das Wirtschaftsleben versorgt das Rechtsleben: Richter, Abgeordnete
+          und Beamte erhalten Nahrung, Wohnung und Kleidung und gelten wie
+          jeder andere Verbraucher. Der Rechtsstaat steht dem
+          Wirtschaftskreislauf als Konsumorganisation gegenüber, ohne Vorrecht
+          und ohne Weisungsbefugnis. Er wirtschaftet nicht selbst und betreibt
+          keine eigenen Betriebe; die Versorgung kommt ganz von außen und ist
+          deshalb kein Geschäft. Mit der Versorgung endet ihr Beitrag. So hält
+          die Wirtschaft dem Recht den Rücken frei.
         text: >
-          Das Rechtsleben erzeugt selbst nichts: kein Brot, keine Kleidung,
-          kein Haus. Und doch arbeiten in ihm Menschen, die urteilen,
-          verwalten, beschließen und Beschlüsse vollziehen — Richter,
-          Abgeordnete, Beamte. Was sie können, haben sie im Geistesleben
-          gelernt, an Schulen und Hochschulen und durch Erfahrung. Die
-          Wirtschaft bildet sie nicht aus, aber sie leben von ihr: Sie
-          brauchen Nahrung, Wohnung und Kleidung wie jeder andere Mensch.
+          Das Wirtschaftsleben versorgt das Rechtsleben: Richter, Abgeordnete
+          und Beamte erhalten Nahrung, Wohnung und Kleidung — persönlich, wie
+          jeder andere Verbraucher. Der Rechtsstaat steht dem
+          Wirtschaftskreislauf als Konsumorganisation gegenüber, so wie eine
+          Verbrauchergemeinschaft einer Produktionsgenossenschaft: Er ist an
+          der Assoziation beteiligt wie jede andere Verbrauchergruppe, ohne
+          Vorrecht und ohne Weisungsbefugnis. Die Wirtschaft macht keinen
+          Unterschied, ob ihr ein Urteil gefällt.
 
-          Diese Versorgung leistet die Wirtschaft ganz persönlich. Sie
-          behandelt Richter, Abgeordnete und Beamte wie jeden anderen
-          Verbraucher, liefert ihnen, was sie zum Leben brauchen, und macht
-          keinen Unterschied, ob ihr ihr Urteil gefällt. Getragen wird das
-          nicht in den Kassen, sondern in den Feldern, Werkstätten und
-          Betrieben. Mit der Versorgung endet der Beitrag der Wirtschaft: Was
-          die Versorgten leisten, gehört allein dem Rechtsleben. So hält die
-          Wirtschaft dem Recht den Rücken frei, damit es sich ganz seiner
-          Aufgabe widmet — sie trägt die Tragenden und trägt ihnen nichts auf.
+          Der Rechtsstaat wirtschaftet nicht selbst. Er betreibt keine eigenen
+          Betriebe, um sich zu ernähren; als Rechtsstaat hat er am
+          Wirtschaftsleben keinen Anteil. Die Versorgung kommt darum ganz von
+          außen und ist reine Versorgung, kein Geschäft. Mit ihr endet der
+          Beitrag der Wirtschaft: Was die Versorgten leisten, gehört allein
+          dem Rechtsleben. So hält die Wirtschaft dem Recht den Rücken frei,
+          damit es sich ganz seiner Aufgabe widmet.
         references:
           - id: 45b6f560-4e3f-4de9-a932-790786097a08
             chunk_id: 7a0cf888-b7e8-5c72-9a7d-19e8ad7fc597
@@ -4062,6 +4062,13 @@ felder:
             relation: erlaeutert
             relevance: 0.55
             begruendung: Zeigt, dass im wirtschaftlich Zustandegebrachten das staatlich-rechtliche Verhältnis steckt — erläutert die Verschränkung von Wirtschaft und Recht bei der Versorgung.
+          - id: ba0ab200-b8bf-43bc-b349-54e3808fc763
+            chunk_id: a42ea23b-ca55-5085-9472-10395f4e31a7
+            chunk_type: book
+            source_id: f8e6c475-a0e5-4081-b265-61a7536a183e
+            relation: begruendet
+            relevance: 0.7
+            begruendung: "Kernpunkte, Kap. II, Abs. 21: Forderung nach völliger Trennung des Rechtsstaats vom Wirtschaftsgebiet — begründet, dass der Rechtsstaat nicht selbst wirtschaftet und seine Versorgung von außen kommt."
         chunk_id: 990b66f0-294e-48ab-81f9-0c4ff3261d88
       - schlagwort: Durchsetzung
         schlagsatz: Geltung braucht Werkzeuge. Bereitstellung der Sicherheit.
