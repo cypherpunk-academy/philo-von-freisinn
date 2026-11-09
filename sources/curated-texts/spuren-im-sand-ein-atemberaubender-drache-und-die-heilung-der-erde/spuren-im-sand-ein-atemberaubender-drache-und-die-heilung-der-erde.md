@@ -1,5 +1,5 @@
 # Spuren im Sand, ein atemberaubender Drache und die Heilung der Erde
-<!-- version: 9. November 2026 | mitautor: Claude Sonnet 5.5, Claude Opus 5.5 -->
+<!-- version: 9. November 2026 | autor: Michael Schmidt | mitautor: Claude Sonnet 5.5, Claude Opus 5.5 -->
 
 ## Die KI als Problem und Lösung
 
