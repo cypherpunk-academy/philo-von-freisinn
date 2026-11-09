@@ -4605,16 +4605,16 @@ felder:
     pol: krank
     titel: "Die Wirtschaft kauft die Politik"
     kurz: >
-      Im kranken Feld wird der Beitrag der Wirtschaft zum Druckmittel. Konzerne holen die günstigsten Bedingungen heraus, drohen zur Not mit Abwanderung, sind zu groß, um belangt zu werden, und bauen Schutzrechte ab oder um sie herum. Richter und Aufsicht werden gekauft, Streit geht vor private Tribunale, Arbeitskraft wird gehandelt wie Ware. Mit Spenden und fertigen Entwürfen kauft die Wirtschaft das Gesetz, bevor es entsteht.
+      Im kranken Feld wird der Beitrag der Wirtschaft zum Druckmittel. Konzerne holen die günstigsten Bedingungen heraus und drohen zur Not mit Abwanderung; Streit geht vor private Tribunale; Schutzrechte fallen oder das Geschäft wird um sie herumgebaut. Richter und Aufsicht werden mit Geld und Vorteilen gebunden, wer zu groß ist, erpresst die Politik, Arbeitskraft wird gehandelt wie Ware. Mit Spenden und fertigen Entwürfen kauft die Wirtschaft das Gesetz, bevor es entsteht.
     text: |
       Im kranken Feld Wirtschaft -> Recht gibt die Wirtschaft nicht mehr, ohne mit der Gabe etwas zu erwerben. Das Fundament verhandelt über die Statik: Die Mittel, die das Recht tragen sollten, werden zum Hebel, mit dem es gelenkt wird.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Ausnutzung:** Konzerne holen die günstigsten Bedingungen heraus, Sonderregelungen und Steuerbefreiungen, und drohen zur Not mit Abwanderung; bezahlt wird das von denen, die nicht ausweichen können. **Machtspiel:** Wer zu groß ist, wird gerettet statt bestraft; die Geltung macht vor der Größe halt. **Schutzabbau:** Arbeits-, Umwelt- und Verbraucherschutz fallen im Namen der Wettbewerbsfähigkeit, oder das Geschäft wird um sie herumgebaut. **Bestechung:** Geld, Drohung, Beziehung und Drehtür erreichen die Hand, die urteilen soll. **Privatjustiz:** Schiedsklauseln, Konzernklagen gegen Staaten und Nutzungsbedingungen bilden ein paralleles Rechtssystem. **Sklaventum:** Der Markt vereinbart, was dem Recht zusteht, Maß und Art der Arbeit: rechtlich frei, wirtschaftlich leibeigen. **Lobbykauf:** Spenden und fertige Gesetzentwürfe kaufen das Gesetz schon im Entwurf.
+      Sieben Aspekte zeigen, wie das geschieht. **Ausnutzung:** Das Recht ist abhängig, die Wirtschaft stellt Forderungen; Konzerne holen die günstigsten Bedingungen heraus und drohen zur Not mit Abwanderung. **Privatjustiz:** Schiedsklauseln, Konzernklagen gegen Staaten und Nutzungsbedingungen bilden ein paralleles Rechtssystem. **Schutzabbau:** Die Wirtschaft macht, was sie will, die Politik lässt sie — Arbeits-, Umwelt- und Verbraucherschutz fallen, oder das Geschäft wird um sie herumgebaut. **Bestechung:** Geld und Vorteile sichern die Loyalität der Politik; Drehtür und Beziehung erreichen die Hand, die urteilen soll. **Machtspiel:** Die Wirtschaft erpresst die Politik; wer zu groß ist, wird gerettet statt bestraft. **Sklaventum:** Der Mensch bleibt Arbeitskraft, kein Rechtsgenosse — Maß und Art der Arbeit vereinbart der Markt. **Lobbykauf:** Wer zahlt, bestimmt — Spenden und fertige Gesetzentwürfe kaufen das Gesetz schon im Entwurf.
 
       Der Gegenpol ist „Die Wirtschaft trägt den Staat“: Dort zahlt die Wirtschaft und bestimmt nicht.
     aspekte:
       - schlagwort: Ausnutzung
-        schlagsatz: Wer Macht hat, stellt Forderungen.
+        schlagsatz: Das Recht ist abhängig, die Wirtschaft stellt Forderungen.
         kurztext: >
           Konzerne prüfen, wo sie welche Bedingungen bekommen, und holen heraus, was sich herausholen lässt: Sonderregelungen, Steuerbefreiungen, niedrigere Standards. Gibt der Standort nicht nach, folgt zur Not die Drohung mit Abwanderung. Die Abgabe, die den Rechtsstaat tragen sollte, wird zum Druckmittel: Nicht der Beitrag verschafft Gewicht, sondern die Möglichkeit, ihn zu entziehen. Gemeinden unterbieten einander, Steueroasen bieten Briefkästen statt Standorte. Steiner nannte diese Konkurrenz zwischen Wirtschaftsgebieten eine Vorform des Krieges. Bezahlt wird das Entgegenkommen von denen, die nicht ausweichen können: Handwerk und Angestellte tragen, was die anderen sich ersparen. Das Fundament verhandelt über die Statik.
         text: >
@@ -4656,78 +4656,77 @@ felder:
             relevance: 0.55
             begruendung: Betont, dass befruchtende Gedanken für Rechts- und Wirtschaftsleben nur von einem selbstständigen Geistesleben kommen – kritisiert die Abhängigkeit des Rechtslebens von wirtschaftlichen Interessen.
         chunk_id: 11be084d-b3b1-4da7-962e-6feb79acb68a
-      - schlagwort: Machtspiel
-        schlagsatz: Zu groß, um belangt zu werden.
+      - schlagwort: Privatjustiz
+        schlagsatz: Die Wirtschaft richtet sich selbst.
         kurztext: >
-          Wenn der Staat auf Steuern oder Kredite großer Akteure angewiesen ist,
-          fehlt ihm die Kraft, gegen sie vorzugehen. Die Bank, deren
-          Zusammenbruch das Land erschüttern würde, wird gerettet statt
-          bestraft. Die Werkzeuge sind da — Gerichte, Paragraphen —, aber die
-          Hand gehorcht der Abhängigkeit. Der Ladendieb wird bestraft, der
-          Bilanzfälscher bekommt eine Abfindung. Hinter der juristischen Person
-          verschwindet die Verantwortung. Substanzlose Finanztitel machen den
-          Akteur „systemrelevant“: nicht weil er etwas Wertvolles hält, sondern
-          weil sein Zusammenbruch alles andere mitrisse. Nichts zersetzt den
-          Rechtssinn gründlicher als Geltung, die vor der Größe haltmacht.
+          Gesund liefert die Wirtschaft Gebäude und Netze. Krank liefert sie
+          Urteile. Schiedsklauseln zwingen Streit vor private Tribunale, deren
+          Sprüche kein Gericht nachprüft. ISDS erlaubt Konzernen, Staaten zu
+          verklagen, wenn Gesetze ihre Rendite schmälern. Nutzungsbedingungen
+          funktionieren als Gesetz für Milliarden — ohne Einspruch, ohne
+          öffentliche Verhandlung. Interne Compliance ermittelt und sanktioniert
+          ohne öffentliches Verfahren. Die Wirtschaft baut ein paralleles
+          Rechtssystem: Sie umgeht den Staat nicht, indem sie sein Recht bricht,
+          sondern indem sie um es herumliefert.
         text: >
-          Wenn der Staat auf Steuern oder Kredite großer Akteure angewiesen ist,
-          fehlt ihm die Kraft, rechtlich gegen sie vorzugehen. Die Bank, deren
-          Zusammenbruch — oft durch Korruption — das Land erschütterte, wird
-          gerettet statt bestraft; der Konzern, an dem eine Region hängt,
-          geschont statt geprüft; der Gläubiger der Anleihen hofiert. Gerichte,
-          Behörden, Paragraphen sind da — aber die Hand gehorcht der
-          Abhängigkeit: Man vollstreckt nicht gegen den, von dem man lebt. Recht
-          mit Größenvorbehalt greift nur noch nach unten: Ladendieb bestraft,
-          Bilanzfälscher mit Abfindung; Schwarzfahrerin sitzt, Steuertrickser
-          verhandelt — bei genügend Millionen nicht einmal das. Gleichheit
-          endet, wo Abhängigkeit beginnt; das weiß jeder. Die juristische Person
-          verschärft es: haftet keine Person, sondern eine Rechtsform —
-          Verantwortung verschwindet. Wer nicht persönlich haftet, droht
-          leichter; der Staat fragt, wen er belangen soll, wenn Vorstand,
-          Aufsichtsrat und Markt sich gegenseitig abschirmen. Substanzlose
-          Finanztitel — Derivate, Verbriefungen — machen den Akteur
-          „systemrelevant": nicht weil er Wert hält, sondern weil sein Sturz
-          alles mitreißt. Nichts zersetzt den Rechtssinn gründlicher als
-          Geltung, die vor der Größe haltmacht.
+          Gesund liefert die Wirtschaft dem Rechtsleben Gebäude, Fahrzeuge und
+          Netze — reale Güter durch reale Verträge, nach staatlicher Bestellung.
+          Krank liefert sie Urteile. Schiedsklauseln in Verträgen zwingen
+          Streitigkeiten vor private Tribunale, die kein Parlament gewählt hat
+          und deren Sprüche kein Gericht nachprüft. Schiedsverfahren (z. B.
+          ISDS) erlauben Konzernen, Staaten vor privaten Schiedsgerichten zu
+          verklagen, wenn Gesetze ihre Rendite schmälern — das Recht, das die
+          Wirtschaft schützen soll, wird zum Angriffsziel der Wirtschaft.
+          Nutzungsbedingungen funktionieren als Gesetz für Milliarden: Sie
+          regeln Zugang, Ausschluss und Bestrafung ohne demokratische
+          Legitimation, ohne Einspruch, ohne öffentliche Verhandlung — und wer
+          nicht zustimmt, darf nicht teilnehmen. Interne Compliance-Abteilungen
+          ermitteln, urteilen und sanktionieren, ohne dass ein öffentliches
+          Verfahren stattfände. So baut sich die Wirtschaft ein paralleles
+          Rechtssystem: Sie umgeht den Staat nicht, indem sie sein Recht bricht,
+          sondern indem sie um es herumliefert — eigene Gerichte, eigene Regeln,
+          eigene Vollstreckung. Der Auftrag, der ein Vertrag sein sollte, wird
+          zur Eigenjustiz; die Lieferung, die dem Gemeinwesen dienen sollte,
+          ersetzt es.
         references:
-          - id: 46d5a32c-5794-4004-ada1-260baa3d2a90
-            chunk_id: b2489e81-d235-5e17-8a6c-64ce6154fa8d
-            chunk_type: secondary_book
-            source_id: 2097962e-459d-515e-8a2f-defcc299b6b6
-            relation: deckt_auf
-            relevance: 0.55
-            begruendung: Kritisiert die juristische Persönlichkeit als verschwindenden Begriff und zeigt, wie hinter der juristischen Person Verantwortung verschwindet — passt zum Aspekt der Verantwortungsdiffusion durch Rechtskonstrukte.
-          - id: a0febcef-427f-4c3a-b5f6-1b1ef553b275
+          - id: 8c119bee-1637-4f34-a080-b49c2014575b
             chunk_id: fdcffabb-b1c0-5d26-a733-da589ac35801
             chunk_type: secondary_book
             source_id: 2097962e-459d-515e-8a2f-defcc299b6b6
             relation: deckt_auf
+            relevance: 0.55
+            begruendung: Steiner bezeichnet den Kauf von Rechten statt Waren innerhalb des Wirtschaftsprozesses als 'Krebsschäden der heutigen sozialen Ordnung' — deckt die von der Wirtschaft okkupierte Rechts-Sphäre als Pathologie auf, passend zu 'Die Wirtschaft kauft die Politik'.
+          - id: 5e34e534-b088-42ee-8ae3-5a3bbb3ce942
+            chunk_id: 7a0cf888-b7e8-5c72-9a7d-19e8ad7fc597
+            chunk_type: secondary_book
+            source_id: 66ee0b14-82ba-55f8-aa48-8cc3d1e91c8a
+            relation: zeigt_gegenbild
             relevance: 0.5
-            begruendung: Benennt den Kauf von Rechten statt Waren als 'Krebsschaden' der sozialen Ordnung — deckt strukturelle Rechtsverhältnisse auf, die Macht vor Recht begünstigen.
-          - id: e350bb4d-cf8e-4dca-a509-4cde6b6835cb
-            chunk_id: 9d0159df-8012-5c2c-9bec-f2b67b8cb02e
+            begruendung: "Beschreibt die gesunde Grenzziehung: Wirtschaftsleben grenzt an Naturordnung und Rechtsleben — implizites Gegenbild zur kranken Vermischung, in der die Wirtschaft sich selbst Recht schafft."
+          - id: a27cebf9-f562-4aa8-8978-5cbac4e7e47b
+            chunk_id: b0d44658-c44b-51b4-b461-21098fef8a33
             chunk_type: secondary_book
-            source_id: 4a46e806-8717-53b0-aee7-5b45d939f3ad
-            relation: kritisiert
+            source_id: cec61afc-bc20-5ae6-bdac-d53ef6bce0b5
+            relation: zeigt_gegenbild
             relevance: 0.45
-            begruendung: Zeigt, wie Rechts- und Machtverhältnisse fortwährend Verfügungsrechte verschieben — kritisiert die Verschränkung von Macht und Recht, die dem Kurztext entspricht.
-          - id: 1a36ecbe-ceec-4525-a888-1565167aed0d
-            chunk_id: 4fac5ca4-e057-5fec-844b-4e16205896b6
+            begruendung: Fordert, dass Rechtsbegriffe im Wirtschaften enthalten sein müssen, damit gesunde Einheit entsteht — Gegenbild zur Privatjustiz, die Recht gerade aus dem öffentlichen Rechtsleben herauslöst.
+          - id: d202091a-be6f-4eaf-b2c8-6acf6ce79f73
+            chunk_id: 46db8ebd-054e-5c1e-8137-4498b1d78811
             chunk_type: secondary_book
-            source_id: 4e6ee2f5-4c77-57a5-90c2-db2981736acf
-            relation: kritisiert
+            source_id: afae47b0-9017-526e-90b8-b00354dbec51
+            relation: zeigt_gegenbild
             relevance: 0.4
-            begruendung: Thematisiert veraltete Rechtsbegriffe, die nicht mehr ins Wirtschaftsleben eingreifen können — stützt die These, dass Werkzeuge da sind, aber nicht greifen.
-          - id: 8aa394f0-04ef-4821-b14c-4509c1962e95
-            chunk_id: db5094a4-88b5-5663-8c48-56d8da66f801
+            begruendung: Der soziale Organismus muss das rechtlich-staatliche Glied als selbständiges enthalten — Gegenbild zur Wirtschaft, die das Recht als eigenes Glied an sich zieht und private Tribunale etabliert.
+          - id: e8e133a3-8d2d-4ce8-992c-32a6400a38bb
+            chunk_id: c5b7d6aa-9b64-5a91-8e52-bf58def22128
             chunk_type: secondary_book
-            source_id: f3b36ec2-031d-4715-ad66-dfc7f43cc491
-            relation: deckt_auf
+            source_id: e784e17d-d6f2-5f21-85bc-9f496c3271d6
+            relation: zeigt_gegenbild
             relevance: 0.35
-            begruendung: Beschreibt Industrien, die Geld nutzen, um willkürliche Gesetzgebung zu beeinflussen — deckt den Machtmechanismus 'Wirtschaft kauft Politik' auf.
-        chunk_id: 04f20cf8-c44c-41a0-a608-369dad625dac
+            begruendung: Verarmung des Wirtschaftslebens soll 'auf rechtlichem Boden' abgeholfen werden — verweist auf öffentlich-rechtliche statt privatwirtschaftliche Regelung als Gegenbild zur Selbstjustiz der Wirtschaft.
+        chunk_id: 0094e3f0-4013-45fb-ad69-b79cd8c92f12
       - schlagwort: Schutzabbau
-        schlagsatz: Der Vorschrift fällt, damit die Rendite steigt.
+        schlagsatz: Die Wirtschaft macht, was sie will, die Politik lässt sie.
         kurztext: >
           Wirtschaftsakteure erzwingen die Abschaffung von Arbeits-, Umwelt- und
           Verbraucherschutz — im Namen der Wettbewerbsfähigkeit, in Wahrheit um
@@ -4799,7 +4798,7 @@ felder:
             begruendung: Das Geistesleben als Regulator des Kapitals — Gegenentwurf dazu, dass Wirtschaftsmacht sich von der Pflicht befreit und Schutzvorschriften abgebaut werden.
         chunk_id: fda76469-6b38-4823-abc3-8d88b7134bab
       - schlagwort: Bestechung
-        schlagsatz: Die Lieferung wird zur Anweisung.
+        schlagsatz: Geld und Vorteile sichern die Loyalität der Politik.
         kurztext: >
           Richter, Staatsanwälte, Aufsicht sollen Verstöße nicht verfolgen. Der
           grobe Weg ist die Bestechung; leiser wirkt die Drohung; am
@@ -4833,77 +4832,78 @@ felder:
           weiß, dass Urteile käuflich sind, glaubt auch dem unbestochenen
           Richter nicht mehr.
         chunk_id: 4b46fa7b-e31f-4f01-9570-8d1b7c47487b
-      - schlagwort: Privatjustiz
-        schlagsatz: Die Wirtschaft richtet sich selbst.
+      - schlagwort: Machtspiel
+        schlagsatz: Die Wirtschaft erpresst die Politik.
         kurztext: >
-          Gesund liefert die Wirtschaft Gebäude und Netze. Krank liefert sie
-          Urteile. Schiedsklauseln zwingen Streit vor private Tribunale, deren
-          Sprüche kein Gericht nachprüft. ISDS erlaubt Konzernen, Staaten zu
-          verklagen, wenn Gesetze ihre Rendite schmälern. Nutzungsbedingungen
-          funktionieren als Gesetz für Milliarden — ohne Einspruch, ohne
-          öffentliche Verhandlung. Interne Compliance ermittelt und sanktioniert
-          ohne öffentliches Verfahren. Die Wirtschaft baut ein paralleles
-          Rechtssystem: Sie umgeht den Staat nicht, indem sie sein Recht bricht,
-          sondern indem sie um es herumliefert.
+          Wenn der Staat auf Steuern oder Kredite großer Akteure angewiesen ist,
+          fehlt ihm die Kraft, gegen sie vorzugehen. Die Bank, deren
+          Zusammenbruch das Land erschüttern würde, wird gerettet statt
+          bestraft. Die Werkzeuge sind da — Gerichte, Paragraphen —, aber die
+          Hand gehorcht der Abhängigkeit. Der Ladendieb wird bestraft, der
+          Bilanzfälscher bekommt eine Abfindung. Hinter der juristischen Person
+          verschwindet die Verantwortung. Substanzlose Finanztitel machen den
+          Akteur „systemrelevant“: nicht weil er etwas Wertvolles hält, sondern
+          weil sein Zusammenbruch alles andere mitrisse. Nichts zersetzt den
+          Rechtssinn gründlicher als Geltung, die vor der Größe haltmacht.
         text: >
-          Gesund liefert die Wirtschaft dem Rechtsleben Gebäude, Fahrzeuge und
-          Netze — reale Güter durch reale Verträge, nach staatlicher Bestellung.
-          Krank liefert sie Urteile. Schiedsklauseln in Verträgen zwingen
-          Streitigkeiten vor private Tribunale, die kein Parlament gewählt hat
-          und deren Sprüche kein Gericht nachprüft. Schiedsverfahren (z. B.
-          ISDS) erlauben Konzernen, Staaten vor privaten Schiedsgerichten zu
-          verklagen, wenn Gesetze ihre Rendite schmälern — das Recht, das die
-          Wirtschaft schützen soll, wird zum Angriffsziel der Wirtschaft.
-          Nutzungsbedingungen funktionieren als Gesetz für Milliarden: Sie
-          regeln Zugang, Ausschluss und Bestrafung ohne demokratische
-          Legitimation, ohne Einspruch, ohne öffentliche Verhandlung — und wer
-          nicht zustimmt, darf nicht teilnehmen. Interne Compliance-Abteilungen
-          ermitteln, urteilen und sanktionieren, ohne dass ein öffentliches
-          Verfahren stattfände. So baut sich die Wirtschaft ein paralleles
-          Rechtssystem: Sie umgeht den Staat nicht, indem sie sein Recht bricht,
-          sondern indem sie um es herumliefert — eigene Gerichte, eigene Regeln,
-          eigene Vollstreckung. Der Auftrag, der ein Vertrag sein sollte, wird
-          zur Eigenjustiz; die Lieferung, die dem Gemeinwesen dienen sollte,
-          ersetzt es.
+          Wenn der Staat auf Steuern oder Kredite großer Akteure angewiesen ist,
+          fehlt ihm die Kraft, rechtlich gegen sie vorzugehen. Die Bank, deren
+          Zusammenbruch — oft durch Korruption — das Land erschütterte, wird
+          gerettet statt bestraft; der Konzern, an dem eine Region hängt,
+          geschont statt geprüft; der Gläubiger der Anleihen hofiert. Gerichte,
+          Behörden, Paragraphen sind da — aber die Hand gehorcht der
+          Abhängigkeit: Man vollstreckt nicht gegen den, von dem man lebt. Recht
+          mit Größenvorbehalt greift nur noch nach unten: Ladendieb bestraft,
+          Bilanzfälscher mit Abfindung; Schwarzfahrerin sitzt, Steuertrickser
+          verhandelt — bei genügend Millionen nicht einmal das. Gleichheit
+          endet, wo Abhängigkeit beginnt; das weiß jeder. Die juristische Person
+          verschärft es: haftet keine Person, sondern eine Rechtsform —
+          Verantwortung verschwindet. Wer nicht persönlich haftet, droht
+          leichter; der Staat fragt, wen er belangen soll, wenn Vorstand,
+          Aufsichtsrat und Markt sich gegenseitig abschirmen. Substanzlose
+          Finanztitel — Derivate, Verbriefungen — machen den Akteur
+          „systemrelevant": nicht weil er Wert hält, sondern weil sein Sturz
+          alles mitreißt. Nichts zersetzt den Rechtssinn gründlicher als
+          Geltung, die vor der Größe haltmacht.
         references:
-          - id: 8c119bee-1637-4f34-a080-b49c2014575b
-            chunk_id: fdcffabb-b1c0-5d26-a733-da589ac35801
+          - id: 46d5a32c-5794-4004-ada1-260baa3d2a90
+            chunk_id: b2489e81-d235-5e17-8a6c-64ce6154fa8d
             chunk_type: secondary_book
             source_id: 2097962e-459d-515e-8a2f-defcc299b6b6
             relation: deckt_auf
             relevance: 0.55
-            begruendung: Steiner bezeichnet den Kauf von Rechten statt Waren innerhalb des Wirtschaftsprozesses als 'Krebsschäden der heutigen sozialen Ordnung' — deckt die von der Wirtschaft okkupierte Rechts-Sphäre als Pathologie auf, passend zu 'Die Wirtschaft kauft die Politik'.
-          - id: 5e34e534-b088-42ee-8ae3-5a3bbb3ce942
-            chunk_id: 7a0cf888-b7e8-5c72-9a7d-19e8ad7fc597
+            begruendung: Kritisiert die juristische Persönlichkeit als verschwindenden Begriff und zeigt, wie hinter der juristischen Person Verantwortung verschwindet — passt zum Aspekt der Verantwortungsdiffusion durch Rechtskonstrukte.
+          - id: a0febcef-427f-4c3a-b5f6-1b1ef553b275
+            chunk_id: fdcffabb-b1c0-5d26-a733-da589ac35801
             chunk_type: secondary_book
-            source_id: 66ee0b14-82ba-55f8-aa48-8cc3d1e91c8a
-            relation: zeigt_gegenbild
+            source_id: 2097962e-459d-515e-8a2f-defcc299b6b6
+            relation: deckt_auf
             relevance: 0.5
-            begruendung: "Beschreibt die gesunde Grenzziehung: Wirtschaftsleben grenzt an Naturordnung und Rechtsleben — implizites Gegenbild zur kranken Vermischung, in der die Wirtschaft sich selbst Recht schafft."
-          - id: a27cebf9-f562-4aa8-8978-5cbac4e7e47b
-            chunk_id: b0d44658-c44b-51b4-b461-21098fef8a33
+            begruendung: Benennt den Kauf von Rechten statt Waren als 'Krebsschaden' der sozialen Ordnung — deckt strukturelle Rechtsverhältnisse auf, die Macht vor Recht begünstigen.
+          - id: e350bb4d-cf8e-4dca-a509-4cde6b6835cb
+            chunk_id: 9d0159df-8012-5c2c-9bec-f2b67b8cb02e
             chunk_type: secondary_book
-            source_id: cec61afc-bc20-5ae6-bdac-d53ef6bce0b5
-            relation: zeigt_gegenbild
+            source_id: 4a46e806-8717-53b0-aee7-5b45d939f3ad
+            relation: kritisiert
             relevance: 0.45
-            begruendung: Fordert, dass Rechtsbegriffe im Wirtschaften enthalten sein müssen, damit gesunde Einheit entsteht — Gegenbild zur Privatjustiz, die Recht gerade aus dem öffentlichen Rechtsleben herauslöst.
-          - id: d202091a-be6f-4eaf-b2c8-6acf6ce79f73
-            chunk_id: 46db8ebd-054e-5c1e-8137-4498b1d78811
+            begruendung: Zeigt, wie Rechts- und Machtverhältnisse fortwährend Verfügungsrechte verschieben — kritisiert die Verschränkung von Macht und Recht, die dem Kurztext entspricht.
+          - id: 1a36ecbe-ceec-4525-a888-1565167aed0d
+            chunk_id: 4fac5ca4-e057-5fec-844b-4e16205896b6
             chunk_type: secondary_book
-            source_id: afae47b0-9017-526e-90b8-b00354dbec51
-            relation: zeigt_gegenbild
+            source_id: 4e6ee2f5-4c77-57a5-90c2-db2981736acf
+            relation: kritisiert
             relevance: 0.4
-            begruendung: Der soziale Organismus muss das rechtlich-staatliche Glied als selbständiges enthalten — Gegenbild zur Wirtschaft, die das Recht als eigenes Glied an sich zieht und private Tribunale etabliert.
-          - id: e8e133a3-8d2d-4ce8-992c-32a6400a38bb
-            chunk_id: c5b7d6aa-9b64-5a91-8e52-bf58def22128
+            begruendung: Thematisiert veraltete Rechtsbegriffe, die nicht mehr ins Wirtschaftsleben eingreifen können — stützt die These, dass Werkzeuge da sind, aber nicht greifen.
+          - id: 8aa394f0-04ef-4821-b14c-4509c1962e95
+            chunk_id: db5094a4-88b5-5663-8c48-56d8da66f801
             chunk_type: secondary_book
-            source_id: e784e17d-d6f2-5f21-85bc-9f496c3271d6
-            relation: zeigt_gegenbild
+            source_id: f3b36ec2-031d-4715-ad66-dfc7f43cc491
+            relation: deckt_auf
             relevance: 0.35
-            begruendung: Verarmung des Wirtschaftslebens soll 'auf rechtlichem Boden' abgeholfen werden — verweist auf öffentlich-rechtliche statt privatwirtschaftliche Regelung als Gegenbild zur Selbstjustiz der Wirtschaft.
-        chunk_id: 0094e3f0-4013-45fb-ad69-b79cd8c92f12
+            begruendung: Beschreibt Industrien, die Geld nutzen, um willkürliche Gesetzgebung zu beeinflussen — deckt den Machtmechanismus 'Wirtschaft kauft Politik' auf.
+        chunk_id: 04f20cf8-c44c-41a0-a608-369dad625dac
       - schlagwort: Sklaventum
-        schlagsatz: Der Mensch wird zum Posten in der Kalkulation.
+        schlagsatz: Der Mensch bleibt Arbeitskraft, kein Rechtsgenosse.
         kurztext: >
           Die Wirtschaft entscheidet eigenmächtig, wer wo arbeitet, wie lange
           und zu welchem Preis — obwohl Maß und Art der Arbeit dem Rechtsleben
@@ -4968,14 +4968,14 @@ felder:
             begruendung: Kritisiert, dass Arbeit heute wie eine Ware bezahlt wird und fordert deren Herauslösung ins Rechtsleben — entspricht der Grundkrankheit 'rechtlich frei, wirtschaftlich leibeigen'.
         chunk_id: 52816c01-a185-4668-9f4f-038e7d3f13cb
       - schlagwort: Lobbykauf
-        schlagsatz: Wer zahlt, bestimmt doch.
+        schlagsatz: Wer zahlt, bestimmt.
         kurztext: >
           Wirtschaftsgruppen finanzieren Wahlkämpfe und setzen eigene
           Gesetzentwürfe durch. Die Wirtschaft gibt nicht mehr, ohne mit der
           Gabe etwas zu erwerben — sie investiert. Die Spende ist eine
           Anzahlung, der fertige Entwurf eine Bestellung, der Termin im
-          Ministerium eine Abnahme. Wer zahlt, bestimmt doch — nur leiser,
-          früher und gründlicher, nämlich schon im Entwurf. Fällt die Trennung
+          Ministerium eine Abnahme. Wer zahlt, bestimmt — nur leiser, früher und gründlicher,
+          nämlich schon im Entwurf. Fällt die Trennung
           von Zahlen und Bestimmen, kippen alle anderen Beiträge mit. Ist die
           Ordnung selbst gekauft, hilft auch kein Charakter mehr.
         text: >
@@ -4987,12 +4987,12 @@ felder:
           fertige Entwurf aus der Kanzlei keine Hilfestellung, sondern eine
           Bestellung; der Termin im Ministerium kein Gespräch, sondern eine
           Abnahme. So wird aus „Wer zahlt, bestimmt nicht" das Gegenteil: Wer
-          zahlt, bestimmt doch — nur leiser, früher und gründlicher, nämlich
-          schon im Entwurf. Die Trennung von Zahlen und Bestimmen machte alle
+          zahlt, bestimmt — nur leiser, früher und gründlicher, nämlich schon
+          im Entwurf. Die Trennung von Zahlen und Bestimmen machte alle
           anderen Beiträge gesund; fällt sie, kippen sie alle mit: Die Versorgung
-          wird zur Ausnutzung, die Infrastruktur zur Lähmung und zur
-          Privatjustiz, der Unterhalt zum Schutzabbau, Steuer und Geldsystem
-          zum Hebel der Bestechung, die Freistellung zur Drehtür. Die Unbestechlichkeit des
+          wird zur Ausnutzung, die Infrastruktur zur Privatjustiz, der Unterhalt
+          zum Schutzabbau, die Steuer zur Bestechung, das Geldsystem zum
+          Machtspiel, die Freistellung zum Sklaventum. Die Unbestechlichkeit des
           Rechts war eine Frage der Ordnung, nicht des Charakters — ist die
           Ordnung selbst gekauft, hilft auch kein Charakter mehr.
         references:
