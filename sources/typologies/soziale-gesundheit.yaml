@@ -42,7 +42,7 @@ uebersicht: |
 
   **Felder:** Jedes Glied wirkt auf die beiden anderen. Daraus ergeben sich sechs Richtungen: Geist -> Recht, Geist -> Wirtschaft, Recht -> Geist, Recht -> Wirtschaft, Wirtschaft -> Recht, Wirtschaft -> Geist.
 
-  **Pole:** In jedem Feld steht ein gesunder einem kranken Pol gegenüber. Gesund gibt ein Glied dem anderen, was es aus seiner eigenen Mitte hervorbringt — Fähigkeiten, Rahmen, Mittel —, und bestimmt nicht, was das andere damit tut. Krank greift es in die Aufgabe des anderen ein: Die Weltsicht wird zum Gesetz, die Politik lenkt das Denken, die Wirtschaft kauft die Politik. Jeder Pol hat sieben Aspekte. Die Aspekte derselben Stelle sind Gegenstücke, etwa Entfaltung und Vorschrift, Freiheit und Vorgabe, Enthaltung und Lobbykauf.
+  **Pole:** In jedem Feld steht ein gesunder einem kranken Pol gegenüber. Gesund gibt ein Glied dem anderen, was es aus seiner eigenen Mitte hervorbringt — Fähigkeiten, Rahmen, Mittel —, und bestimmt nicht, was das andere damit tut. Krank greift es in die Aufgabe des anderen ein: Die Ideologie wird zum Gesetz, die Politik bestimmt, was wir wissen sollen, die Wirtschaft kauft die Politik. Jeder Pol hat sieben Aspekte. Die Aspekte derselben Stelle sind Gegenstücke, etwa Entfaltung und Vorschrift, Freiheit und Vorgabe, Enthaltung und Lobbykauf.
 
   Die Felder, in denen zwei Glieder zugleich auf das dritte wirken, sind hier nicht ausgeführt.
 generated_at: 2026-08-06
@@ -74,7 +74,7 @@ felder:
 
       Was so übergeht, muss aus der Sache gesehen und vor jedem Bürger stehen können — gesehen von dem, der in ihr gestanden hat, und noch einmal durch einen Zweiten, bevor es gilt; gefasst so, dass niemand ausgeschlossen ist und der Einwand die bessere Fassung mitbringen kann. Getragen wird das vom Rechtssinn: Wer die Notwendigkeit durchschaut, braucht keinen Zwang.
 
-      Der Gegenpol ist „Die Weltsicht wird zum Gesetz“: Dort liefert das Geistesleben die fertige Überzeugung, und das Recht beschließt nur noch, was die Lehre verlangt.
+      Der Gegenpol ist „Die Ideologie wird zum Gesetz“: Dort liefert das Geistesleben die fertige Überzeugung, und das Recht beschließt nur noch, was die Lehre verlangt.
     aspekte:
       - schlagwort: Entfaltung
         schlagsatz: Jeder kann das werden, was in ihm steckt.
@@ -542,7 +542,7 @@ felder:
     feld: 1
     richtung: "Geist -> Recht"
     pol: krank
-    titel: "Die Weltsicht wird zum Gesetz"
+    titel: "Die Ideologie wird zum Gesetz"
     kurz: >
       Das kranke Geistesleben liefert dem Recht eine fertige Weltsicht statt
       Fähigkeiten. Gesetze entstehen aus Gesinnung und Mehrheit, geprüft wird
@@ -1049,7 +1049,7 @@ felder:
 
       Was so übergeht, muss frei gereift und an Fähigkeit gebunden sein. Unter Ideen ist Wettstreit fruchtbar, weil das Bessere übernommen wird; unter Erzeugern wäre er Kampf — darum tritt nur das Gereifte in die Produktion ein. Was materialisiert ist, geht an den, der es nutzen kann. Wer den Zusammenhang kennt, arbeitet für den Bedarf am Ende, weil es sachlich richtig ist. Die Fehlermeldung kehrt als Vorschlag zurück und spricht den Bedarf von neuem aus.
 
-      Der Gegenpol ist „Der Glaube diktiert die Produktion“: Dort denkt der Anbieter vom Angebot aus und erfindet die Bedürfnisse, die er bedienen will.
+      Der Gegenpol ist „Der Geist erfindet Bedürfnisse“: Dort denkt der Anbieter vom Angebot aus und erfindet die Bedürfnisse, die er bedienen will.
     aspekte:
       - schlagwort: Bedürfnisse
         schlagsatz: Das Bedürfnis ist der Anfang — und kommt nicht aus der Wirtschaft.
@@ -1525,7 +1525,7 @@ felder:
     feld: 2
     richtung: "Geist -> Wirtschaft"
     pol: krank
-    titel: "Der Glaube diktiert die Produktion"
+    titel: "Der Geist erfindet Bedürfnisse"
     kurz: >
       Im kranken Feld denkt die Wirtschaft vom Angebot aus. Bedürfnisse werden
       erfunden, die bessere Darstellung schlägt die bessere Ware, und der Kunde
@@ -2036,7 +2036,7 @@ felder:
 
       Sieben Aspekte zeigen, wie das geschieht. **Freiheit:** Das Rechtsleben schützt die innere Freiheit gegen staatliche Bevormundung und wirtschaftlichen Druck; der Lehrer findet die Inhalte in der Begegnung mit dem Kind. **Zugang:** Jeder hat Anspruch auf das Wissen, das er zum Urteilen braucht, und das Kind auf seine Bildung. **Chancen:** Das Recht gleicht die Startbedingungen aus, nicht die Ergebnisse. **Schenkung:** Geistige Arbeit wird aus Schenkung getragen; das Recht sichert den Zufluss, das Geistesleben entscheidet, wohin die Mittel fließen. **Schutzraum:** Entwurf und Austausch bleiben privat, solange nichts geteilt ist; gläsern ist der Staat, geschützt der Bürger. **Richten:** Der Angeklagte wählt seinen Richter auf Zeit, und das Recht schützt dieses Richten vor Weisung und Abhängigkeit. **Mitreden:** Jeder kann Ergebnisse kommentieren und Verbesserungen vorschlagen, ohne Vorprüfung und mit seinem Namen.
 
-      Der Gegenpol ist „Die Politik lenkt das Denken“: Dort legt der Staat Inhalte fest, hält Wissen zurück und bindet seine Mittel an Bedingungen.
+      Der Gegenpol ist „Die Politik bestimmt, was wir wissen sollen“: Dort legt der Staat Inhalte fest, hält Wissen zurück und bindet seine Mittel an Bedingungen.
     aspekte:
       - schlagwort: Freiheit
         schlagsatz: Niemand greift dir ins Denken.
@@ -2494,7 +2494,7 @@ felder:
     feld: 3
     richtung: "Recht -> Geist"
     pol: krank
-    titel: "Die Politik lenkt das Denken"
+    titel: "Die Politik bestimmt, was wir wissen sollen"
     kurz: >
       Im kranken Feld verwaltet das Recht die Freiheit des Geisteslebens, statt
       sie zu schützen. Der Lehrplan greift ins Denken, Wissen wird zum
@@ -3005,7 +3005,7 @@ felder:
       Das Recht selbst ist unverkäuflich. **Transparenz:** Jeder kann erfahren, wie Ware entsteht und was
       danach mit ihr geschieht. **Einbringung:** Konstruktiv vorschlagen — vermerkt, nicht befohlen.
 
-      Der Gegenpol ist „Die Politik entscheidet wer gewinnt“: Dort wird das Recht selbst zum Markt, und
+      Der Gegenpol ist „Die Politik führt Krieg für die Wirtschaft“: Dort wird das Recht selbst zum Markt, und
       gehandelt wird der Rahmen.
     aspekte:
       - schlagwort: Menschenarbeit
@@ -3489,7 +3489,7 @@ felder:
     feld: 4
     richtung: "Recht -> Wirtschaft"
     pol: krank
-    titel: "Die Politik entscheidet wer gewinnt"
+    titel: "Die Politik führt Krieg für die Wirtschaft"
     kurz: >
       Im kranken Feld bestimmt das Recht, wer gewinnt, statt den Rahmen
       für alle zu sichern. Wer Arbeit hat, muss folgen; Haus und
@@ -5042,7 +5042,7 @@ felder:
     feld: 6
     richtung: "Wirtschaft -> Geist"
     pol: gesund
-    titel: "Die Wirtschaft versorgt den Geist"
+    titel: "Die Wirtschaft ermöglicht das Leben"
     kurz: >
       Lehrer, Forscher und Künstler stellen kein Brot her und leben doch davon.
       Die Wirtschaft versorgt sie verlässlich, baut ihnen Werk- und Wirkstätten
@@ -5055,7 +5055,7 @@ felder:
 
       Sieben Aspekte zeigen, wie das geschieht. **Unterhalt:** Eine Gemeinschaft trägt ihre Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt. **Werk- und Wirkstätten:** Die Wirtschaft baut Labor, Schulhaus und Bühne und betritt sie nur als Gast. **Verlässlichkeit:** Getragen wird in Jahren, nicht in Stunden; ob eine Arbeit fruchtbar war, urteilen die Fachgenossen. **Gabe:** Schenkungsgeld ist Geld ohne vereinbarte Gegenleistung; wohin es fließt, entscheidet das Geistesleben allein. **Verzicht:** Wer bestellt, bekommt nur Bestelltes; der Verzicht auf den nahen Nutzen ist die Bedingung des fernen. **Begegnung:** Die Wirtschaft hält einen Raum offen, in dem Fähigkeit und Bedarf einander ohne Zuteilung finden. **Brüderlichkeit:** Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben; wer das versteht, rechnet nicht.
 
-      Der Gegenpol ist „Das Geld kontrolliert die Wahrheit“: Dort wird der Gast zum Hausherrn, und das Geld bestimmt Fragen und Antworten.
+      Der Gegenpol ist „Das Geld kauft unser Denken“: Dort wird der Gast zum Hausherrn, und das Geld bestimmt Fragen und Antworten.
     aspekte:
       - schlagwort: Unterhalt
         schlagsatz: Wer lehrt, muss essen.
@@ -5413,7 +5413,7 @@ felder:
     feld: 6
     richtung: "Wirtschaft -> Geist"
     pol: krank
-    titel: "Das Geld kontrolliert die Wahrheit"
+    titel: "Das Geld kauft unser Denken"
     kurz: >
       Im kranken Feld lebt die Wirtschaft von geistiger Arbeit, ohne sie zu
       tragen, und bestimmt, was gedacht und gesehen wird. Wissen verschwindet im
@@ -5426,7 +5426,7 @@ felder:
 
       Sieben Aspekte zeigen, wie das geschieht. **Überlastung:** Tausend Firmen bauen auf einer Bibliothek, die einer nachts unbezahlt pflegt; die Wirtschaft finanziert ihre eigene Zukunft nicht. **Betriebsgeheimnis:** Wissen über Chemikalien, Algorithmen und Wirkungen wird der Prüfung entzogen. **Kurzsichtigkeit:** Verlage und Plattformen entscheiden nach Rendite, was sichtbar wird; Gedanken, die länger brauchen, denkt niemand mehr. **Rückkauf:** Öffentlich finanzierte Forschung verschwindet hinter Bezahlschranken. **Bestellung:** Erforscht wird, was sich vermarkten lässt; unbequeme Ergebnisse verschwinden in der Schublade. **Vormund:** Stiftungsräte und Fördergremien urteilen über Arbeit, in der sie nicht stehen, und prüfen vor allem, ob das Geld noch da ist. **Berechnung:** Inhalte richten sich nach Quote und Werbeertrag; verkauft wird nicht dem Menschen etwas, verkauft wird er.
 
-      Der Gegenpol ist „Die Wirtschaft versorgt den Geist“: Dort endet mit der Gabe jeder Anspruch.
+      Der Gegenpol ist „Die Wirtschaft ermöglicht das Leben“: Dort endet mit der Gabe jeder Anspruch.
     aspekte:
       - schlagwort: Überlastung
         schlagsatz: Was niemand trägt, bricht unter allen zusammen.
@@ -5935,8 +5935,8 @@ felder:
       hineinpasst, wird subventioniert — der Markt als Informationssystem fällt
       aus.
     text: >
-      Dies ist die verschärfte Form der Felder 2 (Dogma diktiert Produktion) und
-      4 (Politik entscheidet wer gewinnt): Hier wirken Ideologie und Staat
+      Dies ist die verschärfte Form der Felder 2 (Der Geist erfindet Bedürfnisse) und
+      4 (Die Politik führt Krieg für die Wirtschaft): Hier wirken Ideologie und Staat
       gemeinsam. Die sowjetische Planwirtschaft ist das offensichtlichste
       Beispiel — eine Parteiideologie verbunden mit der vollen Staatsgewalt
       bestimmte über Jahrzehnte, was produziert wurde, zu welchem Preis, in
