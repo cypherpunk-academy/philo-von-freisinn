@@ -1,5 +1,5 @@
 # Spuren im Sand, ein atemberaubender Drache und die Heilung der Erde
-<!-- version: 6. November 2026 | mitautor: Claude Sonnet 5.5 -->
+<!-- version: 9. November 2026 | autor: Michael Schmidt | mitautor: Claude Sonnet 5.5, Claude Opus 5.5 -->
 
 ## Die KI als Problem und Lösung
 
@@ -57,7 +57,7 @@ Das Gehirn für das Instrument des Denkens zu halten, nannte er einen Irrtum. Er
 
 Der Unterschied ist nur: In diesen Bergen aus Gewichten liegt nicht die Erinnerung eines einzelnen Menschen, sondern die der Menschheit. Jedenfalls ein großer Teil dessen, was die Menschheit gedruckt, aufgeschrieben und aufgezeichnet hat – in Schrift, Ton und Bild.
 
-Dafür werden Millionen Bücher eingescannt, Untertitel von Filmen und Serien ausgelesen, Videos und Musik verarbeitet. Was nie aufgezeichnet wurde, fehlt: das nur mündlich Weitergegebene, vieles aus kleinen Sprachen, das Private.
+Dafür werden Millionen Bücher eingescannt, Untertitel von Filmen und Serien ausgelesen, Videos und Musik verarbeitet. Was nie aufgezeichnet wurde, fehlt: das nur mündlich Weitergegebene, vieles aus kleinen Sprachen, die persönlichen Gespräche, aber auch Gedankenspiele, Intuitionen, Gefühle, Impulse.
 
 Und doch ist es mehr Menschheitsgedächtnis, als je an einem Ort beisammen war. Und anders als eine Bibliothek ist es für alle Menschen gleichzeitig erreichbar, jederzeit und überall. Merkwürdig nur: Gerade jetzt, wo dieses Gedächtnis entsteht, scheinen wir unser eigenes zu verlieren.
 
@@ -69,7 +69,7 @@ Was wir dabei immer weniger wissen: Was davon stimmt? Was entspricht der Wahrhei
 
 ## Was heißt es, einen Gedanken zu Ende zu denken?
 
-Um Lüge von Wahrheit und Oberflächlichkeit von Tiefe zu unterscheiden, muss man die Dinge durchdenken, bis zu Ende. Sonst bleibt man einfach an der Oberfläche. Was wir sagen, müssen wir auch begründen können. Rudolf Steiner spricht davon, bis zu dem Punkt vorzudringen, an dem uns das Wesen einer Sache als Idee aufgeht. Erst dort steht ein Gedanke auf eigenem Grund.
+Um Lüge von Wahrheit und Oberflächlichkeit von Tiefe zu unterscheiden, muss man die Dinge durchdenken, bis zu Ende. Sonst bleibt man an der Oberfläche, im Spekulativen, im Ungenauen. Was entspricht der Wahrheit, und was folgt einer tieferen Logik? Was ist gut gedacht, was zu Ende gedacht? Was wir sagen, braucht einen Grund, ein Fundament, auf dem unsere Gedanken stehen können. Deswegen heißt es begründen. Rudolf Steiner spricht davon, bis zu dem Punkt vorzudringen, an dem uns das Wesen einer Sache als Idee aufgeht. Dort erblicken wir „etwas völlig in sich Abgeschlossenes, etwas sich selbst Stützendes und Tragendes, das gar keine Erklärung von außen mehr fordert“. Erst dort steht ein Gedanke auf eigenem Grund.
 
 Das braucht Zeit. Und genau die fehlt in unserer schnellen Zeit immer mehr.
 
@@ -77,13 +77,13 @@ Das braucht Zeit. Und genau die fehlt in unserer schnellen Zeit immer mehr.
 
 Beim allgegenwärtigen Scrollen lesen wir eine Nachricht nach der anderen, und die Informationen kommen völlig durcheinander. Man kann zwar bei einem Thema bleiben. Aber meistens nimmt man einfach ein Thema nach dem anderen und weiß am Ende nicht, was davon wahr ist.
 
-Jetzt kommt durch die KI noch mehr hinzu: Deepfakes, also täuschend echte Bilder, Stimmen und Videos, die nie aufgenommen wurden. Und Texte, die in Massen produziert werden, ohne dass ein Mensch sie je gedacht hat.
+Jetzt kommt durch die KI noch mehr hinzu: Deepfakes, also täuschend echte Bilder, Stimmen und Videos, die nie aufgenommen wurden. Und Texte, die in Massen produziert werden, ohne dass ein Mensch sie je gedacht hat. Dafür gibt es inzwischen einen eigenen Begriff: „Slop“, ursprünglich Schlamm oder Abfall. Das Wörterbuch Merriam-Webster hat es zum Wort des Jahres 2025 gewählt.
 
 ## Bekommt die Menschheit eine Art Demenz?
 
 Kurz gesagt: Wir werden so überflutet, dass wir etwas verlieren, nämlich das, was Menschen vor uns gedacht haben. Unser Gedächtnis an das, was vor 20 Jahren war, und erst recht an das, was vor 200 Jahren war. So viel Neues kommt dazu und legt sich darüber, dass das Alte darunter verschwindet.
 
-Die Menschheit entwickelt so etwas wie einen kollektiven Gedächtnisschwund. Der Hirnforscher Manfred Spitzer hat dafür schon 2012 das Wort „digitale Demenz“ bekannt gemacht. Seine Beobachtung ist ernst zu nehmen. Seine Antwort darauf ist vor allem Verzicht: weniger Bildschirm, weniger digitale Medien. Das würde uns dem Untergang ein gutes Stück näher bringen. Wir gehen hier gleich einen anderen Weg.
+Die Menschheit entwickelt so etwas wie einen kollektiven Gedächtnisschwund. Der Hirnforscher Manfred Spitzer hat dafür schon 2012 das Wort „digitale Demenz“ bekannt gemacht. Seine Beobachtung ist ernst zu nehmen. Seine Antwort darauf ist vor allem Verzicht: weniger Bildschirm, weniger digitale Medien. Das würde uns, so denke ich, dem Untergang ein gutes Stück näher bringen. Wir gehen hier gleich einen anderen Weg.
 
 Die Ursache ist keine Krankheit, sondern schlicht Überlastung. Die Folge ähnelt aber der eines Menschen mit Alzheimer: Er findet sich in der eigenen Welt nicht mehr zurecht.
 
@@ -113,7 +113,7 @@ Genau so ist es mit der Informationsflut. Sie brennt nichts nieder. Sie nimmt un
 
 Davonlaufen hilft also nicht. Ich kann ihn aber einreiten. Das ist die Aufgabe der Zukunft.
 
-Doch dieser Drache hat Hunger.
+Doch es gibt noch etwas am Drachen, das auf ganz eigene Art gefährlich ist, auch im Weltmaßstab: Der Drache hat Hunger.
 
 ## Was kostet die KI die Natur?
 
@@ -121,15 +121,15 @@ KI braucht Unmengen an Strom. Die Rechenzentren der Welt verbrauchten 2024 rund 
 
 Dazu kommt Wasser zum Kühlen. Schon heute verbrauchen Rechenzentren weltweit über 500 Milliarden Liter im Jahr, 2030 sollen es rund 1.200 Milliarden sein. Oft gerade dort, wo Wasser knapp ist.
 
-Und es braucht riesige Gebäude, Chips und Leitungen. Dafür werden seltene Stoffe überall auf der Erde abgebaut und zusammengetragen: Seltene Erden, Gallium, Kobalt, Kupfer. Millionen Menschen arbeiten daran, in Minen, Chipfabriken, auf Baustellen und an Bildschirmen, und verwenden dabei wiederum die KI. Und überall nimmt die Natur Schaden. Das alles ergibt eine enorme Belastung der Natur.
+Und es braucht riesige Gebäude, Chips und Leitungen. Dafür werden seltene Stoffe überall auf der Erde abgebaut und zusammengetragen: Seltene Erden, Gallium, Kobalt, Kupfer. Millionen Menschen arbeiten daran, oft Kinder, in Minen, Chipfabriken, auf Baustellen und an Bildschirmen, und verwenden dabei wiederum die KI. Und überall nimmt die Natur Schaden. Das alles ergibt eine enorme Belastung der Erde.
 
 ## Ist die KI daran schuld?
 
 Nicht wenige Menschen machen die KI dafür verantwortlich. Sie sehen die Betonhallen, die neuen Kraftwerke, die Kühltürme in trockenen Regionen, und zeigen auf die Maschine.
 
-Aber die Maschine will nichts. Sie hat keinen Ehrgeiz, keine Angst, keinen Hunger. Der Hunger kommt von woanders.
+Aber die Maschine will nichts. Sie hat keinen Ehrgeiz, keine Angst, sie hat nur Hunger nach Strom und Wasser. Wille und Ehrgeiz treiben andere, und die haben eine ganz eigene Art von Hunger, einen unersättlichen.
 
-Er kommt aus einem Wirtschaftsleben, in dem Konkurrenz herrscht. Und Konkurrenz ist dafür ein viel zu harmloses Wort. Es ist ein Krieg. Ein Krieg, in dem jeder den anderen übertreffen will: mehr, schneller, besser.
+Dieser Hunger kommt aus einem Wirtschaftsleben, in dem Konkurrenz herrscht. Und Konkurrenz ist dafür ein viel zu harmloses Wort. Es ist ein Krieg. Ein Krieg, in dem jeder den anderen übertreffen will: mehr, schneller, besser.
 
 Wer zögert, verliert. Wer spart, wird überholt. Wer nicht baut, ist morgen vom Markt verschwunden. Also wird gebaut, gekauft und verbraucht, mit jedem Einsatz an Mitteln.
 
@@ -149,19 +149,19 @@ Da ist das Geld, das sich vom wirklichen Leben gelöst hat. Immer mehr Menschen 
 
 Da sind die Schieflagen an den Börsen. Alphabet, die Mutter von Google, war im Frühjahr 2026 an der Börse rund 4 Billionen Dollar wert. Das ist fast so viel, wie Deutschland in einem ganzen Jahr erwirtschaftet. Das ist eine kranke Blase, prall gefüllt wie eine Eiterblase. Und trotzdem suchen Millionen Menschen nach einem Weg, noch schnell ihren Anteil davon abzubekommen.
 
-Und da sind die echten Kriege, mit Bomben geführt. Für 2025 zählen Friedensforscher 65 Konflikte mit Beteiligung von Staaten, so viele wie nie seit 1946. Die Kriege direkt zwischen Staaten haben sich innerhalb eines Jahres verdoppelt. Am 3. Januar 2026 griffen die USA Venezuela aus der Luft an, holten Präsident Nicolás Maduro mit Spezialkräften aus seinem Land und stellten ihn in New York vor Gericht.
+Und da sind die echten Kriege, mit Bomben geführt. Für 2025 zählen Friedensforscher 65 Konflikte mit Beteiligung von Staaten, so viele wie nie seit 1946. Die Kriege direkt zwischen Staaten haben sich innerhalb eines Jahres verdoppelt. Am 3. Januar 2026 griffen die USA Venezuela aus der Luft an, holten Präsident Nicolás Maduro mit Spezialkräften aus seinem Land und stellten ihn in New York vor Gericht. Die offizielle Erzählung lautet: Narkoterrorismus und Kokainhandel, dafür steht er dort wegen vier Anklagepunkten vor Gericht. Der Hintergrund: Die USA verkaufen seither das Öl Venezuelas und verwalten die Erlöse auf Konten, die sie selbst kontrollieren.
 
 ## Was haben all diese Symptome gemeinsam?
 
-Sie sehen verschieden aus, aber sie haben eine gemeinsame Wurzel. Überall greift ein Bereich des Lebens in einen anderen über, in dem er nichts zu suchen hat.
+Sie sehen verschieden aus, aber sie haben eine gemeinsame Wurzel. Überall greift ein Bereich des Lebens in einen anderen über, in dem er nichts zu suchen hat. Die Wirtschaft kauft sich die Politik, die Politik beschränkt die Freiheit, und die Werbung diktiert, was gebraucht und produziert wird.
 
-Hinter allem steht ein krankes Geldsystem. Geld soll dem Austausch von Waren und Leistungen dienen. Stattdessen vermehrt es sich selbst und sammelt sich bei denen, die schon viel haben.
+Hinter allem steht ein krankes Geldsystem mit ungesunden Preisen, die willkürlich festgelegt werden, statt abzubilden, wie hoch der Aufwand ist, eine Ware herzustellen. Bei Rudolf Steiner ist Geld nur eine Weltbuchhaltung, die zeigt, wo Fähigkeiten sind, die Bedürfnisse erfüllen können. Stattdessen vermehrt sich Geld von selbst und sammelt sich bei denen, die schon viel haben.
 
-Und aus diesem kranken Geldsystem wächst eine korrupte Politik. Die Wirtschaft greift in die Politik: Wer das meiste Geld hat, bestimmt die Regeln, über Lobbyarbeit, Parteispenden und Wahlkampfgelder. Die Politik greift zur Gewalt, wo das Recht gelten müsste. Und Wissen, Forschung und Kultur werden zur Ware, die man besitzt und verkauft.
+Und mit diesem kranken Geldsystem wächst eine korrupte Politik. Die Wirtschaft greift in die Politik: Wer das meiste Geld hat, bestimmt die Regeln, über Lobbyarbeit, Parteispenden und Steuererpressung. Die Politik greift zur Gewalt, wo das Recht gelten müsste. Und Wissen, Forschung und Kultur werden zur Ware, die man besitzt und verkauft.
 
 Eine Krebszelle hat vergessen, wozu sie da ist. Genauso hat ein Wirtschaftsleben, das nur noch wächst, vergessen, wozu es da ist: die Menschen mit dem zu versorgen, was sie brauchen.
 
-Was wir hier brauchen, ist eine Heilung des Sozialen. Eine Ordnung, in der jeder Bereich wieder seinem eigenen Prinzip folgt und keiner den anderen überwuchert. Diese Heilung sorgt dann auch dafür, dass der Verbrauch an Strom und Wasser auf ein vernünftiges Maß zurückgeht.
+Was wir hier brauchen, ist eine Heilung des Sozialen. Eine Ordnung, in der jeder Bereich wieder seinem eigenen Prinzip folgt und keiner den anderen überwuchert. Diese Heilung sorgt dann auch dafür, dass der Verbrauch an Strom und Wasser durch die KI auf ein vernünftiges Maß zurückgeht.
 
 ## Haben wir überhaupt genug Energie?
 
@@ -171,9 +171,17 @@ Das heißt nicht, dass wir jetzt alles mit Solaranlagen vollstellen müssen. Wir
 
 ## Wie sieht eine Heilung des Sozialen aus?
 
-Rudolf Steiner hat 1919 einen Impuls in die Welt gebracht, der genau diese Heilung anstrebt: die Dreigliederung. Die Gesellschaft gliedert sich dabei in drei Bereiche, die sich selbst verwalten und jeweils ihrem eigenen Prinzip folgen. Brüderlichkeit im Wirtschaftsleben. Gleichheit in Politik und Recht. Freiheit in der Kultursphäre, also in Bildung, Wissenschaft und Kunst.
+Rudolf Steiner sprach schon im April 1914, kurz vor dem Ersten Weltkrieg, von einem „Kulturkarzinom“, von sozialen Geschwüren, die überall aufsprießen. Die Jahre des Krieges nutzte er, um Krankheit und Gesundheit des sozialen Lebens darzustellen. Er nannte das die Dreigliederung des sozialen Organismus. Es ging um die Trennung der drei Glieder: Wirtschaft, Politik und Geistesleben, heute würden wir sagen Kultur und Bildung.
+
+Mit diesem Konzept in der Tasche suchte er Politiker und Diplomaten auf, um sie davon zu überzeugen, dass etwas ganz Neues nötig ist. Im Krieg hatte er damit keinen Erfolg. Deshalb verbrachte er ab 1919, wie in einem Endspurt seines Lebens, fast seine ganze Zeit damit, diesen Impuls ins Leben zu bringen. Er sprach vor Tausenden Arbeitern, in Stuttgart zum Beispiel vor den Arbeitern der Daimler-Werke, und vor Studenten.
+
+Heute noch sichtbare Früchte dieser Jahre sind die Waldorfschulen, Firmen wie Weleda, der Demeter-Verband und die anthroposophische Medizin.
+
+Worum geht es dabei genau? Um die Trennung der drei sozialen Bereiche. Jeder bekommt seine eigene Verwaltung, weil alle drei völlig unterschiedlichen Prinzipien folgen: das Wirtschaftsleben der Brüderlichkeit, Politik und Recht der Gleichheit, die Kultursphäre, also Bildung, Wissenschaft und Kunst, der Freiheit.
 
 Freiheit, Gleichheit, Brüderlichkeit – das ist die alte Losung der Französischen Revolution. Viele hielten diese drei Worte für widersprüchlich. Steiner zeigte: Sie widersprechen sich nicht, wenn jedes in seinem eigenen Bereich gilt.
+
+Es darf nicht sein, dass die Politik bestimmt, was in Schulen und Universitäten geschieht. Es darf nicht sein, dass die Wirtschaft in die Politik eingreift und dort ihren Egoismus durchsetzt. Und es darf nicht sein, dass die Kultur eine Werbeindustrie hervorbringt, die nur dafür da ist, künstliche Bedürfnisse zu schaffen, mit dem Schwerpunkt auf Gefühlen statt auf dem, was Menschen wirklich brauchen.
 
 Brüderlichkeit im Wirtschaftsleben heißt: nicht gegeneinander wirtschaften, sondern füreinander. Statt Krieg um die Vorherrschaft gemeinsam herausfinden, was wirklich gebraucht wird, und genau das herstellen.
 
@@ -185,17 +193,17 @@ Ohne das hier im Einzelnen auszuführen: Es gibt schon eine erste, sehr kräftig
 
 Dort stellen Menschen ihre Arbeit allen zur Verfügung, offen und kostenlos. Jeder kann mitmachen, ganz gleich, ob Mann oder Frau, aus welchem Land und mit welcher Hautfarbe. Im Code zählt, was jemand beiträgt, nicht wer er ist. Und jeder ist frei, damit zu machen, was er will.
 
-Diese Kultur hat die KI-Welt längst ergriffen. Fast alles, worauf die heutige KI aufbaut, wurde offen veröffentlicht: die Idee des Transformers, auf der alle großen Sprachmodelle beruhen, die Werkzeuge, mit denen sie gebaut werden, und immer mehr Modelle selbst, deren Gewichte jeder herunterladen kann.
+Diese Kultur hat die KI-Welt nicht nur ergriffen, die KI ist aus ihr herausgewachsen. Den Durchbruch schafft eine Firma, die OpenAI heißt. Diesen Namen trägt sie nur, weil sie 2015 als gemeinnütziges Forschungslabor begann, das seine Ergebnisse offen mit allen teilen wollte. Fast alles, worauf die heutige KI aufbaut, wurde offen veröffentlicht: die Idee des Transformers, auf der alle großen Sprachmodelle beruhen, die Werkzeuge, mit denen sie gebaut werden, und immer mehr Modelle selbst, deren Gewichte jeder herunterladen kann.
 
 ## Wer hilft uns dabei?
 
-Diese Aufgabe ist zu groß für eine einzelne Generation. Um die Erde und das Soziale zu heilen, brauchen wir die Hilfe aller Menschen. Nicht nur derer, die heute leben, sondern auch derer, die vor uns gelebt haben.
+Die Aufgabe der Heilung des Sozialen ist zu groß für eine einzelne Generation. Um die Erde und das Soziale zu heilen, brauchen wir die Hilfe aller Menschen. Nicht nur derer, die heute leben, sondern auch derer, die vor uns gelebt haben. Jeder muss in dem Augenblick, in dem er es braucht, auf alles zugreifen können, was andere in der Menschheit gemacht haben.
 
-Was sie gedacht, erforscht und erlitten haben, ist nicht verloren. Es liegt in Büchern, Briefen, Vorträgen und Aufzeichnungen. Viele von ihnen haben schon gesehen, was wir heute erleben, und Wege gesucht, die wir gerade erst wiederentdecken.
+Was Menschen gedacht, erforscht und erlitten haben, ob vor Jahrhunderten oder gestern, ist nicht verloren. Es liegt in Büchern, Briefen, Vorträgen und Aufzeichnungen, in Artikeln, Videos, Podcasts und Foren. Viele haben schon gesehen, was wir heute erleben, und Wege gesucht, die wir gerade erst wiederentdecken. Und viele arbeiten in diesem Augenblick an denselben Fragen wie wir.
 
-Bisher war dieses Wissen schwer zu erreichen. Es lag verstreut, vergessen, überdeckt von der Flut des Neuen. Hier hilft uns die KI. Sie macht das Gedächtnis der Menschheit wieder zugänglich. Wir können die Gedanken früherer Zeiten aufsuchen, vergleichen und in unsere Gegenwart holen. Nicht als Ersatz für das eigene Lesen, sondern als Wegweiser zu den Quellen.
+Bisher war dieses Wissen schwer zu erreichen. Es lag verstreut, vergessen, überdeckt von der Flut des Neuen. Hier hilft uns die KI. Sie macht das Gedächtnis der Menschheit wieder zugänglich. Wir können die Gedanken früherer Zeiten und unserer Zeitgenossen aufsuchen, vergleichen und in unsere Gegenwart holen. Nicht als Ersatz für das eigene Lesen, sondern als Wegweiser zu den Quellen.
 
-So schließt sich der Kreis. Die KI, die uns mit ihrer Flut das Gedächtnis zu rauben droht, kann es uns auch zurückgeben.
+So schließt sich der Kreis. Die KI, die uns mit ihrer Flut das Gedächtnis zu rauben droht, kann es uns auch zurückgeben. Und auch das, was wir wegen der Überflutung mit Informationen und der mangelnden Übung unseres Denkens aus den Augen verlieren. Deswegen ist das Erste, was passieren muss, die Befreiung der Bildung und der Kultur, des lebendigen Umgangs mit dem Geist.
 
 ## Wem gehört das Gedächtnis der Menschheit?
 
@@ -217,6 +225,8 @@ Und du – fliehst du noch vor dem Drachen, oder sitzt du schon mit im Sattel?
 - Rudolf Steiner, *Einleitungen zu Goethes Naturwissenschaftlichen Schriften*, Kapitel X „Wissen und Handeln im Licht der Goetheschen Denkweise“, Abs. 4 (bis zu dem Punkt vordringen, wo uns die Wesenheit einer Sache als Idee aufgeht)
 - Rudolf Steiner, *Geistige Wirkenskräfte im Zusammenleben von alter und junger Generation. Pädagogischer Jugendkurs* (GA 217), 13. Vortrag, Stuttgart, 15. Oktober 1922, S. 191–192 (der Drache, vor dem die Jugend flieht und der überall die Luft dünn macht; Wortlaut nach OCR, im Band prüfen)
 - Manfred Spitzer, *Digitale Demenz. Wie wir uns und unsere Kinder um den Verstand bringen*, 2012
+- Rudolf Steiner, *Inneres Wesen des Menschen und Leben zwischen Tod und neuer Geburt* (GA 153), 6. Vortrag, Wien, 14. April 1914, S. 174–175 (Kulturkarzinom, soziale Geschwürbildungen)
+- Rudolf Steiner, *Nationalökonomischer Kurs* (GA 340), 14. Vortrag, Dornach, 6. August 1922, S. 202–203 (Weltbuchhaltung)
 - Rudolf Steiner, *Neugestaltung des sozialen Organismus*, Vortrag „Freiheit für den Geist, Gleichheit für das Recht, Brüderlichkeit für das Wirtschaftsleben“, Abs. 27, und Vortrag „Proletarische Forderungen und deren künftige praktische Verwirklichung“, Stuttgart, 23. April 1919, Abs. 21 (die drei Worte, die als widerspruchsvoll galten)
 - Rudolf Steiner, *Gedankenfreiheit und soziale Kräfte*, Vortrag „Die Kernpunkte der sozialen Frage in den Lebensnotwendigkeiten der Gegenwart und Zukunft“, Abs. 43
 - Strom und Wasser der Rechenzentren: IEA, *Energy and AI* (2025), nach [Scientific American](https://scientificamerican.com/article/ai-will-drive-doubling-of-data-center-energy-demand-by-2030); IEA-Werte für 2025/2030 und Wasser nach [macmyths.com](https://macmyths.com/how-do-ai-data-centers-use-electricity-water-and-land/)
@@ -226,4 +236,7 @@ Und du – fliehst du noch vor dem Drachen, oder sitzt du schon mit im Sattel?
 - Börsenwert Alphabet: [Tom's Hardware](https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spending-plans-reach-725-billion)
 - Kriege 2025: PRIO, *Conflict Trends 1946–2025*, nach [EurekAlert/Uppsala University](https://www.eurekalert.org/news-releases/1131085)
 - Venezuela, 3. Januar 2026: [PBS/AP](https://www.pbs.org/newshour/world/us-strikes-venezuela-and-says-its-leader-maduro-has-been-captured-and-flown-out-of-the-country)
+- Anklage gegen Maduro (Narkoterrorismus, Kokainimport, Waffenbesitz; er plädiert auf nicht schuldig): [Reuters/RNZ](https://amp.rnz.co.nz/article/0f1b8a55-0e14-4ea6-926d-ed82a8928070)
+- Ölverkauf unter US-Kontrolle, Erlöse auf US-kontrollierten Konten: [Al Jazeera, 7. Januar 2026](https://www.aljazeera.com/news/2026/1/7/us-says-it-will-control-venezuelan-oil-sales-indefinitely)
 - Sonnenenergie: eigene Rechnung – rund 173.000 Terawatt Einstrahlung, also etwa 1,5 Milliarden Terawattstunden im Jahr, gegenüber rund 2.700 Terawattstunden Atomstrom und rund 170.000 Terawattstunden Weltenergieverbrauch
+- Slop als Wort des Jahres 2025: [Merriam-Webster nach AP/ABC7](https://abc7ny.com/post/merriam-websters-2025-word-year-is-slop/18288780/)
