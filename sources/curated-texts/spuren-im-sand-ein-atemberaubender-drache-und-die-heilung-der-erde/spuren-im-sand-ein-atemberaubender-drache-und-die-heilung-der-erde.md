@@ -91,9 +91,9 @@ Die Ursache ist keine Krankheit, sondern schlicht Überlastung. Die Folge ähnel
 
 Beides. Die KI ist ein zweischneidiges Schwert.
 
-Auf der einen Seite verschärft sie das Problem. Durch Fakes und massenhaft produzierte Texte wird alles noch undurchschaubarer.
+Auf der einen Seite verschärft sie das Problem. Durch Fakes und massenhaft produzierte Texte wird alles noch undurchschaubarer. Aber auch verlockend. Viele Antworten sind gut oder klingen gut. So gut, dass wir uns in die KI verlieben und dadurch „Teflon-Gehirne“ bekommen, an denen alle Gedanken abperlen. Wir werden bequem und denken immer weniger selbst. Wir nehmen die Antworten der KI und durchdenken sie nicht. Wir suchen nicht nach Quellen, um uns selbst zu vertiefen, kennenzulernen, was wir können, und zu verstehen, wofür wir mit unserer Antwort einstehen. Wir sehen in der KI etwas, das uns das Denken abnimmt.
 
-Auf der anderen Seite bietet sie kraftvolle Lösungen. Mit KI kann ich mir aus diesem Meer genau das heraussuchen, was ich gerade brauche. Ich kann sie so einrichten und anleiten, dass sie mir genau die Informationen liefert, die ich suche, aus Quellen, die ich kenne und prüfen kann. Und sie kann mir besser als irgendjemand sonst dabei helfen, die Qualität der Informationen, die ich bekomme, um ein Wesentliches zu steigern. Ich kann sie sogar nebenbei suchen lassen, während ich etwas anderes tue.
+Auf der anderen Seite bietet sie kraftvolle Lösungen. Mit KI kann ich mir aus diesem Meer genau das heraussuchen, was ich gerade brauche. Ich kann sie so einrichten und anleiten, dass sie mir genau die Informationen liefert, die ich suche, aus Quellen, die ich kenne und prüfen kann. Und sie kann mir besser als irgendjemand sonst dabei helfen, die Qualität der Informationen, die ich bekomme, um ein Wesentliches zu steigern. Ich kann weiter und tiefer suchen, meine Netze auswerfen. Ich kann Menschen über ihre Gedanken kennenlernen, von denen ich nicht wusste, dass es sie gibt. Vielleicht sind sie schon lange tot. Aber ich bekomme von ihnen den entscheidenden Gedanken, der mich heute weiterbringt.
 
 Damit schärfe ich eine Fähigkeit, die gerade erst entsteht: den Umgang mit dem Gedächtnis der Menschheit.
 
@@ -101,7 +101,7 @@ Damit schärfe ich eine Fähigkeit, die gerade erst entsteht: den Umgang mit dem
 
 Wenn ich diese Fähigkeit nicht entwickle, verliere ich in diesem Meer aus Lügen und Wahrheiten, Neuigkeiten und alten Sachen immer mehr die Orientierung, wie ein Mensch mit Alzheimer.
 
-Wenn ich aber lerne, geschickt und machtvoll mit der KI umzugehen, dann muss ich nicht vor dem Informationsdrachen fliehen. Dann kann ich mich auf ihn aufschwingen und ihn reiten.
+Wenn ich aber lerne, geschickt und machtvoll mit der KI umzugehen, dann muss ich nicht vor dem Informationsdrachen fliehen oder mich von ihm herumschubsen lassen, weil er mir immer mehr vorgibt, was ich schreiben, sagen oder denken soll. Dann kann ich mich auf ihn aufschwingen und ihn reiten.
 
 Es ist ein Drache, und er wird immer wilder. Manfred Spitzer hat recht: Dieser Drache ist gefährlich. Aber wer ihm nur aus dem Weg geht, hält ihn nicht auf. Der Drache wächst trotzdem, nur lernt niemand, ihn zu reiten. Dann treibt er uns vor sich her.
 
