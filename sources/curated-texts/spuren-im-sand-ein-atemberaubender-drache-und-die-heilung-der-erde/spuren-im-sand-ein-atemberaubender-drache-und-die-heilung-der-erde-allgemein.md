@@ -209,7 +209,7 @@ Was aus dem Gedächtnis aller entstanden ist, gehört in die Hände aller. Nicht
 
 Den Drachen reitet keiner allein. Entweder wir reiten ihn gemeinsam, offen und brüderlich, oder er reitet uns.
 
-Und du – fliehst du noch vor dem Drachen, oder sitzt du schon mit im Sattel?
+Und du – fliehst du noch vor dem Drachen, lässt du dir bequem von ihm alles vordenken, oder sitzt du schon im Sattel und sagst ihm, wo es langgeht?
 
 ---
 
