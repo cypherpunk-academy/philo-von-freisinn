@@ -4001,7 +4001,7 @@ felder:
     text: |
       Im gesunden Feld Wirtschaft -> Recht trägt die Wirtschaft den Staat, wie das Fundament das Haus trägt: Es entscheidet nicht, wer darin wohnt. Die Herkunft der Mittel ist wirtschaftlich, ihre Verwendung ist es nicht.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Versorgung:** Die Wirtschaft versorgt alle, die im Rechtsleben arbeiten, mit Nahrung, Wohnung und Kleidung und behandelt sie wie jeden anderen Verbraucher. **Infrastruktur:** Sie baut und liefert die Sachmittel der Sicherheit und die allgemeine Infrastruktur für alle; das Recht entscheidet, die Wirtschaft liefert, was sie kann. **Unterhalt:** Alte Menschen, Arbeitsunfähige, Allein-Gebliebene und Kranke haben Anspruch auf Lebensunterhalt; das Recht setzt ihn fest, die Wirtschaft rechnet ihn in die Preise ein und trägt ihn als Schenkungsgeld. **Steuer:** Über Steuermarken, die beim Verkauf entwertet werden, ist die Steuer mit jedem Geschäft entrichtet; die Wirtschaft verwaltet kein Steuergeld. **Geldsystem:** Sie führt das Geld als wandernde Buchhaltung ihrer Leistungen und bindet es an die vorhandenen Produktionsmittel. **Freistellung:** Wer für Wahlen, Ämter, Schöffendienst und Debatte freigestellt wird, verliert sein Auskommen nicht. **Enthaltung:** Die Wirtschaft zahlt und bestimmt nicht; erst diese Trennung macht alle anderen Beiträge gesund.
+      Sieben Aspekte zeigen, wie das geschieht. **Versorgung:** Die Wirtschaft versorgt alle, die im Rechtsleben arbeiten, mit Nahrung, Wohnung und Kleidung und behandelt sie wie jeden anderen Verbraucher. **Infrastruktur:** Sie baut und liefert die Sachmittel der Sicherheit und die allgemeine Infrastruktur für alle; das Recht entscheidet, die Wirtschaft liefert, was sie kann. **Unterhalt:** Alte Menschen, Arbeitsunfähige, Allein-Gebliebene und Kranke haben Anspruch auf Lebensunterhalt; das Recht setzt ihn fest, die Wirtschaft rechnet ihn in die Preise ein und trägt ihn als Schenkungsgeld. **Steuer:** Über Steuermarken, die beim Verkauf entwertet werden, ist die Steuer mit jedem Geschäft entrichtet; die Wirtschaft verwaltet kein Steuergeld. **Geldsystem:** Sie führt das Geld als wandernde Buchhaltung ihrer Leistungen und bindet es an die vorhandenen Produktionsmittel und an die Naturgrundlage. **Freistellung:** Wer für Wahlen, Ämter, Schöffendienst und Debatte freigestellt wird, verliert sein Auskommen nicht. **Enthaltung:** Die Wirtschaft zahlt und bestimmt nicht; erst diese Trennung macht alle anderen Beiträge gesund.
 
       Der Gegenpol ist „Die Wirtschaft kauft die Politik“: Dort wird aus dem Beitrag ein Druckmittel, und wer zahlt, bestimmt doch.
     aspekte:
@@ -4415,20 +4415,20 @@ felder:
         kurztext: >
           Die Wirtschaft führt das Geldsystem als wandernde Buchhaltung ihrer
           Leistungen und bindet die Währung an die vorhandenen
-          Produktionsmittel. Im Zentrum steht der richtige Preis: Wer etwas
-          erzeugt, erhält so viel, bis er dasselbe wieder herstellen kann —
-          nicht Lohn, sondern gegenseitige Preise. Es gibt Kaufgeld, Leihgeld
-          und Schenkgeld, drei qualitativ verschiedene Arten. So erhält auch
-          das Rechtsleben verlässliches Geld, ohne selbst den Geldwert
-          festlegen zu müssen.
+          Produktionsmittel und an die Naturgrundlage. Im Zentrum steht der
+          richtige Preis: Wer etwas erzeugt, erhält so viel, bis er dasselbe
+          wieder herstellen kann — nicht Lohn, sondern gegenseitige Preise. Es
+          gibt Kaufgeld, Leihgeld und Schenkgeld, drei qualitativ verschiedene
+          Arten. So erhält auch das Rechtsleben verlässliches Geld, ohne selbst
+          den Geldwert festlegen zu müssen.
         text: >
           Die Wirtschaft stellt allen ein Geldsystem zur Verfügung. Sie
           übernimmt die Verwaltung des Geldes, die heute beim Staat liegt, und
           führt es als wandernde Buchhaltung ihrer Leistungen. Sie bindet die
-          Währung an das, was an brauchbaren Produktionsmitteln tatsächlich da
-          ist, und gibt dem Geld damit festen Boden. So erhält auch das
-          Rechtsleben ein verlässliches Geld, ohne selbst den Geldwert
-          festlegen zu müssen. Im Zentrum dieses Geldsystems steht der Preis.
+          Währung an das, was an brauchbaren Produktionsmitteln und an
+          Naturgrundlage tatsächlich da ist, und gibt dem Geld damit festen
+          Boden. So erhält auch das Rechtsleben ein verlässliches Geld, ohne
+          selbst den Geldwert festlegen zu müssen. Im Zentrum dieses Geldsystems steht der Preis.
           Der richtige Preis entsteht nicht durch staatliche Festsetzung und
           nicht durch Spekulation, sondern in den Assoziationen aus dem
           lebendigen Zusammenspiel von Erzeugung und Bedarf. Wer etwas
