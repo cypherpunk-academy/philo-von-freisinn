@@ -189,6 +189,7 @@ FAN_GROUPS = {
         "x_shift": 780.0,
         "heading_x": "first_block",
         "heading_align": "end",  # rechtsbündig zur unteren Zeile
+        "heading_lines": ["Die Politik führt Krieg", "für die Wirtschaft"],
     },
     "dm-05k": {
         "panel": "kra", "side": "left",
@@ -211,6 +212,7 @@ FAN_GROUPS = {
         "x_shift": 780.0,
         "x_shift_text_frac": 0.2,    # 20 % Textbreite nach rechts
         "heading_x": "first_block",
+        "heading_lines": ["Das Geld kauft", "unser Denken"],
     },
     # --- Krankheit rechts (spiegelbildlich zu 04/05/06k) ---
     "dm-03k": {
@@ -222,13 +224,14 @@ FAN_GROUPS = {
         "heading_x": "first_block",
         "heading_x_frac": 0.0,   # linker Textrand
         "heading_align": "text-start",  # linksbündig mit dem Text
+        "heading_lines": ["Die Politik bestimmt,", "was wir wissen sollen"],
     },
     "dm-01k": {
         "panel": "kra", "side": "right",
         "arc": 7, "open": "left", "y_mode": "top_at_sibling_center",
         "relative_to": "dm-03k",
         "x_shift": 1280.0,
-        "heading_lines": ["Die Weltsicht wird", "zum Gesetz"],
+        "heading_lines": ["Die Ideologie wird", "zum Gesetz"],
         "align_heading_to": {
             "yaml_id": "dm-03k",
             "schlagwort": "Zweckbindung",
@@ -244,7 +247,7 @@ FAN_GROUPS = {
         "x_shift": 780.0,
         "x_shift_text_frac": -0.2,   # spiegelbildlich zu dm-06k (+0.2)
         "heading_x": "first_block",
-        "heading_lines": ["Der Glaube diktiert", "die Produktion"],
+        "heading_lines": ["Der Geist erfindet", "Bedürfnisse"],
     },
     # --- Gesundheit links ---
     "dm-04g": {
@@ -290,10 +293,10 @@ FAN_GROUPS = {
         "heading_x": "first_block",
         "heading_x_frac": 1.0,   # rechter Rand des ersten Texts
         "heading_align": "text-end",  # rechtsbündig mit dem Text
-        "heading_lines": ["Die Wirtschaft", "versorgt den Geist"],
+        "heading_lines": ["Die Wirtschaft", "ermöglicht das Leben"],
         "align_heading_to": {
             "yaml_id": "dm-05g",
-            "schlagwort": "Versorgung",
+            "schlagwort": "Geldsystem",
         },
         "shift_down_to_page": True,
         "heading_lift_clear": True,
@@ -1005,7 +1008,7 @@ def main():
             continue
         cfg = FAN_GROUPS[yaml_id]
         blocks = wrap_aspects(fg["aspects"], font, inner_w)
-        head_max = text_w("Die Wirtschaft versorgt", heading_font)
+        head_max = text_w("Die Wirtschaft ermöglicht", heading_font)
         head_lines = cfg.get("heading_lines") or wrap_text(
             fields[yaml_id]["titel"], heading_font, head_max)
         head_lh = heading_font * 1.12

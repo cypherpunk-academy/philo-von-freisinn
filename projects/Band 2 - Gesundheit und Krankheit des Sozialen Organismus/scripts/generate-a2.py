@@ -156,10 +156,13 @@ BLOCK_SIDE = {
 LABEL_TITLE_MAX_W = 160.0
 TITLE_WRAP = {
     "dm-01g": ["Sachkenntnis prägt", "das Recht"],
-    "dm-01k": ["Die Weltsicht wird", "zum Gesetz"],
-    "dm-02k": ["Der Glaube diktiert", "die Produktion"],
+    "dm-01k": ["Die Ideologie wird", "zum Gesetz"],
+    "dm-02k": ["Der Geist erfindet", "Bedürfnisse"],
+    "dm-03k": ["Die Politik bestimmt,", "was wir wissen sollen"],
+    "dm-04k": ["Die Politik führt Krieg", "für die Wirtschaft"],
     "dm-05g": ["Die Wirtschaft", "trägt den Staat"],
-    "dm-06g": ["Die Wirtschaft", "versorgt den Geist"],
+    "dm-06g": ["Die Wirtschaft", "ermöglicht das Leben"],
+    "dm-06k": ["Das Geld kauft", "unser Denken"],
 }
 
 RADIAL_REVERSE = False
