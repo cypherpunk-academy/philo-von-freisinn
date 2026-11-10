@@ -143,1136 +143,245 @@ begriffe:
       - concept
       - assistant-generated
     text: >-
-      Entwicklung ist für Steiner kein mechanisches Fortschreiten, sondern ein innerer Vorgang der
-      Verwirklichung von Anlagen und Möglichkeiten. Sie vollzieht sich im Menschen zunächst
-      unbewusst, etwa wenn in der Kindheit die Kraft des Gedächtnisses erstarkt und der Mensch aus
-      einem dumpfen Lebenstraum erwacht. Diese Entwicklung kann jedoch auf einer höheren Stufe
-      bewusst ergriffen werden. Der Mensch ist in der Lage, durch eigenes Denken und Handeln über
-      sich hinauszuwachsen, indem er die in ihm liegenden Kräfte in freier, individueller Weise zur
-      Entfaltung bringt.
+      Entwicklung ist bei Steiner zuerst ein Erwachen. Der Mensch entwickelt sich in der ersten Lebenszeit so, dass die Kraft des Gedächtnisses erstarkt; was vor einem Zeitpunkt der Kindheit liegt, empfindet er als Lebenstraum, aus dem er erwacht ist. In ähnlicher Art erwacht die Seele auf einer weiteren Stufe im Erlebnis des „Erkenne dich selbst". Auch das Gedankenleben entwickelt sich in Epochen: Zuerst wirkt der Gedanke wie eine Wahrnehmung von außen; dann wird er als eigenes Erzeugnis gefühlt, und die Frage entsteht, was dieses Erzeugnis mit einer Außenwelt zu tun hat.
 
+      Für das Organische gilt: Die Einschachtelungslehre sieht die Glieder im Keim schon im Kleinen vorgebildet, und die Entwicklung ist dann nur Auswicklung. Goethe lehnt das ab. Der Organismus ist im Keim vorgebildet, aber der Idee nach und nicht der äußeren Erscheinung nach, die eine Neubildung ist. Wer nur mit den Augen des Körpers sieht, übersieht, was der Idee nach doch vorhanden ist. Die neuere Entwicklungsidee kehrt die Richtung des Erklärens um: Sie sucht im Späteren das Frühere.
 
-      Entwicklung betrifft nicht nur den Einzelnen, sondern auch die Geschichte und die sozialen
-      Verhältnisse. Die Dreigliederung des sozialen Organismus ist der Versuch, gesellschaftliche
-      Entwicklung bewusst zu gestalten, indem die drei Lebensbereiche – Geistesleben, Rechtsleben
-      und Wirtschaftsleben – ihre je eigene, unabhängige Dynamik entfalten können. Entwicklung ist
-      dabei kein Automatismus. Wer darauf wartet, dass sich die Verhältnisse „von selbst“ zum
-      Besseren wenden, gleicht einem Menschen, der in einem stickigen Zimmer sitzt und nicht das
-      Fenster öffnet. Entwicklung erfordert bewusstes, tätiges Eingreifen aus Einsicht in die
-      Notwendigkeiten der Gegenwart. Sie ist kein passives Geschehen, sondern eine Aufgabe, die der
-      Mensch aus freiem Entschluss ergreifen muss.
+      Im Sozialen ist Entwicklung kein Automatismus. Wer alles der Entwicklung überlassen will, gleicht einem Menschen, der in einem Zimmer mit dumpfer Luft unpässlich wird und nicht das Fenster öffnet, sondern abwartet, bis sich die Luft „von selbst" zu einer frischen entwickelt. Ein gesunder sozialer Organismus schafft nur die Voraussetzungen für das, was die Menschen durch ihre individuellen Fähigkeiten und Bedürfnisse in ihm entwickeln wollen.
   - term: Erkenntnis
     chunk_id: 642b37b4-052e-52fa-b7ab-f7a7db23288e
     language: de
     tags:
       - concept
       - assistant-generated
-    text: "Erkenntnis ist kein passives Aufnehmen von Eindrücken, sondern ein aktiver Vorgang. Die
-      Wahrnehmung allein bietet nur ein zusammenhangloses Chaos, eine unvollständige Seite der
-      Wirklichkeit. Die andere Seite ist der Begriff, der aus dem Inneren des Menschen durch
-      Intuition hinzugebracht wird. Erst die Verbindung von Wahrnehmung und Begriff im Erkenntnisakt
-      ergibt volle Wirklichkeit. Das Denken ist das Organ, das diese Synthese herstellt. Es greift
-      über das bloße Sondersein des Menschen hinaus und bezieht sich auf das allgemeine Weltensein.
-      Dadurch entsteht der Trieb der Erkenntnis. Der Mensch muss die Dinge auf zweifache Art zu sich
-      sprechen lassen: einen Teil sagen sie ihm freiwillig, den anderen muss er ihnen durch sein
-      Denken entlocken. Die Erkenntnis ist somit ein schöpferischer Vorgang, der die ursprünglich
-      unvollständig gegebene Welt durch die Enthüllung ihrer zweiten Seite ergänzt. Sie beruht
-      darauf, dass der Weltinhalt nicht fertig und abgeschlossen ist, sondern einer Ergänzung durch
-      den Menschen bedarf. Die Fragen der Erkenntnis stellt sich der Mensch selbst aus dem klaren
-      Element des Denkens heraus. Von einer unüberwindlichen Grenze der Erkenntnis kann dabei nicht
-      gesprochen werden; was heute unaufgeklärt bleibt, kann morgen durch Fortschreiten von
-      Wahrnehmung und Denken gefunden werden. Die Erkenntnis führt den Menschen aus der bloßen
-      Betrachtung in das konkrete individuelle Leben, in dem er mit voller Kraft tätig sein kann."
+    text: >-
+      Erkenntnis entsteht, weil das Denken über das Sondersein des Menschen hinausgreift und sich auf das allgemeine Weltensein bezieht; dadurch entsteht in ihm der Trieb der Erkenntnis. Wesen ohne Denken haben diesen Trieb nicht. Die Wahrnehmung ist nichts Fertiges, Abgeschlossenes, sondern die eine Seite der totalen Wirklichkeit. Die andere Seite ist der Begriff, der im Innern zunächst als Intuition auftritt. Der Erkenntnisakt ist die Synthese von Wahrnehmung und Begriff, und beide machen erst das ganze Ding aus. Die Wahrnehmungswelt für sich ist ein Aggregat zusammenhangloser Einzelheiten; wer keine Intuition findet, sieht wie der Farbenblinde nur Helligkeitsunterschiede ohne Farbenqualitäten. Der Mensch muss die Dinge auf zweifache Art zu sich sprechen lassen: Einen Teil sagen sie ihm freiwillig, den anderen muss er ihnen entlocken, indem er sein Denken in Bewegung setzt.
+
+      Die Zweiheit von Subjekt und Objekt ist durch die Organisation des Wahrnehmenden bedingt. Das Erkennen überwindet sie, und das Ich fügt sich damit dem Weltganzen wieder ein. Der Dualismus, der neben der Wahrnehmungswelt „Dinge an sich" annimmt, kann für sie keinen Inhalt gewinnen. Die Fragen des Erkennens stellt sich der Mensch selbst aus dem klaren Element des Denkens: Nicht die Welt stellt sie an uns, wir stellen sie. Von einer Grenze der Erkenntnis kann daher nicht gesprochen werden. Was heute nicht gefunden ist, kann es morgen werden.
   - term: Erscheinungswelt
     chunk_id: 3b54e1a7-b1b2-5663-87ad-fb0c3c5c4703
     language: de
     tags:
       - concept
       - assistant-generated
-    text: "Die Erscheinungswelt ist die erste Form, in der der Mensch die Wirklichkeit unmittelbar
-      erlebt. Sie umfasst alles, was durch die Sinne und das Wahrnehmungsvermögen an ihn herantritt:
-      Farben, Töne, Formen, aber auch innere Erlebnisse. Diese Welt ist nicht bloßer Schein, aber
-      sie ist unvollständig. Sie zeigt die Dinge nur von ihrer Außenseite, nicht von ihrem Wesen
-      her. Der Mensch hat es in der Erscheinungswelt mit einer Hülle zu tun, die das Eigentliche
-      verbirgt und ihn zugleich auffordert, weiterzuforschen. Die Erscheinungswelt ist daher der
-      notwendige Ausgangspunkt aller Erkenntnis, aber nicht ihr Ziel. Sie genügt dem Menschen nicht;
-      er fühlt das Bedürfnis, sie mit dem ordnenden Verstand zu durchdringen. Das Denken tritt hinzu
-      und verbindet die einzelnen Wahrnehmungen zu einem durchsichtigen Zusammenhang. Anders als bei
-      der bloßen Beobachtung steht der Mensch im Denken innerhalb des schöpferischen Prozesses
-      selbst: Ihm ist nicht nur das Bewirkte gegeben, sondern das Wirkende. Indem er die
-      Erscheinungen denkend durchdringt, überwindet er ihre Undurchsichtigkeit und entwickelt aus
-      ihnen eine höhere Erscheinungsform der Wirklichkeit. Die Erscheinungswelt ist also nicht das
-      Letzte, sondern das, was den Menschen zur tätigen Erkenntnis und zur eigenen Umbildung
-      herausfordert."
+    text: >-
+      Mit Erscheinung bezeichnet Steiner ein für uns wahrnehmbares Ding oder einen wahrnehmbaren Vorgang, insofern sie im Raum oder in der Zeit auftreten. Die Erscheinung für die Sinne ist die erste Form, in der wir die Wirklichkeit beobachten. Unter Sinn versteht er dabei alle leiblichen und geistigen Organe, die der Wahrnehmung unmittelbarer Tatsachen dienen, auch den inneren Sinn für die inneren Erlebnisse. Die Erscheinungswelt ist daher dasjenige, woran das Denken noch keinen Anteil hat: ein Nebeneinander im Raum und ein Nacheinander in der Zeit, ein Aggregat zusammenhangloser Einzelheiten, in dem auch die eigene Persönlichkeit nur eine isolierte Einzelheit unter anderen ist. Erst das Denken stellt den Zusammenhang her.
+  
+      Dass diese Welt nichts weiter sei als unsere subjektive Vorstellung, gilt seit Kant vielen als Axiom. Steiner hält dagegen, dass „subjektiv" schon eine gedankliche Bestimmung ist, die mit dem ersten Auftreten der Erfahrung nichts zu tun hat, und dass die Dinge selbst keinen zwingenden Grund dazu geben. Auch ist die Isoliertheit keine Eigenschaft der Wirklichkeit: Die Erscheinungswelt ist die Welt, wie sie uns entgegentritt, bevor sie durch das Erkennen ihre rechte Gestalt gewonnen hat. Ihr fehlt ihr Kern, und der ist Gedanke, Idee. Wahrnehmung und Begriff zusammen machen erst das ganze Ding aus, und das Erkennen gibt der unabgeschlossenen Erfahrung durch das Enthüllen ihres Kerns ihren Abschluss.
   - term: Ethik
     chunk_id: 635c2c79-f37a-5c3a-9614-36b093461b3a
     language: de
     tags:
       - concept
       - assistant-generated
-    text: "Ethik ist nicht die Lehre von moralischen Geboten oder äußeren Pflichten, sondern die
-      Wissenschaft von der sittlichen Intuition des freien Menschen. Der Mensch handelt ethisch aus
-      eigener Einsicht und innerer Anschauung, nicht weil ein Gesetz oder eine Autorität es
-      befiehlt. Die Quelle des Sittlichen liegt im denkend erfassbaren Ideal, das der Einzelne in
-      sich selbst erzeugt; dieses Ideal wird sittliche Intuition genannt. Ethik ist keine Frage des
-      Gehorsams, sondern der Freiheit: Der Mensch ist sein eigener Gesetzgeber. Sein Wollen ist
-      souverän und vollführt nur, was als Gedankeninhalt in seiner Persönlichkeit liegt. Die
-      sittlichen Ideale entspringen aus der moralischen Fantasie des Menschen. Ihre Verwirklichung
-      hängt davon ab, dass sie stark genug begehrt werden, um Widerstände zu überwinden. Der Mensch
-      handelt sittlich, weil er eine sittliche Idee hat, nicht damit Sittlichkeit entstehe. Die
-      menschlichen Individuen mit ihren zu ihrem Wesen gehörigen sittlichen Ideen sind die
-      Voraussetzung der sittlichen Weltordnung. Einen im wahren Sinne ethischen Wert hat nur der
-      Teil des Handelns, der aus den eigenen Intuitionen entspringt. Aus individuellen ethischen
-      Intuitionen und deren Aufnahme in Menschengemeinschaften entspringt alle sittliche Betätigung
-      der Menschheit. Das sittliche Leben der Menschheit ist die Gesamtsumme der moralischen
-      Fantasieerzeugnisse der freien menschlichen Individuen."
+    text: >-
+      Ethik ist bei Steiner nicht die Wissenschaft von sittlichen Normen. Die Sittengesetze werden vom Menschen erst geschaffen und können nicht angewendet werden, bevor sie da sind. Erst wenn sie vorliegen, werden sie Gegenstand des Erkennens. Sucht man das Gesetzmäßige im Handeln der Individuen, Völker und Zeitalter auf, so erhält man eine Ethik als Naturlehre der Sittlichkeit. Deren Gesetze sind nicht identisch mit den Antrieben, die wir dem Handeln zugrunde legen.
+
+      Die Quelle des Sittlichen liegt im Menschen. Der unfreie Geist richtet sich nach Autorität, Vorbild oder einer vermeintlichen inneren Stimme. Der freie Geist handelt nach Impulsen, das sind Intuitionen, die er durch das Denken aus dem Ganzen seiner Ideenwelt auswählt; seine sittlichen Ideale sind sein eigenes freies Erzeugnis. Um sie zu verwirklichen, braucht er die moralische Fantasie, die den Begriff zur konkreten Vorstellung verdichtet, und die moralische Technik, die Wahrnehmungswelt umzuformen, ohne ihren naturgesetzlichen Zusammenhang zu durchbrechen. Maßgebend ist nicht, wie alle Menschen handeln würden, sondern was im einzelnen Fall zu tun ist. Diesen Standpunkt nennt Steiner ethischen Individualismus. Sittlich ist danach, was aus dem Menschen entsteht, wenn er das sittliche Wollen als Glied seines vollen Wesens entfaltet, sodass ihm das Unsittliche als Verstümmelung seines Wesens erscheint.
   - term: Ewigkeit
     chunk_id: 05309641-a9a6-554c-8a69-038df2c3db34
     language: de
     tags:
       - concept
       - assistant-generated
-    text: Ewigkeit ist kein unendlich langer Zeitablauf, sondern eine Qualität, die außerhalb der Zeit
-      steht. Sie ist nicht als „sehr lange“ zu verstehen, sondern als das, was von der Zeit nicht
-      berührt wird. Der Mensch kann im vertieften Denken einen Bereich betreten, der nicht an die
-      Bedingungen der Zeit gebunden ist. Ein Gedanke – etwa ein mathematischer Satz – hat eine
-      zeitlose Gültigkeit, unabhängig davon, wann und wo er erfasst wird. In diesem Sinne lebt der
-      Mensch mit seinem Denken, wenn er es genügend vertieft, in der geistigen Weltwirklichkeit. Das
-      Ewige des Menschen besteht darin, dass das Denken der Hierarchien des Kosmos ein Ewiges ist.
-      Der einzelne Mensch ist ein Gedanke, der von diesen Hierarchien gedacht wird. Sein wahres
-      Wesen wird von einer Kategorie der Hierarchien an die nächste übergeben, so wie ein Gedanke
-      vom Lehrer an den Schüler weitergegeben wird. So fühlt sich der Mensch hineingestellt in die
-      Gedankenwelt des Kosmos. Ewigkeit ist demnach keine Dauer, sondern eine Seinsweise, die im
-      Erleben des reinen, von Sinneseindrücken unabhängigen Denkens erfahren werden kann. In diesem
-      Erleben wird der Mensch seiner Zugehörigkeit zu einer zeitlosen, geistigen Wirklichkeit inne.
+    text: >-
+      Ewig nennt Steiner mit Goethe zuerst die Idee: „Die Idee ist ewig und einzig.“ Der Gedankeninhalt der Welt ist aus sich selbst bestimmt und nur einer, und es ist gleichgültig, wie viele geistbegabte Wesen ihm gegenüberstehen. Der menschliche Geist ist kein Behälter, der Gedanken erzeugt und aufbewahrt, sondern ein Organ, das sie wahrnimmt, wie das Auge das Licht. Was an den Dingen als Gesetz und Wesen erscheint, ist dieser Ideengehalt, und das Denken ist der Kern der Welt.
+
+      Eine ewige Ideenwelt jenseits der Dinge, wie Platon sie fasst, übernimmt Steiner nicht. Die Unterscheidung von Idee und Wahrnehmung hat nur Berechtigung für die Art, wie menschliche Erkenntnis zustande kommt. Außerhalb des Menschen gibt es keine ideenlose Sinneswelt, und das Ewige liegt nicht in einem von der Natur abgesonderten Reich. Im Erkennen schaut der Mensch die Idee als Wirklichkeit, wie das sinnliche Auge den physischen Teil des Pflanzenwesens sieht.
+
+      Für die Seele skizziert Steiner als Ausblick einer Geisteswissenschaft: Ihr wahres Wesen liegt hinter dem gewöhnlichen Erleben und erhält sich im Tod geistig, wie der Pflanzenkeim nach dem Hinsterben der Pflanze. Das gewöhnliche Bewusstsein dauert nur so lange wie sein Spiegelungsapparat, der physische Körper. Ein anderes, leibfreies Bewusstsein wird durch innere Seelenarbeit gefunden, und dabei erweist sich der Gedanke als Erzieher der Seele.
   - term: Fähigkeit
     chunk_id: 2f0eb2b7-162a-53de-9739-fd52a05815ea
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Fähigkeit bezeichnet eine Kraft der menschlichen Seele, die nicht von Natur aus gegeben ist,
-      sondern durch eigene Tätigkeit entwickelt wird. Sie erwächst aus dem inneren Vollzug des
-      Denkens und Handelns und ist an die Initiative des Einzelnen gebunden. Der Mensch eignet sich
-      Fähigkeiten an, indem er sich bewusst in die Gedankenwelt hineinlebt und aus ihr schöpft. So
-      wie das Gedächtnis aus dem dumpfen Kindeserleben erwächst, so kann die Seele auf einer höheren
-      Stufe die Fähigkeit erlangen, aus sich selbst heraus Begriffe hervorzubringen, die nicht bloß
-      äußere Eindrücke abbilden, sondern eigenständige geistige Erzeugnisse sind.
+      Fähigkeit bezeichnet in Steiners Texten, was der einzelne Mensch an Können in das Leben hineinträgt. Die Kernpunkte der sozialen Frage sehen darin eine dritte Quelle neben Wirtschaftsleben und Rechtsbewusstsein: Alles, was diese hervorbringen, wird von den individuellen Fähigkeiten durchwirkt. Das Gebiet reicht von den höchsten geistigen Leistungen bis zu dem, was durch bessere oder weniger gute körperliche Eignung in ein Menschenwerk einfließt. Fähigkeiten sind von Mensch zu Mensch verschieden. Die Philosophie der Freiheit hält das auch für das Ideenleben fest: Die Menschen sind dem Intuitionsvermögen nach verschieden, dem einen sprudeln die Ideen zu, der andere erwirbt sie sich mühselig.
 
-
-      Fähigkeit ist die Grundlage für Freiheit und selbstbestimmtes Handeln. Sie befähigt den
-      Menschen, aus eigenem Impuls tätig zu sein und nicht nur fremden Antrieben zu folgen. Im
-      sozialen Leben zeigt sich dies darin, dass der Einzelne frei über seine individuellen
-      Fähigkeiten verfügen können muss, um sie fruchtbar in den Kreislauf der Wirtschaft
-      einzubringen. Die freie Verfügung über die Produktionsmittel ist dabei so notwendig wie die
-      freie Anwendung der Geschicklichkeit der eigenen Leibesglieder.
-
-
-      Eine gesunde soziale Ordnung erkennt an, dass die individuellen Fähigkeiten aus einer eigenen
-      Quelle stammen – aus der freien Empfänglichkeit des Menschen und den Impulsen, die aus diesen
-      Fähigkeiten selbst kommen. Sie dürfen nicht durch äußere Zwänge oder starre Regeln bestimmt
-      werden, sondern müssen aus dem Inneren des Einzelnen in das Gemeinwesen einfließen.
+      Fähigkeiten entwickeln sich nur, wenn ihre Träger sie aus eigener freier Initiative zur Wirkung bringen können. Sie müssen deshalb von der freien Empfänglichkeit der Menschen und von den Impulsen abhängen, die aus den Fähigkeiten selbst kommen. Steuern Wirtschaftsleben oder Staat sie, ist diese Empfänglichkeit gelähmt. Das Kapital ist das Mittel, solche Fähigkeiten für weite Gebiete des sozialen Lebens in Wirksamkeit zu bringen. Wer fähig ist, muss darüber frei verfügen können. Der Mensch ist mit dem, was er erzeugt, verbunden wie mit der Geschicklichkeit seiner Leibesglieder, und die Unterbindung der freien Verfügung gleicht einer Lähmung dieser Geschicklichkeit. Den Ertrag seiner Leistung kann der Tätige nur im Einklang mit dem freien Verständnis anderer Menschen bemessen.
   - term: Freies Geistesleben
     chunk_id: b5dca6a9-aa45-51c2-989e-e9fca85a63a1
     language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: Der Begriff bezeichnet ein eigenständiges, von Staat und Wirtschaft unabhängiges Gebiet des
-      gesellschaftlichen Lebens. Es umfasst Bereiche wie Erziehung, Wissenschaft, Kunst, Religion
-      und Rechtspflege, die aus individueller Einsicht und schöpferischer Kraft entstehen. Das freie
-      Geistesleben darf weder von staatlicher Bevormundung noch von wirtschaftlichem Gewinnstreben
-      gelenkt werden. Es lebt aus der Freiheit des einzelnen Menschen, unabhängig von äußeren
-      Zwängen. Gefordert wird die völlige Verselbständigung des Geisteslebens, einschließlich des
-      Erziehungs- und Schulwesens. Ein Geistesleben, das seine Direktiven von der politischen
-      Verwaltung oder von den Mächten des Wirtschaftslebens erhält, kann keine Schule pflegen, deren
-      Impulse von der Lehrerschaft selbst restlos ausgehen. Eine freie Schule stellt Menschen in das
-      Leben, die im Staat und in der Wirtschaft ihre volle Kraft entfalten können. Das freie
-      Geistesleben schafft aus den Tiefen der Menschenwesenheit Interessen, welche die Arbeit und
-      alles Wirken in die Gemeinschaft ziel- und inhaltbegabt hineinstellen. Es erzeugt in den
-      Menschen das Bewusstsein, dass sie mit ihren Fähigkeiten sinnvoll im Dasein stehen, weil es
-      diese Fähigkeiten um ihrer selbst willen pflegt. Die Gemeinschaft nimmt unter dem Einfluss so
-      gepflegter Fähigkeiten stets den Charakter an, in dem sich diese auch auswirken können. Das
-      Rechts- und Wirtschaftsleben erhalten ein Gepräge, das den entwickelten Fähigkeiten
-      entspricht.
+    tags: [concept, assistant-generated]
+    text: >-
+      Freies Geistesleben bezeichnet in Steiners Dreigliederungsschriften das selbstständige Glied des sozialen Organismus, in dem Erziehung und Unterricht, aus denen alles geistige Leben herauswächst, ihre Impulse aus sich selbst nehmen. Das Geistesleben ist innerhalb des Staatsgefüges zur Freiheit herangewachsen und kann in dieser Freiheit nur leben, wenn ihm die volle Selbstverwaltung gegeben wird. Sie liegt bei denen, die erziehen und unterrichten: Niemand gibt Vorschriften, der nicht selbst im lebendigen Unterrichten und Erziehen steht, und in diese Verwaltung soll nichts hineinreden, was im Staat oder in der Wirtschaft tätig ist. Was im Unterricht unmittelbar erfahren wird, fließt so in die Verwaltung ein.
+
+      Der Staat hat das Schulwesen den Religionsgemeinschaften entrissen und bildet die Menschen so aus, wie er sie für seine Leistungen braucht. Die Schule soll dagegen fragen, was im Menschen veranlagt ist und entwickelt werden kann, nicht was die bestehende soziale Ordnung braucht. Staat und Wirtschaft empfangen die vom freien Geistesleben herangebildeten Menschen und richten sich nach den Ergebnissen seiner Arbeit. Steiner erwartet daher keine lebensfremden Menschen, sondern Menschen mit Eifer und Lust zum Wirken im sozialen Organismus, weil der Lehrer die individuellen Fähigkeiten frei entwickeln kann, solange seine eigenen in Freiheit walten dürfen.
   - term: Freiheit
     chunk_id: 4ebd8d51-27b6-5a94-ab6d-8624aaf0dbae
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Freiheit ist für diese Auffassung kein Zustand, der einem Menschen von Natur aus zukommt,
-      sondern eine Fähigkeit, die er durch Einsicht erlangt. Frei sein heißt, die dem eigenen
-      Handeln zugrunde liegenden Vorstellungen und Beweggründe aus sich selbst heraus bestimmen zu
-      können. Dies geschieht durch die moralische Fantasie, die aus der eigenen Ideenwelt schöpft.
-      Ein Mensch handelt frei, wenn er nicht aus blindem Drang oder äußeren Zwängen, sondern aus
-      bewussten, selbst gewählten Motiven tätig wird. Der freie Mensch ist sein eigener Gesetzgeber;
-      er lässt sich keine Vorschriften von einer äußeren Macht geben, sondern folgt dem, was als
-      Gedankeninhalt in seiner Persönlichkeit lebt. Freiheit ist unmöglich, wenn etwas außerhalb des
-      Menschen seine moralischen Vorstellungen bestimmt – sei es ein mechanischer Prozess oder ein
-      außerweltlicher Gott.
+      Freiheit ist in der Philosophie der Freiheit eine Eigenschaft des Handelns, kein Naturzustand. Frei sein heißt, die dem Handeln zugrunde liegenden Vorstellungen durch die moralische Fantasie von sich aus bestimmen zu können. Freiheit ist unmöglich, wenn etwas außer dem Menschen, ein mechanischer Prozess oder ein erschlossener außerweltlicher Gott, seine moralischen Vorstellungen bestimmt. Ob jemand umsetzen kann, was er will, hängt dagegen von äußeren Umständen und seiner technischen Geschicklichkeit ab. Die wahre Freiheit liegt darin, sich die Gründe seines Wollens selbst zu bestimmen.
 
-
-      Im gesellschaftlichen Zusammenleben zeigt sich die Freiheit darin, dass der freie Mensch aus
-      eigenem Antrieb das vollbringt, was der Staat von einem selbstsüchtigen Menschen fordern
-      müsste. In einer Gemeinschaft freier Menschen bedarf es keiner Zwangsgesetze. Der Freie lebt
-      im Vertrauen darauf, dass der andere Freie mit ihm einer geistigen Welt angehört und sich in
-      seinen Intentionen mit ihm begegnen wird. Ein Aufeinanderprallen ist bei sittlich freien
-      Menschen ausgeschlossen, denn sie folgen nicht blinden Trieben oder äußeren Geboten, sondern
-      ihren eigenen Intuitionen aus der gemeinsamen Ideenwelt.
+      Die Triebfedern des Handelns steigen vom Trieb über Gefühl, Takt und praktische Erfahrung bis zur Intuition, bei der reines Denken handelt. Eine Handlung wird als frei empfunden, soweit ihr Grund aus dem ideellen Teil des individuellen Wesens hervorgeht. Was aus dem Zwang der Natur oder aus der Nötigung einer sittlichen Norm geschieht, empfindet der Mensch als unfrei. Wer nur Normen vollstreckt, ist ein höherer Automat. Der Freie handelt aus Liebe zur Tat. Das Individuelle in ihm ist nicht der Organismus mit seinen Trieben, sondern die einige Ideenwelt, die in diesem Organismus aufleuchtet. Weil alle aus derselben Ideenwelt schöpfen, ist bei sittlich freien Menschen ein Aufeinanderprallen ausgeschlossen.
   - term: Frieden
     chunk_id: 6c821db3-7087-5c74-8c4f-4eff1695222e
     language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: Frieden ist kein Zustand, der durch Verträge, äußere Ordnung oder ein festgelegtes Endziel
-      hergestellt werden kann. Er ist vielmehr eine Bedingung, die man ermöglicht, indem man die
-      Ursachen der gesellschaftlichen Unruhe an ihrer Wurzel erfasst. Diese Ursache liegt darin,
-      dass die drei Bereiche des sozialen Lebens – die Entwicklung der geistigen Fähigkeiten, die
-      Ordnung der rechtlichen Verhältnisse und die Gestaltung des wirtschaftlichen Lebens – nicht
-      aus ihrer eigenen Gesetzmäßigkeit heraus gestaltet werden. Solange ein Bereich, etwa das
-      Wirtschaftsleben, die Führung über die anderen beansprucht und die Rechte der Menschen sowie
-      ihre Erziehung nach seinen Interessen ordnet, wird der Mensch zum bloßen Rad in einem
-      Mechanismus. Sein Geist verkümmert, weil er sich nicht nach eigenen Impulsen entfalten kann.
-      Frieden im sozialen Organismus entsteht erst dann, wenn diese drei Bereiche von verschiedenen
-      Mittelpunkten her und nach verschiedenen Gesichtspunkten geregelt werden. Dann kann der
-      wirtschaftliche Kreislauf unabhängig von politischen Grenzen nach seiner eigenen
-      Gesetzmäßigkeit ablaufen, und der geistige Austausch kann frei und ungehemmt stattfinden. Ein
-      solcher Friede ist kein erreichbares Ideal, sondern die Folge einer wirklichkeitsgemäßen
-      Ordnung, die der elementaren Unruhe der Menschen Herr wird, bevor diese zur Selbstzersetzung
-      der Kultur führt.
-  - term: Gattung
-    chunk_id: 8a9e432c-c43f-5011-9fc4-98054acab41e
-    language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, curated]
     text: >-
-      Die Gattung bezeichnet kein bloßes äußeres Klassifikationsmerkmal, sondern eine innere,
-      gesetzmäßige Wirklichkeit, die sich in den einzelnen Exemplaren ausdrückt. Sie ist das
-      gestaltende Prinzip, das der äußeren Erscheinung eines Organismus zugrunde liegt. Während in
-      der unorganischen Natur eine Tatsache aus anderen Tatsachen erklärt werden kann, bedarf es in
-      der organischen Welt eines zusätzlichen Faktors: eines inneren Prinzips, das sich nicht passiv
-      von äußeren Einwirkungen bestimmen lässt, sondern sich aktiv aus sich selbst heraus unter
-      deren Einfluss formt. Dieses innere Prinzip ist die Gattung als lebendige Idee, die der
-      denkenden Anschauung zugänglich ist. Sie ist eine reale, gestaltende Kraft; der einzelne
-      Organismus ist die Erscheinung dieser übergeordneten Wirklichkeit. Die spezialisierte Gestalt
-      eines Lebewesens muss daher aus diesem inneren Prinzip abgeleitet werden, während die äußeren
-      Umstände erklären, warum sich gerade diese besondere Form entwickelt hat.
+      Nach der Dreigliederungsidee ergibt sich Frieden nicht aus Verabredungen, sondern aus der Gliederung der sozialen Organismen. Was getan werden soll, setzt sich durch die Kraft eines in wirklichen Menschheitsimpulsen wurzelnden Ziels durch, nicht durch Feststellungen auf Kongressen. Die geschichtlich gewordenen Staatengebilde fassen Geistes-, Rechts- und Wirtschaftsleben zusammen und geraten in internationale Beziehungen, die zu einer Katastrophe drängen. Der russisch-ukrainische Konflikt zeigt, dass die politischen Grenzen des Einheitsstaats von einem Zeitpunkt an keine Kulturgrenzen sein dürfen.
 
-
-      Für den Menschen verhält es sich anders. Er trägt zwar als Naturwesen ebenfalls gattungsmäßige
-      Züge an sich, die durch Rasse, Volk oder Familie bedingt sind. Von diesem Gattungsmäßigen
-      macht er sich jedoch frei. Das menschlich Gattungsmäßige ist, richtig erlebt, nichts die
-      Freiheit Einschränkendes. Der Mensch entwickelt Eigenschaften, deren Bestimmungsgrund nur in
-      ihm selbst zu suchen ist. Das Gattungsmäßige dient ihm dabei nur als Mittel, um seine
-      besondere Wesenheit auszudrücken.
+      In einem gegliederten Organismus hat jedes der drei Gebiete sein selbstständiges Verhältnis zu den entsprechenden Gebieten anderer Organismen. Wirtschaftliche Beziehungen entstehen, ohne dass die Beziehungen der Rechtsstaaten unmittelbar Einfluss haben, und umgekehrt. Durch diese Unabhängigkeit wirken sie in Konfliktfällen ausgleichend aufeinander. Das auf sich gestellte Geistesleben bildet Verhältnisse über Staatsgrenzen hinweg: Eine Volkskultur breitet sich friedlich aus, wenn sie nur durch Einrichtungen geschieht, die von den geistigen Organismen abhängen. Ein Völkerbund entsteht aus wirklichkeitsgemäßen Grundimpulsen und muss nicht aus einseitigen Rechtsanschauungen eingesetzt werden. Jeder einzelne soziale Organismus kann die Gliederung verwirklichen, gleichgültig, wie sich andere Länder verhalten.
   - term: Gedanke
     chunk_id: e7b8e47a-29fa-5bc0-a152-507c68d542d0
     language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: Der Gedanke ist nicht als bloßes Abbild einer äußeren Wirklichkeit zu verstehen. Er ist
-      vielmehr ein Vorgang, den der Mensch selbsttätig hervorbringt. Die Seele lernt ihn als ihr
-      eigenes Erzeugnis fühlen. Zugleich ist das Denken ein Organ, das bestimmt ist, eine Seite der
-      Wirklichkeit zu erfassen, die den Sinnen verborgen bleibt. Die Wahrnehmung liefert nur den
-      einen Teil der Wirklichkeit; die denkende Erfassung den anderen. Erst im Zusammenhang beider,
-      in der denkenden Beobachtung, ergibt sich volle Wirklichkeit. Der Gedanke ist daher weder ein
-      privates inneres Bild noch ein inhaltsleeres Gefäß. Er ist ein in sich vollendeter,
-      gesetzmäßiger Inhalt, der zugleich als Tätigkeit des Bewusstseins erscheint. Der Mensch nimmt
-      von seiner denkerischen Tätigkeit meist nur die letzte Phase wahr. Doch im höchsten Erkennen
-      ergreift der Gedanke sich selbst und hat es nur mit sich allein zu tun. Er fragt dann nicht
-      mehr nach einer Übereinstimmung mit etwas Äußerem. Der Gedanke ist die Brücke, die das
-      subjektive Erleben mit der objektiven Gesetzmäßigkeit der Welt verbindet. Er muss aus eigener
-      Kraft hervorgebracht werden, ist aber nicht subjektiv, sondern allgemein. In ihm wirkt das,
-      was die Welt im Innersten zusammenhält, als bewusste Tätigkeit des Menschen.
-  - term: Gedankeninhalt
-    chunk_id: aeea9e41-95ec-5199-8518-136d70b8975b
-    language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Der Gedankeninhalt ist dasjenige, was im Denken als reine, von aller Sinneswahrnehmung
-      unabhängige geistige Wirklichkeit erscheint. Wenn du einen Gedanken fasst, etwa den eines
-      Dreiecks, dann entnimmst du alle Bestimmungen dieses Gedankens der Gedankenwelt selbst. Von
-      dem äußeren Sinnesobjekt fließt nichts in diesen Inhalt ein. Das Objekt kann dich zwar
-      veranlassen, in einem bestimmten Augenblick gerade diesen Gedankeninhalt aus der Einheit aller
-      möglichen Gedanken hervorzutreiben, aber es liefert dir nicht die Bausteine dazu. Die musst du
-      aus dir selbst herausholen.
+      Der Gedanke ist das, was der Mensch im Denken selbst hervorbringt, und zugleich der Inhalt, der dabei erscheint. Der Gedankengehalt der Welt zeigt zwei Seiten: Das eine Mal erscheint er als Tätigkeit des Bewusstseins, das andere Mal als unmittelbare Erscheinung einer in sich vollendeten Gesetzmäßigkeit, eines in sich bestimmten ideellen Inhalts. Wesentlich ist die objektive Seite des Inhalts, nicht die subjektive des Auftretens. Der Mensch gibt nur die Gelegenheitsursache her, damit sich der Inhalt seiner eigenen Natur gemäß entfaltet: Wie sich ein Gedanke zu einem anderen verhält, bestimmt der Inhalt beider und nicht die Organisation des Denkenden. Der Gedanke ist daher weder ein Bild einer äußeren Sache noch ein inhaltsleeres Gefäß.
 
-
-      Der Gedankeninhalt ist allgemein und gilt unabhängig von Ort und Zeit. Es gibt nur einen
-      Gedankeninhalt der Welt, dem unbestimmt viele geistbegabte Individuen gegenüberstehen können.
-      Dein Bewusstsein ist nicht die Fähigkeit, Gedanken zu erzeugen und aufzubewahren, sondern sie
-      wahrzunehmen. Der Gedanke lebt im Vollzug des Denkens; er ist kein starres Gebilde, sondern
-      etwas, das in fortwährender Bewegung ist. Wenn du den allgemeinen Gedanken eines Dreiecks
-      erfassen willst, musst du ihn in dieser Beweglichkeit haben, nicht als abgeschlossenes Bild.
-
-
-      Im Gedankeninhalt erlebst du dich als unmittelbar Tätiges. Anders als bei der Lust, die dir
-      durch einen Gegenstand erzeugt wird wie eine Veränderung, bist du dir bewusst, dass der
-      Begriff durch deine eigene Tätigkeit gebildet wird. Der Gedankeninhalt ist diejenige
-      Wirklichkeit, die du selbst hervorbringst und in der du dich als frei erfahren kannst.
+      Ein Sinnesobjekt wendet dem Menschen zunächst nur seine Außenseite zu. Der Gedanke tritt als in sich vollendete Ganzheit ins Bewusstsein, und der Mensch muss ihn durchleben und seinen Inhalt nachschaffen, wenn er Bedeutung für ihn haben soll. Weil er innerhalb dieses Inhalts steht und ihn durchdringt, kennt er dessen eigenste Natur. Das gegenwärtige Denken lässt sich nie beobachten, sondern nur nachträglich in einem zweiten Akt. Weil der Mensch es selbst hervorbringt, kennt er den Zusammenhang der Gedanken unmittelbar. Da der Mensch nur im Denken eine ideelle Bestimmtheit erfährt, muss die Gesetzmäßigkeit der übrigen Welt schon im Denken eingeschlossen liegen. Das Sinnesobjekt liefert keine Bausteine des Gedankens, es veranlasst nur, ihn aus der Gedankenwelt hervorzuholen. Dann redet die zuvor stumme Wirklichkeit eine deutliche Sprache.
   - term: Geistesleben
     chunk_id: 30521989-4b37-5703-8b1c-d67397aa03e8
     language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: "Das Geistesleben umfasst nach dieser Auffassung alle Bereiche, die aus den individuellen
-      Fähigkeiten und schöpferischen Impulsen des Menschen hervorgehen: Wissenschaft, Kunst,
-      Religion, Erziehung und jede freie Betätigung. Es ist nicht durch Tausch oder äußeren Zwang
-      bestimmt, sondern durch die freie Hingabe an eine Sache oder Idee. Damit es seine volle Kraft
-      entfalten kann, muss es von staatlicher Bevormundung und wirtschaftlichen Abhängigkeiten
-      befreit sein. Es bedarf einer eigenen Selbstverwaltung durch diejenigen, die selbst auf diesem
-      Gebiet tätig sind – also vor allem durch die Erziehenden und Unterrichtenden. Niemand, der
-      nicht selbst im lebendigen Unterricht steht, soll in diese Verwaltung hineinreden. Ein solches
-      freies Geistesleben schafft aus den Tiefen der menschlichen Wesenheit heraus Interessen, die
-      der Arbeit in der Gemeinschaft Ziel und Inhalt geben. Es erzeugt das Bewusstsein, mit den
-      eigenen Fähigkeiten sinnvoll im Dasein zu stehen, weil es diese Fähigkeiten um ihrer selbst
-      willen pflegt. Die Gemeinschaft und auch das Rechts- und Wirtschaftsleben werden dann das
-      Gepräge annehmen, das diesen entwickelten Fähigkeiten entspricht. Die Forderung ist daher die
-      vollständige Autonomie des Geisteslebens als eines eigenständigen, gleichberechtigten Gliedes
-      des sozialen Organismus, neben einem demokratischen Rechtsleben und einem selbständigen
-      Wirtschaftsleben. Nur so können die individuellen Fähigkeiten zum Dienst des sozialen Lebens
-      wahrhaft gepflegt werden."
+    tags: [concept, assistant-generated]
+    text: >-
+      Das Geistesleben ist das geistige Glied des dreigliedrigen sozialen Organismus. Es umfasst Wissenschaft, Kunst, Religion, das Erziehungswesen und die richterliche Rechtsprechung. Sein Inhalt ist eng mit dem innersten Wesen des Menschen verbunden, in dem er sich entfaltet; im geistigen Gebiet waltet eine über das materielle Außenleben hinausgehende Wirklichkeit, die ihren Inhalt in sich selber trägt. Deshalb kann die Entfaltung nur frei sein, wenn sie durch keine anderen Impulse in den sozialen Organismus hineingestellt wird als durch solche, die aus dem Geistesleben selbst kommen. Es gestaltet sich aus dem freien Zusammenwirken aller geistig-schöpferischen Einzelpersönlichkeiten und gibt sich eigene Verwaltungskörper. Seine Selbstverwaltung richtet sich nur nach menschheitspädagogischen Gesichtspunkten; nur in ihr lassen sich die individuellen Fähigkeiten einer Menschengemeinschaft zum Dienst des sozialen Lebens wahrhaft pflegen.
+
+      Das Geistesleben ist mit dem politischen Staat und dem Wirtschaftsleben verschmolzen. Wo der Staat die Erziehungs- und Unterrichtsnormen festsetzt, wird es ohnmächtig gegenüber der Gestaltung des sozialen Lebens. Man hält es deshalb für einen Ausfluss des Wirtschaftens und der staatlichen Bedürfnisse. Die Gesundung liegt dagegen darin, die Abhängigkeit von Staat und Wirtschaft aufzuheben und Geistes-, Rechts- und Wirtschaftsleben als selbständige Glieder nebeneinanderzustellen. Staat und Wirtschaft erhalten den Zufluss, den sie brauchen, aus dem sich selbst verwaltenden Geistesorganismus.
   - term: Geisteswissenschaft
     chunk_id: 7c5eb4ef-8fa4-50b0-bbe4-90ccf6afa29d
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Die Geisteswissenschaft ist eine methodisch betriebene Erkenntnisarbeit, die sich auf das
-      Übersinnliche, den geistigen Weltgehalt, richtet. Sie geht von der Beobachtung aus, dass der
-      Mensch mit seinem Denken den Kern der Wirklichkeit wesenhaft erfassen kann. Der Erkennende
-      schult sein Denken durch innere Arbeit, um zu einer „leibfreien Beobachtung“ zu gelangen.
-      Diesen Vorgang, in dem das Wesen der Dinge im Denken selbst erfasst wird, nennt man intuitive
-      Anschauung.
+      Geisteswissenschaft ist die Wissenschaft, die über die Naturerkenntnis hinausgeht. Hier hat es das Bewusstsein mit geistigem Inhalt selbst zu tun: mit dem einzelnen Menschengeist, den Schöpfungen der Kultur, der Literatur und der Kunst, den aufeinanderfolgenden wissenschaftlichen Überzeugungen. Geistiges wird durch den Geist erfasst. In der Naturwissenschaft tritt das Ideelle erst im Nachdenken über die Gegenstände hervor; hier trägt die Wirklichkeit das Ideelle schon in sich, das Wesen ist im Objekt auch ohne die Arbeit der Wissenschaft da. Es ist eine Auseinandersetzung des Menschen mit sich selbst. Ihre Hauptformen sind Psychologie, die Erkenntnis des Völkerlebens und Geschichte. Das Besondere ist hier nicht Durchgangspunkt, sondern der Gegenstand selbst; die Hingabe an das Objekt ist die einzig richtige Methode. Weil der Mensch sich seine Ziele selbst setzt, sind die Geisteswissenschaften Freiheitswissenschaften.
 
-
-      Die Geisteswissenschaft unterscheidet sich von der Naturwissenschaft grundlegend durch ihren
-      Gegenstand. Während die Naturwissenschaft das Ideelle, die Gesetzmäßigkeit, erst durch das
-      Nachdenken über die Gegenstände hervorbringt, ist dieses Ideelle im Geistigen bereits
-      eingeboren. Geistiges wird durch den Geist erfasst; das Wesen ist im Objekt auch ohne die
-      wissenschaftliche Arbeit schon da. Die Wissenschaft hat hier die Aufgabe, den Menschen mit
-      sich selbst und seinen kulturellen Schöpfungen auseinanderzusetzen.
-
-
-      Ihre Ergebnisse sind nicht einfach nachzulesen, sondern für denjenigen nachprüfbar, der die
-      Erkenntnisschritte der leibfreien Beobachtung durch eigene innere Arbeit selbst vollzieht. Die
-      Geisteswissenschaft schöpft dabei nicht allein aus dem Verstand, sondern aus allen
-      Seelenkräften des Menschen, um eine Lebensansicht zu gestalten, die aus dem neueren
-      Wissenschaftsgeist selbst erwächst und befruchtend auf die soziale Gestaltung des Lebens
-      wirken kann.
+      Die anthroposophisch orientierte Geisteswissenschaft erkennt die Naturwissenschaft an, sieht aber, dass diese nur den äußeren Menschen erfasst. Sie entwickelt Erkenntnismethoden, die in die Schächte des Menschen-Innern hinuntersteigen, in denen sich das außermenschliche Geschehen ins Innere fortsetzt. Ihre Erkenntnisse sind im Innern erlebte Wirklichkeit. Sie drängen sich zu Ideen zusammen, die nicht erdacht, sondern von den Kräften der Wirklichkeit gesättigt sind. Solche Ideen können deshalb auch dem sozialen Wollen die Richtung geben; aus ihr hat sich der Impuls der Dreigliederung entwickelt.
   - term: Geistige Welt
     chunk_id: 27f780fa-363a-5cff-9ab2-5e9d62a8500a
     language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: Die geistige Welt ist nach diesem Verständnis keine jenseitige Sphäre, die dem Menschen
-      grundsätzlich verschlossen bleibt. Sie ist eine Wirklichkeitsebene, die dem Menschen durch
-      eine gesteigerte, methodische Erkenntnistätigkeit zugänglich wird. Der Ausgangspunkt dafür ist
-      das Denken selbst. Der Mensch erlebt im Gedanken etwas unmittelbar Tätiges, das er überschauen
-      kann. Die volle Wirklichkeit ergibt sich nicht aus der bloßen Wahrnehmung oder dem abstrakten
-      Begriff allein, sondern erst aus dem Zusammenhang beider, aus der denkenden Beobachtung. Die
-      Wahrnehmung ist der objektiv gegebene Teil der Wirklichkeit, der Begriff der subjektiv durch
-      Intuition gegebene. Unsere geistige Organisation reißt die Wirklichkeit in diese beiden
-      Faktoren auseinander. Erst ihre gesetzmäßige Verbindung führt zur vollen Wirklichkeit. Das
-      Denken ist dabei nicht bloßes Abbild einer äußeren Welt, sondern schöpferisch. Die Begriffe
-      werden nicht von den Dingen abgelesen, sondern aus dem Inneren herausgeholt. Das Sinnesobjekt
-      veranlasst nur, einen bestimmten Gedankeninhalt aus der Einheit aller möglichen Gedanken
-      hervorzutreiben. Die Bausteine dafür liefert es nicht. In der Seele eröffnet sich so der
-      Ausblick auf eine Wirklichkeit, die den Sinnen unzugänglich ist. Die geistige Welt ist demnach
-      kein fertiges Reich, das unabhängig vom Menschen existiert, sondern sie wird im Akt des
-      erkennenden Denkens verwirklicht.
+    tags: [concept, assistant-generated]
+    text: >-
+      Die geistige Welt ist eine Wirklichkeit, die den Sinnen unzugänglich ist. Für das gewöhnliche Bewusstsein bleibt sie verschleiert, weil dieses Bewusstsein das selbstbewusste Ich erkraftet und dafür den Zusammenhang des Ich mit der objektiven Welt verhüllt. Durch bloßes Nachdenken kommt man nicht hinter die Sinneswelt. Der Zugang entsteht durch innere Seelenarbeit: Man fasst die Tätigkeit des Denkens als solche ins Geistesauge und steigert Aufmerksamkeit und liebevolle Hingabe, bis sie wie neue Seelenkräfte wirken. So gewinnt die Seele ein Erleben, das von den Bedingungen der leiblichen Organe unabhängig ist, die leibfreie Beobachtung. Die geistige Welt ist nicht die Summe der Kulturerlebnisse der Menschheit, denn diese erlebt der Mensch nur in Verbindung mit seinen Leibesorganen.
+
+      Die so erkannte Welt hat einen Gesetzeszusammenhang, ähnlich dem der Naturwissenschaft für die physische Welt, und steht mit dieser nirgends im Widerspruch. Sie ist kristallklar wie ein mathematisches Ideengebäude, keine nebelhafte Mystik. Theoretische Beweise für ihre Wirklichkeit gibt es nicht, aber ebenso wenig für die Wirklichkeit der Wahrnehmungswelt; es entscheidet das Erleben selbst. Wer ernsthaft übt, unterscheidet Illusion von geistiger Wirklichkeit so sicher wie im gewöhnlichen Leben ein Phantasiegebilde von einer Wahrnehmung. In dieser Welt hat die Seele ihr Grundwesen, und aus ihr ragen die sittlichen Impulse ins Seelenleben herein. Der Körper ist ein Spiegelungsapparat dessen, was sich außerhalb von ihm seelisch-geistig abspielt.
   - term: Gemüt
     chunk_id: ecd71c0e-aa3b-53c7-af4b-aece168cdda3
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Das Gemüt ist jene seelische Verfassung, in der Eindrücke und innere Regungen noch
-      ungeschieden zusammenwirken, bevor sie durch das Denken in klare Begriffe gefasst werden. Es
-      ist der Ort, an dem erste Ahnungen, Sympathien und Antipathien aufkeimen, ohne bereits eine
-      feste gedankliche Form anzunehmen. In diesem Sinne ist das Gemüt ein offenes, empfangendes
-      Organ: Es nimmt die Welt auf, wie sie sich ihm darbietet, und lässt sie auf sich wirken, ohne
-      sogleich zu urteilen oder zu ordnen.
-
-
-      Doch das Gemüt allein führt nicht zur Erkenntnis. Es bleibt im Vorfeld des bewussten Erkennens
-      stehen. Erst wenn der Mensch sein Denken in Bewegung setzt und die Eindrücke des Gemüts mit
-      klaren Gedanken durchdringt, erschließt sich ihm die innere Wesenheit der Dinge. Das Gemüt
-      liefert den Stoff, das Denken die Form. Wer sich nur dem Gemüt überlässt, verharrt in einer
-      unbestimmten Innerlichkeit; wer das Denken vernachlässigt, bleibt an der Oberfläche der
-      Erfahrung haften.
-
-
-      Die wahre Erkenntnisarbeit besteht darin, beides zu verbinden: die empfängliche Weite des
-      Gemüts mit der gestaltenden Kraft des Denkens. So wird das Gemüt zur Brücke zwischen der
-      unmittelbaren Begegnung mit der Welt und ihrer geistigen Durchdringung.
+      Das Gemüt ist die Seite der Seele, in der Gefühle und Empfindungen leben. Liebe und Mitleid sind Triebfedern des Handelns, die sich nicht in kalte Verstandesbegriffe auflösen lassen; hier treten Herz und Gemüt in ihre Rechte. Sie schaffen aber die Beweggründe des Handelns nicht, sondern setzen sie voraus und nehmen sie in ihren Bereich auf. Das Mitleid stellt sich im Herzen ein, wenn im Bewusstsein die Vorstellung einer mitleiderregenden Person aufgetreten ist. Der Weg zum Herzen geht durch den Kopf, der Gedanke ist der Vater des Gefühls. Auch die Liebe beruht, wo sie nicht bloße Äußerung des Geschlechtstriebes ist, auf den Vorstellungen, die wir uns vom geliebten Wesen machen.
+  
+      Das Gemüt hat Bedürfnisse. Der vernunftgemäßen Naturerklärung hat man die Fähigkeit abgesprochen, sie zu befriedigen. Wird ein Mensch in seiner Gemütswelt durch Naturerkenntnis beeinträchtigt, liegt das nicht an ihr, sondern an dem Menschen, dessen Empfindungen sich in eine falsche Richtung bewegen. Wer unbefangen forscht, fühlt sein Herz höher schlagen; die Zergliederung zerstört keine Naturschönheit, sondern enthüllt unzählige neue. In der Erziehung verkümmert die Willens- und Gemütsnatur, wenn einseitig der Intellekt in Anspruch genommen wird. Eine starke Gemüt bildende Kraft liegt in der künstlerischen Gestaltung des Unterrichts. Vor dem neunten Lebensjahr lässt man in märchenhafter Darstellung die Pflanzen-, Tier-, Luft- und Sternenwelt im Gemüt des Kindes leben.
   - term: Ich-Bewusstsein
     chunk_id: 908acb34-242d-5ef2-b726-dec51280ac63
     language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: "Das Ich-Bewusstsein entsteht nach dieser Auffassung nicht durch bloße Gedanken oder Gefühle,
-      sondern durch einen bewussten Selbstbezug des Denkens. Der Mensch tritt den Dingen als
-      Betrachtender gegenüber und reißt die Wirklichkeit in zwei Faktoren auseinander: die
-      Wahrnehmung, die objektiv gegeben ist, und den Begriff, den er subjektiv durch seine Tätigkeit
-      bildet. Volle Wirklichkeit entsteht erst im Zusammenhang beider, in der denkenden Beobachtung.
-      Das Ich verwirklicht sich im Denken, weil das Denken die Tätigkeit ist, die der Mensch aus
-      sich selbst hervorbringt. Er entnimmt die Bestimmungen des Gedankens aus der Gedankenwelt, die
-      er aus seinem Inneren herausholen muss. Das Ich kann sich durch Freiheit in Tätigkeit
-      versetzen und aus sich heraus durch Selbstbestimmung die Kategorie des Erkennens realisieren.
-      Die Vereinigung der sonst getrennt im Bewusstsein verbleibenden zwei Elemente der Wirklichkeit
-      kann nur durch einen Akt der Freiheit geschehen. Das Ich-Bewusstsein ist damit die Grundlage
-      der Freiheit: Handeln aus selbstgeprüften Motiven, nicht aus äußerem Zwang oder blindem Trieb.
-      Entscheidend ist nicht, ob man einen gefassten Entschluss ausführen kann, sondern wie der
-      Entschluss in einem selbst entsteht. Frei sein heißt, die dem Handeln zugrunde liegenden
-      Vorstellungen durch die moralische Fantasie von sich aus bestimmen zu können."
+    tags: [concept, assistant-generated]
+    text: >-
+      Das Ich-Bewusstsein entsteht, indem der Mensch nicht nur andere Dinge wahrnimmt, sondern sich selbst. Die Wahrnehmung meiner selbst hat den Inhalt, dass ich das Bleibende gegenüber den kommenden und gehenden Wahrnehmungsbildern bin. Ich sehe nicht bloß einen Baum, sondern weiß auch, dass ich es bin, der ihn sieht; mein Selbst bereichert sich um die Vorstellung des Baumes. Ich käme nie dazu, von Vorstellungen zu sprechen, wenn ich sie nicht in der Wahrnehmung meines Selbst erlebte. Das kraftvolle, in sich ruhende Selbstbewusstsein entsteht dadurch, dass die Kräfte, welche die Seele mit der Welt verbinden, aus dem Bewusstsein herausgedrängt werden. Seine Selbsterkenntnis verdankt das Ich einer Tatsache, die über die Welterkenntnis einen Schleier breitet. Das Losgelöstsein des Ich von der Welt ist nur eine Erscheinung des Bewusstseins und kann überwunden werden.
+
+      Als bloß setzende Tätigkeit bleibt das Ich leer: Es kann nichts bestimmen, wenn es nichts Inhaltsvolles findet, das ihm die Bestimmung des Gegebenen ermöglicht. Dieses Inhaltsvolle ist die Welt des Denkens, und das Gegebene durch das Denken bestimmen heißt Erkennen. Das Ich kann sich durch Freiheit in Tätigkeit versetzen und aus sich heraus durch Selbstbestimmung das Erkennen verwirklichen, denn die Vereinigung der im Bewusstsein sonst getrennt bleibenden Elemente der Wirklichkeit geschieht nur durch einen Akt der Freiheit. Im Denken allein ist das Element gegeben, das alle Dinge in ihren Verhältnissen zueinander bestimmt, auch das Verhältnis des Ich zur Außenwelt.
   - term: Ideal
     chunk_id: 7dbb6cc7-2959-5f64-9215-1b67fdaf0119
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Das Ideal ist für diese Anschauung kein bloßes Wunschbild oder eine abstrakte Forderung, die
-      von außen an den Menschen herantritt. Es ist vielmehr eine im Denken erfasste, lebendige
-      Wesenheit der Wirklichkeit. Der Mensch findet in seinem Innern die Ideen der Dinge, wenn er
-      sein Denken in Bewegung setzt. Dieses ideelle Innere der Wirklichkeit enthüllt sich ihm im
-      Denken. Das Ideal ist eine solche Idee, die nicht bereits durch eine Wahrnehmung bestimmt und
-      verwirklicht ist, sondern deren Verwirklichung erst durch den Menschen gefordert wird. Es ist
-      eine Intuition, die aus der moralischen Fantasie entspringt.
+      Ein Ideal ist eine Idee, die augenblicklich unwirksam ist, deren Verwirklichung aber gefordert wird. Es ist kein erdachtes oder erträumtes Gebilde, sondern etwas, das Leben hat, sich als reales Element in der menschlichen Wesenheit an die Oberfläche arbeitet und sich auch in der unvollkommensten Form seines Daseins deutlich ankündigt. Bei einem Ding der Außenwelt ist die Idee durch die Wahrnehmung bestimmt; wir haben das Unsrige getan, wenn wir den Zusammenhang erkannt haben. Beim Menschen ist das anders: Sein wahrer Begriff als sittlicher Mensch, als freier Geist, ist mit dem Wahrnehmungsbild „Mensch“ nicht im Voraus objektiv vereinigt. Der Mensch muss selbsttätig seinen Begriff mit der Wahrnehmung vereinigen, und er kann es nur, wenn er den Begriff des freien Geistes, das ist seinen eigenen Begriff, gefunden hat.
 
-
-      Anders als bei einem Naturgegenstand, dessen Begriff mit seiner Wahrnehmung objektiv vereinigt
-      ist, muss der Mensch als sittliches Wesen seinen eigenen Begriff selbsttätig mit der
-      Wahrnehmung „Mensch“ vereinigen. Das Ideal ist der Inhalt seines Wesens, den er verwirklichen
-      will, weil diese Verwirklichung seine höchste Lust ist. Er handelt nicht aus einem äußeren
-      Sollen, sondern aus der Einsicht in das, was er als berechtigt erkennt. Der Antrieb ist ein
-      ganz individueller. Wer ein Ideal verwirklicht, gibt den Schauplatz ab, auf dem das Sollen zum
-      Tun wird. Das Ideal ist somit keine ferne Utopie, sondern eine im menschlichen Geist lebendige
-      Kraft, die zur Tat drängt und in der unvollkommensten Form ihres Daseins sich bereits
-      ankündigt.
-  - term: Ideenwelt
-    chunk_id: 01d16da7-366d-5ddf-8fcf-c67825a42b36
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Die Ideenwelt ist die innere, geistige Seite der Wirklichkeit, die der Mensch im Denken
-      erlebt. Sie ist nicht mit der bloßen Wahrnehmung zu verwechseln. Die Wahrnehmung ist der
-      ideenfreie Teil der Wirklichkeit, den die Dinge dem Menschen freiwillig mitteilen. Die Idee
-      hingegen muss der Mensch den Dingen durch eigenes, aktives Denken entlocken. Erst die
-      Verbindung von Wahrnehmung und Idee ergibt die volle Wirklichkeit.
-
-
-      Im Innern der Persönlichkeit liegt der Schauplatz, auf dem die Dinge ihr ideelles Inneres
-      enthüllen. Der Mensch muss sein Denken in Bewegung setzen, dann erfüllt sich sein Inneres mit
-      den Ideen der Dinge. Diese Ideen sind nicht willkürlich oder subjektiv, sondern die Aussagen,
-      die ihm die Dinge zukommen lassen. Sie sind objektiv, aber nicht dinglich. Der Mensch bringt
-      die Ideen im Denken aktiv hervor; er vereinigt selbsttätig seinen Begriff mit der Wahrnehmung.
-
-
-      Die Ideenwelt ist kein jenseitiger Ort, sondern ein innerer Erfahrungsraum. Der Mensch soll
-      sich ihrer bemächtigen, um sie für seine menschlichen Ziele zu gebrauchen, nicht um sich ihr
-      zu unterwerfen. Er muss sich der Idee erlebend gegenüberstellen können, sonst gerät er unter
-      ihre Knechtschaft. In der Ideenwelt zeigt sich der Weltgrund selbst in seiner vollendetsten
-      Form, und der Mensch lebt sich durch das Denken geistig in die Wirklichkeit hinein.
-  - term: Illusion
-    chunk_id: f82b9d55-d98d-56ae-a7a7-c833ccf48af9
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: Illusion bezeichnet in dieser Betrachtung einen grundlegenden Zustand des menschlichen
-      Bewusstseins, solange es sich nicht selbst durchschaut. Der Mensch lebt zunächst in der
-      Illusion, dass die Welt so sei, wie sie ihm durch seine Sinne und seinen Verstand erscheint.
-      Er hält die Wahrnehmungen für eine fertige, von ihm unabhängige Wirklichkeit und die Begriffe,
-      die er an ihnen bildet, für bloße schattenhafte Nachbildungen. Diese Illusion wird
-      durchschaut, wenn der Mensch erkennt, dass er selbst es ist, der durch sein Denken den
-      Wahrnehmungen erst ihre Bestimmtheit und ihren Zusammenhang gibt. Die vermeintliche Trennung
-      zwischen Subjekt und Objekt, zwischen Ich und Welt, erweist sich als eine tiefe Illusion. In
-      Wirklichkeit sind Denken und Wahrnehmen zwei Seiten eines einheitlichen Prozesses. Die
-      geistige Organisation des Menschen reißt die Wirklichkeit in diese beiden Faktoren
-      auseinander, aber erst ihr Zusammenhang ist volle Wirklichkeit. Die Überwindung dieser
-      Illusion gelingt, wenn der Mensch im Denken ein Erleben findet, das nicht von außen bestimmt
-      ist, sondern aus eigener innerer Tätigkeit entspringt. Er erlebt dann im Denken eine auf sich
-      ruhende geistige Wesenhaftigkeit, die ihm durch Intuition gegenwärtig wird. Die Wirklichkeit
-      ist kein gegebenes Ding, sondern ein werdender Zusammenhang, an dem der Mensch selbst
-      mitwirkt. Wer dies nicht durchschaut, baut sich hypothetisch eine metaphysische Welt nach dem
-      Muster seiner Wahrnehmungen auf und bleibt so in der Illusion befangen.
-  - term: Impuls
-    chunk_id: ba8ef566-4d0a-58c2-858e-46383cea7ab8
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Der Impuls bezeichnet in diesem Zusammenhang eine innere Bewegung, die aus dem Denken
-      hervorgeht und als bewusster Beweggrund zum Handeln führt. Er unterscheidet sich grundlegend
-      von einem unbewussten Antrieb oder blinden Drang, weil er auf Einsicht beruht und nicht aus
-      der leiblichen Natur des Menschen stammt. Die entscheidende Frage ist, ob ein Mensch aus einem
-      bewussten Beweggrund handelt oder aus einem unbewussten Antrieb – davon hängt ab, wie die
-      Handlung beurteilt wird und ob sie als frei gelten kann.
-
-
-      Ein solcher Impuls entsteht dann, wenn ein Begriff oder eine Vorstellung auf die
-      charakterologische Anlage eines Menschen einwirkt und so zum Motiv des Wollens wird. Die
-      höchste Form dieses Antriebs ist die reine Intuition: Hier handelt der Mensch unter dem
-      Einfluss des reinen Denkens, ohne dass eine äußere Wahrnehmung oder ein fremdes Gebot ihn
-      bestimmt. Der Antrieb liegt allein im Gedankeninhalt, nicht in einem äußeren Gesetz oder
-      Zwang. Der Mensch wird auf dieser Stufe sein eigener Gesetzgeber, weil das Wollen souverän das
-      vollführt, was als Gedankeninhalt in der Persönlichkeit lebt.
-
-
-      Der Ursprung solcher sittlichen Impulse liegt in einer Welt, die die Seele unabhängig vom Leib
-      anschaut. Aus dieser Welt ragen Antriebe in das Seelenleben herein, die das Handeln unabhängig
-      von der leiblichen Natur bestimmen sollen. Damit wird der Impuls zum Bindeglied zwischen
-      Erkenntnis und Tat: Der aus Erkenntnis Handelnde verwirklicht in seinem Tun, was er zuvor in
-      reiner Einsicht erfasst hat.
+      Die sittlichen Ideale entspringen der moralischen Fantasie des Menschen. Sie sind seine Intuitionen, die Triebfedern, die sein Geist spannt. Er will sie, weil sie der Inhalt seines Wesens sind und ihre Verwirklichung seine höchste Lust ist. Ihre Verwirklichung hängt davon ab, dass sie stark genug begehrt werden, um Schmerzen und Qualen zu überwinden. Was man das Gute nennt, ist nicht das, was der Mensch soll, sondern das, was er will, wenn er die volle wahre Menschennatur zur Entfaltung bringt. Die Ethik beruht nicht darauf, das Streben nach Lust auszurotten, sondern auf dem starken, von ideeller Intuition getragenen Wollen, das sein Ziel erreicht, auch wenn der Weg dornenvoll ist.
   - term: Individuum
     chunk_id: 17da407c-806f-53d9-8086-51d5329cd1ac
     language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: Das menschliche Individuum ist der Quell aller Sittlichkeit und der Mittelpunkt des
-      Erdenlebens. Es handelt aus eigenem inneren Antrieb und setzt sich selbst die Maßstäbe für
-      sein Handeln. Der Mensch muss selbsttätig seinen Begriff mit der Wahrnehmung Mensch
-      vereinigen. Das Individuum unterscheidet sich vom bloßen Einzelmenschen, der noch in Trieben,
-      Instinkten oder Gattungsmäßigem lebt. Meine Triebe, Instinkte, Leidenschaften begründen nichts
-      weiter in mir, als dass ich zur allgemeinen Gattung Mensch gehöre; durch mein Denken
-      unterscheide ich mich selbst von anderen. Das Individuelle in mir ist nicht mein Organismus
-      mit seinen Trieben und Gefühlen, sondern die Ideenwelt, die in diesem Organismus aufleuchtet.
-      Eine aus der Intuition entspringende Willenshandlung ist eine individuelle. Der Antrieb kann
-      da nur ein ganz individueller sein. Das Individuum ist die lebendige Verwirklichung der
-      Freiheit. Es handelt nicht aus äußeren Autoritäten oder bloßen Trieben, sondern aus rein
-      sittlicher Intuition. Der Mensch erreicht solche Ziele in dem Maß, in dem er die Fähigkeit
-      besitzt, sich zum intuitiven Ideengehalt der Welt zu erheben. Das menschliche Individuum ist
-      Quell aller Sittlichkeit und Mittelpunkt des Erdenlebens.
+    tags: [concept, assistant-generated]
+    text: >-
+      Ein Individuum ist der Mensch, soweit er sich vom Gattungsmäßigen löst. Als Glied eines natürlichen Ganzen (Rasse, Stamm, Volk, Geschlecht) trägt er dessen Eigentümlichkeiten, und wer fragt, warum etwas an ihm so oder so ist, wird auf die Gattung verwiesen. Von diesem Gattungsmäßigen macht sich der Mensch aber frei: Er gebraucht die von der Natur mitgegebenen Eigenschaften als Grundlage und gibt ihnen die seinem eigenen Wesen gemäße Form. Den Grund einer solchen Äußerung suchen wir vergebens in den Gesetzen der Gattung; ein Individuum kann nur durch sich selbst erklärt werden. Kein Mensch ist vollständig Gattung, keiner ganz Individualität, aber jeder löst eine größere oder geringere Sphäre seines Wesens allmählich ab, ebenso vom Gattungsmäßigen des tierischen Lebens wie von den Geboten menschlicher Autoritäten.
+
+      Zum Individuum macht uns das Fühlen: Das Denken verbindet uns mit der Welt, das Fühlen führt uns in uns selbst zurück. Erst durch Selbstgefühl, Lust und Schmerz leben wir als Wesen, deren Dasein nicht im Begriffsverhältnis zur übrigen Welt erschöpft ist, sondern die einen besonderen Wert für sich haben. Eine wahrhafte Individualität ist, wer mit seinen Gefühlen am weitesten in die Region des Ideellen hinaufreicht. Das Individuum gewinnt seine Begriffe durch eigene Intuition; wie der Einzelne zu denken hat und welche Ziele er sich setzt, lässt sich aus keinem Gattungsbegriff ableiten. Leben in der Liebe zum Handeln und Lebenlassen im Verständnis des fremden Wollens ist die Grundmaxime der freien Menschen.
   - term: Intuition
     chunk_id: 076659ec-65c8-552c-9aec-18cb33d6b7f5
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Intuition ist die höchste Stufe des Erkennens. Sie ist das im rein Geistigen verlaufende
-      bewusste Erleben eines rein geistigen Inhalts. In der Intuition bestimmt der Mensch den Inhalt
-      eines Begriffs aus der ideellen Sphäre heraus, ohne Rücksicht auf einen bestimmten
-      Wahrnehmungsgehalt. Während die Wahrnehmung den objektiven Teil der Wirklichkeit liefert, wird
-      der subjektive, begriffliche Teil durch Intuition gegeben. Erst im Zusammenhang beider, in der
-      denkenden Beobachtung, entsteht volle Wirklichkeit.
+      Intuition ist das im rein Geistigen verlaufende bewusste Erleben eines rein geistigen Inhalts. Im Betrachten des Denkens selbst fallen Begriff und Wahrnehmung in eins zusammen, was sonst immer getrennt auftritt. Wer das durchschaut, sieht im Denken kein schattenhaftes Nachbild einer Wirklichkeit, sondern eine auf sich ruhende geistige Wesenhaftigkeit, und diese wird ihm durch Intuition im Bewusstsein gegenwärtig. Das intuitiv erlebte Denken ist ein im Menschengeist sich vollziehender tätiger Vorgang und zugleich eine ohne sinnliches Organ erfasste Wahrnehmung: eine Wahrnehmung, in der der Wahrnehmende selbst tätig ist, und eine Selbstbetätigung, die zugleich wahrgenommen wird. Diese Wesenheit des Denkens erlebend zu verstehen, kommt der Erkenntnis von der Freiheit des intuitiven Denkens gleich.
 
-
-      Intuition ist kein passives Empfangen, sondern ein bewusst vollzogener Erkenntnisakt. Sie
-      befreit das Denken von der Vermittlung durch sinnliche Wahrnehmungen. Wer die Wesenheit des
-      Denkens durch Intuition erfasst, erkennt, dass das Denken eine auf sich selbst ruhende
-      geistige Wesenhaftigkeit ist. Dieses Erleben des intuitiven Denkens kommt der Erkenntnis von
-      der Freiheit des Denkens gleich.
-
-
-      Im Handeln zeigt sich die Intuition als rein ideelle Triebfeder. Handelt der Mensch unter dem
-      Einfluss von Intuitionen, so ist die Triebfeder seines Handelns das reine Denken, die
-      praktische Vernunft. Eine solche Handlung ist weder durch eine vorher bestimmte
-      charakterologische Anlage noch durch ein äußeres sittliches Prinzip bestimmt. Sie wird durch
-      ihren idealen Gehalt getragen. In der ideellen Intuition wirkt nichts als deren eigene auf
-      sich gebaute Wesenheit. Findet der Mensch, dass eine Handlung das Abbild einer solchen
-      Intuition ist, so empfindet er sie als eine freie.
-  - term: Kapital
-    chunk_id: 9e9a5fe1-1ef1-5b3e-bc90-c0196392e81c
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Kapital ist kein bloßer Geldbetrag oder Sachwert, sondern eine soziale Funktion. Es ist das
-      Mittel, individuelle Fähigkeiten für weite Gebiete des sozialen Lebens in Wirksamkeit zu
-      bringen. Kapital entsteht und wird verbraucht durch das Zusammenwirken von individuellen
-      Fähigkeiten, Rechtsbildung und den Kräften des Wirtschaftslebens. Die entscheidende Frage ist
-      nicht, ob es Kapital gibt, sondern wie darüber verfügt wird.
-
-
-      Solange Kapital allein dem persönlichen Gewinn oder der Machtausübung über andere dient, wirkt
-      es lähmend und unfrei. Das Eigentumsrecht an der Kapitalgrundlage muss in dem Augenblick
-      verändert werden können, in dem es in ein Mittel zur ungerechtfertigten Machtentfaltung
-      umschlägt. Wird Kapital dagegen von Menschen eingesetzt, die aus eigener Initiative und
-      Einsicht handeln, kann es produktiv werden. Die fruchtbare Betätigung individueller
-      Fähigkeiten durch Kapital kann nicht ohne die freie Verfügung darüber in den Kreislauf des
-      Wirtschaftslebens eintreten.
-
-
-      Steiner fordert eine klare Trennung der gesellschaftlichen Bereiche. Der Rechtsstaat soll die
-      Entstehung und Verwaltung des privaten Eigentums an Kapital nicht verhindern, solange es einen
-      Dienst für das Ganze bedeutet. Er soll es aber niemals selbst in Besitz nehmen. Kapital gehört
-      in den eigenständigen Wirtschaftsbereich, wo es durch freie Vereinbarungen zwischen
-      gleichberechtigten Partnern seine soziale Bestimmung findet.
-  - term: Leidenschaft
-    chunk_id: 6f72c002-4e8f-56e7-9e77-552ae66087cc
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Die Leidenschaft wird als ein seelischer Impuls verstanden, der aus dem Triebleben aufsteigt
-      und sich mit einem Vorstellungsinhalt verbindet. Sie unterscheidet sich vom bloßen blinden
-      Drang dadurch, dass sie auf einen bestimmten, vorgestellten Gegenstand oder ein Ziel gerichtet
-      ist. Solange der Mensch einer Leidenschaft folgt, ohne sich der Gründe seines Handelns bewusst
-      zu sein, handelt er unfrei. Er wird von einem unbewussten Antrieb getrieben, ähnlich dem Kind,
-      das glaubt, die Milch frei zu begehren, oder dem Zornigen, der meint, die Rache frei zu
-      wollen. In Wahrheit kennt er die Ursachen nicht, die ihn bestimmen. Die Leidenschaft gehört
-      damit in den Bereich desjenigen Wollens, das noch nicht zur vollen Bewusstheit durchgedrungen
-      ist.
-
-
-      Dennoch ist die Leidenschaft nicht einfach zu verwerfen. Sie stellt eine notwendige Stufe der
-      Entwicklung dar. Die sittlichen Ideale, die aus der moralischen Fantasie entspringen, müssen
-      vom Menschen stark genug begehrt werden, um Schmerzen und Qualen zu überwinden. Dieses
-      Begehren ist seiner inneren Natur nach eine geläuterte Leidenschaft, die nicht mehr blind
-      treibt, sondern bewusst gewollt wird. Der Idealist schwelgt geistig bei der Verwirklichung
-      seiner Ideale. Die Leidenschaft wird hier zum Träger eines freien, aus Erkenntnis handelnden
-      Willens. Sie ist dann nicht mehr Zwang, sondern Ausdruck der eigenen, bewusst ergriffenen
-      Intuition.
+      Die höchste Stufe des individuellen Lebens ist das begriffliche Denken ohne Rücksicht auf einen bestimmten Wahrnehmungsgehalt: Wir bestimmen den Inhalt eines Begriffs durch reine Intuition aus der ideellen Sphäre heraus. Handeln wir unter dem Einfluss von Intuitionen, so ist die Triebfeder unseres Handelns das reine Denken, die praktische Vernunft. Ein solcher Antrieb gehört nicht mehr im strengen Wortsinn zu den charakterologischen Anlagen, denn was hier als Triebfeder wirkt, ist nicht mehr ein bloß Individuelles in mir, sondern der ideelle und folglich allgemeine Inhalt meiner Intuition. Handlungen, die sich als Verwirklichungen ideeller Intuitionen darstellen, nennt eine unbefangene Selbstbeobachtung frei.
   - term: Materialismus
     chunk_id: 724b9cba-6dd1-5fc5-b122-d30712b85c61
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Der Materialismus ist eine Denkform, die das Bewusstsein auf das beschränkt, was mit den
-      Sinnen wahrnehmbar ist. Er beginnt mit dem Gedanken der Materie und versucht, alle
-      Erscheinungen, auch das Denken, als rein materielle Prozesse zu erklären. So wird das Denken
-      etwa als eine Tätigkeit des Gehirns aufgefasst, vergleichbar der Verdauung. Dies führt jedoch
-      zu einem grundlegenden Widerspruch: Der Materialismus verlegt das Problem des Erkennens nur an
-      einen anderen Ort, statt es zu lösen. Er schreibt der Materie die Fähigkeit zu, über sich
-      selbst nachzudenken, und übersieht, dass der Denkakt selbst nicht aus stofflichen Vorgängen
-      ableitbar ist. Damit verschiebt er die Frage, statt sie zu beantworten.
+      Der Materialismus ist ein Monismus, der den Gegensatz von Geist und Materie auflöst, indem er den Geist leugnet. Er kann nie eine befriedigende Welterklärung liefern, denn jeder Erklärungsversuch beginnt damit, dass man sich Gedanken über die Welterscheinungen bildet. Der Materialismus macht deshalb den Anfang mit dem Gedanken der Materie oder der materiellen Vorgänge und hat damit bereits zwei Tatsachengebiete vor sich: die materielle Welt und die Gedanken über sie. Er sucht die Gedanken zu begreifen, indem er sie als rein materiellen Prozess auffasst; er glaubt, das Denken komme im Gehirn etwa so zustande wie die Verdauung in den tierischen Organen. Er vergisst, dass er das Problem nur an einen anderen Ort verlegt hat: Wie kommt die Materie dazu, über ihr eigenes Wesen nachzudenken? Vom bestimmten Subjekt, vom eigenen Ich, hat er den Blick abgewandt und ein unbestimmtes, nebelhaftes Gebilde an dessen Stelle gesetzt, und hier tritt ihm dasselbe Rätsel entgegen.
 
-
-      Gleichwohl hat der Materialismus eine eingeschränkte Berechtigung. Er hat die
-      Naturwissenschaften ermöglicht und lehrt eine genaue, sachliche Beobachtung der materiellen
-      Vorgänge. Man ist nicht auf falscher Fährte, wenn man die stofflich bedingten Abläufe der Welt
-      materialistisch darstellt. Der Irrtum beginnt erst dort, wo man diese Betrachtungsweise für
-      die einzig mögliche hält und nicht erkennt, dass die Verfolgung der materiellen Zusammenhänge
-      zuletzt zur Anschauung des Geistes führt. Der Materialismus ist daher eine notwendige, aber
-      nicht endgültige Stufe der Welterkenntnis. Er bleibt einseitig, solange er nicht durch die
-      Einsicht ergänzt wird, dass der Geist der Schöpfer des Gehirns ist, durch das er sich in der
-      physischen Welt offenbart.
+      Sein Feld sind die materiellen Vorgänge: Man ist tief in ihre Zusammenhänge eingedrungen, soweit sie sich der Sinnesbeobachtung und dem Denken ergeben, das sich nur auf diese Sinnesbeobachtung stützen will. Wer dabei ableugnet, dass in der Materie Geist wirkt, enthüllt ihn doch unbewusst. Seele, Geist und Gedanke gelten dem Materialismus nur als Eigenschaften und Verrichtungen der lebenden Substanz, nicht als Wesenheiten. Der Materialismus lässt sich nicht widerlegen, weil er für die materiellen Vorgänge stimmt; eingeschränkt ist er, weil er Lage und Bewegung, Materie und Bewegung, als die letzten Begriffe nimmt.
   - term: Materie
     chunk_id: a61eccc3-6f1a-5590-b627-d18bd60f30b9
     language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: Materie ist nicht das Fundament der Wirklichkeit, sondern eine Erscheinungsform, die aus der
-      Tätigkeit des menschlichen Organismus hervorgeht. Sie ist ebenso sehr Produkt der eigenen
-      Organisation wie Farbe oder Ton. Der Mensch ist so eingerichtet, dass er nicht aus seinem
-      eigenen Bereich heraustreten kann; auch das, was jenseits seiner Grenze liegt, kann er sich
-      nur durch seine Vorstellung vergegenwärtigen. Die Materie ist daher kein Ding an sich, das
-      unabhängig vom Menschen existiert, sondern ein Inhalt, den die Wahrnehmung liefert und der
-      erst durch das Denken in einen Zusammenhang gebracht werden muss. Die Wahrnehmung ist der
-      objektiv gegebene Teil der Wirklichkeit, der Begriff der subjektiv durch Intuition gegebene.
-      Erst der Zusammenhang beider ergibt volle Wirklichkeit. Betrachtet man die bloße Wahrnehmung
-      für sich, hat man ein zusammenhangloses Chaos; betrachtet man die Gesetzmäßigkeit der
-      Wahrnehmungen für sich, hat man nur abstrakte Begriffe. Die denkende Beobachtung, die beide
-      Seiten verbindet, führt zur Wirklichkeit. Ein rein materielles Denken, das den Menschen als
-      bloßes Produkt stofflicher Abläufe missversteht, macht ihn unfrei. Der Materialismus hat eine
-      eingeschränkte Berechtigung, denn die Verfolgung der materiellen Zusammenhänge führt zuletzt
-      zur Anschauung des Geistes. Die Materie ist demnach nicht der Gegensatz zum Geist, sondern
-      diejenige Seite der Wirklichkeit, die auf geistige Tätigkeit verweist.
+    tags: [concept, assistant-generated]
+    text: >-
+      Der Begriff der Materie stammt aus dem Denken, nicht aus der Wahrnehmung. Wahrnehmbar sind Zustände und ihre Übergänge ineinander: Wasser nimmt einen Raum ein, hat eine bestimmte Wärme und ist flüssig; beim Erhitzen wird es zu Dampf, unter dem elektrischen Strom zerfällt es in zwei Körper. Wer sagt, Sauerstoff und Wasserstoff seien schon im Wasser enthalten gewesen, oder wer beide Stoffe nennt, fügt der Wahrnehmung einen Begriff hinzu, denn tatsächlich ist in dem Raum, den der Sauerstoff einnimmt, nur eine Summe von Zuständen wahrzunehmen. Zu diesen Zuständen denkt man den Stoff hinzu, an dem sie haften sollen. Die Vorstellung „Stoff“ erhält ihren Inhalt nicht aus der  Wahrnehmung, sondern aus dem Denken, und Ähnliches gilt von der „Kraft“: Sie kann nicht wahrgenommen werden, sie ist ideell.
+
+      Wird die Materie als Stoff gedacht, der von Ewigkeit her da ist und jenseits der Beobachtung liegt, schaut man sie nicht an. Innerhalb der Erfahrung ist sie nirgends aufzufinden; man muss sie zur Erfahrung hinzudenken. Einen eigenen Inhalt hat der Begriff nicht. Härte, Undurchdringlichkeit, Anziehung und Abstoßung entlehnt man der Erfahrung und überträgt sie auf Teile, die man nicht wahrnimmt. So führt man nur ein Erfahrbares auf ein anderes Erfahrbares zurück und versetzt es willkürlich ins Unerfahrbare. Vor dieser Überlegung löst sich der Begriff in nichts auf. Dass die kleinsten Bewegungen sich der unmittelbaren Beobachtung entziehen, liegt an der Feinheit der Sinnesorgane und nicht daran, dass sie einem Gebiet jenseits der Erfahrung angehören. Ein genügend fein organisiertes Auge würde sie wie grobsinnliche Vorgänge sehen.
   - term: Menschengeist
     chunk_id: ed615da9-4ae9-5131-8893-6b463c5c2b80
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Der Menschengeist ist für Rudolf Steiner keine bloße Verstandestätigkeit, sondern eine innere
-      Instanz, die im Denken unmittelbar tätig wird. Der Mensch kann sich in dem, was wir Gedanken
-      nennen, als etwas aktiv Wirkendes erfühlen. Anders als bei äußeren Dingen, bei denen
-      Wahrnehmung und Begriff von vornherein verbunden sind, muss der Mensch selbsttätig seinen
-      Begriff mit der Wahrnehmung vereinigen. Der Menschengeist ist daher kein passiver Spiegel der
-      Außenwelt, sondern ein schöpferisches Prinzip, das die Wirklichkeit erst durch die Verbindung
-      von Wahrnehmung und Begriff erschließt.
+      Im Menschengeist kommt die Natur in ihrer wahren Gestalt zur Erscheinung. Wäre der Mensch ein bloßes Sinnenwesen ohne geistige Auffassung, gäbe es Wesen, die das Bewirkte (die Sinnenwelt) wahrnehmen, nicht aber das Wirkende (die innere Gesetzlichkeit); für sie wäre nur die Außenseite der Natur da. Das Denken ist das letzte Glied in der Reihenfolge der Prozesse, die die Natur bilden. Die Ideen sind der Inhalt dessen, was in den Dingen wirkt, doch zum erscheinenden Dasein kommen sie durch die menschliche Tätigkeit. Die eigene Natur der Ideenwelt erkennt der Mensch nur, wenn er seine Tätigkeit anschaut. Bei jeder anderen Anschauung durchdringt er nur die wirkende Idee, das Ding bleibt als Wahrnehmung außerhalb seines Geistes; in der Anschauung der Idee ist Wirkendes und Bewirktes in seinem Inneren enthalten. Diese Anschauung des sich selbst Hervorbringenden ist die Anschauung der Freiheit.
 
-
-      Diese Tätigkeit des Menschengeistes ist zugleich der Ort, an dem Freiheit erfahren werden
-      kann. Die höchste Anschauung befreit den Menschengeist von einseitigen Abhängigkeitsgefühlen.
-      Er fühlt sich souverän im Reich der sittlichen Weltordnung, weil die Triebkraft des Handelns
-      in seinem eigenen Innern als Wille wirkt. Der Mensch gibt sich sein sittliches Ziel selbst,
-      indem er die Ideen, nach denen er handelt, aus sich hervorbringt.
-
-
-      Der Menschengeist ist also weder ein bloßes Naturprodukt noch ein abstraktes Denkvermögen. Er
-      ist die Instanz, in der der Mensch sich als freier Geist verwirklicht, indem er erkennend und
-      handelnd die Welt mitgestaltet. In ihm vollzieht sich, was im Ganzen der Natur geschieht: die
-      Schöpfung eines Tatsächlichen aus der Idee heraus.
+      Die höchste Anschauung befreit den Menschengeist von allem einseitigen Abhängigkeitsgefühl. Er fühlt sich durch ihren Besitz souverän im Reich der sittlichen Weltordnung: Er weiß, dass die Triebkraft, die alles hervorbringt, in seinem Inneren als in seinem eigenen Willen wirkt, und dass die höchsten Entscheidungen über Sittliches in ihm selbst liegen. Mag der Mensch im Einzelnen von tausend Dingen abhängig sein, im Ganzen gibt er sich sein sittliches Ziel und seine sittliche Richtung. In jeder menschlichen Individualität vollzieht sich der Prozess, der im Ganzen der Natur sich abspielt: die Schöpfung eines Tatsächlichen aus der Idee heraus.
   - term: Menschenseele
     chunk_id: 0ecdc792-b67b-57b0-b78b-f7c57a6db346
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Die Menschenseele ist das innere Erlebniszentrum, in dem Denken, Fühlen und Wollen als Einheit
-      wirken. Sie ist nicht passiv, sondern tätig: Sie erzeugt Gedanken und arbeitet gestaltend am
-      Gehirn. Dabei macht sie das Gehirn zu einem Spiegelapparat, der die Gedanken zur Wahrnehmung
-      bringt – ähnlich wie ein Spiegel das eigene Gesicht erst sichtbar macht. Die Seele ist also
-      nicht bloßes Produkt des Gehirns, sondern wirkt umgekehrt auf dieses ein.
+      Die Menschenseele ist nicht vom Körper hervorgebracht. Wenn ich eine Farbe sehe oder einen Ton höre, erlebe ich sie nicht als Ergebnis des Körpers, sondern bin als selbstbewusstes Ich mit ihnen außerhalb des Körpers verbunden. Wie ich mein Gesicht nicht sehen kann, wenn ich vor mich hinblicke, wohl aber im Spiegel, so kann die Seele im gewöhnlichen Bewusstsein nichts wahrnehmen, solange der Körper es ihr nicht spiegelt; durch die Tätigkeit von Auge und Nervensystem wird ihr das Erlebte zur bewussten Wahrnehmung gemacht. Der Menschenkörper ist nicht Hervorbringer des Seelischen, sondern Spiegelungsapparat dessen, was außerhalb des Körpers seelisch-geistig sich abspielt. Im Schlaf ist diese Wechselwirkung unterbrochen, deshalb verläuft er unbewusst.
 
-
-      In der Begegnung von Wahrnehmung und Begriff ist die Seele der Ort, an dem sich diese beiden
-      Elemente verbinden. Der Gedanke tritt ihr nicht wie etwas Äußerliches entgegen, sondern wird
-      von ihr als eigenes Erzeugnis erlebt. Die Seele nimmt den Gedanken wahr wie das Auge das Licht
-      – sie ist Organ des Auffassens, nicht Behälter von fertigen Inhalten.
-
-
-      Zugleich hat die Menschenseele eine soziale Dimension. Sie braucht einen geschützten inneren
-      Raum, um ihr volles Menschentum zu entfalten. Nur wenn die Seelen den Geist im Innern erleben
-      können, entstehen die Antriebe für eine lebendige soziale Praxis. Der Verstand bleibt dabei
-      der sichere Führer, doch der Weg zu seinem richtigen Gebrauch führt durch Herz und Seele.
-
-
-      Die Menschenseele ist somit weder bloßes Gehirnprodukt noch abstrakter Geist, sondern das
-      tätige, erlebende Zentrum, durch das der Mensch die Wirklichkeit denkend ergreift und zugleich
-      in sozialer Verantwortung handelt.
+      Ihr Wesen zeigt sich nicht, solange man die Seelenerlebnisse nimmt, wie sie sich dem gewöhnlichen Bewusstsein darbieten. Selbsterkenntnis kann nicht angetreten werden, indem man nach dem Innern schaut, das stets vorhanden ist, sondern nach dem, was durch innere Seelenarbeit erst aufgedeckt werden muss. Diese besteht in der Steigerung von Fähigkeiten, die auch das gewöhnliche Bewusstsein kennt: Aufmerksamkeit und liebevolle Hingabe an das Erlebte. Wer die Tätigkeit des Denkens, Fühlens und Wollens selbst erlebt, löst sich von dem, was an die leiblichen Organe gebunden ist. Die vom Körper frei sich erlebende Seele erfühlt sich in einem seelisch-geistigen Weben, als Wesen, das einer geistigen Welt angehört wie der Körper der physischen.
   - term: Menschheit
     chunk_id: dc0cc3a9-4e9d-53d0-b9ce-6c8211fbf96e
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Die Menschheit ist nicht als bloße Summe aller Individuen zu verstehen, sondern als eine
-      werdende, geistige Wirklichkeit. Sie verwirklicht sich im freien, denkenden und handelnden
-      Einzelmenschen. Der Mensch wird erst dann wirklich Mensch, wenn er aus eigenen, intuitiv
-      erfassten Ideen heraus handelt – nicht aus Trieben, Konventionen oder äußeren Autoritäten. Die
-      Menschheit entsteht dadurch, dass jeder Einzelne seine individuelle Freiheit ergreift und in
-      soziales Handeln übersetzt.
+      Die Menschheit besteht aus Einzelnen, die sich, soweit sie frei sind, nicht aus Gattungsgesetzen erklären lassen. Wo das Gebiet der Freiheit des Denkens und Handelns beginnt, hört das Bestimmen des Individuums nach Gesetzen der Gattung auf. Den begrifflichen Inhalt, mit dem der Mensch die volle Wirklichkeit ergreift, kann niemand ein für alle Mal festsetzen und der Menschheit fertig hinterlassen; jedes Individuum gewinnt seine Begriffe durch eigene Intuition. Alle sittliche Betätigung der Menschheit entspringt aus individuellen ethischen Intuitionen und deren   Aufnahme in Menschengemeinschaften. Man kann auch sagen: Das sittliche Leben der Menschheit ist die Gesamtsumme der moralischen Fantasieerzeugnisse der freien menschlichen Individuen.
 
-
-      Die drei Bereiche des sozialen Lebens – Geistesleben, Rechtsleben und Wirtschaftsleben –
-      sollen je eigenen Gesetzmäßigkeiten folgen und nicht ineinander greifen. Nur dann kann der
-      Einzelne seine geistigen Fähigkeiten frei entfalten, ohne zum bloßen Rad im
-      Wirtschaftsmechanismus zu werden. Menschheit ist kein Ideal, das man von außen setzt, sondern
-      eine Aufgabe, die jeder an seinem Ort lösen muss. Der freie Mensch lebt im Vertrauen darauf,
-      dass der andere Freie mit ihm einer geistigen Welt angehört und sich in seinen Intentionen mit
-      ihm begegnen wird. Er verlangt keine Übereinstimmung, aber er erwartet sie, weil sie in der
-      menschlichen Natur liegt. In dieser Gesinnung und Seelenverfassung wird der Mensch seiner
-      eigenen Würde am meisten gerecht.
-  - term: Menschheitsentwicklung
-    chunk_id: b8841925-e0a8-58ba-b46b-92f7cae1d247
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Die Menschheitsentwicklung wird als ein fortschreitender Bewusstseinswandel verstanden, nicht
-      als ein biologischer Fortschritt. Der Mensch durchläuft verschiedene Stufen des Erkennens, die
-      sich in Epochen von mehreren Jahrhunderten gliedern. In älteren Zeiten sorgten soziale
-      Instinkte für eine dem damaligen Bewusstsein entsprechende Gliederung des Zusammenlebens. In
-      der Gegenwart steht die Menschheit an einem Punkt, an dem diese instinktiven Regungen nicht
-      mehr tragen. Es ist ein Zwiespalt entstanden: In den unbewussten Regungen rumort ein Neues,
-      während das bewusste Denken noch an alten Ideen festhält. Werden diese neuen Regungen nicht
-      von entsprechenden Gedanken erleuchtet, drohen sie zu barbarischen und animalischen Kräften zu
-      werden.
-
-
-      Die Entwicklung ist kein Automatismus, sondern eine bewusste Aufgabe. Sie verlangt, dass der
-      Mensch die alten Instinkteinrichtungen durch ein zielgetragenes, zu Ende gedachtes Denken
-      ersetzt. Aus diesem Denken heraus ergibt sich die Notwendigkeit der Dreigliederung des
-      sozialen Organismus. Diese Gliederung in ein freies Geistesleben, ein demokratisches
-      Rechtsleben und ein assoziatives Wirtschaftsleben wird nicht als utopisches Endziel, sondern
-      als eine aus dem Wesen der heutigen Menschheit heraus geforderte Lebensform verstanden. Die
-      Menschheitsentwicklung zielt darauf ab, dass der Mensch aus eigener Einsicht und Freiheit
-      heraus die sozialen Verhältnisse so gestaltet, dass sie dem einzelnen Individuum und der
-      Gemeinschaft gleichermaßen dienen können.
-  - term: Menschlicher Geist
-    chunk_id: 11deb992-8559-52f2-9477-6e9f58c504ab
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: "Der menschliche Geist ist keine Substanz und kein Ding, sondern eine Tätigkeit. Er offenbart
-      sich im Denken, das der Mensch als unmittelbar tätiges Erleben in sich erfährt. Dieses Denken
-      ist nicht etwa ein Produkt des Gehirns. Das Gehirn wirkt lediglich als ein Reflektionsapparat,
-      ähnlich einem Spiegel: Es erzeugt den Gedanken nicht, sondern macht die Tätigkeit der Seele
-      für das Bewusstsein sichtbar. Der Geist dringt aus eigener Kraft zur Wirklichkeit vor. Die
-      bloße Sinneswahrnehmung liefert nur eine Seite der Wirklichkeit; die andere Seite wird durch
-      das Denken erfasst. Der Mensch muss selbsttätig seinen Begriff mit der Wahrnehmung vereinigen,
-      um zur vollen Wirklichkeit zu gelangen. In dieser selbsttätigen Vereinigung liegt der Kern der
-      Freiheit. Der Geist verwirklicht Freiheit nicht durch äußeren Zwang, sondern durch eigene
-      Einsicht. Der sittliche Mensch, der freie Geist, handelt aus dieser selbstbestimmten
-      Erkenntnis heraus. Indem der Mensch denkend die Welt ergreift, erfährt er sich als ein Wesen,
-      das nicht bloß Naturgesetzen unterworfen ist, sondern aus eigenem Impuls handeln kann. Der
-      Geist ist somit dasjenige im Menschen, das über die bloße Gegebenheit der Sinne hinausgeht und
-      die Wirklichkeit in ihrem inneren Zusammenhang erfasst. Er ist die tätige Instanz, durch die
-      der Mensch sich als freies Wesen verwirklicht."
+      Dass die Freien sich nebeneinander ausleben können, liegt in der menschlichen Wesenheit selbst: Die Individuen sind eines Geistes. Der Freie lebt im Vertrauen darauf, dass der andere Freie mit ihm einer geistigen Welt angehört und sich in seinen Intentionen mit ihm begegnen wird. Er verlangt keine Übereinstimmung, aber er erwartet sie, weil sie in der menschlichen Natur liegt. In älteren Zeiten der Menschheitsentwicklung sorgten soziale Instinkte dafür, dass sich Wirtschafts-, Rechts- und Geistesleben in einer der Menschennatur entsprechenden Art gliederten. Später muss diese Gliederung durch zielbewusstes soziales Wollen erstrebt werden.
   - term: Metamorphose
     chunk_id: 8feddced-6269-5088-bfe7-bd1290c863f7
     language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: "Metamorphose bezeichnet bei Goethe und in der daran anschließenden Betrachtungsweise einen
-      inneren, gesetzmäßigen Bildungsvorgang, bei dem ein ursprüngliches Grundgebilde in
-      verschiedenen Stufen wiederkehrt, ohne sich selbst zu verlieren. Das deutlichste Beispiel ist
-      die Pflanze: Das Blatt mit dem Knoten, an dem es sich entwickelt, ist das Grundorgan. Es nimmt
-      in der äußeren Erscheinung nacheinander die Gestalt von Keimblatt, Laubblatt, Kelchblatt,
-      Kronenblatt, Staubgefäß und Fruchtblatt an. Es sind immer dieselben Organe, die in
-      vielfältigen Bestimmungen die Vorschrift der Natur erfüllen. Die Bildungskraft wiederholt das
-      Grundgebilde auf jeder Stufe, zieht sich im Kelch zusammen, breitet sich in der Krone aus und
-      findet in der Befruchtung, die Goethe eine geistige Anastomose nennt, zur neuen Einheit.
-      Entscheidend ist, dass dieser Vorgang nicht bloß sinnlich beobachtbar ist, sondern als ein
-      sinnlich-übersinnlicher erfasst werden muss. Was das leibliche Auge sieht, ist nur die Folge
-      eines lebendigen Ganzen durcheinander wirkender Bildungsgesetze, die dem geistigen Auge allein
-      zugänglich sind. Die Begriffe wie Urpflanze oder Urtier müssen beweglich gedacht werden: Sie
-      sind nicht abgeschlossen, sondern durchkriechen die ganze Entwicklung des Pflanzen- oder
-      Tierreichs, indem sie sich verändern wie das Dreieck, das spitzwinklig oder stumpfwinklig sein
-      kann. Diese Beweglichkeit der Begriffe aufzunehmen, ist die Voraussetzung, um das Werden in
-      der Natur nicht starr, sondern lebendig zu erfassen."
-  - term: Metaphysik
-    chunk_id: a35f3f6f-1a7c-5004-b587-0f4c4428c0bd
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: Die Metaphysik im herkömmlichen Verständnis geht von der Annahme aus, dass hinter der uns
-      zugänglichen Erscheinungswelt ein Reich von unerkennbaren „Dingen an sich“ verborgen liege.
-      Diese Vorstellung wird abgelehnt. Wer in der uns vorliegenden Welt nur einen Abglanz eines
-      jenseitigen, unerforschlichen Wirkens sieht, der kann in der beweisenden Methode nur einen
-      Ersatz für die mangelnde Einsicht in das Wesen der Dinge erblicken. Eine solche Haltung
-      übersieht, dass das Denken kein bloßes Abbilden einer äußeren Welt ist, sondern ein lebendiger
-      Vorgang, der die Wirklichkeit in ihrem Wesen erfasst. Das Denken ist eine Totalität in sich,
-      die sich selbst genug ist. Es darf nicht, um etwas zu erklären, zu Dingen seine Zuflucht
-      nehmen, die es nicht in sich selbst findet. Alles geht zuletzt im Denken auf. Die
-      entscheidende Einsicht ist, dass wir im Denken den Kern der Welt wesenhaft erfassen. Damit
-      wird die alte Metaphysik, die ein unerkennbares Jenseits postuliert, überflüssig. An ihre
-      Stelle tritt eine Erkenntnishaltung, die das Denken als unmittelbaren Zugang zur Wirklichkeit
-      versteht. Die wahre Erkenntnis beruht auf der Erfahrung des Denkens als einer Tätigkeit, die
-      selbst zur Wirklichkeit gehört. Die Frage nach dem Wesen der Welt ist keine Frage nach einem
-      verborgenen Hintergrund, sondern die Aufgabe, den Ideengehalt der Welt im Denken zu finden.
+    tags: [concept, assistant-generated]
+    text: >-
+      Metamorphose bedeutet bei Goethe nicht bloß die Feststellung, dass Blatt, Kelch und Krone miteinander identische Organe der Pflanze sind. Es kommt darauf an, welche Vorstellung man von der Pflanzennatur als einem Lebendigen hat und wie man sich das Einzelne aus diesem Ganzen hervorgehend denkt. Das Grundorgan der Pflanze ist das Blatt mit dem Knoten, an dem es sich entwickelt. Es nimmt in der äußeren Erscheinung verschiedene Gestalten an: Keimblatt, Laubblatt, Kelchblatt, Kronenblatt. Die Mannigfaltigkeit entsteht dadurch, dass das der Idee nach Gleiche in der Wahrnehmungswelt in verschiedenen Gestalten existieren kann.
+
+      Im Kelch zieht sich die Pflanzengestalt zusammen, in der Blumenkrone breitet sie sich wieder aus; in Staubgefäßen und Stempel folgt die nächste Zusammenziehung, in der Befruchtung findet das Getrennte wieder zusammen. Die Vorstellung des sich stufenweise wie auf einer „geistigen Leiter" umbildenden Grundorgans ist die Idee der Urpflanze. Wer sie beweglich in sich ausbildet, kann sie in allen Formen denken, die ihr Inhalt zulässt, und sich damit alle Gestaltungen im Pflanzenreich erklären. Was das leibliche Auge am Organismus beobachtet, ist die Folge durcheinander wirkender Bildungsgesetze, die dem geistigen Auge allein zugänglich sind. Was an einer Stelle sinnlich nicht mehr wahrnehmbar ist, ist der Idee nach vorhanden und tritt wieder in die Erscheinung, sobald die Bedingungen dazu da sind.
   - term: Metaphysischer Realismus
     chunk_id: c6dca7b2-4d58-5f11-8515-0e6425d4b2a5
     language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: "Eine Weltanschauung, die annimmt, es gebe eine von uns unabhängige, an sich bestehende
-      Wirklichkeit, die dem Erkennen als fertige, äußere Welt gegenübersteht. Diese Wirklichkeit
-      soll hinter den Wahrnehmungen liegen und durch das Denken erschlossen werden können. Der
-      metaphysische Realismus konstruiert neben der wahrnehmbaren Realität eine unwahrnehmbare, die
-      er der ersten analog denkt. Er ist deshalb notwendig ein Dualismus: Er trennt die Welt in eine
-      „Welt an sich“ und eine „Welt für uns“. Er kann sich nicht dazu entschließen, den Begriff als
-      gleichberechtigten Faktor neben der Wahrnehmung anzuerkennen. Stattdessen setzt er für die
-      Beziehungen zwischen den Wahrnehmungen, die nur durch das Denken ausdrückbar sind, willkürlich
-      eine dem Wahrnehmbaren ähnliche Realität hinzu. So entstehen hypothetische Kräfte oder
-      Wesenheiten, die unwahrnehmbar sind, aber Wahrnehmungsqualitäten besitzen sollen. Der
-      metaphysische Realismus muss konsequent die Freiheit leugnen, weil er im Menschen nur den
-      Vollstrecker von notwendig ihm aufgedrängten Prinzipien sieht. Der Mensch erscheint als
-      abhängig von einer vorgegebenen Ordnung. Die entscheidende Schwierigkeit liegt darin, dass das
-      Denken hier nicht als aktives, gestaltendes Element verstanden wird, sondern nur als Mittel,
-      um eine bereits fertige Wirklichkeit nachträglich zu erkennen. Damit verfehlt dieser
-      Standpunkt, dass die Wahrheit nicht empfangen, sondern im Vollzug des Denkens erst geschaffen
-      wird."
+    tags: [concept, assistant-generated]
+    text: >-
+      Der metaphysische Realismus entsteht, wo der naive Realismus mit seinem Grundsatz, nur das Wahrgenommene sei wirklich, an Beziehungen zwischen den Wahrnehmungen stößt. Ohne sie zerfiele ihm die Welt in ein unzusammenhängendes Aggregat von Wahrnehmungen. Also nimmt er unsichtbare Kräfte an, durch die die Dinge aufeinander wirken, etwa ein Lebensprinzip oder die Wärme als Bewegung kleinster Teile. Er konstruiert neben der wahrnehmbaren Realität eine unwahrnehmbare, die er der ersten analog denkt, und ist deshalb notwendig Dualismus. Wo er eine Beziehung bemerkt, setzt er eine Realität hin, obwohl er sie nur durch das Denken ausdrücken, nicht wahrnehmen kann; die ideelle Beziehung wird willkürlich zu einem dem Wahrnehmbaren Ähnlichen gemacht.
+
+      Seine hypothetischen Kräfte sind unwahrnehmbare Wesenheiten mit Wahrnehmungsqualitäten, eine widerspruchsvolle Mischung aus naivem Realismus und Idealismus. Er wendet eine Seinsform, das Wahrnehmungsdasein, auf ein Gebiet an, wo ihm das Mittel fehlt, das allein darüber etwas aussagen kann: das sinnliche Wahrnehmen. Er kann sich nicht entschließen, den Begriff als gleichberechtigten Faktor neben der Wahrnehmung anzuerkennen, und lässt ein drittes Weltgebiet gelten, in dem ein nicht wahrnehmbares Sein nach Art der Sinnenwelt wirken soll. Wirft man diesen unberechtigten Bestandteil hinaus, so stellt sich die Welt als Summe von Wahrnehmungen und ihrer begrifflichen Bezüge dar. Für die Wahrnehmung gilt dann die Wahrnehmbarkeit, für die Beziehungen unter den Wahrnehmungen die Denkbarkeit. Neben Wahrnehmungs- und Begriffswelt lässt diese Weltanschauung kein weiteres Gebiet zu, in dem beide zugleich gelten, wie das beim metaphysischen Realismus der Fall ist.
   - term: Monade
     chunk_id: bbc027e0-8fa2-529f-847e-870c564a4371
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Die Monade ist ein Begriff, den Gottfried Wilhelm Leibniz in die Philosophie eingeführt hat,
-      um das Wesen der Wirklichkeit zu beschreiben. Für Leibniz ist die Monade eine selbständige,
-      streng in sich abgeschlossene geistige Einheit, die kein Fenster nach außen hat. Nichts kann
-      von außen in sie hineingelangen; alles, was sie erlebt, vorstellt oder empfindet, ist das
-      Ergebnis ihrer eigenen Tätigkeit. Die Welt besteht in Wahrheit nur aus solchen Monaden, die
-      sich in ihrem Innenleben unterscheiden: von dumpfen, schlafenden bis hin zur wachen
-      menschlichen Seelenmonade und zur göttlichen Urmonade. Was der Mensch mit seinen Sinnen als
-      äußere Welt wahrnimmt, ist nur ein Scheinbild, ein Nebel, der durch das Zusammensein vieler
-      Monaden entsteht.
+      Monade heißt ein einfaches, in sich geschlossenes, sich selbst vorstellendes Wesen. Bei Leibniz ist die Seele eine solche Monade: Sie weiß von sich als der einen, also besteht sie nicht aus Teilen, und in ihr kann nichts anderes tätig sein als sie selbst. Ihr ganzes Erleben ist das Ergebnis ihrer eigenen Tätigkeit. Nichts Äußeres kann in sie hineinkommen; die Monade hat, wie Leibniz sagt, keine Fenster. Alle wirklichen Wesen sind Monaden, sie unterscheiden sich nur in der Stärke ihres Innenlebens, vom dumpfen, schlafenden bis zur göttlichen Urmonade. Dass ihre Innenleben zusammenstimmen, obwohl sie nicht aufeinander wirken, erklärt die vorherbestimmte Harmonie: Sie gleichen Uhren, die anfänglich aufeinander gestimmt wurden. Was die Sinne sehen, ist ein Nebelbild der beieinander seienden Monaden.
 
-
-      Diese Auffassung wird jedoch in einer entscheidenden Hinsicht weitergeführt. Die Monade ist
-      nicht als starres, fertiges Ding zu verstehen, sondern als ein lebendiger, sich entwickelnder
-      Wesenskern. Sie ist das, was im Menschen als individuelles Ich wirkt. Indem der Mensch denkt,
-      hebt er die Schranke zwischen sich und der Welt auf. Die Monade wird so zum Ort, an dem die
-      Welt sich selbst bewusst wird. In der selbständigen Tätigkeit des Erkennens verwirklicht der
-      Mensch seine Freiheit. Die Monade ist kein abgeschlossenes Produkt, sondern ein Werden. Auf
-      diesem Weg kann der Mensch die Stufe des freien Geistes erreichen, indem er sich aus eigenen
-      inneren Impulsen heraus entwickelt und zugleich klar erkennt, wo die Grenzen seiner Freiheit
-      liegen.
+      Diese Auffassung lässt der Seele Selbständigkeit und Freiheit, führt aber, wenn sie sich treu bleibt, zu der Behauptung, dass alles von der Seele Erkannte nur sie selbst ist. Die Selbständigkeit der Monade wird nur so lange geglaubt, wie man den Menschen für ein wirklich selbständig existierendes Wesen hält, das die Kunde von der übrigen Welt von außen erhält. Der Mensch ist aber von der Welt nicht tatsächlich abgesondert; sein Zusammenhang mit dem Ganzen ist nur für die Wahrnehmung unterbrochen. Spannt das Denken das Wahrgenommene in das Netz der Begriffswelt ein, so erweist sich die Teilexistenz als bloßer Schein des Wahrnehmens. Seine in sich geschlossene Totalexistenz findet der Mensch durch das intuitive Denkerlebnis.
   - term: Monismus
     chunk_id: e365226f-5161-5bfa-be4f-b6461ab0440b
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Der Monismus ist eine Weltauffassung, die davon ausgeht, dass die Wirklichkeit ihrem Wesen
-      nach eine Einheit ist. Die Welt erscheint dem Menschen zunächst als Zweiheit: als Wahrnehmung
-      und als Denken, als Subjekt und Objekt. Der Monismus erkennt jedoch, dass diese Trennung nicht
-      in der Sache selbst liegt, sondern durch die Organisation des Menschen bedingt ist. Das
-      Erkennen überwindet diese Zweiheit, indem es die Wahrnehmung mit dem durch das Denken
-      erarbeiteten Begriff zu einer einheitlichen Wesenheit zusammenfügt. So wird aus der gegebenen
-      Zweiheit eine gedanklich erarbeitete Einheit.
+      Monismus heißt die Weltanschauung, die den einseitigen Realismus mit dem Idealismus zu einer höheren Einheit vereinigt. Sie sieht in der Wahrnehmungswelt, wie sie unmittelbar vorliegt, ein halbes Wirkliches; in ihrer Vereinigung mit der Begriffswelt findet sie die volle Wirklichkeit. Nach anderen Erklärungsprinzipien fragt sie nicht, weil sich im ganzen Bereich der Wirklichkeit kein Anlass dazu findet. Die Trennung in Subjekt und Objekt entsteht durch die Organisation des wahrnehmenden Wesens. Das Denken stellt den unterbrochenen Zusammenhang wieder her und fügt das Ich dem Weltganzen wieder ein; damit hört das Fragen auf, das nur eine Folge der Trennung war. Ein Naturgesetz ist für den Monismus der begriffliche Ausdruck für den Zusammenhang gewisser Wahrnehmungen.
 
-
-      Im Gegensatz dazu steht der Dualismus, der zwei voneinander absolut verschiedene Welten
-      annimmt, etwa Geist und Materie, und der dann vergeblich nach einer Brücke zwischen ihnen
-      sucht. Der Monismus hingegen sucht das Wirkliche nicht hinter der Erfahrung, sondern in ihr
-      selbst. Er zeigt, dass der Mensch mit seinem Erkennen die Wirklichkeit in ihrer wahren Gestalt
-      ergreift, nicht in einem subjektiven Bild. Das Denken hat die Kraft, die Wirklichkeit zu
-      verbürgen.
-
-
-      Der Monismus ist zugleich Freiheitsphilosophie. Er betrachtet den Menschen nicht als ein
-      fertiges, sondern als ein sich entwickelndes Wesen. Er fragt, ob auf dieser Entwicklungsbahn
-      die Stufe des freien Geistes erreicht werden kann. Der Mensch ist nicht als freier Geist
-      geboren, sondern kann sich zu einem solchen entwickeln, indem er durch sein Denken die Einheit
-      von Ich und Welt tätig herstellt.
-  - term: Moral
-    chunk_id: 15f7dbf8-8f49-5c7a-9dd0-b86c57c133be
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: Moral wird nicht als Sammlung von Geboten oder gesellschaftlichen Konventionen verstanden,
-      sondern als eine Fähigkeit des Menschen, aus eigener Einsicht zu handeln. Die sittlichen
-      Ideale sind kein Abbild von etwas außer uns, sondern unser eigenes freies Erzeugnis. Ein
-      kategorischer Imperativ oder eine Stimme aus dem Jenseits, die uns vorschreibt, was wir zu tun
-      haben, wird abgelehnt. Der Mensch ist sein eigener Gesetzgeber. Moralische Handlung entsteht
-      aus Erkenntnis und freier Einsicht, nicht aus Zwang. Solange die Beweggründe bloß natürliche
-      oder unklare Motive sind, empfinden wir sie als von außen zwingend. Sobald es uns gelingt, ein
-      solches Motiv klar erkennend zu durchdringen, machen wir eine Eroberung im Gebiet der
-      Freiheit. Frei sein heißt, die dem Handeln zugrunde liegenden Vorstellungen durch die
-      moralische Fantasie von sich aus bestimmen zu können. Diese moralische Fantasie ist die Quelle
-      für das Handeln des freien Geistes. Sie produziert aus der Summe der Ideen die konkreten
-      Vorstellungen für den einzelnen Fall. Die sittlichen Ideale entspringen aus dieser moralischen
-      Fantasie; sie sind Intuitionen, die der Mensch will, weil ihre Verwirklichung seine höchste
-      Lust ist. Der ethische Individualismus stellt diesen individuellen, intuitiven Gehalt als die
-      höchste moralische Triebfeder dar. Moral ist somit keine äußere Norm, sondern die innere Tat
-      eines Menschen, der aus Erkenntnis heraus frei und verantwortungsvoll handelt.
-  - term: Motiv
-    chunk_id: b9c790e8-dfd2-54d3-874d-e81521b2417f
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Ein Motiv ist ein bewusster Beweggrund des Handelns, der in Form eines Begriffs oder einer
-      Vorstellung auf die charakterologische Anlage eines Menschen einwirkt. Es unterscheidet sich
-      grundlegend von einem unbewussten Antrieb oder blinden Trieb, weil es als gedanklicher Inhalt
-      im Bewusstsein präsent ist. Ein Motiv entsteht nicht aus der menschlichen Organisation selbst,
-      sondern tritt von außen oder aus dem eigenen Denken an den Menschen heran und wird von ihm als
-      handlungsleitend erfasst.
-
-
-      Die entscheidende Frage für die Freiheit des Willens ist, ob ein Mensch gezwungen ist, einem
-      Motiv zu folgen, oder ob er es aus eigener Einsicht ergreift. Wenn ein Motiv mit zwingender
-      Notwendigkeit wirkt, hat der Gedanke an Freiheit keinen Sinn. Freiheit beginnt dort, wo der
-      Mensch die Berechtigung eines Motivs selbst erkennt und es nicht aufgrund äußerer Autorität,
-      Gewohnheit oder Furcht übernimmt. Ein Motiv kann aus einem allgemeinen sittlichen Prinzip
-      stammen, das als Gebot auftritt, oder aus einer rein intuitiv erfassten Idee. Die höchste Form
-      des Wollens liegt vor, wenn das Motiv aus einer moralischen Intuition entspringt, die der
-      Mensch selbstständig für den einzelnen Fall entwickelt. Dann fallen Triebfeder und Motiv
-      zusammen, und die Handlung wird durch ihren eigenen idealen Gehalt bestimmt.
+      Der Dualismus sucht das Wirkliche erst hinter der Beobachtungswelt, der Monismus findet es in ihr. Was an Prinzipien in ein Jenseits versetzt wird, ist der Erfahrung entlehnt: Der durch Schlussfolgerung angenommene Gott ist nur der in ein Jenseits versetzte Mensch. Der Monismus zeigt dagegen, dass wir mit dem Erkennen die Wirklichkeit in ihrer wahren Gestalt ergreifen und nicht ein subjektives Bild, das sich zwischen den Menschen und die Wirklichkeit einschiebt. Auch die Ziele des Handelns stammen aus keinem Jenseits, sondern aus der menschlichen Intuition. Wer über sein Triebleben und die Befehle anderer hinauskommt, wird durch nichts als durch sich selbst bestimmt. Er ist das letzte Bestimmende seiner Handlung und ist frei.
   - term: Mystik
     chunk_id: e9af7235-3f57-52ee-9c00-67f37f01f6f5
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Mystik ist für diese Betrachtung kein Gegensatz zur Erkenntnis, sondern ein Erkenntnisweg, der
-      über die Grenzen des gewöhnlichen Denkens hinausführt. Sie geht darauf aus, in der
-      menschlichen Seele den Urgrund der Dinge zu finden. Dabei wird jedoch eine einseitige Mystik
-      abgelehnt, die durch Ekstase und bloße Gefühlssteigerung zu höheren Erkenntnissen gelangen
-      will und dabei das vernunftgemäße Denken abtötet. Eine solche, nur auf das Gefühl gebaute
-      mystische Anschauungsweise beruht auf einem Irrtum: Sie will erleben, was sie wissen sollte,
-      und versucht, ein rein individuelles Gefühl zu einem Allgemeingültigen zu erheben.
+      Mystik geht darauf aus, in der menschlichen Seele den Urgrund der Dinge, die Gottheit, zu finden. Der Mystiker ist überzeugt, dass ihm in inneren Erlebnissen das Wesen der Welt offenbar wird. Die mittelalterlichen Mystiker wollen etwas in das Ich-Bewusstsein hineinempfangen und es mit etwas erfüllen; sie streben ein ganz gelassenes inneres Leben an, das sich in Ruhe hingibt und erwartet, dass sich die Seele mit dem göttlichen Ich erfüllt. Die einseitige Mystik hält die klaren Ideen der Vernunft für etwas, das nur dem menschlichen Verstand angehört, und sucht durch  ungewöhnliche Zustände wie Ekstase zu einem höheren Schauen zu gelangen. Sie tötet die sinnliche Beobachtung und das vernunftgemäße Denken in sich ab und steigert das Gefühlsleben, bis sie die wirkende Geistigkeit als Gottheit unmittelbar zu fühlen meint.
 
-
-      Echte Mystik ist dagegen ein bewusster, denkender Vorgang. Sie begreift das Denken als ein
-      aktives Organ der Wahrnehmung. Die Seele lernt den Gedanken als ihr eigenes Erzeugnis fühlen
-      und erstarkt im Selbsterleben ihres Eigenwesens. Es ist die höchste Form der Selbstbesinnung
-      des denkenden Menschen. Der Mystiker sucht nicht in dumpfer Innerlichkeit, sondern in der
-      klaren, durchgearbeiteten Gedankenwelt das Wesen der Dinge. Die gedankliche Klarheit wird
-      dabei nicht als nüchterne Verstandesweisheit verachtet, sondern als der Weg angesehen, in die
-      Tiefen des Inhalts der Ideenwelt hinabzusteigen und die Wärme zu empfinden, die von ihr
-      ausströmt. So wird Mystik zu einer Steigerung des Denkens, nicht zu seiner Aufgabe.
+      Der Irrtum einer bloß auf das Gefühl gebauten Mystik besteht darin, dass sie erleben will, was sie wissen soll, und das Gefühl, etwas rein Individuelles, zu einem Universellen erziehen will. Was sie in sich findet, besteht in subjektiven Erregungen und verworrenen Vorstellungen und klärt nicht über die Welt auf. Sie hält die Klarheit der Ideen für oberflächlich. Wer aber das Leben in der Ideenwelt wahrhaft lebt, fühlt in sich das Wesen der Welt in einer Wärme wirken, die mit nichts zu vergleichen ist, und das Feuer des Weltgeheimnisses auflodern. Diese Empfindung ähnelt der des Mystikers, schöpft ihre Erkenntnisse aber aus Beobachtung und Denken und nicht aus abnormen Zuständen.
   - term: Naiver Realismus
     chunk_id: 2cc8e96d-7a5b-5217-95fe-fd9e88758e4b
     language: de
-    tags:
-      - concept
-      - assistant-generated
+    tags: [concept, assistant-generated]
     text: >-
-      Der naive Realismus ist diejenige Weltansicht, von der alle Menschen zunächst ausgehen. Sie
-      nimmt die Realität des uns unmittelbar gegebenen Weltbildes als etwas Selbstverständliches und
-      nicht weiter Anzuzweifelndes hin. Der naive Mensch hält die Dinge so für wirklich, wie sie
-      sich ihm in der Erfahrung darbieten, und unterscheidet nicht zwischen dem, was gegeben ist,
-      und dem, was der Mensch zur Wahrnehmung beiträgt. Er sieht in den Sinneswahrnehmungen die
-      volle Wirklichkeit und betrachtet Begriffe lediglich als abstrakte Gedankenbilder ohne eigenes
-      Gewicht für die Dinge selbst.
+      Der naive Mensch betrachtet seine Wahrnehmungen so, wie sie ihm unmittelbar erscheinen, als Dinge, die ein von ihm ganz unabhängiges Dasein haben. Wer einen Baum sieht, glaubt zunächst, dass dieser in der Gestalt und mit den Farben, die er sieht, dort steht, wohin der Blick gerichtet ist. Er hält an diesem Glauben fest, bis er Wahrnehmungen begegnet, die jenen widersprechen; jede Erweiterung des Kreises der Wahrnehmungen nötigt ihn, sein Bild der Welt zu berichtigen. Das erste Axiom des naiven Menschen lautet: Nichts existiert, was man nicht wahrnehmen kann, und umgekehrt: Alles, was wahrgenommen werden kann, existiert. Wovon er keine Wahrnehmung hat, etwa Gott, Seele oder das Erkennen, das stellt er sich analog dem Wahrgenommenen vor. Das Ideelle gilt ihm als unwirklich, als bloßer Gedanke über die Dinge.
 
-
-      Diese Haltung hält einer kritischen Prüfung jedoch nicht stand. Der entscheidende Mangel liegt
-      darin, dass der naive Realismus die Rolle des Denkens übersieht. Zwischen die Wahrnehmung und
-      jede Art von Aussage über sie schiebt sich das Denken ein. Will man irgendetwas über eine
-      Wahrnehmung aussagen, so kann dies nur mit Hilfe des Denkens geschehen. Die bloße Wahrnehmung
-      liefert nur eine Seite der Wirklichkeit; die begriffliche Ordnung bringt der Mensch durch sein
-      Denken hinzu. Der naive Realismus verwechselt das Erscheinende mit dem Seienden, weil er nicht
-      erkennt, dass erst der Zusammenhang von Wahrnehmung und Begriff die volle Wirklichkeit ergibt.
-
-
-      Es geht nicht darum, den naiven Realismus einfach zu verwerfen, sondern ihn zu durchschauen.
-      Hat man eingesehen, worin sein Mangel besteht, wird man mit größerer Sicherheit auf einen Weg
-      geführt, der dem wirklichen Wesen der Dinge gerecht wird.
-  - term: Naturanschauung
-    chunk_id: a8b459d7-2857-5ae5-a6af-588e2a477d57
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: "Die Naturanschauung ist bei Steiner kein bloßes Betrachten von Landschaften oder das Sammeln
-      von Sinneseindrücken. Sie bezeichnet eine bestimmte Haltung des Erkennens, in der der Mensch
-      der Erscheinungswelt nicht als passiver Beobachter gegenübersteht, sondern als aktiv
-      Denkender. Anknüpfend an Goethes Arbeitsweise wird das Denken selbst zur Anschauung: Der Geist
-      muss „denkend anschauen und anschauend denken“. Die gestaltende Kraft in der Pflanze oder im
-      Organismus ist nicht sinnlich wahrnehmbar, aber denkend erfassbar. Der Mensch verbindet die
-      äußere Wahrnehmung mit dem inneren Gedanken und holt so das, was in der Natur selbst als
-      Gesetzmäßigkeit wirkt, ins Bewusstsein. Die Naturanschauung ist damit der Vorgang, in dem der
-      Mensch die schöpferischen Naturkräfte, die in den Dingen wirken, in seinem Denken zur
-      Erscheinung bringt. Sie ist nicht das Ergebnis eines bloßen Hinzufügens von Gedanken von
-      außen, sondern ein aktives Mitvollziehen dessen, was in der Natur selbst angelegt ist. In
-      diesem Sinne ist die Naturanschauung mehr als eine bloße Betrachtungsweise von
-      Naturgegenständen; sie ist Ausdruck einer umfassenden Weltanschauung, die das Verhältnis des
-      Menschen zur gesamten Wirklichkeit bestimmt."
-  - term: Naturgesetz
-    chunk_id: ab507df9-afd9-5f2e-b62a-44102247603f
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Ein Naturgesetz ist für diese Auffassung der gedankliche Ausdruck eines inneren Zusammenhangs,
-      den der denkende Mensch in der Erscheinungswelt auffindet. Die Natur selbst gibt dem Menschen
-      nur einzelne, getrennte Tatsachen. Was diese Tatsachen miteinander verbindet, muss der Mensch
-      durch sein eigenes Denken hinzubringen. Das Gesetz eines Vorgangs, etwa des Falls eines
-      Steins, spielt sich nicht in der Außenwelt ab, sondern im erkennenden Geist. Der Geist baut
-      sich nach den Gesetzen seines eigenen Organismus eine Welt auf. Mathematik und
-      Naturwissenschaft enthalten daher nicht Gesetze einer von uns unabhängigen Außenwelt, sondern
-      Gesetze des geistigen Organismus.
-
-
-      Ein echtes Naturgesetz ist ohne die Tatsachen, die es regelt, nicht denkbar, ebenso wenig wie
-      die Tatsachen ohne das Gesetz. Wenn ein späterer Fall ein aufgestelltes Gesetz umstößt, dann
-      liegt das nicht an einer bloß vorläufigen Gültigkeit des Gesetzes, sondern daran, dass es
-      damals nicht vollkommen richtig aus den Tatsachen gefolgert wurde. Das Naturgesetz ist keine
-      Vorschrift, der die Natur gehorcht, sondern eine Beschreibung dessen, was der denkende Geist
-      als notwendigen Zusammenhang erkennt. Indem der Mensch einen gegebenen Gegenstand in sein
-      Denken einspinnt, geht er über die bloße Beobachtung hinaus und erfasst den gesetzmäßigen Kern
-      der Erscheinung. So wird das Naturgesetz zum Ausdruck einer inneren Notwendigkeit, die der
-      Mensch in sich selbst vorfindet, wenn er die Welt denkend durchdringt.
-  - term: Naturwissenschaft
-    chunk_id: 9867316a-8a49-577c-ad7d-a2a70d36aa1a
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Die Naturwissenschaft richtet ihren Blick auf die sinnlich wahrnehmbare Außenwelt. Ihre
-      Methode besteht darin, die Erscheinungen zu beobachten, zu beschreiben und nach den in ihnen
-      waltenden Gesetzmäßigkeiten zu suchen. Sie will beim Tatsächlichen stehen bleiben und es nicht
-      deuten. Diese Haltung hat eine große Leistung hervorgebracht: Sie hat den Menschen von bloßen
-      Spekulationen befreit und ihm eine verlässliche Grundlage für das Verständnis der stofflichen
-      Welt gegeben.
-
-
-      Doch diese Stärke ist zugleich ihre Grenze. Indem die Naturwissenschaft die Methoden der
-      Mechanik und Physik auf alle Bereiche anwenden will, schließt sie das Lebendige und Geistige
-      aus. Sie betrachtet die Welt als einen Mechanismus von Ursache und Wirkung und übersieht, dass
-      der Mensch als erkennendes Wesen nicht nur außen steht, sondern innerlich tätig am Bild der
-      Wirklichkeit mitschafft. Die bloße Beobachtung liefert nur ein zusammenhangloses Weltbild;
-      erst die schöpferische Fantasie, die aus der Persönlichkeit schöpft, kann die unbekannten
-      Faktoren ergänzen und einen Sinn in die Erscheinungen legen.
-
-
-      Es geht nicht um eine Abschaffung der Naturwissenschaft, sondern um ihre Erweiterung. Eine
-      wahre Naturerkenntnis beginnt dort, wo der Mensch nicht nur registriert, sondern das Wesen der
-      Dinge innerlich miterlebt. Sie verbindet die strenge Beobachtung mit einer künstlerischen
-      Weltempfindung und einer sittlichen Lebensgrundlage. So wird die Wissenschaft zu einer
-      Gesinnung, die Licht wirft auf den Sinn des Menschen- und Weltdaseins.
-  - term: Objekt
-    chunk_id: 2b4ad645-3d46-56dc-9910-8b17ce33acb7
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Das Objekt tritt dir in der Wahrnehmung als etwas Gegebenes entgegen. Es erscheint dir
-      zunächst ohne Begriff, als bloße Beobachtung. Insofern du einen Gegenstand beobachtest, ist er
-      dir als Objekt gegeben, während du dich selbst als das denkende Subjekt erlebst. Das Objekt
-      ist für sich genommen stumm; erst durch das Denken wird es erkannt. Dein Bewusstsein ist der
-      Schauplatz, auf dem Begriff und Beobachtung einander begegnen und miteinander verknüpft
-      werden.
-
-
-      Das Wahrnehmungsbild, das du von einem Objekt erhältst, ist nicht unabhängig von dir. Es hängt
-      von deinem Standort ab: Stehst du am einen Ende einer Allee, erscheinen dir die Bäume am
-      anderen Ende kleiner. Änderst du den Ort, wird dein Wahrnehmungsbild ein anderes. Diese
-      Abhängigkeit liegt nicht am Objekt selbst, sondern an dir als Wahrnehmendem. Auch das Bild,
-      das du von einem Gegenstand hast, ist nur ein zufälliger Ausschnitt aus einem fortwährenden
-      Werden. Eine Rosenknospe etwa zeigt dir heute ein anderes Bild als morgen.
-
-
-      Wahrnehmung und Begriff gehören zusammen. Ohne Denken bliebe die Wahrnehmung unbestimmt. Eine
-      streng objektive Wissenschaft, die nur aus der Beobachtung schöpfen wollte, müsste auf alles
-      Denken verzichten – und wäre damit unmöglich. Erst die denkende Beobachtung, die weder
-      einseitig den Begriff noch die Wahrnehmung für sich betrachtet, sondern ihren Zusammenhang,
-      führt zur vollen Wirklichkeit. Das Objekt ist also nicht einfach ein fertiges Ding, sondern
-      wird erst im Zusammenspiel von Wahrnehmung und Denken erkannt.
-  - term: Organ
-    chunk_id: 36db6f05-ab96-5c33-9e9c-94df492b802a
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Der Begriff des Organs wird in zwei grundlegenden, aber unterschiedlichen Zusammenhängen
-      verwendet. Zum einen bezeichnet er ein Wahrnehmungsorgan im geistigen Sinne. Der menschliche
-      Geist ist nicht als ein Behälter zu verstehen, der Gedanken in sich aufbewahrt, sondern als
-      ein Organ, das die Gedankenwelt wahrnimmt. Er verhält sich zu den Gedanken so, wie sich das
-      Auge zum Licht oder das Ohr zum Ton verhält. Gedanken sind keine bleibenden Inhalte, die im
-      Geist gespeichert werden, sondern werden von ihm jeweils neu aufgenommen. Diese Auffassung
-      wendet sich gegen die Vorstellung, der Geist sei ein Speicher, aus dem Gedanken nach Bedarf
-      hervorgeholt werden.
-
-
-      Zum anderen wird der Begriff auf den sozialen Organismus übertragen. Dieser ist gegliedert wie
-      ein natürlicher Organismus. Jedes seiner Glieder – das Wirtschaftsleben, das Rechtsleben und
-      das geistige Leben – muss seine eigene Gesetzgebung und Verwaltung haben und in voller
-      Selbstständigkeit bestehen. Kein Glied kann die Aufgabe eines anderen übernehmen. Ihr
-      heilsames Zusammenwirken entsteht nicht durch eine zentrale Einheit, sondern dadurch, dass
-      jedes Glied nach seinen eigenen Kräften und Gesetzen lebt und dennoch mit den anderen
-      zusammenwirkt. Ein solcher Vergleich dient jedoch nicht dazu, einfach naturwissenschaftliche
-      Begriffe auf das Soziale zu übertragen. Vielmehr soll die Betrachtung des natürlichen
-      Organismus das Denken so schulen, dass es die sozialen Tatsachen nach ihrer eigenen
-      Gesetzmäßigkeit beurteilen lernt.
+      Will der naive Realismus eine Wissenschaft begründen, so sieht er sie nur in der genauen Beschreibung des Wahrnehmungsinhaltes. Die Begriffe sind ihm Mittel zum Zweck, ideelle Gegenbilder der Wahrnehmungen, die für die Dinge selbst nichts bedeuten. Die Erfahrung widerlegt seinen Grundsatz: Der Inhalt der Wahrnehmungen ist vergänglich. Die einzelne Tulpe verschwindet, es behauptet sich die Gattung, die dem naiven Realismus doch nur eine Idee ist. Er muss deshalb neben den Wahrnehmungen etwas Ideelles gelten lassen, etwa unsichtbare Kräfte, die Vererbung oder ein Lebensprinzip, und denkt dessen Dasein ebenfalls nach dem Muster der Sinnesobjekte.
   - term: Organismus
     chunk_id: bfba484e-74ff-54ed-a15f-7d6b9fa75ac2
     language: de
@@ -1375,35 +484,6 @@ begriffe:
       verstanden, wenn der Mensch es denkend erfasst und die treibenden Gewalten erkennt, die es aus
       dem Weltganzen heraus an die Peripherie bringen. So wird das Phänomen zum Ausgangspunkt einer
       Erkenntnis, die in der denkenden Durchdringung ihre Vollendung findet.
-  - term: Philosoph
-    chunk_id: 633756dd-dee8-53f9-be72-a68786069295
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Der Philosoph sucht nach einer sicheren Grundlage, von der aus er das Vorhandene begreifen
-      kann. Ihm geht es nicht um die Weltschöpfung, sondern um das Begreifen derselben. Er hat daher
-      nicht die Ausgangspunkte für das Schaffen, sondern für das Begreifen der Welt zu suchen. Sein
-      Denken muss zuerst begriffen werden, bevor anderes begriffen werden kann; denn das Denken ist
-      das Letzte, zu dem es die Weltentwicklung gebracht hat. Der Philosoph muss von diesem
-      gegenwärtigen, intimsten Punkt ausgehen und von dort zum Früheren aufsteigen, statt mit einem
-      Sprung am Anfang der Welt beginnen zu wollen.
-
-
-      Die eigentlichen Philosophen sind Befehlende und Gesetzgeber: Sie greifen mit schöpferischer
-      Hand nach der Zukunft, und alles, was ist und war, wird ihnen zum Mittel, zum Werkzeug, zum
-      Hammer. Ihr Erkennen ist Schaffen, ihr Schaffen ist eine Gesetzgebung. Der starke, wahrhaft
-      freie Mensch will die Wahrheit nicht empfangen, er will sie schaffen.
-
-
-      Zugleich ist dem Philosophen die Abkehr vom Leben sehr förderlich. Sein Denken gedeiht besser,
-      wenn er sich von der Wirklichkeit zurückzieht. Dies darf jedoch nicht zu einer
-      lebenfeindlichen Stimmung werden, wie sie bei der Mehrzahl der Philosophen ausgebildet ist.
-      Das Zurückziehen von der Wirklichkeit kann nur geschehen, damit die entfernt vom Leben
-      entstandenen Gedanken dann dem Leben umso besser dienen können. Der Philosoph muss vermeiden,
-      seinen eigenen Grundinstinkt der ganzen Menschheit aufdrängen zu wollen, sonst wird er zum
-      Feinde des Lebens.
   - term: Philosophie
     chunk_id: fa03e05e-931d-5f22-8d8c-c10faf525bce
     language: de
@@ -1426,27 +506,6 @@ begriffe:
       entscheidende Frage ist, wie sich Philosophie als Kunst zur Freiheit des Menschen verhält.
       Freiheit wird dabei nicht als Willkür verstanden, sondern als die Fähigkeit, aus eigener
       Einsicht zu handeln, indem man die Beweggründe seines Tuns aus sich selbst heraus bestimmt.
-  - term: Politik
-    chunk_id: a1fe4b1f-9cad-59cd-a58e-0a936f5c6d86
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: Politik ist im Rahmen der Dreigliederung des sozialen Organismus dem mittleren Glied, dem
-      rechtlich-politischen Bereich, zugeordnet. Dieser Bereich umfasst in erster Linie die Polizei-
-      und Verwaltungstätigkeit auf rechtlicher Grundlage. Geregelt wird er durch ein demokratisch
-      gewähltes Parlament, das sich ausschließlich mit rein staatlich-politischen Fragen befasst.
-      Dadurch kann es weder das freie Geistesleben noch das eigenständige Wirtschaftsleben stören
-      oder bevormunden. Die Legitimation für dieses Rechtsleben entsteht aus dem demokratischen
-      Diskurs mündiger Bürger, die ihre Rechte gegenüber einander regeln. Alles, was sich auf die
-      Rechtsverhältnisse der am Wirtschaftsleben beteiligten Personen bezieht, insbesondere die
-      Arbeit, die Menschen füreinander leisten, wird aus der Wirtschaftsverwaltung ausgesondert und
-      in dieses demokratische Parlament verwiesen. Politik im engeren Sinne ist also die Gestaltung
-      der rechtlichen Beziehungen zwischen den Menschen, die unabhängig von den Interessen des
-      Wirtschaftslebens und den Impulsen des freien Geisteslebens erfolgt. Sie schafft die Ordnung,
-      in der sich ein wahres Gemeinsamkeitsgefühl und der Wille, für die Gemeinschaft zu arbeiten,
-      entwickeln können. Die Aufgabe der Politik ist es, den Rahmen zu setzen, innerhalb dessen sich
-      die anderen beiden Glieder des sozialen Organismus frei entfalten können.
   - term: Produktionsmittel
     chunk_id: 0e66208d-07fc-5906-927f-ab3f2af66b1c
     language: de
@@ -1469,57 +528,6 @@ begriffe:
       nicht vom politischen Staat oder von privaten Kapitalinteressen allein ausgehen, sondern von
       einem freien Geistesleben, das die wirtschaftlichen Prozesse aus sachlichem Interesse an der
       Hervorbringung von Leistungen heraus gestaltet."
-  - term: Proletariat
-    chunk_id: 636de5a4-e906-5092-aef9-e49e18cdfb2d
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Der Begriff des Proletariats bezeichnet eine spezifische Bewusstseinslage des modernen
-      Menschen, die aus der Trennung von den Produktionsmitteln und der Behandlung der Arbeit als
-      Ware entsteht. Der Proletarier ist aus allen alten Lebenszusammenhängen herausgerissen und
-      sucht einen neuen Bewusstseinsinhalt. Er wendet sich der modernen Wissenschaftlichkeit zu,
-      weil ihm die überlieferten geistigen Quellen nicht mehr zugänglich sind. In den unterbewussten
-      Empfindungen lebt ein Abscheu davor, die eigene Arbeitskraft wie eine Ware auf dem Markt
-      verkaufen zu müssen. Dieser Abscheu ist ein Grundimpuls der proletarischen Bewegung.
-
-
-      Die soziale Frage ist im Kern eine Frage der inneren Entwicklung des Menschen. Der Proletarier
-      sucht nach einem Geistesleben, das seine Seele tragen und ihm das Bewusstsein seiner
-      Menschenwürde geben kann. Da das als Ideologie empfundene Geistesleben ihm dieses Bewusstsein
-      nicht entwickeln kann, ersetzt er es durch das aus dem Wirtschaftsleben geborene
-      Klassenbewusstsein. Die Gefahr besteht darin, dass das Denken im rein Materiellen stecken
-      bleibt, wenn es nicht zur Einsicht in die geistige Natur geführt wird. Ein gesellschaftliches
-      Zusammenleben, in dem das Geistesleben als bloße Ideologie wirkt, entbehrt eine der Kräfte,
-      die den sozialen Organismus lebensfähig machen. Die soziale Bewegung kann ihre Ziele nur
-      erreichen, wenn die Forderungen des Proletariats nicht allein aus wirtschaftlichen Impulsen,
-      sondern aus einem erweiterten Bewusstsein heraus gestellt werden.
-  - term: Proletarier
-    chunk_id: d54c8f4c-5464-523e-9fdc-385247e32b1e
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Der Proletarier ist für diese Betrachtung kein rein wirtschaftliches oder soziologisches
-      Phänomen, sondern ein Mensch in einer bestimmten Bewusstseinslage. Er erlebt seine Arbeit als
-      fremdbestimmt und kann in ihr keine innere Befriedigung finden, weil ihm ein tragender
-      Seeleninhalt fehlt. Die herrschende Klasse hat ihn zwar zur Arbeit an den Produktionsmitteln
-      aufgerufen, aber versäumt, ihm zu dieser Arbeit einen geistigen Halt zu geben. Aus dieser
-      Leere heraus entsteht ein tief sitzender Abscheu davor, die eigene Arbeitskraft wie eine Ware
-      auf dem Markt verkaufen zu müssen. Dieser Abscheu ist ein Grundimpuls der proletarischen
-      Bewegung.
-
-
-      Der Proletarier sucht nach einem Geistesleben, das ihm das Bewusstsein seiner Menschenwürde
-      geben kann. Da er das überlieferte Gedankenleben aber nur als unwirkliche Ideologie empfindet,
-      findet er diesen Halt nicht. Er ersetzt das fehlende geistige Fundament durch das aus dem
-      Wirtschaftsleben geborene Klassenbewusstsein. Die Lösung liegt nicht im Klassenkampf, sondern
-      in einer Neuordnung des sozialen Organismus, die dem Arbeiter das Gefühl gibt, ein freier
-      Mensch zu sein. Eine solche Neuordnung muss die drei Bereiche Wirtschaft, Recht und
-      Geistesleben voneinander unabhängig machen, damit das Geistesleben seine tragende Kraft
-      entfalten kann.
   - term: Psychologie
     chunk_id: 8bb35809-cb2f-5f86-b77f-b4f5020a140a
     language: de
@@ -1582,49 +590,6 @@ begriffe:
       Geltung, unabhängig von seinen besonderen Fähigkeiten oder seinem wirtschaftlichen Wert. Die
       Einheit des gesamten sozialen Organismus wird dadurch nicht gefährdet, dass jeder Mensch mit
       seinen Interessen allen drei Gliedern angehört.
-  - term: Rechtsstaat
-    chunk_id: f9058aa6-0b02-5745-82c6-1f206864d4b2
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: Der Rechtsstaat ist im Rahmen der Dreigliederung des sozialen Organismus ein selbständiger
-      Unterorganismus, der aus seiner eigenen Wesenheit heraus die Beziehungen zwischen den Menschen
-      regelt. Er ist demokratisch orientiert und gibt dem Arbeitswillen die notwendigen Impulse. In
-      ihm regelt jeder Mündige gegenüber jedem Mündigen seine Rechte, was ein wahres
-      Gemeinsamkeitsgefühl entstehen lässt. Der Rechtsstaat garantiert die äußere Freiheit, indem er
-      verbindliche Grenzen setzt, ohne jedoch in die inneren Impulse der Menschen einzugreifen, die
-      Sache des freien Geisteslebens sind. Er regelt insbesondere das Eigentum an Kapital, ohne es
-      selbst in Besitz zu nehmen, sondern bewirkt, dass es im rechten Zeitpunkt in das
-      Verfügungsrecht einer Person oder Personengruppe übergeht, die ein individuelles Verhältnis zu
-      dem Besitz entwickeln kann. Der Rechtsstaat ist nicht der Ort, aus dem befruchtende Gedanken
-      für das Wirtschaftsleben kommen; diese können nur von einem auf sich selbst gestellten
-      Geistesleben ausgehen. Die Einheit des gesamten sozialen Organismus wird dadurch nicht
-      gefährdet, dass jeder Mensch mit seinen Interessen allen drei Teilorganismen angehört und die
-      Zentralverwaltungen ihre Maßnahmen harmonisieren können. Der Rechtsstaat ist somit ein
-      notwendiges Glied im sozialen Organismus, das die rechtlichen Beziehungen der Menschen
-      untereinander ordnet und ihnen den Rahmen für ihre Freiheit gibt.
-  - term: Reich
-    chunk_id: 236a22be-8978-54c9-b254-b895917c141c
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: "Im sozialen Organismus, wie er in der Dreigliederung gedacht wird, sind drei eigenständige
-      Sphären zu unterscheiden: das Geistesleben, das Rechtsleben und das Wirtschaftsleben. Jede
-      dieser Sphären hat ihre eigene innere Logik und soll nicht von den anderen beherrscht werden.
-      Das Geistesleben beruht auf Freiheit und muss unabhängig von wirtschaftlichen oder rechtlichen
-      Vorgaben aus sich selbst heraus wirken können. Das Rechtsleben gründet auf Gleichheit; in ihm
-      kommt der Mensch zu seiner rein menschlichen Geltung, unabhängig von seinen Fähigkeiten oder
-      seinem wirtschaftlichen Wert. Das Wirtschaftsleben schließlich beruht auf Brüderlichkeit, die
-      sich in einem assoziativen Zusammenwirken der Menschen ausdrückt. Keines dieser drei Glieder
-      soll das andere dominieren. Wirtschaftliche Interessen dürfen nicht in das Recht
-      hinüberfließen, und das Geistesleben darf nicht von staatlichen oder wirtschaftlichen
-      Bedürfnissen abhängig gemacht werden. Die drei Glieder sind gleichursprünglich und aufeinander
-      angewiesen; sie tragen sich gegenseitig, indem jedes seine eigenständige Verwaltung hat. Ihre
-      Einheit entsteht nicht durch eine zentralisierte Zusammenfassung, sondern durch ihr lebendiges
-      Nebeneinander- und Zusammenwirken. Nur in dieser gegliederten Form kann der soziale Organismus
-      gesunden."
   - term: Reine Vernunft
     chunk_id: c8d86683-3a18-5b0f-a580-f1ae85a25c5f
     language: de
@@ -1765,41 +730,14 @@ begriffe:
       Mensch mit einem Spiegel macht: Sie bereitet es zu, damit Erkenntnis zustande kommen kann. In
       der Seele eröffnet sich so der Ausblick auf eine Wirklichkeit, die den Sinnen unzugänglich
       ist. Sie erfühlt sich in einem seelisch-geistigen Weben und ist mit dem Geistigen außerhalb
-      des Leibes verbunden. Die Seele ist nicht mit dem Geist identisch, aber auch nicht von ihm
+      des Körpers verbunden. Die Seele ist nicht mit dem Geist identisch, aber auch nicht von ihm
       getrennt; beide wirken in einem seelisch-geistigen Zusammenhang. Die Welträtsel wollen von der
       Menschenseele nicht bloß bedacht, sondern erlebt sein. Die Seele kann durch innere
       Seelentätigkeit zu einem Erleben gelangen, das über das gewöhnliche Bewusstsein hinausgeht.
       Dieses Erleben ist kein theoretisches Wissen, sondern ein Erlebnisgebiet, auf dem sich die
       Fragen des Lebens immer neu lebendig beantworten. Die Seele ist damit das Organ, durch das der
-      Mensch an einer geistigen Welt teilhat, die ihm durch die Vermittlung des Leibes zur
+      Mensch an einer geistigen Welt teilhat, die ihm durch die Vermittlung des Körpers zur
       Wahrnehmung gebracht wird."
-  - term: Seelenleben
-    chunk_id: 999f423a-4423-56b7-be9c-9c75b452b77f
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Das Seelenleben ist kein abgeschlossener Behälter, sondern ein dynamisches Erlebnisgebiet. In
-      ihm treten Vorstellungen, Gefühle und Willensimpulse als unmittelbare innere Zustände auf – in
-      derselben Form, wie die Dinge der Außenwelt ins Bewusstsein treten. Ein Gefühl drängt sich
-      ebenso auf wie ein Lichteindruck. Das Seelenleben ist damit weder bloßes Abbild der Außenwelt
-      noch ein reines Innenleben ohne Bezug zur Wirklichkeit.
-
-
-      Der Mensch kann in diesem Seelenleben eigene Impulse setzen, sofern er sich durch das Denken
-      bewusst zu seinen Vorstellungen verhält. Das Denken richtet den Blick nach außen auf ein
-      Gegenüberstehendes; es ist Betrachtung. Indem die Seele denkend tätig ist, bearbeitet sie ihr
-      Inneres ähnlich, wie ein Mensch einen Spiegel zubereitet, um sein Gesicht darin zu sehen. Auf
-      diese Weise kann sie ein Erleben ergreifen, das von den Bedingungen der leiblichen Organe
-      unabhängig ist.
-
-
-      In dieses Seelenleben ragen aus einer leibfreien Welt die sittlichen Impulse herein, die das
-      Handeln des Menschen bestimmen sollen. Sie stammen nicht aus der leiblichen Natur, sondern aus
-      einer geistigen Wirklichkeit, die ihren Inhalt in sich selber trägt. Das Seelenleben ist daher
-      der Ort, an dem sich die Frage nach dem eigenen Handeln in jedem Augenblick neu und lebendig
-      beantwortet.
   - term: Seelenstimmung
     chunk_id: d4456531-9302-5a45-8bb0-115abb8cf10f
     language: de
@@ -1828,31 +766,6 @@ begriffe:
       das bloße Erleben gibt, sondern die eine innere Notwendigkeit durchfühlt, über die Welt etwas
       zu erkennen, was äußerlich nicht erfahrbar ist. In dieser Stimmung wird die Erkenntnis zu
       einem stetigen Hineinleben in den Weltengrund.
-  - term: Selbstbewusste Seele
-    chunk_id: a61c6d83-fdb8-5684-817d-b9f23b0e4025
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Die selbstbewusste Seele bezeichnet einen Zustand, in dem der Mensch sich selbst als tätigen,
-      denkenden Mittelpunkt erfasst. Sie ist die Quelle, aus der die Erkenntnis schöpft, um
-      Aufschluss auch über die außerseelische Welt zu gewinnen. In der philosophischen Entwicklung
-      hat sich dieses selbstbewusste Ich zunehmend in sich selbst isoliert gefunden, sodass selbst
-      die Wahrnehmungen der Sinne nur als Innenerlebnisse erscheinen, denen keine Kraft innewohnt,
-      die ihnen Dasein und Bestand in der Wirklichkeit verbürgen könnte. Die entscheidende Frage
-      wird: Wie kommt die selbstbewusste Seele dazu, das, was sie in sich erlebt, als Offenbarung
-      einer wahren Wirklichkeit anzusehen?
-
-
-      Die Antwort liegt nicht in einer fertigen, theoretischen Lehre, sondern in einem
-      Erlebnisgebiet der Seele, auf dem sich durch innere Seelentätigkeit die Frage in jedem
-      Augenblick neu lebendig beantwortet. Das selbstbewusste Ich ist nicht in sich isoliert und
-      außerhalb der objektiven Welt; sein Losgelöstsein ist nur eine Erscheinung des Bewusstseins,
-      die überwunden werden kann. Diese Überwindung geschieht durch die Einsicht, dass man in einem
-      bestimmten Entwicklungszustand eine vorübergehende Gestalt des Ich besitzt, weil die Kräfte,
-      die die Seele mit der Welt verbinden, aus dem Bewusstsein herausgedrängt wurden. Wirkten sie
-      unaufhörlich, käme man nicht zum kraftvollen, in sich ruhenden Selbstbewusstsein.
   - term: Selbstbewusstsein
     chunk_id: 302f6281-c847-5678-a9e0-1c8868d70afa
     language: de
@@ -1875,34 +788,6 @@ begriffe:
       Erkenntnis schöpft, um Aufschluss auch über die außerseelische Welt zu gewinnen. Das
       selbstbewusste Ich isoliert sich jedoch im Laufe der Entwicklung mit seinen Innenerlebnissen
       immer mehr in sich selbst.
-  - term: Sinnenwelt
-    chunk_id: 0550858d-d949-5f52-be6a-bd706a7e3165
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Die Sinnenwelt ist diejenige Wirklichkeit, die dem Menschen durch seine leiblichen Sinne
-      zugänglich ist. Sie umfasst alles, was gesehen, gehört, getastet, gerochen oder geschmeckt
-      werden kann: eine unendliche Mannigfaltigkeit von Gestalten, Kräften, Farben und Tönen. Der
-      Mensch tritt dieser Welt als Betrachtender gegenüber, und seine erste Tätigkeit besteht in der
-      sinnlichen Auffassung dieser Wirklichkeit.
-
-
-      Betrachtet man die bloße Sinneswahrnehmung für sich, so hat man es jedoch mit einem
-      zusammenhanglosen Chaos einzelner Eindrücke zu tun. Die Wahrnehmung allein liefert noch keine
-      Ordnung oder Verbindung zwischen den Dingen. Sie ist der objektiv gegebene Teil der
-      Wirklichkeit, aber nicht die ganze Wirklichkeit.
-
-
-      Erst im Zusammenwirken von Wahrnehmung und Denken entsteht volle Wirklichkeitserkenntnis. Das
-      Denken fügt den einzelnen Sinneseindrücken die gesetzmäßigen Zusammenhänge hinzu, die in der
-      bloßen Wahrnehmung nicht enthalten sind. Die Sinnenwelt ist daher der notwendige Ausgangspunkt
-      aller Erkenntnis, aber nicht deren Endpunkt. Sie ist nicht als bloßer Schein oder Trug zu
-      verstehen, sondern als jener Teil der Wirklichkeit, der dem Menschen durch seine Sinne gegeben
-      wird und der erst durch die denkende Beobachtung zu einem geordneten Ganzen wird. Der Mensch
-      lebt als Bürger zweier Welten: der Sinnenwelt und der Gedankenwelt, und die Aufgabe des
-      Erkennens besteht darin, beide in eine ungetrennte Einheit zu verbinden.
   - term: Sinnesorgan
     chunk_id: 6a9c80f7-29fb-57f3-a878-ea0b13308693
     language: de
@@ -1988,28 +873,6 @@ begriffe:
       wird. Sie fordert den Menschen auf, sie durch denkende Beobachtung zu durchdringen und ihren
       gesetzmäßigen Zusammenhang zu erkennen. In diesem Zusammenspiel von Wahrnehmung und Begriff
       liegt der Weg zu einer vollständigen Erkenntnis der Wirklichkeit.
-  - term: Sinnlichkeit
-    chunk_id: 64870c3a-1d9e-5a71-b8dc-ef71fd5c1c9a
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: "Die Sinnlichkeit ist die Fähigkeit des Menschen, Eindrücke von der Welt zu empfangen, ohne
-      sie bereits gedanklich zu durchdringen. Sie ist die erste Tätigkeit im Umgang mit der
-      Wirklichkeit: die sinnliche Auffassung dessen, was sich den Sinnen darbietet. Die Sinne
-      liefern eine unendliche Mannigfaltigkeit von Gestalten, Kräften, Farben, Tönen und so weiter.
-      Diese Fülle ist die Grundlage aller Erfahrung; ohne sie bliebe der Mensch leer. Allerdings
-      gleicht die bloße Sinneswahrnehmung für sich genommen einem zusammenhanglosen Chaos. Sie
-      zeigt, dass etwas ist, aber nicht, was es ist. Erst das Denken bringt Ordnung und Bedeutung in
-      das sinnlich Gegebene. Der Mensch ist bestrebt, die Mannigfaltigkeit mit dem ordnenden
-      Verstand zu durchdringen und die gegenseitigen Abhängigkeiten aufzuklären. Die Sinnlichkeit
-      ist daher nicht minderwertig oder trügerisch, sondern die notwendige Partnerin des Denkens.
-      Die sinnliche Art des Wahrnehmens verbürgt nicht die einzige Wirklichkeit, aber sie ist die
-      unverzichtbare Grundlage. Erst der Zusammenhang von sinnlicher Wahrnehmung und Denken ergibt
-      volle Wirklichkeit. Die Sinnlichkeit ist der Teil der Wirklichkeit, der objektiv gegeben wird;
-      der Begriff ist derjenige, der subjektiv durch Intuition hinzutritt. Beide Faktoren müssen
-      zusammenwirken, damit der Mensch die Welt nicht als bloße Erscheinung, sondern in ihrer
-      Ganzheit erfassen kann."
   - term: Sittliche Idee
     chunk_id: df095acd-3e33-5b51-ba5e-0f57e11be49a
     language: de
@@ -2156,32 +1019,6 @@ begriffe:
       Wirklichkeit. Die Vorstellung des Stoffes ist also kein Abbild einer äußeren Sache, sondern
       ein Werkzeug des Geistes, um die Erscheinungen zu erklären und zu ordnen. Ohne diese denkende
       Durchdringung bliebe die Welt ein bloßes Nebeneinander sinnlicher Eindrücke ohne Bedeutung.
-  - term: Subjekt
-    chunk_id: ce65a66b-4247-50c9-9597-5526b8d1eb83
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Das Subjekt ist kein feststehendes Ding, das der Welt einfach gegenübersteht. Es entsteht
-      vielmehr erst in der Begegnung mit der Welt. Das Denken ist dasjenige Element, das jenseits
-      von Subjekt und Objekt steht. Es bildet diese beiden Begriffe überhaupt erst. Der Mensch
-      erscheint sich als Subjekt, weil er zu denken vermag. Nicht das Subjekt denkt, sondern das
-      Denken lässt das Subjekt entstehen. Das Denken führt den Menschen über sein Selbst hinaus und
-      verbindet ihn mit den Objekten, indem es ihn ihnen zugleich als Subjekt gegenüberstellt.
-      Subjekt und Objekt sind daher keine Gegensätze, sondern Pole eines Prozesses, der durch das
-      Denken vermittelt wird.
-
-
-      Das Subjekt ist keine fertige Instanz, sondern eine werdende. Die erste Gestalt, in der die
-      Wirklichkeit an das Ich herantritt, ist nicht deren wahre. Erst die letzte Gestalt, die das
-      Ich aus der Wirklichkeit macht, ist die wahre. Das Subjekt ist auf die Welt angewiesen, denn
-      es gewinnt seine Bestimmtheit erst in der Auseinandersetzung mit dem Gegebenen. Die
-      Wahrnehmungen sind die Objekte, die das bewusste Subjekt beobachtet. Das Denken ist das
-      absolut Letzte, zu dem es die Weltentwicklung gebracht hat, und von diesem muss die
-      Betrachtung ausgehen. Das Subjekt lebt von des Denkens Gnaden und ist kein unabhängiger
-      Ausgangspunkt. Es ist der Ort, an dem das Denken sich seiner selbst bewusst wird und die Welt
-      in Begriffe fasst.
   - term: Substanz
     chunk_id: 3d26a98e-9e13-5355-b037-9b63455a4390
     language: de
@@ -2254,105 +1091,6 @@ begriffe:
       Gehalt bestimmt. Freiheit beginnt dort, wo der Mensch sich gedankliche Triebfedern seines
       Handelns innerhalb des Bewusstseins schaffen kann. Der freie Geist ist imstande, moralische
       Triebfedern, sein eigenes Gutes und Böses, selbst zu schaffen.
-  - term: Tugend
-    chunk_id: 801c3858-fce4-55e5-a684-efe34dfcb812
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Tugend ist kein moralisches Gebot, das von außen an den Menschen herantritt, sondern die Folge
-      innerer Einsicht. Sie entsteht nicht aus einem kategorischen Imperativ oder einer Stimme der
-      Pflicht, der man sich unterwerfen müsste. Tugendhaft handelt vielmehr, wer aus eigener
-      Erkenntnis handelt, nicht aus Autoritäten oder äußeren Zwängen. Der Antrieb zum Handeln liegt
-      nicht außerhalb, sondern im Menschen selbst. Das Wollen ist souverän: Es vollführt nur, was
-      als Gedankeninhalt in der menschlichen Persönlichkeit liegt. Der Mensch ist sein eigener
-      Gesetzgeber.
-
-
-      Damit löst sich der Tugendbegriff aus jeder starren Morallehre. Tugend ist lebendig, wandelbar
-      und individuell. Sie zeigt sich in der Fähigkeit, das eigene Wollen zu durchschauen, sodass
-      Handeln aus freiem Geist erfolgt. Wer tugendhaft handelt, handelt nicht aus Pflichtgefühl,
-      sondern aus Einsicht. Tugend ist die praktische Seite der Freiheit: Sie verwirklicht sich in
-      dem Maße, wie ein Mensch seine sittlichen Ideale als eigenes freies Erzeugnis begreift und
-      ausführt, was er sich selbst als Norm vorschreibt.
-
-
-      Erst wenn ein Mensch die Beweggründe seines Handelns klar erkennend durchdringt, macht er eine
-      Eroberung im Gebiet der Freiheit. Tugend ist dann nichts anderes als das Auslebenlassen jenes
-      intuitiven Gehalts, der den Sittlichkeitsgehalt des Individuums ausmacht. Auf dieser Stufe
-      fallen Triebfeder und Motiv zusammen: Die Handlung wird nicht durch eine äußere Norm bestimmt,
-      sondern durch ihren idealen Gehalt.
-  - term: Übermensch
-    chunk_id: 4bf0117c-2757-5f5f-a8ec-fc613709ee95
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: "Der Begriff „Übermensch“ stammt von Friedrich Nietzsche und wird von ihm als Gegenbild zum
-      modernen, schwachen Menschen entworfen. Der Übermensch ist ein Wesen, das aus eigener Kraft
-      seine Werte schafft und jenseits von überlieferten Vorstellungen von Gut und Böse lebt. Er
-      gehorcht keiner äußeren Autorität, weder einem Gott, einer Vernunftmoral noch einem
-      kategorischen Imperativ, sondern folgt allein seiner eigenen Natur. Nietzsche bestimmt diesen
-      Übermenschen jedoch nur negativ: als Zerstörer alter Bindungen, nicht aber als positiven
-      Schöpfer einer neuen, bewussten Ethik. Die naturalistische Entwicklungsvorstellung des
-      neunzehnten Jahrhunderts ließ ihn den Übermenschen nicht als das geistig Waltende innerhalb
-      des Sinnlich-Physischen schauen, sondern als etwas, das sich durch bloß naturgemäße
-      Entwicklung aus dem Menschen entfaltet – so wie der Mensch aus dem Tier. Damit wurde Nietzsche
-      der Ausblick auf den Geistmenschen im Naturmenschen entrissen. Der Übermensch bleibt bei ihm
-      ein notwendiger, aber unvollendeter Entwurf: ein Mittel, das Dasein zu ertragen, nicht aber
-      die Gestalt eines wirklich freien, geistig durchdrungenen Menschen. Die Hymnen auf den
-      Übermenschen sind die dichterische Antwort auf die Fragen der Naturwissenschaft, nicht die
-      Grundlage einer neuen Ethik aus freier, geistiger Intuition."
-  - term: Überzeugung
-    chunk_id: e403c4ca-ddc5-5635-901e-70f4a94e8597
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Eine Überzeugung entsteht nicht durch äußere Autorität, durch Überlieferung oder durch
-      Denkgewohnheiten, in die man durch Erziehung und Lebensumstände hineingewachsen ist. Sie ist
-      vielmehr das Ergebnis eines selbsttätigen, inneren Erkenntnisprozesses. Der Mensch gelangt zu
-      einer echten Überzeugung, indem er seine Beobachtungen der Wirklichkeit mit dem ordnenden
-      Verstand durchdringt und die Gedankengänge konsequent bis zu Ende verfolgt. Dabei darf er sich
-      nicht von ungeprüften Vorstellungen leiten lassen, die er für richtig hält, nur weil sie ihm
-      vertraut sind. Eine solche Haltung wäre Aberglaube.
-
-
-      Die Überzeugung muss im freien Austausch mit anderen reifen können. Die Freiheit des einen
-      kann nicht ohne die Freiheit des anderen gedeihen. Deshalb darf das Geistesleben – Kunst,
-      Wissenschaft, Weltanschauung – nicht von äußeren Mächten gelenkt werden, sondern muss sich aus
-      seinen eigenen Impulsen heraus entfalten. Nur in dieser selbständigen Stellung kann die Kraft
-      entstehen, die das geistige Leben im sozialen Organismus trägt.
-
-
-      Eine Überzeugung ist kein passiver Besitz, sondern ein aktiver Vorgang. Sie erfordert, dass
-      der Mensch die Gedanken nicht nur aufnimmt, sondern sie innerlich nachvollzieht und als sein
-      eigenes Erzeugnis erlebt. Wer sich auf diese Weise eine Überzeugung erarbeitet, handelt nicht
-      aus einem äußeren Gebot, sondern aus der inneren Kraft des erkannten Gedankeninhalts. So wird
-      die Überzeugung zur Grundlage eines freien, selbstbestimmten Handelns.
-  - term: Unlust
-    chunk_id: 40457ef7-6475-5eba-9e47-b3fb7762277d
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: "Unlust ist ein Gefühl, das im menschlichen Leben als unmittelbare Wahrnehmung auftritt und
-      nicht allein aus Begriffen abgeleitet werden kann. Sie entsteht auf verschiedene Weise: durch
-      Nichterfüllung eines Begehrens, durch aufgedrängte Arbeit, durch Langeweile oder durch
-      Ereignisse, die ohne vorheriges Streben an den Menschen herantreten, wie etwa Krankheit.
-      Unlust kann das Streben nach einem als berechtigt erkannten Ziel lähmen. Sie ist jedoch nicht
-      einfach das Gegenteil von Lust, denn das Streben selbst ist lustvoll, unabhängig von der
-      späteren Erfüllung. Die Unlust an der Nichterfüllung kann durch die Erinnerung an die Lust des
-      Strebens gemildert werden. Entscheidend ist, dass Unlust nicht aus der Lebensbilanz
-      ausgeschlossen werden darf, nur weil sie an Gegenstände geknüpft ist, die sich später als
-      Illusion erweisen. Der Mensch muss die tatsächliche Größe von Lust und Unlust in Rechnung
-      bringen, wie sie im Leben erfahren wird. Die Vernunft kann den Überschuss an Unlust nicht von
-      sich aus bestimmen, sondern muss ihn im Leben als Wahrnehmung zeigen. Wenn das Unlustquantum
-      so groß wird, dass keine Hoffnung auf künftige Lust mehr besteht, kann dies zum Bankrott des
-      Lebensgeschäfts führen. Unlust ist damit ein notwendiger Bestandteil der Lebenserfahrung, der
-      nicht theoretisch wegdiskutiert werden kann."
   - term: Urbild
     chunk_id: 7781433e-cef3-5772-a9f2-289c0a3a4291
     language: de
@@ -2419,38 +1157,6 @@ begriffe:
       Grenze: Man bleibt auf der empirischen Höhe stehen, von der aus man rückwärts die Erfahrung in
       allen Stufen überschauen und vorwärts in das Reich der Theorie einblicken, aber nicht
       eintreten kann. Das Urphänomen erklärt sich durch sich selbst."
-  - term: Ursache
-    chunk_id: d360cece-3e6b-5aac-9ac0-c4a8c73a61ca
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Die Ursache ist kein äußerer Zwang, der von einem Ding auf ein anderes ausgeübt wird, wie es
-      etwa bei einem gestoßenen Stein der Fall ist. Sie ist vielmehr ein Gedanke, den du selbst
-      hervorbringen musst, um die zusammenhanglosen Eindrücke der Sinne zu ordnen. In der sinnlichen
-      Wahrnehmung begegnen dir zunächst nur einzelne Erscheinungen nebeneinander. Wenn du nach einer
-      Ursache suchst, verbindest du eine Wahrnehmung gedanklich mit einer anderen. Du bringst
-      Ordnung in das Chaos der Eindrücke.
-
-
-      Dieses Verbinden ist kein willkürlicher Akt. Es folgt einer inneren Gesetzmäßigkeit des
-      Denkens selbst. Wenn du den Gedanken der Ursache fasst, führt dich dieser durch seinen eigenen
-      Inhalt zu dem der Wirkung. Die Ursache ist also keine Eigenschaft der Dinge, sondern eine
-      Einsicht, die du im Denken gewinnst. Du erkennst sie, wenn dir der Zusammenhang als notwendig
-      einleuchtet.
-
-
-      Die Ursachlichkeit als Gedankenform musst du selbst hervorbringen, bevor du einzelne Ursachen
-      und Wirkungen in der Welt finden kannst. Sie ist eine reine Gedankenbestimmung, die du an die
-      Erfahrung heranträgst, um sie zu durchdringen. Damit wird die Ursache zu einem Werkzeug der
-      Erkenntnis, nicht zu einem Fatum, dem du blind ausgeliefert bist.
-
-
-      #### Ähnliche Fragen
-
-
-      Keine ähnlichen Fragen gefunden.
   - term: Urteil
     chunk_id: bc0b62f2-e57f-5e1b-bf76-302a788680ad
     language: de
@@ -2497,32 +1203,6 @@ begriffe:
       die Wirklichkeit nach den bequemen Forderungen des eigenen Denkens zu gestalten. In diesem
       Sinne ist sie eine Fähigkeit, die durch Übung und Hingabe an die Sache selbst erstarkt und den
       Menschen befähigt, die Welt nicht nur zu erkennen, sondern in ihr schöpferisch tätig zu sein.
-  - term: Verhältnis
-    chunk_id: f18459c7-237a-587e-a42e-9806fa211a66
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Das Verhältnis ist kein statischer Zustand, sondern ein dynamischer Zusammenhang, der durch
-      die Tätigkeit des Menschen hergestellt werden muss. Grundlegend ist das Verhältnis zwischen
-      Denken und Wahrnehmung: Beide sind getrennt gegeben und werden erst durch den Menschen in
-      einen Zusammenhang gebracht. Die Wahrnehmung bietet ein zusammenhangloses Chaos, der abstrakte
-      Begriff für sich genommen keine Wirklichkeit. Erst die denkende Beobachtung, die den
-      Zusammenhang beider betrachtet, führt zur vollen Wirklichkeit. Der Mensch ist bestrebt, die
-      unendliche Mannigfaltigkeit der Erscheinungen mit dem ordnenden Verstand zu durchdringen und
-      Bedingungen zu schaffen, unter denen ein Vorgang in durchsichtiger Klarheit als notwendige
-      Folge erscheint. Das Verhältnis, in das die Tatsachen gebracht werden, muss ein ideelles, dem
-      Geist gemäßes sein.
-
-
-      Im Bereich des Handelns stellt sich das Verhältnis zwischen bewusstem Beweggrund und
-      unbewusstem Antrieb. Der aus Erkenntnis Handelnde bringt seinen inneren Impuls in ein
-      Verhältnis zur äußeren Situation. Im sozialen Bereich schließlich zeigt sich das Verhältnis
-      der drei Gesellschaftsbereiche zueinander. Jedes Glied des sozialen Organismus soll in sich
-      zentralisiert sein; die Einheit entsteht erst durch ihr lebendiges Nebeneinander- und
-      Zusammenwirken. Das Verhältnis der Menschen im Wirtschaftsleben ruht auf Brüderlichkeit, die
-      aus den Assoziationen ersteht.
   - term: Vernunft
     chunk_id: 1cd2603c-1000-54fc-b875-e33248c5ed88
     language: de
@@ -2828,27 +1508,6 @@ begriffe:
       bewusstes, freies Handeln in der Gemeinschaft. Kunst, Wissenschaft und Weltanschauung bedürfen
       einer selbständigen Stellung in der menschlichen Gesellschaft, denn im geistigen Leben hängt
       alles zusammen, und die Freiheit des einen kann nicht ohne die Freiheit des anderen gedeihen.
-  - term: Weltbild
-    chunk_id: 30b2db53-c036-5699-abdc-9dd54ded712a
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: "Ein Weltbild ist nicht etwas, das man fertig übernimmt oder das einem von außen gegeben wird.
-      Es entsteht vielmehr aus einem lebendigen Erkenntnisprozess, den der Mensch selbst vollzieht.
-      Der Ausgangspunkt ist das „unmittelbar gegebene Weltbild“: eine zusammenhanglose, noch nicht
-      durch gedankliche Bestimmungen geordnete Fülle von Wahrnehmungen, in der nichts voneinander
-      unterschieden und nichts aufeinander bezogen ist. Dieses Chaos wird erst durch die eigene
-      Denktätigkeit zu einem geordneten Ganzen. Indem der Mensch die Wahrnehmungen denkend
-      durchdringt und mit Begriffen verbindet, schafft er sich ein Weltbild, das nicht bloße
-      Abbildung einer äußeren Wirklichkeit ist, sondern Ausdruck seiner inneren Freiheit. Wer ein
-      Weltbild nur von außen übernimmt, lebt in einer fremden Vorstellung; wer es selbst erarbeitet,
-      verbindet sich mit der Wirklichkeit. Ein solches Weltbild ist nicht statisch, sondern
-      dynamisch: Es kann sich mit neuen Erfahrungen weiterbilden und bleibt offen für den
-      fortlaufenden Erkenntnisweg. Es ist nicht das Ziel, sondern der Weg des Erkennens selbst. In
-      diesem Sinne ist das Weltbild die gestaltete Einheit von Wahrnehmung und Begriff, die der
-      Mensch in freier Tätigkeit hervorbringt und die ihm den Zusammenhang mit der Welt immer neu
-      erschließt."
   - term: Weltgeist
     chunk_id: 76d67ffe-3d89-528f-adb8-7a4d5bd028e9
     language: de
@@ -2916,32 +1575,6 @@ begriffe:
       „Ich“, hier liegt etwas, was mehr als „Ich“ ist. In diesem Sinne ist die Wesenheit der innere,
       selbsttätige Kern, der das Individuum in seiner Besonderheit trägt und der nur durch sich
       selbst erklärt werden kann.
-  - term: Wirtschaft
-    chunk_id: 6d7975aa-d8b2-5c64-a2c4-624d152e9f83
-    language: de
-    tags:
-      - concept
-      - assistant-generated
-    text: >-
-      Die Wirtschaft ist in der Dreigliederung des sozialen Organismus ein eigenständiger Bereich,
-      der nach seinen eigenen Gesetzmäßigkeiten funktioniert. Sie ist weder dem Staat noch dem
-      Geistesleben untergeordnet, sondern bildet ein selbständiges Glied neben diesen beiden. Ihr
-      Kern liegt nicht im Gewinnstreben oder in der Kapitalvermehrung, sondern im sachlichen
-      Interesse an der Hervorbringung von Produkten und Leistungen. Wirtschaften bedeutet, dass
-      Menschen füreinander sorgen: Der Wert einer Ware hängt nicht allein von der eigenen Arbeit ab,
-      sondern von den Leistungen aller am Wirtschaftskreislauf Beteiligten. Geld ist in diesem Sinne
-      eine Anweisung auf künftige Gegenleistungen.
-
-
-      Die Organisation der Wirtschaft erfolgt nicht durch staatliche Lenkung oder durch den freien
-      Markt allein, sondern durch Assoziationen, in denen sich Produzenten, Händler und Konsumenten
-      nach wirtschaftlichen Gesichtspunkten zusammenschließen. In diesen Assoziationen regeln die
-      Beteiligten gemeinsam Produktion, Preisbildung und Kreditvergabe. Jeder Mensch hat darin genau
-      so viel Einfluss, wie seiner Leistung entspricht. Arbeit wird nicht als Ware behandelt,
-      sondern als persönlicher Beitrag zur Gemeinschaft. Die Wirtschaft dient letztlich einem
-      höheren Zweck: Sie soll dem Menschen die Freiheit geben, sich im Geistesleben und im
-      Rechtsleben nach eigenen Impulsen zu entfalten. Ohne diese Dreigliederung wird der Mensch zum
-      bloßen Rad im Wirtschaftsmechanismus.
   - term: Wirtschaftsleben
     chunk_id: 9a1c592b-dc51-57c3-890b-85d6262df16e
     language: de

@@ -27,13 +27,23 @@ aliases:
   - Weltanschauungsnuancen
   - Weltanschauungstypen
   - "12 Weltanschauungstypen"
+glieder:
+  - Materialismus
+  - Sensualismus
+  - Phänomenalismus
+  - Realismus
+  - Dynamismus
+  - Individualismus (Monadismus)
+  - Spiritualismus
+  - Pneumatismus
+  - Psychismus
+  - Idealismus
+  - Rationalismus
+  - Mathematismus
 kurz: >
   Die 12 Weltanschauungen sind nach Rudolf Steiner zwölf gleichberechtigte
   Arten, die Welt zu betrachten, vom Materialismus bis zum Mathematismus. Sie
-  ordnen sich wie der Tierkreis: Die einen erfassen mehr die äußere, sinnliche
-  Welt, die anderen mehr die innere, geistige; Realismus und Idealismus stehen
-  in der Mitte. Erst alle zusammen umfassen die Wahrheit, und jede kann in
-  sieben Seelenstimmungen auftreten.
+  ordnen sich wie der Tierkreis; erst alle zusammen umfassen die Wahrheit.
 text: |
   Die **12 Weltanschauungen** (auch zwölf Weltanschauungen, Weltanschauungsnuancen, Weltanschauungstypen oder 12 Weltanschauungstypen genannt) sind nach Rudolf Steiner zwölf grundlegende Arten, das Universum zu betrachten. Sie entspringen den zwölf Grundtypen des Menschentums und führen zusammengenommen zur Wahrheit, wie zwölf Strahlen einer Sonne.
 
@@ -430,7 +440,7 @@ weltanschauungen:
       einer anderen erzeugt. Wahrheit entsteht hier im Gespräch, wie in
       Heisenbergs Auseinandersetzungen mit Bohr und Einstein, nicht durch
       Dogmen. Die Linie reicht von Pythagoras und Platon bis in die Gegenwart.
-      Gegen einen verengten Mathematizismus, der alles auf Formeln und Atome
+      Gegen einen verengten Mathematismus, der alles auf Formeln und Atome
       zurückführen will, kennt er seine Grenze: Die Gleichung versagt beim
       Erleben von Rot. Steiner ordnet ihn den Zwillingen zu. Sein Gegenpol ist
       der Monadismus im Schützen; an dessen Reich der Wesen, die sich durch

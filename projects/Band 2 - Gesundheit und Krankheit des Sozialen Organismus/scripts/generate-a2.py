@@ -184,7 +184,7 @@ VERTEX_LABELS = [
 VERTEX_LH = 1.05  # Zeilenabstand mehrzeiliger Vertex-Labels
 
 # Leitprinzipien im Inneren (Wirtschaft, Kultur/Geist, Recht)
-INNER_KRANK = ("Wettbewerb", "Leere Worte", "Vorrechte")
+INNER_KRANK = ("Gegeneinander", "Leere Worte", "Vorrechte")
 INNER_GESUND = ("Br\u00fcderlichkeit", "Freiheit", "Gleichheit")
 INNER_BASE_FRAC = 0.20       # Abstand von der Grundlinie (Anteil der Hoehe)
 INNER_EDGE_PAD = 70.0        # Abstand Textkante \u2192 Dreiecksschenkel
@@ -323,7 +323,6 @@ def load_yaml_fields(path=None):
             r"        text: (?:>|\|)\s*\n"
             r"(.*?)(?="
             r"\n        erklaerung:"
-            r"|\n        references:"
             r"|\n        chunk_id:"
             r"|\n      - schlagwort:"
             r"|\n  - id: "
@@ -331,8 +330,7 @@ def load_yaml_fields(path=None):
             r"|\n\Z)"
             r"(?:\n        erklaerung: >\s*\n(.*?))?"
             r"(?="
-            r"\n        references:"
-            r"|\n        chunk_id:"
+            r"\n        chunk_id:"
             r"|\n      - schlagwort:"
             r"|\n  - id: "
             r"|\n  #"
@@ -1282,10 +1280,10 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
         # Welche Innen-Beschriftung den Aussenabstand setzt (Krankheit / Gesundheit)
         ARC_CLEAR_KRANK = {
             0: ["Vorrechte"],
-            1: ["Vorrechte", "Wettbewerb"],
+            1: ["Vorrechte", "Gegeneinander"],
             2: [],
-            3: ["Wettbewerb"],
-            4: ["Wettbewerb", "Leere Worte"],
+            3: ["Gegeneinander"],
+            4: ["Gegeneinander", "Leere Worte"],
             5: [],
             6: ["Leere Worte"],
             7: ["Leere Worte"],
