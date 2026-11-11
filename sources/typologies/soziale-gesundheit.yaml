@@ -5404,7 +5404,7 @@ felder:
     text: |
       Im kranken Feld Wirtschaft -> Geist versorgt die Wirtschaft das Geistesleben nicht, sie verfügt über es. Wer das Geld gibt oder verwaltet, entscheidet über Fragen, Sichtbarkeit und Ergebnis. Aus dem Strom, der geistiges Leben tragen sollte, wird eine Mautstelle.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Überlastung:** Tausend Firmen bauen auf einer Bibliothek, die einer nachts unbezahlt pflegt; die Wirtschaft finanziert ihre eigene Zukunft nicht. **Betriebsgeheimnis:** Wissen über Chemikalien, Algorithmen und Wirkungen wird der Prüfung entzogen. **Kurzsichtigkeit:** Verlage und Plattformen entscheiden nach Rendite, was sichtbar wird; Gedanken, die länger brauchen, denkt niemand mehr. **Rückkauf:** Öffentlich finanzierte Forschung verschwindet hinter Bezahlschranken. **Bestellung:** Erforscht wird, was sich vermarkten lässt; unbequeme Ergebnisse verschwinden in der Schublade. **Vormund:** Stiftungsräte und Fördergremien urteilen über Arbeit, in der sie nicht stehen, und prüfen vor allem, ob das Geld noch da ist. **Berechnung:** Inhalte richten sich nach Quote und Werbeertrag; verkauft wird nicht dem Menschen etwas, verkauft wird er.
+      Sieben Aspekte zeigen, wie das geschieht. **Überlastung:** Tausend Firmen bauen auf einer Bibliothek, die einer nachts unbezahlt pflegt; die Wirtschaft finanziert ihre eigene Zukunft nicht. **Betriebsgeheimnis:** Wissen über Chemikalien, Algorithmen und Wirkungen wird der Prüfung entzogen. **Kurzsichtigkeit:** Verlage und Plattformen entscheiden nach Rendite, was sichtbar wird; Gedanken, die länger brauchen, denkt niemand mehr. **Rückkauf:** Öffentlich finanzierte Forschung verschwindet hinter Bezahlschranken. **Bestellung:** Erforscht wird, was sich vermarkten lässt; unbequeme Ergebnisse verschwinden in der Schublade. **Lenkung:** Stiftungsräte und Fördergremien urteilen über Arbeit, in der sie nicht stehen, und prüfen vor allem, ob das Geld noch da ist. **Berechnung:** Inhalte richten sich nach Quote und Werbeertrag; verkauft wird nicht dem Menschen etwas, verkauft wird er.
 
       Der Gegenpol ist „Die Wirtschaft ermöglicht das Leben“: Dort endet mit der Gabe jeder Anspruch.
     aspekte:
@@ -5693,8 +5693,8 @@ felder:
             relevance: 0.35
             begruendung: Thematisiert die organisierte, fremdgesteuerte Struktur des Geisteslebens (Schulen, Universitäten) – Anknüpfung an 'Die Uni liefert Personal, keine Bildung'.
         chunk_id: 8ee29c24-7d23-46f0-9031-48b09ad85a12
-      - schlagwort: Vormund
-        schlagsatz: Wer das Geld verwaltet, verwaltet den Geist.
+      - schlagwort: Lenkung
+        schlagsatz: Wer das Geld verwaltet, lenkt den Geist.
         kurztext: >
           Stiftungsräte, Fördergremien, Vergabestellen entscheiden über geistige
           Arbeit, in der sie selbst nicht stehen. Das Urteil fällt nach
@@ -5735,7 +5735,7 @@ felder:
             source_id: 7bd7ddb2-661e-55e4-8f31-a2812a871663
             relation: zeigt_gegenbild
             relevance: 0.78
-            begruendung: "Formuliert das Gegenbild zum Vormund: Der Mensch soll nur Verwalter des Kapitals sein, nicht Herr über den Geist — kontrastiert die im Kurztext kritisierte Stiftungslogik."
+            begruendung: "Formuliert das Gegenbild zur Lenkung: Der Mensch soll nur Verwalter des Kapitals sein, nicht Herr über den Geist — kontrastiert die im Kurztext kritisierte Stiftungslogik."
           - id: 2cec48b0-7a13-4b98-9ea2-0a6d9eef4303
             chunk_id: 494717d8-04a6-57e2-9c08-5ba0b842a94b
             chunk_type: secondary_book
@@ -5783,7 +5783,7 @@ felder:
           ihm etwas — verkauft wird er. Und wie die Brüderlichkeit in einer
           gesunden Wirtschaft das Fundament ist, ohne das keine Struktur trägt,
           ist ihr Bruch hier das Fundament von Krankheiten: Die Überlastung
-          lässt ihn allein, die Kurzsichtigkeit übersieht ihn, der Vormund
+          lässt ihn allein, die Kurzsichtigkeit übersieht ihn, die Lenkung
           verfügt über ihn, der Rückkauf kassiert ihn, die Bestellung nutzt ihn
           aus, das Betriebsgeheimnis verbirgt ihn. Wer rechnet, sieht keinen
           Bruder — er sieht einen Posten. Am reinsten zeigt sich Brüderlichkeit
