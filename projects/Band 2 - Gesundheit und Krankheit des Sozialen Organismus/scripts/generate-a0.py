@@ -263,7 +263,7 @@ FAN_GROUPS = {
         "heading_align": "text-end",  # rechtsbündig mit dem Text
         "align_heading_to": {
             "yaml_id": "dm-06k",
-            "schlagwort": "Bestellung",
+            "schlagwort": "Humankapital",
         },
     },
     "dm-05g": {

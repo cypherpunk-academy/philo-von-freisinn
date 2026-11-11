@@ -5026,14 +5026,14 @@ felder:
     kurz: >
       Lehrer, Forscher und Künstler stellen kein Brot her und leben doch davon.
       Die Wirtschaft versorgt sie verlässlich, baut ihnen Werk- und Wirkstätten
-      und gibt Schenkungsgeld, mit dem jeder Anspruch endet. Sie verzichtet
-      darauf, Inhalte zu bestellen, und schafft Orte, an denen Fähigkeit und
+      und gibt Schenkungsgeld, mit dem jeder Anspruch endet. Sie empfängt,
+      was niemand bestellt hat, und schafft Orte, an denen Fähigkeit und
       Bedarf einander finden. Getragen wird das von Brüderlichkeit als Einsicht
       in die gegenseitige Abhängigkeit.
     text: |
       Im gesunden Feld Wirtschaft -> Geist versorgt die Wirtschaft das Geistesleben mit dem, was es nicht selbst herstellt: Unterhalt, Räume, Werkzeug, Zeit. Was der Geist hervorbringt, lässt sich nicht bestellen und nicht aufwiegen; darum ist die Versorgung kein Lohn für gelieferte Ware.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Unterhalt:** Eine Gemeinschaft trägt ihre Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt. **Werk- und Wirkstätten:** Die Wirtschaft baut Labor, Schulhaus und Bühne und betritt sie nur als Gast. **Verlässlichkeit:** Getragen wird in Jahren, nicht in Stunden; ob eine Arbeit fruchtbar war, urteilen die Fachgenossen. **Gabe:** Schenkungsgeld ist Geld ohne vereinbarte Gegenleistung; wohin es fließt, entscheidet das Geistesleben allein. **Verzicht:** Wer bestellt, bekommt nur Bestelltes; der Verzicht auf den nahen Nutzen ist die Bedingung des fernen. **Begegnung:** Die Wirtschaft hält einen Raum offen, in dem Fähigkeit und Bedarf einander ohne Zuteilung finden. **Brüderlichkeit:** Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben; wer das versteht, rechnet nicht.
+      Sieben Aspekte zeigen, wie das geschieht. **Unterhalt:** Wer im Geistesleben arbeitet, erhält als Verbraucher einer Wirtschaftskörperschaft unmittelbar, was er braucht. **Werk- und Wirkstätten:** Die Wirtschaft baut Labor, Schulhaus und Bühne und betritt sie nur als Gast. **Verlässlichkeit:** Getragen wird in Jahren, nicht in Stunden. Versteht kein Geistesarbeiter mehr die Richtung eines Kollegen, muss der etwas anderes machen. **Gabe:** Schenkungsgeld kommt auf drei Wegen; mit der Gabe endet der Anspruch. **Empfang:** Die Wirtschaft wartet, wer kommt, und richtet sich nach dem ein, was der Mensch mitbringt. **Begegnung:** Die Wirtschaft hält einen Raum offen, in dem Fähigkeit und Bedarf einander ohne Zuteilung finden. **Brüderlichkeit:** Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben; wer das versteht, rechnet nicht.
 
       Der Gegenpol ist „Das Geld kauft unser Denken“: Dort wird der Gast zum Hausherrn, und das Geld bestimmt Fragen und Antworten.
     aspekte:
@@ -5041,27 +5041,34 @@ felder:
         schlagsatz: Wer lehrt, lernt, erfindet und spielt, muss essen.
         kurztext: >
           Lehrer, Forscherinnen, Künstler stellen kein Brot her — und leben doch
-          davon. Die Wirtschaft versorgt sie mit dem Notwendigen, damit
-          sie tun können, was sonst niemand tut. Das ist kein Lohn für
-          gelieferte Ware, denn was der Geist hervorbringt, lässt sich nicht
-          bestellen und nicht aufwiegen. Eine Gemeinschaft trägt ihre
-          Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt: Es fehlt am
-          Tisch, aber ohne dieses Fehlen gäbe es keine nächste Ernte. Die Kraft,
-          die der Kampf ums Auskommen verzehrt, fehlt der eigentlichen Arbeit.
+          davon. Die Wirtschaft versorgt sie mit dem Notwendigen, damit sie tun
+          können, was sonst niemand tut. Wer im Geistesleben arbeitet, gehört
+          als Verbraucher einer Wirtschaftskörperschaft an und erhält dort
+          unmittelbar, was er braucht — nicht auf dem Umweg über die Steuer.
+          Das ist kein Lohn für gelieferte Ware, denn was der Geist hervorbringt,
+          lässt sich nicht bestellen und nicht aufwiegen. Eine Gemeinschaft trägt
+          ihre Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt: Es fehlt
+          am Tisch, aber ohne dieses Fehlen gäbe es keine nächste Ernte. Die
+          Kraft, die der Kampf ums Auskommen verzehrt, fehlt der eigentlichen
+          Arbeit.
         text: >
           Lehrer, Forscherinnen, Künstler und Therapeuten stellen kein Brot her,
           keine Kleidung, kein Haus – und doch leben sie von alledem. Was für
           die Träger des Rechts gilt, gilt für die Arbeiter des Geistes genauso:
           Die Wirtschaft versorgt sie mit dem Notwendigen, damit sie tun können,
-          was sonst niemand tut. Diese Versorgung ist kein Lohn für gelieferte
+          was sonst niemand tut. Auch der Weg ist derselbe: Wer im Geistesleben
+          arbeitet, gehört als Verbraucher einer Wirtschaftskörperschaft an und
+          erhält von ihr unmittelbar, was er braucht — nicht auf dem Umweg über
+          die Steuer. Was er selbst nicht am Boden erarbeitet, leisten die
+          anderen für ihn mit. Diese Versorgung ist kein Lohn für gelieferte
           Ware, denn was der Geist hervorbringt, lässt sich nicht bestellen und
           nicht aufwiegen – sie ist die Voraussetzung dafür, dass überhaupt
           etwas hervorgebracht werden kann. Eine Gemeinschaft trägt ihre
           Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt: Es fehlt am
           Tisch, aber ohne dieses Fehlen gäbe es keine nächste Ernte. Wer
           geistig arbeitet, soll nicht nebenher um das tägliche Auskommen
-          kämpfen müssen – denn die Kraft, die dieser Kampf verzehrt, würde der
-          eigentlichen Arbeit fehlen und damit unserer Zukunft. So beginnt die
+          kämpfen müssen – denn die Kraft, die dieser Kampf verzehrt, fehlt der
+          eigentlichen Arbeit und damit unserer Zukunft. So beginnt die
           Versorgung des Geistes am Einfachsten und Konkretesten: bei denen,
           die ihn tragen.
         references:
@@ -5107,9 +5114,10 @@ felder:
           Denken kann man überall — Forschen braucht ein Labor, Lehren ein
           Schulhaus, Kunst eine Bühne. Das Geistesleben ist auf Orte und
           Werkzeuge angewiesen, die es nicht selbst herstellt. Die Wirtschaft
-          baut und erhält sie. Das Wie des Bauens verantwortet sie aus eigener
-          Sachkenntnis; was in den Räumen geschieht, bestimmt allein das
-          Geistesleben. Kein Hörsaal trägt die Bedingung seines Stifters in
+          baut und erhält sie, nach Ideen und Plänen aus dem Geistesleben. Das
+          Wie des Bauens verantwortet sie aus eigener Sachkenntnis; was in den
+          Räumen geschieht, bestimmt allein das Geistesleben. Kein Hörsaal trägt
+          die Bedingung seines Stifters in
           sich. Die Wände sind wirtschaftliches Werk, der Raum dazwischen ist
           frei. Die Wirtschaft gibt dem Geist eine Herberge — und betritt sie
           nur als Gast.
@@ -5118,7 +5126,8 @@ felder:
           Schulhaus, Heilen eine Praxis, Kunst ein Atelier und eine Bühne. Das
           Geistesleben ist auf Orte und Werkzeuge angewiesen, die es nicht
           selbst herstellen kann: Gebäude, Instrumente, Bücher, Rechner, Bühnen.
-          Die Wirtschaft baut und erhält sie – das ist ihre eigene Kompetenz:
+          Die Wirtschaft baut und erhält sie, nach Ideen und Plänen aus dem
+          Geistesleben – das ist ihre eigene Kompetenz:
           bauen, ausstatten, instand halten. Die Verantwortung ist dabei klar
           geteilt. Das Wie des Bauens verantwortet die Wirtschaft aus eigener
           Sachkenntnis. Aber was in den Räumen geschieht – wie gelehrt, was
@@ -5175,9 +5184,9 @@ felder:
           bewerten, ob dieses Jahr etwas hervorbringt. Was von außen wie
           Stillstand aussieht, kann innere Reifung sein. Wer nicht weiß, ob er
           im nächsten Jahr noch arbeiten kann, hat keine Muße, sondern eine
-          Frist. Ob eine Arbeit fruchtbar war, zeigt sich in der freien Aufnahme
-          durch die Fachgenossen. Die Wirtschaft trägt die Zeit — das Urteil
-          über die Zeit trägt der Geist.
+          Frist. Wenn kein Geistesarbeiter mehr versteht, in welche Richtung ein
+          Kollege unterwegs ist, dann muss er etwas anderes machen. Die
+          Wirtschaft trägt die Zeit — das Urteil über die Zeit trägt der Geist.
         text: >
           Geistige Arbeit lässt sich nicht in Zeitkontingente pressen.
           Erkenntnis reift nicht im Takt der Stundenzettel, und ein Gedanke, der
@@ -5195,10 +5204,10 @@ felder:
           Unterstützung verlässlich sein. Wer nicht weiß, ob er im nächsten Jahr
           noch arbeiten kann, hat keine Muße, sondern eine Frist. Diese
           Verlässlichkeit ist keine Gnade, sondern Pflicht: Die Wirtschaft lebt
-          von den Erkenntnissen, die im Geistesleben heranreifen. Ob eine Arbeit
-          fruchtbar war, zeigt sich allein in der freien Aufnahme durch die
-          Fachgenossen. Die Wirtschaft trägt die Zeit – das Urteil über die Zeit
-          trägt der Geist.
+          von den Erkenntnissen, die im Geistesleben heranreifen. Wenn kein
+          Geistesarbeiter mehr versteht, in welche Richtung ein Kollege
+          unterwegs ist, dann muss er etwas anderes machen. Die Wirtschaft
+          trägt die Zeit – das Urteil über die Zeit trägt der Geist.
         references:
           - id: 8de8ecdc-d83d-493e-9e01-d1f95d67cb82
             chunk_id: 9e1e20c6-a122-5b2f-8476-5ab422b764bf
@@ -5240,33 +5249,49 @@ felder:
         schlagsatz: Mit der Gabe endet der Anspruch.
         kurztext: >
           Das Geistesleben lässt sich nicht nach Marktgesetzen organisieren;
-          seine Finanzierung ist Schenkungsgeld: Mittel ohne vereinbarte
-          Gegenleistung. Das Rechtsleben sichert den Zufluss; das Geben ist
-          wirtschaftliche Tat. Mit der Gabe endet jeder wirtschaftliche Anspruch
-          — wohin die Mittel fließen, entscheidet das Geistesleben allein. Es
-          prüft sich selbst: durch die Aufnahme derer, die lernen, und durch das
-          Urteil der Fachgenossen. Wem niemand zuhört, den trägt auch das
-          freieste Geistesleben nicht. Wo freie Arbeit blüht, wird gern
-          geschenkt; wo die Gaben versiegen, verkümmert die Arbeit. Aus
-          Zahlungsmittel wird Möglichkeit.
+          seine Finanzierung ist Schenkungsgeld. Es kommt auf drei Wegen: als
+          Unterhalt, den die Wirtschaft denen unmittelbar gibt, die im
+          Geistesleben arbeiten; als freie Schenkung, mit der Menschen zeigen,
+          was sie schätzen; und aus dem alternden Geld, das am Ende seiner
+          Laufzeit nur noch geschenkt werden kann. Geld, das abläuft, stellt
+          keine Bedingungen. Das Geistesleben prüft sich selbst: durch die
+          Aufnahme derer, die lernen, und durch das Urteil der Fachgenossen.
+          Wem niemand zuhört, den trägt auch das freieste Geistesleben nicht.
+          Wo freie Arbeit blüht, wird gern geschenkt; wo die Gaben versiegen,
+          verkümmert die Arbeit. Aus Zahlungsmittel wird Möglichkeit.
         text: >
           Das Geistesleben lässt sich nicht nach Marktgesetzen organisieren;
-          seine Finanzierung muss das Schenkungsgeld sein: Mittel, die gegeben
-          werden, ohne dass eine Gegenleistung vereinbart wäre — Stiftungen,
-          Mäzenatentum, freie Beiträge. Das Rechtsleben sichert den Zufluss
-          rechtlich; das eigentliche Geben aber ist wirtschaftliche Tat. Hier
-          liegt die Übergabe des Feldes: Mit der Gabe endet jeder
-          wirtschaftliche Anspruch — wohin die Mittel fließen, entscheidet das
-          Geistesleben allein. Das ist kein Freibrief, denn das Geistesleben
-          prüft sich selbst: durch die freie Aufnahme derer, die lernen und sich
-          anvertrauen, und durch das Urteil der Fachgenossen. Wem niemand
-          zuhört, den trägt auch das freieste Geistesleben nicht. Zugleich ist
-          die Schenkung mehr als eine individuelle Geste: Geistesleben und
-          Schenkungsstrom nähren einander im Kreislauf. Wo freie Arbeit blüht,
-          wird gern geschenkt; wo die Gaben versiegen, verkümmert die Arbeit —
-          und mit ihr der Anlass zu geben. An diesem Puls lesen die
-          Assoziationen die Gesundheit des Ganzen ab: Aus Zahlungsmittel wird
-          Möglichkeit, und der Strom selbst wird zum Lebenszeichen.
+          seine Finanzierung ist Schenkungsgeld. Es kommt auf drei Wegen. Der
+          erste sichert den Grund, wie beim Rechtsleben: Wer im Geistesleben
+          arbeitet, gehört als Verbraucher einer Wirtschaftskörperschaft an und
+          erhält von ihr unmittelbar, was er zum Leben braucht. Was er selbst
+          nicht am Boden erarbeitet, leisten die anderen für ihn mit. Das ist
+          kein Lohn, denn was ein Lehrer gibt, lässt sich nicht bezahlen. Der
+          zweite Weg ist die freie Schenkung aus dem, was einer zum Leben hat:
+          Wer einen Lehrer, eine Ärztin, ein Werk schätzt, gibt von seinem
+          Kaufgeld — Geld mit genügend Laufzeit, damit der Beschenkte frei
+          darüber verfügen kann. Hier spricht die freie Wertschätzung: Niemand
+          verkauft, niemand kauft, und doch erfährt der Geistesarbeiter
+          unmittelbar, wem seine Arbeit Bedürfnis ist. Der dritte Weg liegt im
+          Geld selbst. In einer gesunden Wirtschaft altert es: Junges Geld
+          taugt zum Leihen und Unternehmen, altes verliert diese Kraft und kann
+          am Ende nur noch geschenkt werden — gerade so, dass der Beschenkte
+          noch damit kaufen kann. Was sich sonst in Grund und Boden staut,
+          fließt so dem Geistesleben zu; die Assoziationen leiten es über und
+          geben junges Geld neu aus. Geld, das abläuft, stellt keine
+          Bedingungen: Mit der Gabe endet der Anspruch, weil nichts
+          zurückbleibt, was fordern kann. Es braucht keinen Kapitalstock, der
+          bewahrt wird, und keinen Stifter, dessen Wille fortgilt. Auf allen
+          drei Wegen ist das Geben wirtschaftliche Tat; wen und was es trägt,
+          entscheidet das Geistesleben. Es prüft sich selbst: durch die freie
+          Aufnahme derer, die lernen und sich anvertrauen, und durch das Urteil
+          der Fachgenossen. Wem niemand zuhört, den trägt auch das freieste
+          Geistesleben nicht. Geistesleben und Schenkungsstrom nähren einander
+          im Kreislauf: Wo freie Arbeit blüht, wird gern geschenkt; wo die Gaben
+          versiegen, verkümmert die Arbeit — und mit ihr der Anlass zu geben.
+          An diesem Puls lesen die Assoziationen die Gesundheit des Ganzen ab:
+          Aus Zahlungsmittel wird Möglichkeit, und der Strom selbst wird zum
+          Lebenszeichen.
         references:
           - id: a2d108f4-72e0-42ca-8f4c-f7bc81a21001
             chunk_id: 151042c4-34b6-5247-94c5-a274fa1c3372
@@ -5304,91 +5329,69 @@ felder:
             relevance: 0.75
             begruendung: Bestätigt, dass sich das Geistesleben nur auf völlig freiem Boden entwickeln kann – stützt die These der anspruchsfreien Gabe.
         chunk_id: 18f9e584-0e73-4702-9f0a-284c3df2888b
-      - schlagwort: Verzicht
-        schlagsatz: Wer bestellt, bekommt nur Bestelltes.
+      - schlagwort: Empfang
+        schlagsatz: Empfangen wird der Mensch — mit dem, was er mitbringt.
         kurztext: >
-          Dass mit der Gabe der Anspruch endet, muss im Geber errungen werden.
-          Die Versuchung liegt nahe: Themen vorschlagen, Fristen setzen,
-          Nützlichkeit rechnen. Wer bestellt, bekommt Auftragsarbeit — nie mehr,
-          als der Besteller sich vorstellen konnte. Freie Forschung findet,
-          wonach niemand fragte; bestellte Forschung findet, was erwartet wurde,
-          und zur Not auch dann, wenn es nicht stimmt. Was die Wirtschaft dem
-          Recht gegenüber als Enthaltung übt, übt sie hier als Verzicht: geben,
-          ohne den Inhalt zu lenken. Beim Recht lockt die Macht, beim Geist der
-          Nutzen — und der Verzicht auf den nahen Nutzen ist die Bedingung des
-          fernen.
+          Die Wirtschaft schreibt der Schule nicht vor, wen sie braucht — sie
+          wartet, wer kommt. Was ein Mensch aus einem freien Geistesleben
+          mitbringt, hat niemand bestellt; die Wirtschaft empfängt es und
+          richtet sich danach ein. Menschen wollen im Strom der Zeit
+          vorankommen und nicht ausführen, was andere für sie vorbereitet
+          haben. Die Sorge, ihre Fähigkeiten passen nicht, ist unbegründet:
+          Was nicht passt, ist das Neue, und wer etwas wirklich kann, findet
+          Menschen, die genau das suchen. Linux hat niemand in Auftrag
+          gegeben — heute läuft ein Großteil der Server darauf. Eine
+          Wirtschaft, die empfängt, was sie nicht bestellt hat, bekommt ihre
+          Zukunft geschenkt.
         text: >
-          Dass mit der Gabe der Anspruch endet, ist schnell gesagt — im Geber
-          muss es errungen werden. Denn die Versuchung liegt nahe: Themen
-          vorschlagen, Ergebnisse erwarten, Fristen setzen, die Nützlichkeit
-          rechnen. Der Verzicht darauf ist keine Großzügigkeit, sondern
-          Klugheit: Wer bestellt, bekommt Auftragsarbeit — nützlich vielleicht,
-          aber nie mehr, als der Besteller sich vorstellen konnte. Freie
-          Forschung findet, wonach niemand fragte; bestellte Forschung findet,
-          was erwartet wurde, und zur Not auch dann, wenn es nicht stimmt. Was
-          die Wirtschaft dem Rechtsleben gegenüber als Enthaltung übt — zahlen,
-          ohne den Rang zu wägen —, übt sie hier als Verzicht: geben, ohne den
-          Inhalt zu lenken. Beide Male hält sie von innen die Grenze ein, die
-          das Recht von außen zieht. Der Unterschied ist die Versuchung: Beim
-          Recht lockt die Macht, beim Geist der Nutzen — und der Verzicht auf
-          den nahen Nutzen ist die Bedingung des fernen.
-        references:
-          - id: c6c748d7-aad2-42b2-b6e1-1fb7f757b329
-            chunk_id: dcf61996-67ed-5c4f-b296-a78a2003ebd8
-            chunk_type: secondary_book
-            source_id: 5250e6b7-cbf4-5ee5-91cc-e4cdae8307d9
-            relation: veranschaulicht
-            relevance: 0.55
-            begruendung: Behandelt das Spannungsfeld zwischen wirtschaftlichem Betrieb und dem Drang der Menschen zu wissen — analog zum Verzicht, den Geist nicht nach wirtschaftlichem Nutzen zu lenken.
-          - id: 62d1dc0e-e7b7-450a-bc28-eab15e17e7d7
-            chunk_id: 4a58f738-2943-5914-9df2-d38f01d5c7ea
-            chunk_type: secondary_book
-            source_id: 1d2520b7-3a24-55fb-87ff-a4e4654343f9
-            relation: erlaeutert
-            relevance: 0.5
-            begruendung: Vergleicht wirtschaftliches und geistiges Leben und zeigt, dass das geistige Leben auf einem Überschuss des Einzelnen beruht — stützt die These, dass Geist nicht nach Bestellung funktioniert.
-          - id: 4374c094-bf9c-4f50-8dac-bb6defb17e56
-            chunk_id: 9e1e20c6-a122-5b2f-8476-5ab422b764bf
-            chunk_type: secondary_book
-            source_id: 546e5fa2-2b98-597b-850c-cad8dc94a446
-            relation: veranschaulicht
-            relevance: 0.45
-            begruendung: Zeigt am Beispiel des über Jahre gemalten Bildes, dass geistige Produktion nicht am kurzfristigen Nutzen messbar ist — passt zum Verzicht auf nahen Nutzen.
-          - id: 0edf12e1-c64f-4d5a-ba57-080711db964e
-            chunk_id: 151042c4-34b6-5247-94c5-a274fa1c3372
-            chunk_type: secondary_book
-            source_id: 745dd9aa-e73d-550c-9fa8-9fa68b2a0d23
-            relation: begruendet
-            relevance: 0.4
-            begruendung: Legt dar, dass das geistige Leben auf Schenkungen angewiesen ist — begründet, warum Geben ohne inhaltliche Lenkung Bedingung freien Geisteslebens ist.
-          - id: 0614ba4f-b74f-4bd1-a4c2-56740ac8034f
-            chunk_id: af9384c0-331e-5e89-a816-93e0b0bb9b89
-            chunk_type: secondary_book
-            source_id: e784e17d-d6f2-5f21-85bc-9f496c3271d6
-            relation: bestaetigt
-            relevance: 0.35
-            begruendung: Fordert den Einfluss eines emanzipierten, selbständigen Geisteslebens im Wirtschaftsprozess — bestätigt die Trennung von wirtschaftlicher Bestellung und geistiger Freiheit.
+          Die Wirtschaft schreibt der Schule nicht vor, wen sie braucht — sie
+          wartet, wer kommt. Was ein Mensch kann, wenn er aus einem freien
+          Geistesleben in die Arbeit tritt, hat niemand bestellt: Es ist das,
+          was in ihm veranlagt war und sich entfalten durfte. Die Wirtschaft
+          legt nicht in den Menschen an, sie nimmt auf, was in ihm angelegt
+          ist. Mit jedem Menschen, sagt Steiner, „werden neue Kräfte aus
+          unbekannten Tiefen heraus geboren; die haben wir zu erziehen, und
+          wir haben zu warten, was sie hineintragen in das Leben“. Die
+          Wirtschaft empfängt diese Kräfte und richtet sich nach ihnen ein,
+          statt sie auf das Bestehende zuzuschneiden. Das ist kein Opfer.
+          Menschen wollen im Strom der Zeit vorankommen und nicht ausführen,
+          was andere für sie vorbereitet haben; wer das darf, bringt Eifer und
+          Lust mit, und die lassen sich nicht bestellen. Die Sorge, die
+          mitgebrachten Fähigkeiten passen nicht zum Bedarf, ist unbegründet.
+          Was nicht passt, ist das Neue — und wer etwas wirklich kann, findet
+          Menschen, die genau das suchen. Sie zu finden ist das Spannende,
+          nicht das Risiko. Open Source zeigt es: Linux hat niemand in Auftrag
+          gegeben. Ein Student hat es begonnen, weil er es brauchte und
+          konnte; heute läuft ein Großteil der Server der Welt darauf, und die
+          Unternehmen haben sich danach eingerichtet — sie geben den Menschen
+          einen Platz, damit sie weitertun, was sie ohnehin tun. Was
+          die Wirtschaft braucht, darf sie zeigen: Sie öffnet ihre Werkstätten,
+          schickt ihre Erfahrenen als Lehrer zur Jugend und macht sichtbar, was
+          fehlt. Vorschreiben darf sie nichts. Der Verzicht auf den nahen
+          Nutzen ist die Bedingung des fernen: Eine Wirtschaft, die empfängt,
+          was sie nicht bestellt hat, bekommt ihre Zukunft geschenkt.
         chunk_id: e1f9832a-037c-4d44-947a-11b0b2dddd18
       - schlagwort: Begegnung
         schlagsatz: Wer etwas kann und wer etwas braucht, finden einander.
         kurztext: >
           Wenn niemand von oben zuteilt, braucht es einen Ort, an dem Fähigkeit
           und Bedarf einander finden. Die Wirtschaft stellt ihn bereit — nicht
-          als Markt, sondern als Raum, in dem sichtbar wird, was da ist und was
-          fehlt: Der Forscher findet den Betrieb, die Ärztin die Gemeinschaft,
-          der Meister den Lernenden. Kein Gremium filtert, kein Antrag steht
-          dazwischen, kein Indikator ersetzt das Urteil derer, die in der Sache
-          stehen. Die Wirtschaft baut den Raum und hält ihn offen; was darin
+          als Markt, sondern als Raum, als Buffet, als Kongress und als
+          Wettbewerb, in denen sichtbar wird, was
+          da ist und was fehlt: Der Forscher findet den Betrieb, die Ärztin die
+          Gemeinschaft, der Meister den Lernenden. Kein Gremium filtert, kein
+          Antrag steht dazwischen, kein Indikator ersetzt das Urteil derer, die
+          in der Sache stehen. Die Wirtschaft baut den Raum und hält ihn offen; was darin
           geschieht, bestimmen die Begegnenden selbst. Zuordnung ohne Zuteilung:
           aus der lebendigen Kenntnis derer, die geben und die empfangen.
         text: >
-          Wenn niemand von oben zuteilt, braucht es einen Ort, an dem sich Fähigkeit und Bedarf begegnen. Die Wirtschaft stellt diesen Ort bereit — nicht als Markt, auf dem getauscht wird, sondern als Raum, in dem sichtbar wird, was da ist und was fehlt: Der Forscher, der eine Frage hat, findet den Betrieb, der sie braucht; die Ärztin, die eine Methode entwickelt, findet die Gemeinschaft, die sie erproben will; der Handwerksmeister, der ausbilden kann, findet den jungen Menschen, der lernen will. Was in einer gesunden Ordnung die Assoziation leistet — Erzeuger, Händler und Verbraucher bringen ihr Wissen zusammen, damit das Richtige zum Richtigen kommt —, gilt hier für die Schnittstelle zwischen Wirtschaft und Geist: Die Menschen, die etwas können, und die Menschen, die etwas brauchen, treten einander gegenüber und entscheiden aus eigener Kenntnis, was zusammengehört. Kein Gremium filtert, kein Antrag steht dazwischen, kein Indikator ersetzt das Urteil derer, die in der Sache stehen. Die Wirtschaft baut den Raum und hält ihn offen — aber was darin geschieht, bestimmen die Begegnenden selbst. So entsteht Zuordnung ohne Zuteilung: nicht geplant, nicht zufällig, sondern aus der lebendigen Kenntnis derer, die geben und die empfangen.
+          Wenn niemand von oben zuteilt, braucht es einen Ort, an dem sich Fähigkeit und Bedarf begegnen. Die Wirtschaft stellt diesen Ort bereit — nicht als Markt, auf dem getauscht wird, sondern als Raum, als Buffet, als Kongress und als Wettbewerb, in denen sichtbar wird, was da ist und was fehlt: Der Forscher, der eine Frage hat, findet den Betrieb, der sie braucht; die Ärztin, die eine Methode entwickelt, findet die Gemeinschaft, die sie erproben will; der Handwerksmeister, der ausbilden kann, findet den jungen Menschen, der lernen will. Was in einer gesunden Ordnung die Assoziation leistet — Erzeuger, Händler und Verbraucher bringen ihr Wissen zusammen, damit das Richtige zum Richtigen kommt —, gilt hier für die Schnittstelle zwischen Wirtschaft und Geist: Die Menschen, die etwas können, und die Menschen, die etwas brauchen, treten einander gegenüber und entscheiden aus eigener Kenntnis, was zusammengehört. Kein Gremium filtert, kein Antrag steht dazwischen, kein Indikator ersetzt das Urteil derer, die in der Sache stehen. Die Wirtschaft baut den Raum und hält ihn offen — aber was darin geschieht, bestimmen die Begegnenden selbst. So entsteht Zuordnung ohne Zuteilung: nicht geplant, nicht zufällig, sondern aus der lebendigen Kenntnis derer, die geben und die empfangen.
       - schlagwort: Brüderlichkeit
         schlagsatz: Füreinander arbeiten, statt gegeneinander rechnen.
         kurztext: >
-          Brüderlichkeit ist keine Gefühlsangelegenheit. Sie ist eine Erkenntnis: Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben. Was ich empfange, gebe ich zurück — an Menschen, deren Früchte ich nie sehen werde. Wer das versteht, rechnet nicht. So wie der Rechtssinn aus Einsicht in das Gesetz handelt, handelt der wirtschaftende Mensch aus Einsicht in die gegenseitige Abhängigkeit. Am reinsten zeigt sie sich dort, wo die Wirtschaft dem Geist gibt: dem, der nichts tauschen kann und alles schenkt. Wer versteht, braucht keine Rechnung.
+          Brüderlichkeit ist keine Gefühlsangelegenheit. Sie ist eine Erkenntnis: Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben. Was ich empfange, gebe ich zurück — an Menschen, deren Früchte ich vielleicht nie sehen werde. Wir alle leben fast ausschließlich von der Arbeit anderer Menschen. Alleine würden wir sterben. Wer das versteht, rechnet nicht. So wie der Rechtssinn aus Einsicht in das Gesetz handelt, handelt der wirtschaftende Mensch aus Einsicht in die gegenseitige Abhängigkeit. Am reinsten zeigt sie sich dort, wo die Wirtschaft dem Geist gibt: dem, der nichts tauschen kann und alles schenkt.
         text: >
-          Brüderlichkeit ist keine Gefühlsangelegenheit. Sie ist eine Erkenntnis: Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben. Was ich empfange, gebe ich zurück – an Menschen, deren Früchte ich nie sehen werde. Wer das versteht, rechnet nicht. Er gibt nicht aus Pflicht und erwartet keinen Dank, sondern handelt aus Einsicht in den Zusammenhang. So wie der Rechtssinn aus Einsicht in das Gesetz handelt, so handelt der wirtschaftende Mensch aus Einsicht in die gegenseitige Abhängigkeit. Brüderlichkeit ist das Leitprinzip des Wirtschaftslebens. Sie ist die Grundlage, ohne die keine Struktur trägt. Am reinsten zeigt sie sich dort, wo die Wirtschaft dem Geist gibt: dem Bruder, der nichts tauschen kann und alles schenkt. Wer versteht, braucht keine Rechnung.
+          Brüderlichkeit ist keine Gefühlsangelegenheit. Sie ist eine Erkenntnis: Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben. Was ich empfange, gebe ich zurück – an Menschen, deren Früchte ich vielleicht nie sehen werde. Wir alle leben fast ausschließlich von der Arbeit anderer Menschen. Alleine würden wir sterben. Wer das versteht, rechnet nicht. Er gibt nicht aus Pflicht und erwartet keinen Dank, sondern handelt aus Einsicht in den Zusammenhang. So wie der Rechtssinn aus Einsicht in das Gesetz handelt, so handelt der wirtschaftende Mensch aus Einsicht in die gegenseitige Abhängigkeit. Brüderlichkeit ist das Leitprinzip des Wirtschaftslebens. Sie ist die Grundlage, ohne die keine Struktur trägt. Am reinsten zeigt sie sich dort, wo die Wirtschaft dem Geist gibt: dem Bruder, der nichts tauschen kann und alles schenkt.
 
   - id: dm-06k
     feld: 6
@@ -5398,14 +5401,13 @@ felder:
     kurz: >
       Im kranken Feld lebt die Wirtschaft von geistiger Arbeit, ohne sie zu
       tragen, und bestimmt, was gedacht und gesehen wird. Wissen verschwindet im
-      Betriebsgeheimnis, gerechnet wird in Quartalen, öffentlich finanzierte
-      Forschung muss zurückgekauft werden. Forschung wird samt Antwort bestellt,
+      Betriebsgeheimnis, gerechnet wird in Quartalen, aus der Gabe wird Kauf und Kredit. Der Mensch wird als Humankapital bestellt,
       Geldverwalter entscheiden über geistige Arbeit, und der Mensch wird zur
       Zielgruppe, mit der gerechnet wird.
     text: |
       Im kranken Feld Wirtschaft -> Geist versorgt die Wirtschaft das Geistesleben nicht, sie verfügt über es. Wer das Geld gibt oder verwaltet, entscheidet über Fragen, Sichtbarkeit und Ergebnis. Aus dem Strom, der geistiges Leben tragen sollte, wird eine Mautstelle.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Überlastung:** Tausend Firmen bauen auf einer Bibliothek, die einer nachts unbezahlt pflegt; die Wirtschaft finanziert ihre eigene Zukunft nicht. **Betriebsgeheimnis:** Wissen über Chemikalien, Algorithmen und Wirkungen wird der Prüfung entzogen. **Kurzsichtigkeit:** Verlage und Plattformen entscheiden nach Rendite, was sichtbar wird; Gedanken, die länger brauchen, denkt niemand mehr. **Rückkauf:** Öffentlich finanzierte Forschung verschwindet hinter Bezahlschranken. **Bestellung:** Erforscht wird, was sich vermarkten lässt; unbequeme Ergebnisse verschwinden in der Schublade. **Vormund:** Stiftungsräte und Fördergremien urteilen über Arbeit, in der sie nicht stehen, und prüfen vor allem, ob das Geld noch da ist. **Berechnung:** Inhalte richten sich nach Quote und Werbeertrag; verkauft wird nicht dem Menschen etwas, verkauft wird er.
+      Sieben Aspekte zeigen, wie das geschieht. **Überlastung:** Tausend Firmen bauen auf einer Bibliothek, die einer nachts unbezahlt pflegt; die Wirtschaft finanziert ihre eigene Zukunft nicht. **Betriebsgeheimnis:** Wissen über Chemikalien, Algorithmen und Wirkungen wird der Prüfung entzogen. **Kurzsichtigkeit:** Verlage und Plattformen entscheiden nach Rendite, was sichtbar wird; Gedanken, die länger brauchen, denkt niemand mehr. **Preisschild:** Aus der Gabe wird Kauf und Kredit; was sich nicht bezahlen lässt, bekommt einen Preis. **Humankapital:** Die Wirtschaft sagt der Schule, wen sie braucht; gebildet wird, was die Stelle verlangt. **Lenkung:** Stiftungsräte und Fördergremien urteilen über Arbeit, in der sie nicht stehen, und prüfen vor allem, ob das Geld noch da ist. **Berechnung:** Inhalte richten sich nach Quote und Werbeertrag; verkauft wird nicht dem Menschen etwas, verkauft wird er.
 
       Der Gegenpol ist „Die Wirtschaft ermöglicht das Leben“: Dort endet mit der Gabe jeder Anspruch.
     aspekte:
@@ -5415,15 +5417,15 @@ felder:
           Die Wirtschaft lebt von geistiger Arbeit und versorgt sie nicht. Der
           Maintainer, auf dessen Bibliothek tausend Firmen aufbauen, pflegt sie
           nachts — oft unbezahlt. „139 packages are looking for funding“: Das
-          Bedürfnis ist sichtbar und folgenlos. Ein erschöpfter Maintainer, ein
+          Bedürfnis ist sichtbar und folgenlos. Ein erschöpfter Programmierer, ein
           geduldiger Angreifer, am Ende eine Hintertür in Software, die auf
           einem Großteil der Server läuft — ein Sozialproblem, das als
-          Sicherheitsproblem auftritt. Der Rückstrom reagiert auf Katastrophen,
-          nicht auf Bedarf. Copyleft schützt den Text vor Einschließung, nicht
-          den Menschen vor Erschöpfung. Die Wirtschaft finanziert ihre eigene
-          Zukunft nicht.
+          Sicherheitsproblem auftritt. Die Wirtschaft gibt nach der
+          Katastrophe, nicht wenn es gebraucht wird. Copyleft schützt den Text
+          vor Einschließung, nicht den Menschen vor Erschöpfung. Die Wirtschaft
+          finanziert ihre eigene Zukunft nicht.
         text: >
-          Die Wirtschaft lebt von geistiger Arbeit und versorgt sie nicht. Der Maintainer, der nachts die Bibliothek pflegt, auf der tausend Firmen aufbauen. Die Forscherin, die unbezahlt begutachtet, was andere veröffentlichen. Der Entwickler, der seit Jahren allein eine Software wartet, die auf Millionen Geräten läuft — ohne Vertrag, ohne Rückhalt, ohne dass ihn jemand kennt. Sechzig Prozent der Maintainer, die die digitale Infrastruktur der Welt tragen, werden nicht bezahlt. Bei jedem Build meldet die Paketverwaltung etwas wie „139 packages are looking for funding" — das Bedürfnis ist perfekt sichtbar, automatisch erhoben, und folgenlos; man kann die Meldung abschalten. Mit einer gesunden Wirtschaft erhält der Geistesarbeiter das Notwendige, damit er tun kann, was sonst niemand tut. Hier erhält er nichts — und verbrennt. Was übrig bleibt, ist die Angriffsfläche: Ein erschöpfter Maintainer, ein geduldiger Angreifer, der sich über Jahre als Nachfolger aufbaut, und am Ende eine Hintertür in einer Software, die auf einem Großteil der Server der Welt läuft. Das war kein Sicherheitsproblem, das sich sozial auswirkte — es war ein Sozialproblem, das sich als Sicherheitsproblem zeigte. Es fehlt nicht an Mitteln, es fehlt an der Form, in der sie ankommen: Auch wo großzügig gegeben wird, geschieht es nach dem Schock, nach der Pandemie, nach dem Einbruch — nie vor ihm. Der Rückstrom reagiert auf Katastrophen, nicht auf Bedarf. Selbst das Copyleft, das Urheberrecht gegen sich selbst wendet, schützt den Text vor Einschließung, nicht den Menschen vor Erschöpfung. Weitergabe ja, Lebensunterhalt nein. Am Ende finanziert die Wirtschaft ihre eigene Zukunft nicht — und merkt es erst, wenn sie zusammenbricht.
+          Die Wirtschaft lebt von geistiger Arbeit und versorgt sie nicht. Der Maintainer, der nachts die Bibliothek pflegt, auf der tausend Firmen aufbauen. Die Forscherin, die unbezahlt begutachtet, was andere veröffentlichen. Der Entwickler, der seit Jahren allein eine Software wartet, die auf Millionen Geräten läuft — ohne Vertrag, ohne Rückhalt, ohne dass ihn jemand kennt. Sechzig Prozent der Maintainer, die die digitale Infrastruktur der Welt tragen, werden nicht bezahlt. Bei jedem Build meldet die Paketverwaltung etwas wie „139 packages are looking for funding" — das Bedürfnis ist perfekt sichtbar, automatisch erhoben, und folgenlos; man kann die Meldung abschalten. Mit einer gesunden Wirtschaft erhält der Geistesarbeiter das Notwendige, damit er tun kann, was sonst niemand tut. Hier erhält er nichts — und verbrennt. Was übrig bleibt, ist die Angriffsfläche: Ein erschöpfter Programmierer, ein geduldiger Angreifer, der sich über Jahre als Nachfolger aufbaut, und am Ende eine Hintertür in einer Software, die auf einem Großteil der Server der Welt läuft. Das war kein Sicherheitsproblem, das sich sozial auswirkte — es war ein Sozialproblem, das sich als Sicherheitsproblem zeigte. Es fehlt nicht an Mitteln, es fehlt an der Form, in der sie ankommen: Auch wo großzügig gegeben wird, geschieht es nach dem Schock, nach der Pandemie, nach dem Einbruch — nie vor ihm. Die Wirtschaft gibt nach der Katastrophe, nicht wenn es gebraucht wird. Selbst das Copyleft, das Urheberrecht gegen sich selbst wendet, schützt den Text vor Einschließung, nicht den Menschen vor Erschöpfung. Weitergabe ja, Lebensunterhalt nein. Am Ende finanziert die Wirtschaft ihre eigene Zukunft nicht — und merkt es erst, wenn sie zusammenbricht.
       - schlagwort: Betriebsgeheimnis
         schlagsatz: Das Dach wird zum Deckel.
         kurztext: >
@@ -5559,38 +5561,44 @@ felder:
             relevance: 0.4
             begruendung: Skizziert einen freien Geistesorganismus, in dem Kapitalkreislauf anders wirkt — Gegenbild zur kurzfristigen wirtschaftlichen Bewertung geistiger Arbeit.
         chunk_id: 74747968-364c-48b9-8d21-fe50e34a34dd
-      - schlagwort: Rückkauf
-        schlagsatz: Aus der Gabe wird eine Rechnung.
+      - schlagwort: Preisschild
+        schlagsatz: Aus der Gabe wird Kauf und Kredit.
         kurztext: >
-          Öffentlich finanzierte Forschung verschwindet hinter Bezahlschranken:
-          Der Geist muss zurückkaufen, was er selbst hervorgebracht hat. Der
-          Schenkungsstrom kehrt sich um. Wer ein Buch aus eigener Initiative mit
-          Schenkgeld schreibt, ist für den Inhalt bereits getragen — Papier hat
-          einen Preis, der Inhalt nicht. Der Verlag erwirbt Rechte oft umsonst,
-          Gutachter arbeiten unbezahlt, die Bibliothek zahlt Lizenzen für
-          Arbeiten ihrer eigenen Institute. Wer nicht zahlen kann, kann nicht
-          anschließen. Aus dem Strom, der Leben trug, wird eine Mautstelle: Sie
-          erzeugt nichts, sie steht im Weg und kassiert.
+          Das Geistesleben lebt eigentlich von Schenkung; aber hier muss es
+          verkaufen und borgen. Was sich nicht bezahlen lässt, bekommt einen
+          Preis: der Unterricht die Gebühr, das Wissen die Lizenz, die
+          Forschung die Bezahlschranke — die Bibliothek kauft die Arbeit ihrer
+          eigenen Institute zurück. Kaufen braucht Knappheit: Also wird
+          verknappt, was sich beim Teilen vermehrt. An die Stelle der
+          Wertschätzung tritt die Zahlungsfähigkeit. Und Geld, das nicht
+          altert, wird nicht Geschenk, sondern Kredit: Wer mit Schulden
+          studiert, wählt das Fach, das sie tilgt. Wer nicht zahlen kann, kommt
+          nicht hinein. Aus Möglichkeit wird Zahlungspflicht.
         text: >
-          Öffentlich finanzierte Forschung verschwindet hinter Bezahlschranken
-          kommerzieller Verlage — der Geist muss zurückkaufen, was er selbst
-          hervorgebracht hat. Der Schenkungsstrom kehrt sich um: Statt in das
-          Geistesleben zu fließen, fließen die Mittel aus ihm heraus. Beim Autor
-          beginnt es: Wer ein Buch aus eigener Initiative mit Schenkgeld
-          schreibt, ist für dieses Werk bereits getragen. Papier, Druck und
-          Vertrieb haben ihren Preis, der Inhalt nicht: Das Urheberrecht schützt
-          die Verbindung des Menschen mit seinem Werk, und ein Recht lässt sich
-          nicht gegen Geld tauschen. Verlangt er trotzdem Geld dafür, ist das
-          ein Übergriff: Aus dem Recht wird ein Zahlungsanspruch, und die
-          getragene Arbeit wird zweimal bezahlt. Beim Verlag wird der Übergriff
-          zum System: Er erwirbt die Rechte oft umsonst, Gutachter arbeiten
-          unbezahlt, das Recht selbst wird verkauft, vererbt und bringt noch 70
-          Jahre nach dem Tod des Urhebers Ertrag. Die Bibliothek zahlt Lizenzen
-          für Arbeiten ihrer eigenen Institute. Und die Schranke trennt: Wer
-          nicht zahlen kann, kann nicht anschließen — die Wissenschaft ärmerer
-          Länder arbeitet an Fragen, die anderswo längst beantwortet sind. Aus
-          dem Strom, der Leben trug, wird eine Mautstelle: Sie erzeugt nichts,
-          sie steht im Weg und kassiert.
+          Das Geistesleben lebt von Schenkung; hier muss es verkaufen und
+          borgen. Alle drei Wege der Gabe kehren sich um. Statt des Unterhalts
+          gibt es den Stücklohn: Bezahlt wird nicht der Mensch, damit er
+          arbeiten kann, sondern das gelieferte Stück — die Stunde, die Zeile,
+          der Abruf —, obwohl sich nicht aufwiegen lässt, was ein Lehrer oder
+          eine Autorin gibt. Statt der freien Schenkung gibt es den Preis: Der
+          Unterricht bekommt die Gebühr, das Wissen die Lizenz, die Forschung
+          die Bezahlschranke. Kaufen braucht Knappheit; also wird künstlich
+          verknappt, was sich beim Teilen vermehrt. Öffentlich finanzierte
+          Forschung verschwindet hinter den Schranken kommerzieller Verlage:
+          Die Gutachter arbeiten unbezahlt, und die Bibliothek kauft die Arbeit
+          ihrer eigenen Institute zurück. An die Stelle der Wertschätzung tritt
+          die Zahlungsfähigkeit — es erhält nicht, wer es braucht, sondern wer
+          zahlen kann, und die Wissenschaft ärmerer Länder arbeitet an Fragen,
+          die anderswo längst beantwortet sind. Und statt des alternden Geldes
+          gibt es Geld, das nie zum Geschenk wird. Es staut sich, sucht Anlage
+          und kommt als Kredit zurück: In den USA beginnen Millionen ihr
+          Berufsleben mit Studienschulden. Geliehenes Geld will mit Zins
+          zurück; wer mit Schulden studiert, wählt das Fach, das sie tilgt, und
+          wer mit Wagniskapital forscht, forscht auf den Verkauf hin. Die Gabe
+          beendet den Anspruch, der Kredit verlängert ihn in das Leben des
+          Empfängers hinein: Aus Möglichkeit wird Zahlungspflicht. So wird aus
+          dem Strom, der Leben trägt, eine Mautstelle: Sie erzeugt nichts, sie
+          steht im Weg und kassiert.
         references:
           - id: b0754e57-d667-4c46-9b92-847012697ab7
             chunk_id: 1a8a3f0b-78fd-515e-85ac-d144bc010cc5
@@ -5605,7 +5613,7 @@ felder:
             source_id: 745dd9aa-e73d-550c-9fa8-9fa68b2a0d23
             relation: deckt_auf
             relevance: 0.6
-            begruendung: Zeigt, dass das geistige Leben auf Schenkungen angewiesen ist – der Gegenpol zur Bezahlschranke, die den Geist zum Rückkauf zwingt.
+            begruendung: Zeigt, dass das geistige Leben auf Schenkungen angewiesen ist – der Gegenpol zur Bezahlschranke, die den Geist zum Kauf zwingt.
           - id: 9387b06b-c5ab-4a2a-8f57-191a06d31f47
             chunk_id: 99c089d0-2e77-55d0-be59-8e0d84ba3aa2
             chunk_type: secondary_book
@@ -5619,7 +5627,7 @@ felder:
             source_id: b22e8aa5-9404-5f01-aa82-358f54a8c13d
             relation: deckt_auf
             relevance: 0.55
-            begruendung: Deckt die Metamorphose des Geldes zu Schenkungsgeld auf, die im heutigen Prozess kaschiert wird – Kern des Rückkaufs.
+            begruendung: Deckt die Metamorphose des Geldes zu Schenkungsgeld auf, die im heutigen Prozess kaschiert wird – Kern des Preisschilds.
           - id: f7285a8a-5e89-4a04-8419-17814100ea3f
             chunk_id: 19358885-6b0f-5590-a5be-7a1d6f8e1ef3
             chunk_type: secondary_book
@@ -5628,74 +5636,47 @@ felder:
             relevance: 0.45
             begruendung: Zeigt das Schuldner-Gläubiger-Verhältnis zwischen Geld und Geist – die Struktur, die aus der Gabe eine Rechnung macht.
         chunk_id: 54d723fc-2aa5-49ea-9548-2b1cdae87be4
-      - schlagwort: Bestellung
-        schlagsatz: Bestellt wird die Frage — und die Antwort dazu.
+      - schlagwort: Humankapital
+        schlagsatz: Bestellt wird der Mensch — passend zur Stelle.
         kurztext: >
-          Konzerne finanzieren Forschung nach Profitlogik: Erforscht wird, was
-          sich vermarkten lässt. Unbequeme Ergebnisse verschwinden in der
-          Schublade, Zweifel wird industriell gesät. Das Geld diktiert die
-          Fragen und die Antworten. Die Uni liefert Personal, keine Bildung —
-          was sich nicht verwerten lässt, wird nicht gelehrt. Bestellte
-          Forschung findet, was erwartet wurde, und zur Not auch dann, wenn es
-          nicht stimmt. Wer gelernt hat, dass Studien käuflich sind, glaubt am
-          Ende keiner mehr. Zurück bleibt eine Wissenschaft, die alles beweisen
-          kann und darum nichts mehr.
+          Die Wirtschaft sagt der Schule, wen sie braucht. Bildung heißt
+          Beschäftigungsfähigkeit, der Mensch Humankapital: ein Bestand, in
+          den investiert wird und der Ertrag bringen soll. Lehrpläne folgen
+          dem Arbeitsmarkt; PISA, der bekannteste Schulvergleich der Welt,
+          kommt von einer Wirtschaftsorganisation. Gefragt wird, was der Mensch
+          für die bestehende Ordnung können muss — nicht, was in ihm veranlagt
+          ist. Aus der Anlage im Menschen wird eine Anlage in den Menschen. So
+          bekommt die Wirtschaft genau die Menschen, die sie bestellt hat, und
+          keinen, der mehr mitbringt. Wer nur Bestelltes heranzieht, dem wächst
+          nichts Neues zu.
         text: >
-          Konzerne finanzieren Forschung nach Profitlogik: Erforscht wird, was
-          sich vermarkten lässt, nicht was die Sache selbst oder der menschliche
-          Bedarf fragt. Schwerer noch wiegt die zweite Stufe: Unbequeme
-          Ergebnisse verschwinden in der Schublade, Studien werden
-          zurückgehalten, Zweifel wird industriell gesät, neue Erfindungen
-          können Märkte gefährden. Das Geld diktiert nicht nur die Fragen,
-          sondern auch die Antworten. Das reicht bis in die Lehre: Die Uni
-          liefert keine Bildung, sie liefert Personal — was sich nicht verwerten
-          lässt, wird nicht gelehrt. Bestellte Forschung findet, was erwartet
-          wurde, und zur Not auch dann, wenn es nicht stimmt. Der Schaden reicht
-          über die einzelne Studie hinaus: Wo Zweifel planmäßig erzeugt wird,
-          verliert auch die redliche Forschung ihre Wirkung — wer gelernt hat,
-          dass Studien käuflich sind, glaubt am Ende keiner mehr. Die Krankheit
-          trifft nicht nur, was erforscht wurde, sondern die Möglichkeit,
-          überhaupt noch etwas zu glauben. Zurück bleibt eine Wissenschaft, die
-          alles beweisen kann und darum nichts mehr.
-        references:
-          - id: 0b89ec61-adf9-436e-ac4a-3c644d0edeb4
-            chunk_id: 72ca33fb-52d1-5a66-a791-a1f367a97888
-            chunk_type: secondary_book
-            source_id: a4a5d676-44fe-5d63-99aa-4a351c310dc4
-            relation: deckt_auf
-            relevance: 0.55
-            begruendung: Kritisiert unobjektive Volkswirtschaftslehre und interessengeleitete Statistik/Bilanzgestaltung – passt zur These, dass Geld die Fragen und Antworten der Wissenschaft bestimmt.
-          - id: 5fe02029-1e4c-433d-8dae-27a6a0f9fdf6
-            chunk_id: 84fca110-d871-5fed-b042-07de6fda80e7
-            chunk_type: secondary_book
-            source_id: 2097962e-459d-515e-8a2f-defcc299b6b6
-            relation: kritisiert
-            relevance: 0.5
-            begruendung: Verspottet die fremdbestimmte Doktorarbeit als Beispiel dafür, dass universitäre Forschung nicht Wahrheit, sondern äußeren Zwecken dient.
-          - id: 0d8d0d23-6329-410d-ab9c-b62b6c14b88d
-            chunk_id: 9d913504-ed24-517b-9ccc-57f5c06e11fe
-            chunk_type: secondary_book
-            source_id: 7de804f1-3e46-5653-acba-dfbfa5018dcb
-            relation: deckt_auf
-            relevance: 0.45
-            begruendung: Zeigt, wie bewusst falsche Begriffe aus Machtinteresse verbreitet werden – Entsprechung zu 'bestellter Forschung, die findet, was erwartet wurde'.
-          - id: 04d74dc6-6360-4140-bd15-47a6115252db
-            chunk_id: cc32fde3-e82f-5057-a353-8098d31114d8
-            chunk_type: secondary_book
-            source_id: f287d43a-5108-4e0c-baa8-5e7d3badfef7
-            relation: kritisiert
-            relevance: 0.4
-            begruendung: Kritisiert eine oberflächliche Modewissenschaft, die Wahrheit an äußere Effekte bindet – berührt das Motiv der käuflichen, verwertungslogischen Wissenschaft.
-          - id: 2f490dbf-5af0-4a01-bb43-7a83719fe76f
-            chunk_id: 389c30d6-f19c-51a6-b3dd-5b6be188d17f
-            chunk_type: secondary_book
-            source_id: 511f741a-63fd-511d-bd69-5653c5f3b059
-            relation: deckt_auf
-            relevance: 0.35
-            begruendung: Thematisiert die organisierte, fremdgesteuerte Struktur des Geisteslebens (Schulen, Universitäten) – Anknüpfung an 'Die Uni liefert Personal, keine Bildung'.
+          Die Wirtschaft sagt der Schule, wen sie braucht — und die Schule
+          liefert. Bildung heißt dann Beschäftigungsfähigkeit, und der Mensch
+          heißt Humankapital: ein Bestand, in den investiert wird und der
+          Ertrag bringen soll. Das Wort ist ehrlich; es sagt, was geschieht.
+          Aus der Anlage im Menschen wird eine Anlage in den Menschen. Die
+          Lehrpläne folgen dem Arbeitsmarkt, die Studiengänge den
+          Berufsbildern, die Bologna-Reform nennt Beschäftigungsfähigkeit
+          ausdrücklich als Ziel. PISA, der bekannteste Schulvergleich der
+          Welt, kommt von der OECD, einer Wirtschaftsorganisation. Fehlen
+          Fachkräfte, soll die Schule sie nachliefern; was sich nicht
+          verwerten lässt, muss sich rechtfertigen oder wird gekürzt. Steiner
+          stellt die Frage genau umgekehrt: „Nicht gefragt soll werden: Was
+          braucht der Mensch zu wissen und zu können für die soziale Ordnung,
+          die besteht; sondern: Was ist im Menschen veranlagt und was kann in
+          ihm entwickelt werden?“ Staat und Wirtschaft sollen die Menschen
+          empfangen, die das Geistesleben heranbildet — ihren Bildungsgang
+          vorschreiben sollen sie nicht. Hier schreiben sie ihn vor: Die
+          bestehende Ordnung macht aus der heranwachsenden Generation, was sie
+          braucht, und nimmt sich damit selbst die Erneuerung. Wer für die
+          Stellen von heute ausgebildet wird, findet die Aufgaben von morgen
+          nicht. Auf der gesunden Seite ist der Verzicht auf den nahen Nutzen
+          die Bedingung des fernen; hier greift die Wirtschaft nach dem nahen
+          und verliert den fernen. Sie bekommt genau die Menschen, die sie
+          bestellt hat — brauchbar, angepasst.
         chunk_id: 8ee29c24-7d23-46f0-9031-48b09ad85a12
-      - schlagwort: Vormund
-        schlagsatz: Wer das Geld verwaltet, verwaltet den Geist.
+      - schlagwort: Lenkung
+        schlagsatz: Wer das Geld verwaltet, lenkt den Geist.
         kurztext: >
           Stiftungsräte, Fördergremien, Vergabestellen entscheiden über geistige
           Arbeit, in der sie selbst nicht stehen. Das Urteil fällt nach
@@ -5708,9 +5689,9 @@ felder:
           sie prüft, ob das Geld noch da ist.
         text: >
           Stiftungsräte, Fördergremien, Vergabestellen — überall entscheiden
-          Menschen über geistige Arbeit, in der sie selbst nicht stehen. Bei der
-          Bestellung im nächsten Feld wird wenigstens offen gesagt, was verlangt
-          wird; hier wird von außen beurteilt, was förderungswürdig ist, und das
+          Menschen über geistige Arbeit, in der sie selbst nicht stehen. Beim
+          Humankapital, dem vorigen Aspekt, wird wenigstens offen gesagt, wen die
+          Schule liefern soll; hier wird von außen beurteilt, was förderungswürdig ist, und das
           Urteil fällt nach Kriterien, die dem Feld fremd sind: Antragsprosa,
           Wirkungsindikatoren, strategische Passung. Gesund entscheidet über
           geistige Arbeit, wer selbst in ihr drinsteht — wer die Sache kennt,
@@ -5736,7 +5717,7 @@ felder:
             source_id: 7bd7ddb2-661e-55e4-8f31-a2812a871663
             relation: zeigt_gegenbild
             relevance: 0.78
-            begruendung: "Formuliert das Gegenbild zum Vormund: Der Mensch soll nur Verwalter des Kapitals sein, nicht Herr über den Geist — kontrastiert die im Kurztext kritisierte Stiftungslogik."
+            begruendung: "Formuliert das Gegenbild zur Lenkung: Der Mensch soll nur Verwalter des Kapitals sein, nicht Herr über den Geist — kontrastiert die im Kurztext kritisierte Stiftungslogik."
           - id: 2cec48b0-7a13-4b98-9ea2-0a6d9eef4303
             chunk_id: 494717d8-04a6-57e2-9c08-5ba0b842a94b
             chunk_type: secondary_book
@@ -5784,9 +5765,9 @@ felder:
           ihm etwas — verkauft wird er. Und wie die Brüderlichkeit in einer
           gesunden Wirtschaft das Fundament ist, ohne das keine Struktur trägt,
           ist ihr Bruch hier das Fundament von Krankheiten: Die Überlastung
-          lässt ihn allein, die Kurzsichtigkeit übersieht ihn, der Vormund
-          verfügt über ihn, der Rückkauf kassiert ihn, die Bestellung nutzt ihn
-          aus, das Betriebsgeheimnis verbirgt ihn. Wer rechnet, sieht keinen
+          lässt ihn allein, die Kurzsichtigkeit übersieht ihn, die Lenkung
+          verfügt über ihn, das Preisschild kassiert ihn, das Humankapital bestellt ihn,
+          das Betriebsgeheimnis verbirgt ihn. Wer rechnet, sieht keinen
           Bruder — er sieht einen Posten. Am reinsten zeigt sich Brüderlichkeit
           dort, wo die Wirtschaft dem Geist gibt, der nichts tauschen kann; am
           schärfsten zeigt sich ihr Fehlen dort, wo genau dieser zur Ware
