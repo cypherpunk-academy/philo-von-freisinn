@@ -5033,7 +5033,7 @@ felder:
     text: |
       Im gesunden Feld Wirtschaft -> Geist versorgt die Wirtschaft das Geistesleben mit dem, was es nicht selbst herstellt: Unterhalt, Räume, Werkzeug, Zeit. Was der Geist hervorbringt, lässt sich nicht bestellen und nicht aufwiegen; darum ist die Versorgung kein Lohn für gelieferte Ware.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Unterhalt:** Eine Gemeinschaft trägt ihre Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt. **Werk- und Wirkstätten:** Die Wirtschaft baut Labor, Schulhaus und Bühne und betritt sie nur als Gast. **Verlässlichkeit:** Getragen wird in Jahren, nicht in Stunden. Versteht kein Geistesarbeiter mehr die Richtung eines Kollegen, muss der etwas anderes machen. **Gabe:** Schenkungsgeld kommt auf drei Wegen; mit der Gabe endet der Anspruch. **Empfang:** Die Wirtschaft wartet, wer kommt, und richtet sich nach dem ein, was der Mensch mitbringt. **Begegnung:** Die Wirtschaft hält einen Raum offen, in dem Fähigkeit und Bedarf einander ohne Zuteilung finden. **Brüderlichkeit:** Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben; wer das versteht, rechnet nicht.
+      Sieben Aspekte zeigen, wie das geschieht. **Unterhalt:** Wer im Geistesleben arbeitet, erhält als Verbraucher einer Wirtschaftskörperschaft unmittelbar, was er braucht. **Werk- und Wirkstätten:** Die Wirtschaft baut Labor, Schulhaus und Bühne und betritt sie nur als Gast. **Verlässlichkeit:** Getragen wird in Jahren, nicht in Stunden. Versteht kein Geistesarbeiter mehr die Richtung eines Kollegen, muss der etwas anderes machen. **Gabe:** Schenkungsgeld kommt auf drei Wegen; mit der Gabe endet der Anspruch. **Empfang:** Die Wirtschaft wartet, wer kommt, und richtet sich nach dem ein, was der Mensch mitbringt. **Begegnung:** Die Wirtschaft hält einen Raum offen, in dem Fähigkeit und Bedarf einander ohne Zuteilung finden. **Brüderlichkeit:** Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben; wer das versteht, rechnet nicht.
 
       Der Gegenpol ist „Das Geld kauft unser Denken“: Dort wird der Gast zum Hausherrn, und das Geld bestimmt Fragen und Antworten.
     aspekte:
@@ -5041,28 +5041,34 @@ felder:
         schlagsatz: Wer lehrt, lernt, erfindet und spielt, muss essen.
         kurztext: >
           Lehrer, Forscherinnen, Künstler stellen kein Brot her — und leben doch
-          davon. Die Wirtschaft versorgt sie mit dem Notwendigen, damit
-          sie tun können, was sonst niemand tut. Das ist kein Lohn für
-          gelieferte Ware, denn was der Geist hervorbringt, lässt sich nicht
-          bestellen und nicht aufwiegen. Eine Gemeinschaft trägt ihre
-          Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt: Es fehlt am
-          Tisch, aber ohne dieses Fehlen gäbe es keine nächste Ernte. Die Kraft,
-          die der Kampf ums Auskommen verzehrt, würde der eigentlichen Arbeit
-          fehlen.
+          davon. Die Wirtschaft versorgt sie mit dem Notwendigen, damit sie tun
+          können, was sonst niemand tut. Wer im Geistesleben arbeitet, gehört
+          als Verbraucher einer Wirtschaftskörperschaft an und erhält dort
+          unmittelbar, was er braucht — nicht auf dem Umweg über die Steuer.
+          Das ist kein Lohn für gelieferte Ware, denn was der Geist hervorbringt,
+          lässt sich nicht bestellen und nicht aufwiegen. Eine Gemeinschaft trägt
+          ihre Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt: Es fehlt
+          am Tisch, aber ohne dieses Fehlen gäbe es keine nächste Ernte. Die
+          Kraft, die der Kampf ums Auskommen verzehrt, fehlt der eigentlichen
+          Arbeit.
         text: >
           Lehrer, Forscherinnen, Künstler und Therapeuten stellen kein Brot her,
           keine Kleidung, kein Haus – und doch leben sie von alledem. Was für
           die Träger des Rechts gilt, gilt für die Arbeiter des Geistes genauso:
           Die Wirtschaft versorgt sie mit dem Notwendigen, damit sie tun können,
-          was sonst niemand tut. Diese Versorgung ist kein Lohn für gelieferte
+          was sonst niemand tut. Auch der Weg ist derselbe: Wer im Geistesleben
+          arbeitet, gehört als Verbraucher einer Wirtschaftskörperschaft an und
+          erhält von ihr unmittelbar, was er braucht — nicht auf dem Umweg über
+          die Steuer. Was er selbst nicht am Boden erarbeitet, leisten die
+          anderen für ihn mit. Diese Versorgung ist kein Lohn für gelieferte
           Ware, denn was der Geist hervorbringt, lässt sich nicht bestellen und
           nicht aufwiegen – sie ist die Voraussetzung dafür, dass überhaupt
           etwas hervorgebracht werden kann. Eine Gemeinschaft trägt ihre
           Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt: Es fehlt am
           Tisch, aber ohne dieses Fehlen gäbe es keine nächste Ernte. Wer
           geistig arbeitet, soll nicht nebenher um das tägliche Auskommen
-          kämpfen müssen – denn die Kraft, die dieser Kampf verzehrt, würde der
-          eigentlichen Arbeit fehlen und damit unserer Zukunft. So beginnt die
+          kämpfen müssen – denn die Kraft, die dieser Kampf verzehrt, fehlt der
+          eigentlichen Arbeit und damit unserer Zukunft. So beginnt die
           Versorgung des Geistes am Einfachsten und Konkretesten: bei denen,
           die ihn tragen.
         references:
@@ -5395,14 +5401,13 @@ felder:
     kurz: >
       Im kranken Feld lebt die Wirtschaft von geistiger Arbeit, ohne sie zu
       tragen, und bestimmt, was gedacht und gesehen wird. Wissen verschwindet im
-      Betriebsgeheimnis, gerechnet wird in Quartalen, öffentlich finanzierte
-      Forschung muss zurückgekauft werden. Der Mensch wird als Humankapital bestellt,
+      Betriebsgeheimnis, gerechnet wird in Quartalen, aus der Gabe wird Kauf und Kredit. Der Mensch wird als Humankapital bestellt,
       Geldverwalter entscheiden über geistige Arbeit, und der Mensch wird zur
       Zielgruppe, mit der gerechnet wird.
     text: |
       Im kranken Feld Wirtschaft -> Geist versorgt die Wirtschaft das Geistesleben nicht, sie verfügt über es. Wer das Geld gibt oder verwaltet, entscheidet über Fragen, Sichtbarkeit und Ergebnis. Aus dem Strom, der geistiges Leben tragen sollte, wird eine Mautstelle.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Überlastung:** Tausend Firmen bauen auf einer Bibliothek, die einer nachts unbezahlt pflegt; die Wirtschaft finanziert ihre eigene Zukunft nicht. **Betriebsgeheimnis:** Wissen über Chemikalien, Algorithmen und Wirkungen wird der Prüfung entzogen. **Kurzsichtigkeit:** Verlage und Plattformen entscheiden nach Rendite, was sichtbar wird; Gedanken, die länger brauchen, denkt niemand mehr. **Rückkauf:** Öffentlich finanzierte Forschung verschwindet hinter Bezahlschranken. **Humankapital:** Die Wirtschaft sagt der Schule, wen sie braucht; gebildet wird, was die Stelle verlangt. **Lenkung:** Stiftungsräte und Fördergremien urteilen über Arbeit, in der sie nicht stehen, und prüfen vor allem, ob das Geld noch da ist. **Berechnung:** Inhalte richten sich nach Quote und Werbeertrag; verkauft wird nicht dem Menschen etwas, verkauft wird er.
+      Sieben Aspekte zeigen, wie das geschieht. **Überlastung:** Tausend Firmen bauen auf einer Bibliothek, die einer nachts unbezahlt pflegt; die Wirtschaft finanziert ihre eigene Zukunft nicht. **Betriebsgeheimnis:** Wissen über Chemikalien, Algorithmen und Wirkungen wird der Prüfung entzogen. **Kurzsichtigkeit:** Verlage und Plattformen entscheiden nach Rendite, was sichtbar wird; Gedanken, die länger brauchen, denkt niemand mehr. **Preisschild:** Aus der Gabe wird Kauf und Kredit; was sich nicht bezahlen lässt, bekommt einen Preis. **Humankapital:** Die Wirtschaft sagt der Schule, wen sie braucht; gebildet wird, was die Stelle verlangt. **Lenkung:** Stiftungsräte und Fördergremien urteilen über Arbeit, in der sie nicht stehen, und prüfen vor allem, ob das Geld noch da ist. **Berechnung:** Inhalte richten sich nach Quote und Werbeertrag; verkauft wird nicht dem Menschen etwas, verkauft wird er.
 
       Der Gegenpol ist „Die Wirtschaft ermöglicht das Leben“: Dort endet mit der Gabe jeder Anspruch.
     aspekte:
@@ -5556,38 +5561,44 @@ felder:
             relevance: 0.4
             begruendung: Skizziert einen freien Geistesorganismus, in dem Kapitalkreislauf anders wirkt — Gegenbild zur kurzfristigen wirtschaftlichen Bewertung geistiger Arbeit.
         chunk_id: 74747968-364c-48b9-8d21-fe50e34a34dd
-      - schlagwort: Rückkauf
-        schlagsatz: Aus der Gabe wird eine Rechnung.
+      - schlagwort: Preisschild
+        schlagsatz: Aus der Gabe wird Kauf und Kredit.
         kurztext: >
-          Öffentlich finanzierte Forschung verschwindet hinter Bezahlschranken:
-          Der Geist muss zurückkaufen, was er selbst hervorgebracht hat. Der
-          Schenkungsstrom kehrt sich um. Wer ein Buch aus eigener Initiative mit
-          Schenkgeld schreibt, ist für den Inhalt bereits getragen — Papier hat
-          einen Preis, der Inhalt nicht. Der Verlag erwirbt Rechte oft umsonst,
-          Gutachter arbeiten unbezahlt, die Bibliothek zahlt Lizenzen für
-          Arbeiten ihrer eigenen Institute. Wer nicht zahlen kann, kann nicht
-          anschließen. Aus dem Strom, der Leben trug, wird eine Mautstelle: Sie
-          erzeugt nichts, sie steht im Weg und kassiert.
+          Das Geistesleben lebt eigentlich von Schenkung; aber hier muss es
+          verkaufen und borgen. Was sich nicht bezahlen lässt, bekommt einen
+          Preis: der Unterricht die Gebühr, das Wissen die Lizenz, die
+          Forschung die Bezahlschranke — die Bibliothek kauft die Arbeit ihrer
+          eigenen Institute zurück. Kaufen braucht Knappheit: Also wird
+          verknappt, was sich beim Teilen vermehrt. An die Stelle der
+          Wertschätzung tritt die Zahlungsfähigkeit. Und Geld, das nicht
+          altert, wird nicht Geschenk, sondern Kredit: Wer mit Schulden
+          studiert, wählt das Fach, das sie tilgt. Wer nicht zahlen kann, kommt
+          nicht hinein. Aus Möglichkeit wird Zahlungspflicht.
         text: >
-          Öffentlich finanzierte Forschung verschwindet hinter Bezahlschranken
-          kommerzieller Verlage — der Geist muss zurückkaufen, was er selbst
-          hervorgebracht hat. Der Schenkungsstrom kehrt sich um: Statt in das
-          Geistesleben zu fließen, fließen die Mittel aus ihm heraus. Beim Autor
-          beginnt es: Wer ein Buch aus eigener Initiative mit Schenkgeld
-          schreibt, ist für dieses Werk bereits getragen. Papier, Druck und
-          Vertrieb haben ihren Preis, der Inhalt nicht: Das Urheberrecht schützt
-          die Verbindung des Menschen mit seinem Werk, und ein Recht lässt sich
-          nicht gegen Geld tauschen. Verlangt er trotzdem Geld dafür, ist das
-          ein Übergriff: Aus dem Recht wird ein Zahlungsanspruch, und die
-          getragene Arbeit wird zweimal bezahlt. Beim Verlag wird der Übergriff
-          zum System: Er erwirbt die Rechte oft umsonst, Gutachter arbeiten
-          unbezahlt, das Recht selbst wird verkauft, vererbt und bringt noch 70
-          Jahre nach dem Tod des Urhebers Ertrag. Die Bibliothek zahlt Lizenzen
-          für Arbeiten ihrer eigenen Institute. Und die Schranke trennt: Wer
-          nicht zahlen kann, kann nicht anschließen — die Wissenschaft ärmerer
-          Länder arbeitet an Fragen, die anderswo längst beantwortet sind. Aus
-          dem Strom, der Leben trug, wird eine Mautstelle: Sie erzeugt nichts,
-          sie steht im Weg und kassiert.
+          Das Geistesleben lebt von Schenkung; hier muss es verkaufen und
+          borgen. Alle drei Wege der Gabe kehren sich um. Statt des Unterhalts
+          gibt es den Stücklohn: Bezahlt wird nicht der Mensch, damit er
+          arbeiten kann, sondern das gelieferte Stück — die Stunde, die Zeile,
+          der Abruf —, obwohl sich nicht aufwiegen lässt, was ein Lehrer oder
+          eine Autorin gibt. Statt der freien Schenkung gibt es den Preis: Der
+          Unterricht bekommt die Gebühr, das Wissen die Lizenz, die Forschung
+          die Bezahlschranke. Kaufen braucht Knappheit; also wird künstlich
+          verknappt, was sich beim Teilen vermehrt. Öffentlich finanzierte
+          Forschung verschwindet hinter den Schranken kommerzieller Verlage:
+          Die Gutachter arbeiten unbezahlt, und die Bibliothek kauft die Arbeit
+          ihrer eigenen Institute zurück. An die Stelle der Wertschätzung tritt
+          die Zahlungsfähigkeit — es erhält nicht, wer es braucht, sondern wer
+          zahlen kann, und die Wissenschaft ärmerer Länder arbeitet an Fragen,
+          die anderswo längst beantwortet sind. Und statt des alternden Geldes
+          gibt es Geld, das nie zum Geschenk wird. Es staut sich, sucht Anlage
+          und kommt als Kredit zurück: In den USA beginnen Millionen ihr
+          Berufsleben mit Studienschulden. Geliehenes Geld will mit Zins
+          zurück; wer mit Schulden studiert, wählt das Fach, das sie tilgt, und
+          wer mit Wagniskapital forscht, forscht auf den Verkauf hin. Die Gabe
+          beendet den Anspruch, der Kredit verlängert ihn in das Leben des
+          Empfängers hinein: Aus Möglichkeit wird Zahlungspflicht. So wird aus
+          dem Strom, der Leben trägt, eine Mautstelle: Sie erzeugt nichts, sie
+          steht im Weg und kassiert.
         references:
           - id: b0754e57-d667-4c46-9b92-847012697ab7
             chunk_id: 1a8a3f0b-78fd-515e-85ac-d144bc010cc5
@@ -5602,7 +5613,7 @@ felder:
             source_id: 745dd9aa-e73d-550c-9fa8-9fa68b2a0d23
             relation: deckt_auf
             relevance: 0.6
-            begruendung: Zeigt, dass das geistige Leben auf Schenkungen angewiesen ist – der Gegenpol zur Bezahlschranke, die den Geist zum Rückkauf zwingt.
+            begruendung: Zeigt, dass das geistige Leben auf Schenkungen angewiesen ist – der Gegenpol zur Bezahlschranke, die den Geist zum Kauf zwingt.
           - id: 9387b06b-c5ab-4a2a-8f57-191a06d31f47
             chunk_id: 99c089d0-2e77-55d0-be59-8e0d84ba3aa2
             chunk_type: secondary_book
@@ -5616,7 +5627,7 @@ felder:
             source_id: b22e8aa5-9404-5f01-aa82-358f54a8c13d
             relation: deckt_auf
             relevance: 0.55
-            begruendung: Deckt die Metamorphose des Geldes zu Schenkungsgeld auf, die im heutigen Prozess kaschiert wird – Kern des Rückkaufs.
+            begruendung: Deckt die Metamorphose des Geldes zu Schenkungsgeld auf, die im heutigen Prozess kaschiert wird – Kern des Preisschilds.
           - id: f7285a8a-5e89-4a04-8419-17814100ea3f
             chunk_id: 19358885-6b0f-5590-a5be-7a1d6f8e1ef3
             chunk_type: secondary_book
@@ -5755,7 +5766,7 @@ felder:
           gesunden Wirtschaft das Fundament ist, ohne das keine Struktur trägt,
           ist ihr Bruch hier das Fundament von Krankheiten: Die Überlastung
           lässt ihn allein, die Kurzsichtigkeit übersieht ihn, die Lenkung
-          verfügt über ihn, der Rückkauf kassiert ihn, das Humankapital bestellt ihn,
+          verfügt über ihn, das Preisschild kassiert ihn, das Humankapital bestellt ihn,
           das Betriebsgeheimnis verbirgt ihn. Wer rechnet, sieht keinen
           Bruder — er sieht einen Posten. Am reinsten zeigt sich Brüderlichkeit
           dort, wo die Wirtschaft dem Geist gibt, der nichts tauschen kann; am
