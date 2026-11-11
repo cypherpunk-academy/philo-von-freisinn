@@ -5026,14 +5026,14 @@ felder:
     kurz: >
       Lehrer, Forscher und Künstler stellen kein Brot her und leben doch davon.
       Die Wirtschaft versorgt sie verlässlich, baut ihnen Werk- und Wirkstätten
-      und gibt Schenkungsgeld, mit dem jeder Anspruch endet. Sie verzichtet
-      darauf, Inhalte zu bestellen, und schafft Orte, an denen Fähigkeit und
+      und gibt Schenkungsgeld, mit dem jeder Anspruch endet. Sie empfängt,
+      was niemand bestellt hat, und schafft Orte, an denen Fähigkeit und
       Bedarf einander finden. Getragen wird das von Brüderlichkeit als Einsicht
       in die gegenseitige Abhängigkeit.
     text: |
       Im gesunden Feld Wirtschaft -> Geist versorgt die Wirtschaft das Geistesleben mit dem, was es nicht selbst herstellt: Unterhalt, Räume, Werkzeug, Zeit. Was der Geist hervorbringt, lässt sich nicht bestellen und nicht aufwiegen; darum ist die Versorgung kein Lohn für gelieferte Ware.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Unterhalt:** Eine Gemeinschaft trägt ihre Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt. **Werk- und Wirkstätten:** Die Wirtschaft baut Labor, Schulhaus und Bühne und betritt sie nur als Gast. **Verlässlichkeit:** Getragen wird in Jahren, nicht in Stunden. Versteht kein Geistesarbeiter mehr die Richtung eines Kollegen, muss der etwas anderes machen. **Gabe:** Wo freie Arbeit blüht, wird gern geschenkt; versiegen die Gaben, verkümmert die Arbeit. **Verzicht:** Wer bestellt, bekommt nur Bestelltes; der Verzicht auf den nahen Nutzen ist die Bedingung des fernen. **Begegnung:** Die Wirtschaft hält einen Raum offen, in dem Fähigkeit und Bedarf einander ohne Zuteilung finden. **Brüderlichkeit:** Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben; wer das versteht, rechnet nicht.
+      Sieben Aspekte zeigen, wie das geschieht. **Unterhalt:** Eine Gemeinschaft trägt ihre Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt. **Werk- und Wirkstätten:** Die Wirtschaft baut Labor, Schulhaus und Bühne und betritt sie nur als Gast. **Verlässlichkeit:** Getragen wird in Jahren, nicht in Stunden. Versteht kein Geistesarbeiter mehr die Richtung eines Kollegen, muss der etwas anderes machen. **Gabe:** Wo freie Arbeit blüht, wird gern geschenkt; versiegen die Gaben, verkümmert die Arbeit. **Empfang:** Die Wirtschaft wartet, wer kommt, und richtet sich nach dem ein, was der Mensch mitbringt. **Begegnung:** Die Wirtschaft hält einen Raum offen, in dem Fähigkeit und Bedarf einander ohne Zuteilung finden. **Brüderlichkeit:** Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben; wer das versteht, rechnet nicht.
 
       Der Gegenpol ist „Das Geld kauft unser Denken“: Dort wird der Gast zum Hausherrn, und das Geld bestimmt Fragen und Antworten.
     aspekte:
@@ -5302,70 +5302,47 @@ felder:
             relevance: 0.75
             begruendung: Bestätigt, dass sich das Geistesleben nur auf völlig freiem Boden entwickeln kann – stützt die These der anspruchsfreien Gabe.
         chunk_id: 18f9e584-0e73-4702-9f0a-284c3df2888b
-      - schlagwort: Verzicht
-        schlagsatz: Wer bestellt, bekommt nur Bestelltes.
+      - schlagwort: Empfang
+        schlagsatz: Empfangen wird der Mensch — mit dem, was er mitbringt.
         kurztext: >
-          Dass mit der Gabe der Anspruch endet, muss im Geber errungen werden.
-          Die Versuchung liegt nahe: Themen vorschlagen, Fristen setzen,
-          Nützlichkeit rechnen. Wer bestellt, bekommt Auftragsarbeit — nie mehr,
-          als der Besteller sich vorstellen konnte. Freie Forschung findet,
-          wonach niemand fragte; bestellte Forschung findet, was erwartet wurde,
-          und zur Not auch dann, wenn es nicht stimmt. Was die Wirtschaft dem
-          Recht gegenüber als Enthaltung übt, übt sie hier als Verzicht: geben,
-          ohne den Inhalt zu lenken. Beim Recht lockt die Macht, beim Geist der
-          Nutzen — und der Verzicht auf den nahen Nutzen ist die Bedingung des
-          fernen.
+          Die Wirtschaft schreibt der Schule nicht vor, wen sie braucht — sie
+          wartet, wer kommt. Was ein Mensch aus einem freien Geistesleben
+          mitbringt, hat niemand bestellt; die Wirtschaft empfängt es und
+          richtet sich danach ein. Menschen wollen im Strom der Zeit
+          vorankommen und nicht ausführen, was andere für sie vorbereitet
+          haben. Die Sorge, ihre Fähigkeiten passen nicht, ist unbegründet:
+          Was nicht passt, ist das Neue, und wer etwas wirklich kann, findet
+          Menschen, die genau das suchen. Linux hat niemand in Auftrag
+          gegeben — heute läuft ein Großteil der Server darauf. Eine
+          Wirtschaft, die empfängt, was sie nicht bestellt hat, bekommt ihre
+          Zukunft geschenkt.
         text: >
-          Dass mit der Gabe der Anspruch endet, ist schnell gesagt — im Geber
-          muss es errungen werden. Denn die Versuchung liegt nahe: Themen
-          vorschlagen, Ergebnisse erwarten, Fristen setzen, die Nützlichkeit
-          rechnen. Der Verzicht darauf ist keine Großzügigkeit, sondern
-          Klugheit: Wer bestellt, bekommt Auftragsarbeit — nützlich vielleicht,
-          aber nie mehr, als der Besteller sich vorstellen konnte. Freie
-          Forschung findet, wonach niemand fragte; bestellte Forschung findet,
-          was erwartet wurde, und zur Not auch dann, wenn es nicht stimmt. Was
-          die Wirtschaft dem Rechtsleben gegenüber als Enthaltung übt — zahlen,
-          ohne den Rang zu wägen —, übt sie hier als Verzicht: geben, ohne den
-          Inhalt zu lenken. Beide Male hält sie von innen die Grenze ein, die
-          das Recht von außen zieht. Der Unterschied ist die Versuchung: Beim
-          Recht lockt die Macht, beim Geist der Nutzen — und der Verzicht auf
-          den nahen Nutzen ist die Bedingung des fernen.
-        references:
-          - id: c6c748d7-aad2-42b2-b6e1-1fb7f757b329
-            chunk_id: dcf61996-67ed-5c4f-b296-a78a2003ebd8
-            chunk_type: secondary_book
-            source_id: 5250e6b7-cbf4-5ee5-91cc-e4cdae8307d9
-            relation: veranschaulicht
-            relevance: 0.55
-            begruendung: Behandelt das Spannungsfeld zwischen wirtschaftlichem Betrieb und dem Drang der Menschen zu wissen — analog zum Verzicht, den Geist nicht nach wirtschaftlichem Nutzen zu lenken.
-          - id: 62d1dc0e-e7b7-450a-bc28-eab15e17e7d7
-            chunk_id: 4a58f738-2943-5914-9df2-d38f01d5c7ea
-            chunk_type: secondary_book
-            source_id: 1d2520b7-3a24-55fb-87ff-a4e4654343f9
-            relation: erlaeutert
-            relevance: 0.5
-            begruendung: Vergleicht wirtschaftliches und geistiges Leben und zeigt, dass das geistige Leben auf einem Überschuss des Einzelnen beruht — stützt die These, dass Geist nicht nach Bestellung funktioniert.
-          - id: 4374c094-bf9c-4f50-8dac-bb6defb17e56
-            chunk_id: 9e1e20c6-a122-5b2f-8476-5ab422b764bf
-            chunk_type: secondary_book
-            source_id: 546e5fa2-2b98-597b-850c-cad8dc94a446
-            relation: veranschaulicht
-            relevance: 0.45
-            begruendung: Zeigt am Beispiel des über Jahre gemalten Bildes, dass geistige Produktion nicht am kurzfristigen Nutzen messbar ist — passt zum Verzicht auf nahen Nutzen.
-          - id: 0edf12e1-c64f-4d5a-ba57-080711db964e
-            chunk_id: 151042c4-34b6-5247-94c5-a274fa1c3372
-            chunk_type: secondary_book
-            source_id: 745dd9aa-e73d-550c-9fa8-9fa68b2a0d23
-            relation: begruendet
-            relevance: 0.4
-            begruendung: Legt dar, dass das geistige Leben auf Schenkungen angewiesen ist — begründet, warum Geben ohne inhaltliche Lenkung Bedingung freien Geisteslebens ist.
-          - id: 0614ba4f-b74f-4bd1-a4c2-56740ac8034f
-            chunk_id: af9384c0-331e-5e89-a816-93e0b0bb9b89
-            chunk_type: secondary_book
-            source_id: e784e17d-d6f2-5f21-85bc-9f496c3271d6
-            relation: bestaetigt
-            relevance: 0.35
-            begruendung: Fordert den Einfluss eines emanzipierten, selbständigen Geisteslebens im Wirtschaftsprozess — bestätigt die Trennung von wirtschaftlicher Bestellung und geistiger Freiheit.
+          Die Wirtschaft schreibt der Schule nicht vor, wen sie braucht — sie
+          wartet, wer kommt. Was ein Mensch kann, wenn er aus einem freien
+          Geistesleben in die Arbeit tritt, hat niemand bestellt: Es ist das,
+          was in ihm veranlagt war und sich entfalten durfte. Die Wirtschaft
+          legt nicht in den Menschen an, sie nimmt auf, was in ihm angelegt
+          ist. Mit jedem Menschen, sagt Steiner, „werden neue Kräfte aus
+          unbekannten Tiefen heraus geboren; die haben wir zu erziehen, und
+          wir haben zu warten, was sie hineintragen in das Leben“. Die
+          Wirtschaft empfängt diese Kräfte und richtet sich nach ihnen ein,
+          statt sie auf das Bestehende zuzuschneiden. Das ist kein Opfer.
+          Menschen wollen im Strom der Zeit vorankommen und nicht ausführen,
+          was andere für sie vorbereitet haben; wer das darf, bringt Eifer und
+          Lust mit, und die lassen sich nicht bestellen. Die Sorge, die
+          mitgebrachten Fähigkeiten passen nicht zum Bedarf, ist unbegründet.
+          Was nicht passt, ist das Neue — und wer etwas wirklich kann, findet
+          Menschen, die genau das suchen. Sie zu finden ist das Spannende,
+          nicht das Risiko. Open Source zeigt es: Linux hat niemand in Auftrag
+          gegeben. Ein Student hat es begonnen, weil er es brauchte und
+          konnte; heute läuft ein Großteil der Server der Welt darauf, und die
+          Unternehmen haben sich danach eingerichtet — sie stellen die Menschen
+          ein, die es pflegen, damit sie weitertun, was sie ohnehin tun. Was
+          die Wirtschaft braucht, darf sie zeigen: Sie öffnet ihre Werkstätten,
+          schickt ihre Erfahrenen als Lehrer zur Jugend und macht sichtbar, was
+          fehlt. Vorschreiben darf sie nichts. Der Verzicht auf den nahen
+          Nutzen ist die Bedingung des fernen: Eine Wirtschaft, die empfängt,
+          was sie nicht bestellt hat, bekommt ihre Zukunft geschenkt.
         chunk_id: e1f9832a-037c-4d44-947a-11b0b2dddd18
       - schlagwort: Begegnung
         schlagsatz: Wer etwas kann und wer etwas braucht, finden einander.
