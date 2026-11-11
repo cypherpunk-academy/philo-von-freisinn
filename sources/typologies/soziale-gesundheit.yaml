@@ -5033,7 +5033,7 @@ felder:
     text: |
       Im gesunden Feld Wirtschaft -> Geist versorgt die Wirtschaft das Geistesleben mit dem, was es nicht selbst herstellt: Unterhalt, Räume, Werkzeug, Zeit. Was der Geist hervorbringt, lässt sich nicht bestellen und nicht aufwiegen; darum ist die Versorgung kein Lohn für gelieferte Ware.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Unterhalt:** Eine Gemeinschaft trägt ihre Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt. **Werk- und Wirkstätten:** Die Wirtschaft baut Labor, Schulhaus und Bühne und betritt sie nur als Gast. **Verlässlichkeit:** Getragen wird in Jahren, nicht in Stunden; ob eine Arbeit fruchtbar war, urteilen die Fachgenossen. **Gabe:** Schenkungsgeld ist Geld ohne vereinbarte Gegenleistung; wohin es fließt, entscheidet das Geistesleben allein. **Verzicht:** Wer bestellt, bekommt nur Bestelltes; der Verzicht auf den nahen Nutzen ist die Bedingung des fernen. **Begegnung:** Die Wirtschaft hält einen Raum offen, in dem Fähigkeit und Bedarf einander ohne Zuteilung finden. **Brüderlichkeit:** Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben; wer das versteht, rechnet nicht.
+      Sieben Aspekte zeigen, wie das geschieht. **Unterhalt:** Eine Gemeinschaft trägt ihre Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt. **Werk- und Wirkstätten:** Die Wirtschaft baut Labor, Schulhaus und Bühne und betritt sie nur als Gast. **Verlässlichkeit:** Getragen wird in Jahren, nicht in Stunden. Versteht kein Geistesarbeiter mehr die Richtung eines Kollegen, muss der etwas anderes machen. **Gabe:** Wo freie Arbeit blüht, wird gern geschenkt; versiegen die Gaben, verkümmert die Arbeit. **Verzicht:** Wer bestellt, bekommt nur Bestelltes; der Verzicht auf den nahen Nutzen ist die Bedingung des fernen. **Begegnung:** Die Wirtschaft hält einen Raum offen, in dem Fähigkeit und Bedarf einander ohne Zuteilung finden. **Brüderlichkeit:** Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben; wer das versteht, rechnet nicht.
 
       Der Gegenpol ist „Das Geld kauft unser Denken“: Dort wird der Gast zum Hausherrn, und das Geld bestimmt Fragen und Antworten.
     aspekte:
@@ -5240,36 +5240,31 @@ felder:
             begruendung: Zeigt einen Betrieb, dessen Impulse nicht von wirtschaftlicher Gewalt, sondern vom Geistesleben kommen — erläutert die geforderte Trennung von Zeitdruck und geistiger Reifung.
         chunk_id: 781e5fb7-faef-49f1-b907-b6b73c8106ba
       - schlagwort: Gabe
-        schlagsatz: Mit der Gabe endet der Anspruch.
+        schlagsatz: Wo freie Arbeit blüht, wird gern geschenkt.
         kurztext: >
           Das Geistesleben lässt sich nicht nach Marktgesetzen organisieren;
-          seine Finanzierung ist Schenkungsgeld: Mittel ohne vereinbarte
-          Gegenleistung. Das Rechtsleben sichert den Zufluss; das Geben ist
-          wirtschaftliche Tat. Mit der Gabe endet jeder wirtschaftliche Anspruch
-          — wohin die Mittel fließen, entscheidet das Geistesleben allein. Es
-          prüft sich selbst: durch die Aufnahme derer, die lernen, und durch das
-          Urteil der Fachgenossen. Wem niemand zuhört, den trägt auch das
-          freieste Geistesleben nicht. Wo freie Arbeit blüht, wird gern
-          geschenkt; wo die Gaben versiegen, verkümmert die Arbeit. Aus
-          Zahlungsmittel wird Möglichkeit.
+          seine Finanzierung ist Schenkungsgeld. Das Rechtsleben sichert den
+          Zufluss; das Geben ist wirtschaftliche Tat. Es prüft sich selbst:
+          durch die Aufnahme derer, die lernen, und durch das Urteil der
+          Fachgenossen. Wem niemand zuhört, den trägt auch das freieste
+          Geistesleben nicht. Wo freie Arbeit blüht, wird gern geschenkt; wo
+          die Gaben versiegen, verkümmert die Arbeit. Aus Zahlungsmittel wird
+          Möglichkeit.
         text: >
           Das Geistesleben lässt sich nicht nach Marktgesetzen organisieren;
-          seine Finanzierung muss das Schenkungsgeld sein: Mittel, die gegeben
-          werden, ohne dass eine Gegenleistung vereinbart wäre — Stiftungen,
+          seine Finanzierung muss das Schenkungsgeld sein: Stiftungen,
           Mäzenatentum, freie Beiträge. Das Rechtsleben sichert den Zufluss
-          rechtlich; das eigentliche Geben aber ist wirtschaftliche Tat. Hier
-          liegt die Übergabe des Feldes: Mit der Gabe endet jeder
-          wirtschaftliche Anspruch — wohin die Mittel fließen, entscheidet das
-          Geistesleben allein. Das ist kein Freibrief, denn das Geistesleben
-          prüft sich selbst: durch die freie Aufnahme derer, die lernen und sich
-          anvertrauen, und durch das Urteil der Fachgenossen. Wem niemand
-          zuhört, den trägt auch das freieste Geistesleben nicht. Zugleich ist
-          die Schenkung mehr als eine individuelle Geste: Geistesleben und
-          Schenkungsstrom nähren einander im Kreislauf. Wo freie Arbeit blüht,
-          wird gern geschenkt; wo die Gaben versiegen, verkümmert die Arbeit —
-          und mit ihr der Anlass zu geben. An diesem Puls lesen die
-          Assoziationen die Gesundheit des Ganzen ab: Aus Zahlungsmittel wird
-          Möglichkeit, und der Strom selbst wird zum Lebenszeichen.
+          rechtlich; das eigentliche Geben aber ist wirtschaftliche Tat. Das
+          Geistesleben prüft sich selbst: durch die freie Aufnahme derer, die
+          lernen und sich anvertrauen, und durch das Urteil der Fachgenossen.
+          Wem niemand zuhört, den trägt auch das freieste Geistesleben nicht.
+          Zugleich ist die Schenkung mehr als eine individuelle Geste:
+          Geistesleben und Schenkungsstrom nähren einander im Kreislauf. Wo
+          freie Arbeit blüht, wird gern geschenkt; wo die Gaben versiegen,
+          verkümmert die Arbeit — und mit ihr der Anlass zu geben. An diesem
+          Puls lesen die Assoziationen die Gesundheit des Ganzen ab: Aus
+          Zahlungsmittel wird Möglichkeit, und der Strom selbst wird zum
+          Lebenszeichen.
         references:
           - id: a2d108f4-72e0-42ca-8f4c-f7bc81a21001
             chunk_id: 151042c4-34b6-5247-94c5-a274fa1c3372
