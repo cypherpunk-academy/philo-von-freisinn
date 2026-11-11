@@ -5398,13 +5398,13 @@ felder:
       Im kranken Feld lebt die Wirtschaft von geistiger Arbeit, ohne sie zu
       tragen, und bestimmt, was gedacht und gesehen wird. Wissen verschwindet im
       Betriebsgeheimnis, gerechnet wird in Quartalen, öffentlich finanzierte
-      Forschung muss zurückgekauft werden. Forschung wird samt Antwort bestellt,
+      Forschung muss zurückgekauft werden. Der Mensch wird als Humankapital bestellt,
       Geldverwalter entscheiden über geistige Arbeit, und der Mensch wird zur
       Zielgruppe, mit der gerechnet wird.
     text: |
       Im kranken Feld Wirtschaft -> Geist versorgt die Wirtschaft das Geistesleben nicht, sie verfügt über es. Wer das Geld gibt oder verwaltet, entscheidet über Fragen, Sichtbarkeit und Ergebnis. Aus dem Strom, der geistiges Leben tragen sollte, wird eine Mautstelle.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Überlastung:** Tausend Firmen bauen auf einer Bibliothek, die einer nachts unbezahlt pflegt; die Wirtschaft finanziert ihre eigene Zukunft nicht. **Betriebsgeheimnis:** Wissen über Chemikalien, Algorithmen und Wirkungen wird der Prüfung entzogen. **Kurzsichtigkeit:** Verlage und Plattformen entscheiden nach Rendite, was sichtbar wird; Gedanken, die länger brauchen, denkt niemand mehr. **Rückkauf:** Öffentlich finanzierte Forschung verschwindet hinter Bezahlschranken. **Bestellung:** Erforscht wird, was sich vermarkten lässt; unbequeme Ergebnisse verschwinden in der Schublade. **Lenkung:** Stiftungsräte und Fördergremien urteilen über Arbeit, in der sie nicht stehen, und prüfen vor allem, ob das Geld noch da ist. **Berechnung:** Inhalte richten sich nach Quote und Werbeertrag; verkauft wird nicht dem Menschen etwas, verkauft wird er.
+      Sieben Aspekte zeigen, wie das geschieht. **Überlastung:** Tausend Firmen bauen auf einer Bibliothek, die einer nachts unbezahlt pflegt; die Wirtschaft finanziert ihre eigene Zukunft nicht. **Betriebsgeheimnis:** Wissen über Chemikalien, Algorithmen und Wirkungen wird der Prüfung entzogen. **Kurzsichtigkeit:** Verlage und Plattformen entscheiden nach Rendite, was sichtbar wird; Gedanken, die länger brauchen, denkt niemand mehr. **Rückkauf:** Öffentlich finanzierte Forschung verschwindet hinter Bezahlschranken. **Humankapital:** Die Wirtschaft sagt der Schule, wen sie braucht; gebildet wird, was die Stelle verlangt. **Lenkung:** Stiftungsräte und Fördergremien urteilen über Arbeit, in der sie nicht stehen, und prüfen vor allem, ob das Geld noch da ist. **Berechnung:** Inhalte richten sich nach Quote und Werbeertrag; verkauft wird nicht dem Menschen etwas, verkauft wird er.
 
       Der Gegenpol ist „Die Wirtschaft ermöglicht das Leben“: Dort endet mit der Gabe jeder Anspruch.
     aspekte:
@@ -5627,71 +5627,44 @@ felder:
             relevance: 0.45
             begruendung: Zeigt das Schuldner-Gläubiger-Verhältnis zwischen Geld und Geist – die Struktur, die aus der Gabe eine Rechnung macht.
         chunk_id: 54d723fc-2aa5-49ea-9548-2b1cdae87be4
-      - schlagwort: Bestellung
-        schlagsatz: Bestellt wird die Frage — und die Antwort dazu.
+      - schlagwort: Humankapital
+        schlagsatz: Bestellt wird der Mensch — passend zur Stelle.
         kurztext: >
-          Konzerne finanzieren Forschung nach Profitlogik: Erforscht wird, was
-          sich vermarkten lässt. Unbequeme Ergebnisse verschwinden in der
-          Schublade, Zweifel wird industriell gesät. Das Geld diktiert die
-          Fragen und die Antworten. Die Uni liefert Personal, keine Bildung —
-          was sich nicht verwerten lässt, wird nicht gelehrt. Bestellte
-          Forschung findet, was erwartet wurde, und zur Not auch dann, wenn es
-          nicht stimmt. Wer gelernt hat, dass Studien käuflich sind, glaubt am
-          Ende keiner mehr. Zurück bleibt eine Wissenschaft, die alles beweisen
-          kann und darum nichts mehr.
+          Die Wirtschaft sagt der Schule, wen sie braucht. Bildung heißt
+          Beschäftigungsfähigkeit, der Mensch Humankapital: ein Bestand, in
+          den investiert wird und der Ertrag bringen soll. Lehrpläne folgen
+          dem Arbeitsmarkt; PISA, der bekannteste Schulvergleich der Welt,
+          kommt von einer Wirtschaftsorganisation. Gefragt wird, was der Mensch
+          für die bestehende Ordnung können muss — nicht, was in ihm veranlagt
+          ist. Aus der Anlage im Menschen wird eine Anlage in den Menschen. So
+          bekommt die Wirtschaft genau die Menschen, die sie bestellt hat, und
+          keinen, der mehr mitbringt. Wer nur Bestelltes heranzieht, dem wächst
+          nichts Neues zu.
         text: >
-          Konzerne finanzieren Forschung nach Profitlogik: Erforscht wird, was
-          sich vermarkten lässt, nicht was die Sache selbst oder der menschliche
-          Bedarf fragt. Schwerer noch wiegt die zweite Stufe: Unbequeme
-          Ergebnisse verschwinden in der Schublade, Studien werden
-          zurückgehalten, Zweifel wird industriell gesät, neue Erfindungen
-          können Märkte gefährden. Das Geld diktiert nicht nur die Fragen,
-          sondern auch die Antworten. Das reicht bis in die Lehre: Die Uni
-          liefert keine Bildung, sie liefert Personal — was sich nicht verwerten
-          lässt, wird nicht gelehrt. Bestellte Forschung findet, was erwartet
-          wurde, und zur Not auch dann, wenn es nicht stimmt. Der Schaden reicht
-          über die einzelne Studie hinaus: Wo Zweifel planmäßig erzeugt wird,
-          verliert auch die redliche Forschung ihre Wirkung — wer gelernt hat,
-          dass Studien käuflich sind, glaubt am Ende keiner mehr. Die Krankheit
-          trifft nicht nur, was erforscht wurde, sondern die Möglichkeit,
-          überhaupt noch etwas zu glauben. Zurück bleibt eine Wissenschaft, die
-          alles beweisen kann und darum nichts mehr.
-        references:
-          - id: 0b89ec61-adf9-436e-ac4a-3c644d0edeb4
-            chunk_id: 72ca33fb-52d1-5a66-a791-a1f367a97888
-            chunk_type: secondary_book
-            source_id: a4a5d676-44fe-5d63-99aa-4a351c310dc4
-            relation: deckt_auf
-            relevance: 0.55
-            begruendung: Kritisiert unobjektive Volkswirtschaftslehre und interessengeleitete Statistik/Bilanzgestaltung – passt zur These, dass Geld die Fragen und Antworten der Wissenschaft bestimmt.
-          - id: 5fe02029-1e4c-433d-8dae-27a6a0f9fdf6
-            chunk_id: 84fca110-d871-5fed-b042-07de6fda80e7
-            chunk_type: secondary_book
-            source_id: 2097962e-459d-515e-8a2f-defcc299b6b6
-            relation: kritisiert
-            relevance: 0.5
-            begruendung: Verspottet die fremdbestimmte Doktorarbeit als Beispiel dafür, dass universitäre Forschung nicht Wahrheit, sondern äußeren Zwecken dient.
-          - id: 0d8d0d23-6329-410d-ab9c-b62b6c14b88d
-            chunk_id: 9d913504-ed24-517b-9ccc-57f5c06e11fe
-            chunk_type: secondary_book
-            source_id: 7de804f1-3e46-5653-acba-dfbfa5018dcb
-            relation: deckt_auf
-            relevance: 0.45
-            begruendung: Zeigt, wie bewusst falsche Begriffe aus Machtinteresse verbreitet werden – Entsprechung zu 'bestellter Forschung, die findet, was erwartet wurde'.
-          - id: 04d74dc6-6360-4140-bd15-47a6115252db
-            chunk_id: cc32fde3-e82f-5057-a353-8098d31114d8
-            chunk_type: secondary_book
-            source_id: f287d43a-5108-4e0c-baa8-5e7d3badfef7
-            relation: kritisiert
-            relevance: 0.4
-            begruendung: Kritisiert eine oberflächliche Modewissenschaft, die Wahrheit an äußere Effekte bindet – berührt das Motiv der käuflichen, verwertungslogischen Wissenschaft.
-          - id: 2f490dbf-5af0-4a01-bb43-7a83719fe76f
-            chunk_id: 389c30d6-f19c-51a6-b3dd-5b6be188d17f
-            chunk_type: secondary_book
-            source_id: 511f741a-63fd-511d-bd69-5653c5f3b059
-            relation: deckt_auf
-            relevance: 0.35
-            begruendung: Thematisiert die organisierte, fremdgesteuerte Struktur des Geisteslebens (Schulen, Universitäten) – Anknüpfung an 'Die Uni liefert Personal, keine Bildung'.
+          Die Wirtschaft sagt der Schule, wen sie braucht — und die Schule
+          liefert. Bildung heißt dann Beschäftigungsfähigkeit, und der Mensch
+          heißt Humankapital: ein Bestand, in den investiert wird und der
+          Ertrag bringen soll. Das Wort ist ehrlich; es sagt, was geschieht.
+          Aus der Anlage im Menschen wird eine Anlage in den Menschen. Die
+          Lehrpläne folgen dem Arbeitsmarkt, die Studiengänge den
+          Berufsbildern, die Bologna-Reform nennt Beschäftigungsfähigkeit
+          ausdrücklich als Ziel. PISA, der bekannteste Schulvergleich der
+          Welt, kommt von der OECD, einer Wirtschaftsorganisation. Fehlen
+          Fachkräfte, soll die Schule sie nachliefern; was sich nicht
+          verwerten lässt, muss sich rechtfertigen oder wird gekürzt. Steiner
+          stellt die Frage genau umgekehrt: „Nicht gefragt soll werden: Was
+          braucht der Mensch zu wissen und zu können für die soziale Ordnung,
+          die besteht; sondern: Was ist im Menschen veranlagt und was kann in
+          ihm entwickelt werden?“ Staat und Wirtschaft sollen die Menschen
+          empfangen, die das Geistesleben heranbildet — ihren Bildungsgang
+          vorschreiben sollen sie nicht. Hier schreiben sie ihn vor: Die
+          bestehende Ordnung macht aus der heranwachsenden Generation, was sie
+          braucht, und nimmt sich damit selbst die Erneuerung. Wer für die
+          Stellen von heute ausgebildet wird, findet die Aufgaben von morgen
+          nicht. Auf der gesunden Seite ist der Verzicht auf den nahen Nutzen
+          die Bedingung des fernen; hier greift die Wirtschaft nach dem nahen
+          und verliert den fernen. Sie bekommt genau die Menschen, die sie
+          bestellt hat — brauchbar, angepasst.
         chunk_id: 8ee29c24-7d23-46f0-9031-48b09ad85a12
       - schlagwort: Lenkung
         schlagsatz: Wer das Geld verwaltet, lenkt den Geist.
@@ -5707,9 +5680,9 @@ felder:
           sie prüft, ob das Geld noch da ist.
         text: >
           Stiftungsräte, Fördergremien, Vergabestellen — überall entscheiden
-          Menschen über geistige Arbeit, in der sie selbst nicht stehen. Bei der
-          Bestellung, dem vorigen Aspekt, wird wenigstens offen gesagt, was verlangt
-          wird; hier wird von außen beurteilt, was förderungswürdig ist, und das
+          Menschen über geistige Arbeit, in der sie selbst nicht stehen. Beim
+          Humankapital, dem vorigen Aspekt, wird wenigstens offen gesagt, wen die
+          Schule liefern soll; hier wird von außen beurteilt, was förderungswürdig ist, und das
           Urteil fällt nach Kriterien, die dem Feld fremd sind: Antragsprosa,
           Wirkungsindikatoren, strategische Passung. Gesund entscheidet über
           geistige Arbeit, wer selbst in ihr drinsteht — wer die Sache kennt,
@@ -5784,8 +5757,8 @@ felder:
           gesunden Wirtschaft das Fundament ist, ohne das keine Struktur trägt,
           ist ihr Bruch hier das Fundament von Krankheiten: Die Überlastung
           lässt ihn allein, die Kurzsichtigkeit übersieht ihn, die Lenkung
-          verfügt über ihn, der Rückkauf kassiert ihn, die Bestellung nutzt ihn
-          aus, das Betriebsgeheimnis verbirgt ihn. Wer rechnet, sieht keinen
+          verfügt über ihn, der Rückkauf kassiert ihn, das Humankapital bestellt ihn,
+          das Betriebsgeheimnis verbirgt ihn. Wer rechnet, sieht keinen
           Bruder — er sieht einen Posten. Am reinsten zeigt sich Brüderlichkeit
           dort, wo die Wirtschaft dem Geist gibt, der nichts tauschen kann; am
           schärfsten zeigt sich ihr Fehlen dort, wo genau dieser zur Ware
