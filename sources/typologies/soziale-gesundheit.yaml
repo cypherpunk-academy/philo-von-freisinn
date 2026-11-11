@@ -5033,7 +5033,7 @@ felder:
     text: |
       Im gesunden Feld Wirtschaft -> Geist versorgt die Wirtschaft das Geistesleben mit dem, was es nicht selbst herstellt: Unterhalt, Räume, Werkzeug, Zeit. Was der Geist hervorbringt, lässt sich nicht bestellen und nicht aufwiegen; darum ist die Versorgung kein Lohn für gelieferte Ware.
 
-      Sieben Aspekte zeigen, wie das geschieht. **Unterhalt:** Eine Gemeinschaft trägt ihre Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt. **Werk- und Wirkstätten:** Die Wirtschaft baut Labor, Schulhaus und Bühne und betritt sie nur als Gast. **Verlässlichkeit:** Getragen wird in Jahren, nicht in Stunden. Versteht kein Geistesarbeiter mehr die Richtung eines Kollegen, muss der etwas anderes machen. **Gabe:** Wo freie Arbeit blüht, wird gern geschenkt; versiegen die Gaben, verkümmert die Arbeit. **Empfang:** Die Wirtschaft wartet, wer kommt, und richtet sich nach dem ein, was der Mensch mitbringt. **Begegnung:** Die Wirtschaft hält einen Raum offen, in dem Fähigkeit und Bedarf einander ohne Zuteilung finden. **Brüderlichkeit:** Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben; wer das versteht, rechnet nicht.
+      Sieben Aspekte zeigen, wie das geschieht. **Unterhalt:** Eine Gemeinschaft trägt ihre Geistesarbeiter, wie ein Bauer sein Saatgut beiseitelegt. **Werk- und Wirkstätten:** Die Wirtschaft baut Labor, Schulhaus und Bühne und betritt sie nur als Gast. **Verlässlichkeit:** Getragen wird in Jahren, nicht in Stunden. Versteht kein Geistesarbeiter mehr die Richtung eines Kollegen, muss der etwas anderes machen. **Gabe:** Schenkungsgeld kommt auf drei Wegen; mit der Gabe endet der Anspruch. **Empfang:** Die Wirtschaft wartet, wer kommt, und richtet sich nach dem ein, was der Mensch mitbringt. **Begegnung:** Die Wirtschaft hält einen Raum offen, in dem Fähigkeit und Bedarf einander ohne Zuteilung finden. **Brüderlichkeit:** Meine Arbeit lebt von Fähigkeiten, die andere in Freiheit entwickelt haben; wer das versteht, rechnet nicht.
 
       Der Gegenpol ist „Das Geld kauft unser Denken“: Dort wird der Gast zum Hausherrn, und das Geld bestimmt Fragen und Antworten.
     aspekte:
@@ -5240,30 +5240,51 @@ felder:
             begruendung: Zeigt einen Betrieb, dessen Impulse nicht von wirtschaftlicher Gewalt, sondern vom Geistesleben kommen — erläutert die geforderte Trennung von Zeitdruck und geistiger Reifung.
         chunk_id: 781e5fb7-faef-49f1-b907-b6b73c8106ba
       - schlagwort: Gabe
-        schlagsatz: Wo freie Arbeit blüht, wird gern geschenkt.
+        schlagsatz: Mit der Gabe endet der Anspruch.
         kurztext: >
           Das Geistesleben lässt sich nicht nach Marktgesetzen organisieren;
-          seine Finanzierung ist Schenkungsgeld. Das Rechtsleben sichert den
-          Zufluss; das Geben ist wirtschaftliche Tat. Es prüft sich selbst:
-          durch die Aufnahme derer, die lernen, und durch das Urteil der
-          Fachgenossen. Wem niemand zuhört, den trägt auch das freieste
-          Geistesleben nicht. Wo freie Arbeit blüht, wird gern geschenkt; wo
-          die Gaben versiegen, verkümmert die Arbeit. Aus Zahlungsmittel wird
-          Möglichkeit.
+          seine Finanzierung ist Schenkungsgeld. Es kommt auf drei Wegen: als
+          Unterhalt, den die Wirtschaft denen unmittelbar gibt, die im
+          Geistesleben arbeiten; als freie Schenkung, mit der Menschen zeigen,
+          was sie schätzen; und aus dem alternden Geld, das am Ende seiner
+          Laufzeit nur noch geschenkt werden kann. Geld, das abläuft, stellt
+          keine Bedingungen. Das Geistesleben prüft sich selbst: durch die
+          Aufnahme derer, die lernen, und durch das Urteil der Fachgenossen.
+          Wem niemand zuhört, den trägt auch das freieste Geistesleben nicht.
+          Wo freie Arbeit blüht, wird gern geschenkt; wo die Gaben versiegen,
+          verkümmert die Arbeit. Aus Zahlungsmittel wird Möglichkeit.
         text: >
           Das Geistesleben lässt sich nicht nach Marktgesetzen organisieren;
-          seine Finanzierung muss das Schenkungsgeld sein: Stiftungen,
-          Mäzenatentum, freie Beiträge. Das Rechtsleben sichert den Zufluss
-          rechtlich; das eigentliche Geben aber ist wirtschaftliche Tat. Das
-          Geistesleben prüft sich selbst: durch die freie Aufnahme derer, die
-          lernen und sich anvertrauen, und durch das Urteil der Fachgenossen.
-          Wem niemand zuhört, den trägt auch das freieste Geistesleben nicht.
-          Zugleich ist die Schenkung mehr als eine individuelle Geste:
-          Geistesleben und Schenkungsstrom nähren einander im Kreislauf. Wo
-          freie Arbeit blüht, wird gern geschenkt; wo die Gaben versiegen,
-          verkümmert die Arbeit — und mit ihr der Anlass zu geben. An diesem
-          Puls lesen die Assoziationen die Gesundheit des Ganzen ab: Aus
-          Zahlungsmittel wird Möglichkeit, und der Strom selbst wird zum
+          seine Finanzierung ist Schenkungsgeld. Es kommt auf drei Wegen. Der
+          erste sichert den Grund, wie beim Rechtsleben: Wer im Geistesleben
+          arbeitet, gehört als Verbraucher einer Wirtschaftskörperschaft an und
+          erhält von ihr unmittelbar, was er zum Leben braucht. Was er selbst
+          nicht am Boden erarbeitet, leisten die anderen für ihn mit. Das ist
+          kein Lohn, denn was ein Lehrer gibt, lässt sich nicht bezahlen. Der
+          zweite Weg ist die freie Schenkung aus dem, was einer zum Leben hat:
+          Wer einen Lehrer, eine Ärztin, ein Werk schätzt, gibt von seinem
+          Kaufgeld — Geld mit genügend Laufzeit, damit der Beschenkte frei
+          darüber verfügen kann. Hier spricht die freie Wertschätzung: Niemand
+          verkauft, niemand kauft, und doch erfährt der Geistesarbeiter
+          unmittelbar, wem seine Arbeit Bedürfnis ist. Der dritte Weg liegt im
+          Geld selbst. In einer gesunden Wirtschaft altert es: Junges Geld
+          taugt zum Leihen und Unternehmen, altes verliert diese Kraft und kann
+          am Ende nur noch geschenkt werden — gerade so, dass der Beschenkte
+          noch damit kaufen kann. Was sich sonst in Grund und Boden staut,
+          fließt so dem Geistesleben zu; die Assoziationen leiten es über und
+          geben junges Geld neu aus. Geld, das abläuft, stellt keine
+          Bedingungen: Mit der Gabe endet der Anspruch, weil nichts
+          zurückbleibt, was fordern kann. Es braucht keinen Kapitalstock, der
+          bewahrt wird, und keinen Stifter, dessen Wille fortgilt. Auf allen
+          drei Wegen ist das Geben wirtschaftliche Tat; wen und was es trägt,
+          entscheidet das Geistesleben. Es prüft sich selbst: durch die freie
+          Aufnahme derer, die lernen und sich anvertrauen, und durch das Urteil
+          der Fachgenossen. Wem niemand zuhört, den trägt auch das freieste
+          Geistesleben nicht. Geistesleben und Schenkungsstrom nähren einander
+          im Kreislauf: Wo freie Arbeit blüht, wird gern geschenkt; wo die Gaben
+          versiegen, verkümmert die Arbeit — und mit ihr der Anlass zu geben.
+          An diesem Puls lesen die Assoziationen die Gesundheit des Ganzen ab:
+          Aus Zahlungsmittel wird Möglichkeit, und der Strom selbst wird zum
           Lebenszeichen.
         references:
           - id: a2d108f4-72e0-42ca-8f4c-f7bc81a21001
