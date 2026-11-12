@@ -69,6 +69,8 @@ HAUPTSATZ_WIDTH_FRAC = 0.5265 # war 0.585; −10 %
 HAUPTSATZ_LH = 1.69           # relativ zur Fontgröße
 HAUPTSATZ_AUTHOR = "Rudolf Steiner"
 HAUPTSATZ_AUTHOR_SCALE = 0.72  # Namenszeile etwas kleiner als das Zitat
+HAUPTSATZ_X_RIGHT_FRAC = 0.01  # bisschen rechts der Mitte der zwei Anker-Überschriften
+HAUPTSATZ_X_LEFT_LETTERS = 2   # zwei Buchstabenbreiten nach links
 
 # Philo-Avatar im unteren Freifeld (Gelb/Blau-Grenze, etwas rechts)
 AVATAR_SRC = os.path.join(_DIR, "..", "..", "assets", "avatar.png")
@@ -179,6 +181,26 @@ FAN_ORDER = (
     "dm-04g", "dm-05g", "dm-06g",
     "dm-03g", "dm-01g", "dm-02g",
 )
+# Gemeinsame Verschiebung: gleicher Pixelabstand für alle IDs
+FAN_SHARED_NUDGES = (
+    {
+        "ids": ("dm-04k", "dm-05k", "dm-06k"),
+        "y_blocks": 3.5,          # 2 + 1,5 Texthöhen nach unten
+        "x_frac": 1.0 / 3.0 - 0.1,  # ⅓ rechts, dann ein klein wenig links
+    },
+    {
+        "ids": ("dm-03k", "dm-01k", "dm-02k"),
+        "y_blocks": 4.0,          # 3 + 1 Texthöhe nach unten
+    },
+    {
+        "ids": ("dm-03g", "dm-01g", "dm-02g"),
+        "y_blocks": 6.0,          # 4 + 2 Texthöhen nach unten
+    },
+    {
+        "ids": ("dm-04g", "dm-05g", "dm-06g"),
+        "y_blocks": 0.5,          # eine halbe Texthöhe nach unten
+    },
+)
 FAN_GROUPS = {
     # --- Krankheit links ---
     "dm-04k": {
@@ -265,6 +287,13 @@ FAN_GROUPS = {
             "yaml_id": "dm-06k",
             "schlagwort": "Humankapital",
         },
+        # letzter Text bleibt oberhalb der Überschrift von dm-05g
+        "align_last_above_heading": {
+            "yaml_id": "dm-05g",
+            "gap_lh": 1.0,
+        },
+        "y_nudge_after_blocks": 1.5,  # +3 unten, dann 1 Texthöhe nach oben
+        "x_nudge_frac": 0.35,         # ½ rechts, dann ein kleines Stück links
     },
     "dm-05g": {
         "panel": "ges", "side": "left",
@@ -281,6 +310,14 @@ FAN_GROUPS = {
             "yaml_id": "dm-04g",
             "schlagwort": "Eigentumszeit",
         },
+        # unterster Text auf einer Linie mit dem 4. Text von dm-06g
+        "align_last_to": {
+            "yaml_id": "dm-06g",
+            "aspect_index": 3,
+            "y_shift_blocks": -0.5,  # noch eine halbe Texthöhe nach oben
+        },
+        "y_nudge_after_blocks": -2.0,  # noch eine Texthöhe nach oben
+        "x_nudge_frac": 2.0 / 3.0,    # 1 nach rechts, dann ⅓ nach links
     },
     "dm-06g": {
         "panel": "ges", "side": "left",
@@ -300,6 +337,9 @@ FAN_GROUPS = {
         },
         "shift_down_to_page": True,
         "heading_lift_clear": True,
+        "y_nudge_blocks": -1.5,  # 1,5 Texthöhen nach oben, ganzer Fächer
+        "y_nudge_after_blocks": -1.0,  # eine Texthöhe nach oben
+        "x_nudge_frac": 2.0 / 3.0,     # 1 nach rechts, dann ⅓ nach links
     },
     # --- Gesundheit rechts (spiegelbildlich zu 04/05/06g) ---
     "dm-03g": {
@@ -338,6 +378,7 @@ FAN_GROUPS = {
         "x_shift": 1280.0,
         "x_shift_text_frac": 0.2,    # spiegelbildlich zu dm-06g (−0.2)
         "heading_x": "first_block",
+        "y_nudge_after_blocks": 1.0 / 3.0,  # ein Drittel Texthöhe nach unten
     },
 }
 FAN_ARC_HEIGHT = 2600.0
@@ -933,7 +974,9 @@ def main():
     krank_y_a0 = SHIFT_Y + a2.get("krank_wm_y", 0.0) + kra_dy
     ges_y_a0 = SHIFT_Y + a2.get("ges_wm_y", 0.0) + ges_dy
     wm_x_a0 = shift_x + a2_w / 2.0
-    krank_fill = A2.sample_bg_darker(hg, A0_W, A0_H, wm_x_a0, krank_y_a0)
+    # Krankheit 20 % dunkler, dann 4 % heller → 16 % dunkler als BG
+    krank_fill = A2.sample_bg_darker(
+        hg, A0_W, A0_H, wm_x_a0, krank_y_a0, darken=0.16)
     ges_fill = A2.sample_bg_darker(hg, A0_W, A0_H, wm_x_a0, ges_y_a0)
     inner = A2.recolor_watermark(inner, "Krankheit", krank_fill)
     inner = A2.recolor_watermark(inner, "Gesundheit", ges_fill)
@@ -947,8 +990,11 @@ def main():
     font = a2["block_font"]
     lh = a2["block_lh"]
     # Sichtbare Strahlen-Schlagwortgröße = RAD_FONT × ARC_ZOOM
-    font_draw = a2.get("rad_font", font) * A2.ARC_ZOOM
+    # +1: alle 12 Halbkreis-Texte und ihre Feld-Überschriften
+    FAN_FONT_BUMP = 2.0
+    font_draw = a2.get("rad_font", font) * A2.ARC_ZOOM + FAN_FONT_BUMP
     lh_draw = font_draw * (lh / font) if font else lh
+    heading_font = heading_font + FAN_FONT_BUMP
     gutter_w = shift_x - PAGE_MARGIN - 20
     col_w = (gutter_w - COL_GAP) / 2 * FAN_TEXT_WIDTH_SCALE
     left_x = PAGE_MARGIN
@@ -1242,6 +1288,121 @@ def main():
                 fan_bottom[yaml_id] = max(p["y"] + p["h"] for p in group)
             print(f"  {yaml_id}: Fächer {lifted:.0f} nach oben (Überschrift frei)")
 
+    def _shift_fan_y(yaml_id, dy):
+        """Ganzen Fächer (7 Texte + Überschrift) vertikal verschieben."""
+        group = by_fan.get(yaml_id) or []
+        fh = next((h for h in fan_headings if h["id"] == yaml_id), None)
+        for p in group:
+            p["y"] += dy
+        if fh:
+            fh["y"] += dy
+        if group:
+            fan_bottom[yaml_id] = max(p["y"] + p["h"] for p in group)
+
+    def _shift_fan_x(yaml_id, dx):
+        """Ganzen Fächer (7 Texte + Überschrift) horizontal verschieben."""
+        group = by_fan.get(yaml_id) or []
+        fh = next((h for h in fan_headings if h["id"] == yaml_id), None)
+        for p in group:
+            p["x"] += dx
+        if fh:
+            fh["x"] += dx
+
+    def _nudge_fans(key):
+        for yaml_id, cfg in FAN_GROUPS.items():
+            n = cfg.get(key)
+            if not n:
+                continue
+            group = by_fan.get(yaml_id) or []
+            if not group:
+                continue
+            top = min(group, key=lambda p: p["y"])
+            dy = n * top["h"]
+            _shift_fan_y(yaml_id, dy)
+            direction = "oben" if dy < 0 else "unten"
+            print(f"  {yaml_id}: {abs(dy):.0f} nach {direction} "
+                  f"({n:g} Texthöhen, ganzer Fächer)")
+
+    # Nach Seitenpin und Überschrift-Frei: explizite Nudges (z. B. dm-06g 1,5 hoch)
+    _nudge_fans("y_nudge_blocks")
+
+    # Untersten Text auf den n-ten Aspekt eines anderen Fächers legen
+    for yaml_id, cfg in FAN_GROUPS.items():
+        align = cfg.get("align_last_to")
+        if not align:
+            continue
+        group = sorted(by_fan.get(yaml_id) or [], key=lambda p: p["y"])
+        ref = sorted(by_fan.get(align["yaml_id"]) or [], key=lambda p: p["y"])
+        idx = align.get("aspect_index", 0)
+        if not group or idx >= len(ref):
+            continue
+        dy = ref[idx]["y"] - group[-1]["y"]
+        extra = align.get("y_shift_blocks", 0)
+        if extra:
+            dy += extra * group[0]["h"]
+        _shift_fan_y(yaml_id, dy)
+        print(f"  {yaml_id}: unterster Text auf {idx + 1}. Text von "
+              f"{align['yaml_id']} ({dy:+.0f})")
+
+    # Untersten Text knapp oberhalb der Überschrift eines anderen Fächers
+    for yaml_id, cfg in FAN_GROUPS.items():
+        align = cfg.get("align_last_above_heading")
+        if not align:
+            continue
+        group = by_fan.get(yaml_id) or []
+        fh = next((h for h in fan_headings if h["id"] == align["yaml_id"]), None)
+        if not group or fh is None:
+            continue
+        last_bot = max(p["y"] + p["h"] for p in group)
+        head_top = fh["y"] - fh["font"] * 0.6
+        gap = align.get("gap_lh", 1.0) * lh_draw
+        dy = head_top - gap - last_bot
+        _shift_fan_y(yaml_id, dy)
+        print(f"  {yaml_id}: letzter Text oberhalb Überschrift "
+              f"{align['yaml_id']} ({dy:+.0f})")
+
+    # Nach den gegenseitigen Ausrichtungen: weitere Nudges vom aktuellen Bild
+    _nudge_fans("y_nudge_after_blocks")
+
+    for yaml_id, cfg in FAN_GROUPS.items():
+        n = cfg.get("x_nudge_frac")
+        if not n:
+            continue
+        group = by_fan.get(yaml_id) or []
+        if not group:
+            continue
+        dx = n * group[0]["w"]
+        _shift_fan_x(yaml_id, dx)
+        direction = "rechts" if dx > 0 else "links"
+        print(f"  {yaml_id}: {abs(dx):.0f} nach {direction} "
+              f"({n:g} Textbreiten, ganzer Fächer)")
+
+    for nudge in FAN_SHARED_NUDGES:
+        ids = nudge["ids"]
+        ref = None
+        for yaml_id in ids:
+            g = by_fan.get(yaml_id)
+            if g:
+                ref = g
+                break
+        if not ref:
+            continue
+        y_n = nudge.get("y_blocks", 0)
+        x_n = nudge.get("x_frac", 0)
+        dy = y_n * min(ref, key=lambda p: p["y"])["h"] if y_n else 0.0
+        dx = x_n * ref[0]["w"] if x_n else 0.0
+        for yaml_id in ids:
+            if dy:
+                _shift_fan_y(yaml_id, dy)
+            if dx:
+                _shift_fan_x(yaml_id, dx)
+        bits = []
+        if dy:
+            bits.append(f"{abs(dy):.0f} {'unten' if dy > 0 else 'oben'}")
+        if dx:
+            bits.append(f"{abs(dx):.0f} {'rechts' if dx > 0 else 'links'}")
+        print(f"  {', '.join(ids)}: {' / '.join(bits)} (gemeinsam)")
+
     if fan_headings:
         top_h = min(fh["y"] for fh in fan_headings)
         bot_t = max(p["y"] + p["h"] for p in fan_items)
@@ -1323,16 +1484,29 @@ def main():
             fh["x"], fh["y"], fh["lines"], fh["font"],
             align=fh.get("align", "middle")))
 
-    # Sozialer Hauptsatz in der freien Mitte (Krankheit → Gesundheit)
+    # Hauptsatz: alte vertikale Lage, horizontal Mitte der zwei Anker-Überschriften
+    def _fan_heading_x(yaml_id):
+        h = next((fh for fh in fan_headings if fh["id"] == yaml_id), None)
+        if h is None:
+            raise SystemExit(f"Hauptsatz-Anker {yaml_id} fehlt")
+        return h["x"]
+
     ges_top = ges_top_a2 + ges_dy
     hauptsatz_lh = HAUPTSATZ_FONT * HAUPTSATZ_LH
-    hauptsatz_cx = shift_x + a2_w / 2.0 - A0_W * 0.01  # 3 % links, dann 2 % rechts
-    hauptsatz_cy = (kra_bot + ges_top) / 2.0 - hauptsatz_lh  # eine Zeilenhöhe nach oben
+    letter_w = text_w("n", HAUPTSATZ_FONT)
+    hauptsatz_cx = (
+        (_fan_heading_x("dm-06k") + _fan_heading_x("dm-02k")) / 2.0
+        + A0_W * HAUPTSATZ_X_RIGHT_FRAC
+        - HAUPTSATZ_X_LEFT_LETTERS * letter_w)
+    hauptsatz_cy = (kra_bot + ges_top) / 2.0 - hauptsatz_lh
     hauptsatz_lines = wrap_text(
         HAUPTSATZ, HAUPTSATZ_FONT, a2_w * HAUPTSATZ_WIDTH_FRAC)
     out.append(draw_hauptsatz(
         hauptsatz_cx, hauptsatz_cy, hauptsatz_lines,
         HAUPTSATZ_FONT, HAUPTSATZ_COLOR, author=HAUPTSATZ_AUTHOR))
+    print(f"Hauptsatz  @ {hauptsatz_cx:.0f},{hauptsatz_cy:.0f}  "
+          f"(alte Höhe, x Mitte + {HAUPTSATZ_X_RIGHT_FRAC:.0%} rechts "
+          f"− {HAUPTSATZ_X_LEFT_LETTERS} Buchstaben)")
 
     out.append(f'  <g id="a2-content" transform="translate({shift_x:.2f},{SHIFT_Y:.2f})">')
     out.append(inner.rstrip())

@@ -36,6 +36,7 @@ import pathlib
 import re
 import shutil
 import subprocess
+import xml.sax.saxutils as xml
 
 # ---------------------------------------------------------------- Seite (DIN A2 Hochformat)
 # 1 SVG-Einheit = 0.1 mm  →  A2 = 420×594 mm = 4200×5940 Einheiten
@@ -50,6 +51,8 @@ MAIN_TITLE_LINES = [
 ]
 MAIN_TITLE_WIDTH_FRAC = 0.90  # Anteil der Seitenbreite (laengste Zeile)
 A2_TITLE_WIDTH_FRAC = 0.72    # A2: Titel mit Rand, damit er ins Bild passt
+MAIN_TITLE_DRAW_BUMP = 10.0   # gezeichnete Schrift, Layout der Halbkreise bleibt
+MAIN_TITLE_DRAW_DY = 10.0     # ganz klein wenig nach unten
 
 # ---------------------------------------------------------------- Dreiecks-Parameter
 SIDE   = 1400.0 * 1.15       # Seitenlaenge (+15%)
@@ -87,9 +90,18 @@ FONT_SIZE  = 18
 LINE_H     = 22
 BLOCK_FONT = 24
 BLOCK_LH   = 34
+BLOCK_A2_FONT_BUMP = 7       # A2: Schlagwort/Schlagsatz +5, dann +2
+BLOCK_SATZ_BUMP = 3          # A2: Schlagsatz 3 px größer als Schlagwort
+SATZ_WRAP_SAMPLE = (
+    "Das Recht erzeugt nichts — es braucht Versorgung. Persönliche Versorgung.")
+BLOCK_WRAP_MAX_LINES = 1     # A2 setzt 2; A0 bleibt Einzeiler
+BLOCK_ITEM_GAP_FRAC = 0.15   # Luft zwischen Schlagwort-Paaren
+BLOCK_SATZ_AFTER = 2.0       # extra Abstand unter jedem Schlagsatz
 BLOCK_PAD  = 60
 BLOCK_PAD_LEFT = 28          # linke 7-Zeiler naeher an den Strahlen
 BLOCK_PAD_RIGHT = 48
+BLOCK_SIDE_GAP_LETTERS = 17  # A2: Abstand 7-Zeiler ↔ Halbkreis (20 − 3)
+GESUND_SHIFT_LETTERS = 5     # A2: Gesundheits-Dreieck nach links (ohne Titel/BG)
 RAD_FONT   = 22
 RAD_GAP    = 14
 V_FONT_SIZE = 46
@@ -117,11 +129,17 @@ BLOCK_FIT_NUDGE_FRAC_GESUND = {
 # dm-05g (Bogen 1): fx = Anteil Blockbreite, fy_lh = Zeilenhöhen (dy<0 oben)
 BLOCK_FIT_NUDGE_LH_GESUND = {}
 
-# Rahmen um die 7-Zeilen-Bloecke (wie A0-Karten)
+# Rahmen um die 7-Zeilen-Bloecke (Ellipse, Innenseite = bündige Textkante)
 BLOCK_FRAME_STROKE = "#b7b1a6"
+BLOCK_FRAME_FILL = "#ffffff"
+BLOCK_FRAME_FILL_OPACITY = 0.15
 BLOCK_FRAME_RX = 12.0
 BLOCK_FRAME_PAD = 10.0
-BLOCK_FRAME_SW = 1.0
+BLOCK_FRAME_SW = 0.0
+BLOCK_ELLIPSE_H_SCALE = 3.0  # Ellipsenhoehe relativ zur Texthoehe
+BLOCK_ELLIPSE_W_SCALE = 2.0  # Ellipsenbreite relativ zur Textbreite
+BLOCK_ELLIPSE_PAD = 5.0      # Abstand Textkante → Ellipsen-Innenseite
+BLOCK_TEXT_OUTWARD = 10.0    # Listen-Text nach aussen, Ellipse bleibt (2× 5 px)
 
 
 # Bogenindex → YAML-IDs (gesund, krank). Nur Layout, kein Inhalt.
@@ -148,6 +166,13 @@ DIRECTION_PREFIX = {
     7: ["Geist \u2192 Recht:"],
     8: ["Geist + Recht", "\u2192 Wirtschaft:"],
 }
+# Innentext-Ausrichtung im Halbkreis (sonst middle)
+LABEL_ANCHOR = {
+    0: "end",    # Recht → Wirtschaft: Folgezeilen ragen nach links
+    6: "start",  # Recht → Geist: Folgezeilen ragen nach rechts
+}
+# Erste Zeile mittig im Halbkreis; nur die folgenden Zeilen schauen heraus
+LABEL_FIRST_CENTERED = {0, 6}
 # 7-Zeiler: links oder rechts vom Bogen
 BLOCK_SIDE = {
     7: "right", 4: "right", 6: "right",
@@ -498,7 +523,7 @@ def label_line_metrics(lines):
     return out
 
 
-def label_pos(center, chord, bulge, offset, n, lines, centroid):
+def label_pos(center, chord, bulge, offset, n, lines, centroid, idx=None):
     if isinstance(lines, str):
         lines = [lines]
     metrics = label_line_metrics(lines)
@@ -519,6 +544,9 @@ def label_pos(center, chord, bulge, offset, n, lines, centroid):
         return add(c, mul(bulge, depth)), ang
 
     ang = 0.0
+    # Erste Zeile im Bogenmittelpunkt; Folgezeilen darunter (herausschauend).
+    if idx in LABEL_FIRST_CENTERED:
+        return (c[0], c[1]), ang
     # Im Bogenmittelpunkt halten. hits_arc schob lange Titel zum Dreieck
     # und aus der Mulde (oben: nach unten, seitlich: nach links/rechts).
     first = (c[0], c[1] - stack_h / 2.0)
@@ -542,9 +570,60 @@ def radial_items(center, chord, bulge, offset, n, words):
     return items
 
 
+def satz_font():
+    if BLOCK_WRAP_MAX_LINES > 1:
+        return BLOCK_FONT + BLOCK_SATZ_BUMP
+    return BLOCK_FONT
+
+
+def satz_wrap_max_w():
+    """Volle Sample-Zeile ist zu lang; umbrechen nach dem ersten Satz."""
+    sample = SATZ_WRAP_SAMPLE
+    cut = sample.split(". ", 1)[0] + "." if ". " in sample else sample
+    return text_w(cut, satz_font(), bold=True)
+
+
+def block_satz_lh():
+    return satz_font() * 1.12
+
+
+def wrap_keyword_satz(word, satz, max_w, font=None):
+    """Zeile 1: Schlagwort. Schlagsatz umbrechen ab SATZ_WRAP_SAMPLE."""
+    if BLOCK_WRAP_MAX_LINES <= 1:
+        return [(f"{word}:", ""), ("", satz)]
+    wrap_at = satz_wrap_max_w()
+    if max_w and max_w < wrap_at:
+        wrap_at = max_w
+    satz_lines = wrap_line(satz, satz_font(), wrap_at, bold=True)
+    return [(f"{word}:", "")] + [("", sl) for sl in satz_lines]
+
+
 def line_w(word, satz):
-    return (text_w(word + ": ", BLOCK_FONT)
-            + text_w(satz, BLOCK_FONT, bold=True))
+    if BLOCK_WRAP_MAX_LINES <= 1:
+        return (text_w(word + ": ", BLOCK_FONT)
+                + text_w(satz, BLOCK_FONT, bold=True))
+    wrap_at = satz_wrap_max_w()
+    satz_lines = wrap_line(satz, satz_font(), wrap_at, bold=True)
+    widths = [text_w(f"{word}:", BLOCK_FONT)]
+    widths.extend(text_w(sl, satz_font(), bold=True) for sl in satz_lines)
+    return max(widths)
+
+
+def block_inner_lh():
+    return BLOCK_FONT * 1.12
+
+
+def block_entry_content_h(word, satz):
+    h = 0.0
+    for _prefix, body in wrap_keyword_satz(word, satz, 0):
+        h += block_satz_lh() if body else block_inner_lh()
+    return h
+
+
+def block_entry_stride(word, satz):
+    return (block_entry_content_h(word, satz)
+            + BLOCK_ITEM_GAP_FRAC * block_inner_lh()
+            + BLOCK_SATZ_AFTER)
 
 
 def block_frame_rects(block_items):
@@ -560,7 +639,10 @@ def block_frame_rects(block_items):
         x = rows[0][0]
         y0, y1 = rows[0][1], rows[-1][1]
         max_w = max(line_w(w, t) for _bx, _by, w, t in rows)
-        h = (y1 - y0) + BLOCK_FONT
+        last_w, last_t = rows[-1][2], rows[-1][3]
+        extra = (block_entry_content_h(last_w, last_t)
+                 if BLOCK_WRAP_MAX_LINES > 1 else BLOCK_FONT)
+        h = (y1 - y0) + extra
         rects.append((
             idx,
             x - pad,
@@ -569,6 +651,55 @@ def block_frame_rects(block_items):
             h + 2 * pad,
         ))
     return rects
+
+
+def block_text_box(rows):
+    """Linke Kante, visuelle Ober-/Unterkante und Spaltenbreite eines 7-Zeilers."""
+    rows = sorted(rows, key=lambda r: r[1])
+    x = rows[0][0]
+    y0, y1 = rows[0][1], rows[-1][1]
+    max_w = max(line_w(w, t) for _bx, _by, w, t in rows)
+    last_w, last_t = rows[-1][2], rows[-1][3]
+    extra = (block_entry_content_h(last_w, last_t)
+             if BLOCK_WRAP_MAX_LINES > 1 else BLOCK_FONT)
+    top = y0 - BLOCK_FONT * 0.5
+    bot = y1 + extra + BLOCK_SATZ_AFTER
+    return x, top, bot, max_w
+
+
+def block_ellipse_geom(block_items):
+    """Ellipse je 7-Zeiler: 2× Textbreite, ~3× Texthoehe, Pad innen am Text."""
+    by_arc = {}
+    for item in block_items:
+        idx, bx, by, w, t = item[0], item[1], item[2], item[3], item[4]
+        by_arc.setdefault(idx, []).append((bx, by, w, t))
+    left_arcs = {i for i, s in BLOCK_SIDE.items() if s == "left"}
+    geoms = {}
+    pad = BLOCK_ELLIPSE_PAD
+    for idx, rows in by_arc.items():
+        x, top, bot, max_w = block_text_box(rows)
+        text_h = max(bot - top, BLOCK_FONT)
+        cy = (top + bot) / 2.0
+        ry = BLOCK_ELLIPSE_H_SCALE * text_h / 2.0 + pad
+        rx = BLOCK_ELLIPSE_W_SCALE * max_w / 2.0 + pad
+        inner_right = idx in left_arcs
+        # Pad gilt an den Text-Ecken (Ellipse dort am schmalsten)
+        t = min(0.999, (text_h / 2.0) / ry) if ry else 0.0
+        k = math.sqrt(max(0.0, 1.0 - t * t))
+        if inner_right:
+            cx = (x + max_w + pad) - k * rx
+        else:
+            cx = (x - pad) + k * rx
+        geoms[idx] = (cx, cy, rx, ry, inner_right)
+    return geoms
+
+
+def ellipse_inner_x(cx, cy, rx, ry, y, inner_right):
+    """X der Ellipsen-Innenseite auf Hoehe y."""
+    t = (y - cy) / ry if ry else 0.0
+    t = max(-0.999, min(0.999, t))
+    half = rx * math.sqrt(max(0.0, 1.0 - t * t))
+    return cx + half if inner_right else cx - half
 
 
 def nudge_blocks_frac(blocks, frac_map):
@@ -729,7 +860,7 @@ def panel_extent(arcs, radial_by_arc, block_items, verts, a, b, c):
         else:
             bx, by, w_, t_ = item
         xs += [bx, bx + line_w(w_, t_)]
-        ys += [by - BLOCK_FONT, by + BLOCK_FONT]
+        ys += [by - BLOCK_FONT, by + (BLOCK_LH if BLOCK_WRAP_MAX_LINES > 1 else BLOCK_FONT)]
     for items in radial_by_arc.values():
         for (px, py), _a, _an, word, d in items:
             wlen = text_w(word, RAD_FONT, bold=True)
@@ -822,7 +953,8 @@ def build_panel_content(arcs, centroid, labels, radial, blocks,
         if isinstance(lines, str):
             lines = [lines]
         center, chord, bulge, n, off = arcs[idx]
-        (px, py), ang = label_pos(center, chord, bulge, off, n, lines, centroid)
+        (px, py), ang = label_pos(
+            center, chord, bulge, off, n, lines, centroid, idx)
         dx, dy = label_nudge.get(idx, (0.0, 0.0))
         label_items.append((idx, px + dx, py + dy, ang, lines))
 
@@ -916,22 +1048,55 @@ def render_panel(out, gid, a, b, c, arcs, verts,
             metrics = label_line_metrics(lines)
             n_dir = direction_line_count(lines)
             gap = label_section_margin()
-            spans = []
-            for i, (t, sz, bold, lh) in enumerate(metrics):
-                dy = 0.0 if i == 0 else metrics[i - 1][3]
-                if i == n_dir and n_dir > 0:
-                    dy += gap  # ueber dem Schlagsatz
-                is_title = i >= n_dir
-                family = FONT_DERIVED if is_title else FONT
-                wt = "normal" if is_title else ("bold" if bold else "normal")
-                spans.append(
-                    f'<tspan x="0" dy="{dy:.2f}" font-size="{sz:.2f}" '
-                    f'font-family="{family}" font-weight="{wt}">{t}</tspan>')
-            extra = gap if n_dir else 0.0
-            py = py - extra / 2.0  # Abstand Mini-Titel/Schlagsatz, Block bleibt zentriert
-            text = (f'<text x="0" y="0" '
-                    f'transform="translate({px:.2f},{py:.2f}) '
-                    f'rotate({ang:.2f})">{"".join(spans)}</text>')
+            first_centered = idx in LABEL_FIRST_CENTERED
+            if first_centered and metrics:
+                first_t, first_sz, first_bold, _ = metrics[0]
+                first_w = text_w(first_t, first_sz, bold=first_bold)
+                hang = LABEL_ANCHOR.get(idx, "middle")
+                if hang == "end":
+                    hang_x = first_w / 2.0
+                elif hang == "start":
+                    hang_x = -first_w / 2.0
+                else:
+                    hang_x = 0.0
+                parts = []
+                y_acc = 0.0
+                for i, (t, sz, bold, lh) in enumerate(metrics):
+                    if i == 0:
+                        x, anch, y = 0.0, "middle", 0.0
+                    else:
+                        y_acc += metrics[i - 1][3]
+                        if i == n_dir and n_dir > 0:
+                            y_acc += gap
+                        x, anch, y = hang_x, hang, y_acc
+                    is_title = i >= n_dir
+                    family = FONT_DERIVED if is_title else FONT
+                    wt = "normal" if is_title else ("bold" if bold else "normal")
+                    parts.append(
+                        f'<text x="{x:.2f}" y="{y:.2f}" text-anchor="{anch}" '
+                        f'font-size="{sz:.2f}" font-family="{family}" '
+                        f'font-weight="{wt}">{xml.escape(t)}</text>')
+                text = (
+                    f'<g transform="translate({px:.2f},{py:.2f}) '
+                    f'rotate({ang:.2f})">{"".join(parts)}</g>')
+            else:
+                spans = []
+                for i, (t, sz, bold, lh) in enumerate(metrics):
+                    dy = 0.0 if i == 0 else metrics[i - 1][3]
+                    if i == n_dir and n_dir > 0:
+                        dy += gap  # ueber dem Schlagsatz
+                    is_title = i >= n_dir
+                    family = FONT_DERIVED if is_title else FONT
+                    wt = "normal" if is_title else ("bold" if bold else "normal")
+                    spans.append(
+                        f'<tspan x="0" dy="{dy:.2f}" font-size="{sz:.2f}" '
+                        f'font-family="{family}" font-weight="{wt}">{t}</tspan>')
+                extra = gap if n_dir else 0.0
+                py = py - extra / 2.0  # Abstand Mini-Titel/Schlagsatz, Block bleibt zentriert
+                anch = LABEL_ANCHOR.get(idx, "middle")
+                text = (f'<text x="0" y="0" text-anchor="{anch}" '
+                        f'transform="translate({px:.2f},{py:.2f}) '
+                        f'rotate({ang:.2f})">{"".join(spans)}</text>')
             if za:
                 out.append(f'      <g {za}>{text}</g>')
             else:
@@ -959,23 +1124,65 @@ def render_panel(out, gid, a, b, c, arcs, verts,
         out.append('    </g>')
 
     if block_items:
-        out.append(f'    <g fill="none" stroke="{BLOCK_FRAME_STROKE}" '
-                   f'stroke-width="{BLOCK_FRAME_SW}">')
-        for idx, fx, fy, fw, fh in block_frame_rects(block_items):
+        ellipses = block_ellipse_geom(block_items)
+        out.append(
+            f'    <g fill="{BLOCK_FRAME_FILL}" '
+            f'fill-opacity="{BLOCK_FRAME_FILL_OPACITY}" '
+            f'stroke="none">')
+        for idx, (ecx, ecy, erx, ery, _inner) in ellipses.items():
             out.append(
-                f'      <rect x="{fx:.2f}" y="{fy:.2f}" width="{fw:.2f}" '
-                f'height="{fh:.2f}" rx="{BLOCK_FRAME_RX:.2f}" '
-                f'ry="{BLOCK_FRAME_RX:.2f}"/>')
+                f'      <ellipse cx="{ecx:.2f}" cy="{ecy:.2f}" '
+                f'rx="{erx:.2f}" ry="{ery:.2f}"/>')
         out.append('    </g>')
         out.append(f'    <g font-family="{FONT}" font-size="{BLOCK_FONT}" '
                    f'fill="{TXT_COLOR}" dominant-baseline="central">')
+        col_w = {}
+        for item in block_items:
+            idx = item[0] if len(item) >= 5 else None
+            w_, t_ = (item[3], item[4]) if len(item) >= 5 else (item[2], item[3])
+            if idx is None:
+                continue
+            col_w[idx] = max(col_w.get(idx, 0.0), line_w(w_, t_))
+        inner_lh = block_inner_lh()
+        satz_lh = block_satz_lh()
+        satz_sz = satz_font()
+        esc = xml.escape
+        left_arcs = {i for i, s in BLOCK_SIDE.items() if s == "left"}
         for item in block_items:
             if len(item) >= 5:
-                _idx, bx, by, w_, t_ = item[0], item[1], item[2], item[3], item[4]
+                idx, bx, by, w_, t_ = item[0], item[1], item[2], item[3], item[4]
             else:
-                bx, by, w_, t_ = item
-            out.append(f'      <text x="{bx:.2f}" y="{by:.2f}">{w_}: '
-                       f'<tspan font-weight="bold">{t_}</tspan></text>')
+                idx, bx, by, w_, t_ = None, item[0], item[1], item[2], item[3]
+            max_w = col_w.get(idx, line_w(w_, t_))
+            lines = wrap_keyword_satz(w_, t_, max_w)
+            right_align = idx in left_arcs
+            geom = ellipses.get(idx)
+            anch = "end" if right_align else "start"
+            y = by
+            satz_lines_seen = 0
+            n_satz = sum(1 for _p, b in lines if b)
+            for prefix, body in lines:
+                if geom:
+                    ecx, ecy, erx, ery, inner_right = geom
+                    tx = ellipse_inner_x(ecx, ecy, erx, ery, y, inner_right)
+                    outward = BLOCK_ELLIPSE_PAD + BLOCK_TEXT_OUTWARD
+                    tx += -outward if inner_right else outward
+                else:
+                    tx = bx + max_w if right_align else bx
+                if body:
+                    out.append(
+                        f'      <text x="{tx:.2f}" y="{y:.2f}" '
+                        f'text-anchor="{anch}" font-size="{satz_sz:.2f}" '
+                        f'font-weight="bold">{esc(body)}</text>')
+                    y += satz_lh
+                    satz_lines_seen += 1
+                    if satz_lines_seen == n_satz:
+                        y += BLOCK_SATZ_AFTER
+                else:
+                    out.append(
+                        f'      <text x="{tx:.2f}" y="{y:.2f}" '
+                        f'text-anchor="{anch}">{esc(prefix)}</text>')
+                    y += inner_lh
         out.append('    </g>')
 
     out.append(f'    <g font-family="{FONT}" font-size="{V_FONT_SIZE}" '
@@ -1007,8 +1214,10 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
     """
     global R, FONT_SIZE, LINE_H, BLOCK_FONT, BLOCK_LH
     global RAD_FONT, RAD_GAP, V_FONT_SIZE, INNER_FONT
+    global BLOCK_WRAP_MAX_LINES
     _saved = (R, FONT_SIZE, LINE_H, BLOCK_FONT, BLOCK_LH,
               RAD_FONT, RAD_GAP, V_FONT_SIZE, INNER_FONT)
+    _saved_wrap = BLOCK_WRAP_MAX_LINES
     try:
         # ---------------------------------------------------------------- Layout: zwei Haelften auf A2
         # Lokales Dreieck mit Spitze bei (0, 0) — wird spaeter verschoben.
@@ -1163,6 +1372,11 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
         LINE_H = LINE_H_S
         BLOCK_FONT = BLOCK_FONT_S
         BLOCK_LH = BLOCK_LH_S
+        if a2_page:
+            BLOCK_FONT = BLOCK_FONT + BLOCK_A2_FONT_BUMP
+            BLOCK_WRAP_MAX_LINES = 2
+            BLOCK_LH = block_inner_lh() * 2.15
+            ges_dx -= GESUND_SHIFT_LETTERS * text_w("n", BLOCK_FONT)
         RAD_FONT = RAD_FONT_S
         RAD_GAP = RAD_GAP_S
         V_FONT_SIZE = V_FONT_SIZE_S
@@ -1317,6 +1531,9 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
             6: "right",  # dm-03g bleibt rechts
             7: "below",  # dm-01g unter dem Strahlenhalbkreis
         }
+        if a2_page:
+            BLOCK_PLACE_KRANK = dict(BLOCK_SIDE)
+            BLOCK_PLACE_GESUND = dict(BLOCK_SIDE)
 
 
         def panel_arc_zooms(arcs, labels, radials, inner, clear_map):
@@ -1412,9 +1629,11 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
                     ys += [p0[1], p1[1], p2[1]]
                 return min(xs), max(xs), min(ys), max(ys)
 
-            def try_place(place, x0, x1, y0, y1, max_w, n_lines):
+            side_gap = (BLOCK_SIDE_GAP_LETTERS * text_w("n", BLOCK_FONT)
+                        if a2_page else None)
+
+            def try_place(place, x0, x1, y0, y1, max_w, block_h):
                 """Position ohne Seiten-Ueberlauf und ohne Fan-Ueberlappung, oder None."""
-                block_h = (n_lines - 1) * BLOCK_LH
                 mid_x = (x0 + x1) / 2
                 mid_y = (y0 + y1) / 2
 
@@ -1425,19 +1644,21 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
                     return bx
 
                 if place == "right":
-                    bx = x1 + BLOCK_PAD_RIGHT
+                    pad = side_gap if side_gap is not None else BLOCK_PAD_RIGHT
+                    bx = x1 + pad
                     by0 = mid_y - block_h / 2
                     if bx + max_w > PAGE_W - PAGE_MARGIN:
                         # Enger an den Fan, wenn der rechte Rand zu knapp ist
                         bx = PAGE_W - PAGE_MARGIN - max_w
-                        if bx < x1 + 8:
+                        if side_gap is None and bx < x1 + 8:
                             return None
                 elif place == "left":
-                    bx = x0 - BLOCK_PAD_LEFT - max_w
+                    pad = side_gap if side_gap is not None else BLOCK_PAD_LEFT
+                    bx = x0 - pad - max_w
                     by0 = mid_y - block_h / 2
                     if bx < PAGE_MARGIN:
                         bx = PAGE_MARGIN
-                        if bx + max_w > x0 - 8:
+                        if side_gap is None and bx + max_w > x0 - 8:
                             # Text wuerde in den Fan laufen — nur kleine Ueberlappung ok
                             pass
                 elif place == "above":
@@ -1452,6 +1673,8 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
                         return None
                 else:
                     return None
+                if side_gap is not None and place in ("left", "right"):
+                    return bx, by0
                 # Fan-Bounding-Box: kleine Randberuehrung (geklammerte Linkstexte) zulassen
                 pad_tol = BLOCK_PAD_LEFT if place == "left" else BLOCK_PAD_RIGHT
                 ox = min(bx + max_w, x1) - max(bx, x0)
@@ -1470,9 +1693,13 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
                     continue
                 x0, x1, y0, y1 = fan_box(idx)
                 max_w = max(line_w(w, t) for w, t in entries)
-                n = len(entries)
+                strides = [block_entry_stride(w, t) for w, t in entries]
+                gap = BLOCK_ITEM_GAP_FRAC * block_inner_lh()
+                block_h = max(sum(strides) - gap, strides[0] if strides else 0.0)
                 preferred = block_place.get(idx, "left")
-                if preferred == "left":
+                if a2_page and preferred in ("left", "right"):
+                    order = (preferred,)
+                elif preferred == "left":
                     order = ("left", "above", "below")
                 elif preferred == "right":
                     order = ("right", "below", "above")
@@ -1482,12 +1709,11 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
                     order = ("below", "right", "left", "above")
                 placed = None
                 for place in order:
-                    placed = try_place(place, x0, x1, y0, y1, max_w, n)
+                    placed = try_place(place, x0, x1, y0, y1, max_w, block_h)
                     if placed:
                         break
                 if not placed:
                     # Notfall: an bevorzugte Seite klemmen
-                    block_h = (n - 1) * BLOCK_LH
                     mid_y = (y0 + y1) / 2
                     if preferred == "right":
                         bx = max(x1 + BLOCK_PAD_RIGHT * 0.35,
@@ -1503,8 +1729,10 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
                                       PAGE_H - PAGE_MARGIN - block_h))
                     placed = (bx, by0)
                 bx, by0 = placed
-                for i, (w, t) in enumerate(entries):
-                    out.append((idx, bx, by0 + i * BLOCK_LH, w, t))
+                y = by0
+                for (w, t), st in zip(entries, strides):
+                    out.append((idx, bx, y, w, t))
+                    y += st
             return out
 
 
@@ -1681,36 +1909,44 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
         equalize_arc_pair_shift(kra_arc_zoom, kra_arcs, BASE_ARC_PAIR)
         kra_blocks_t = fit_blocks_to_zoomed_arcs(
             kra_blocks_t, kra_arcs, kra_radial_t, kra_arc_zoom, BLOCK_PLACE_KRANK)
-        kra_blocks_t = refit_below_centered(
-            kra_blocks_t, 4, kra_arcs, kra_radial_t, kra_arc_zoom)
-        kra_blocks_t = refit_above_centered(
-            kra_blocks_t, 0, kra_arcs, kra_radial_t, kra_arc_zoom)
-        kra_blocks_t = refit_above_centered(
-            kra_blocks_t, 6, kra_arcs, kra_radial_t, kra_arc_zoom)
-        kultur_pos, _kultur_txt = kra_verts[2]
-        kultur_half_w = text_w("Kultur/Geist", V_FONT_SIZE) / 2.0
-        kra_blocks_t = refit_below_right_of(
-            kra_blocks_t, 7, kra_arcs, kra_radial_t, kra_arc_zoom,
-            kultur_pos[0], kultur_half_w)
-        kra_blocks_t = equalize_block_pair_y(kra_blocks_t, BASE_ARC_PAIR, skip={4})
-        kra_blocks_t = nudge_blocks(kra_blocks_t, BLOCK_FIT_NUDGE_KRANK)
-        kra_blocks_t = nudge_blocks_frac(kra_blocks_t, BLOCK_FIT_NUDGE_FRAC_KRANK)
-        kra_blocks_t = mirror_above_horizontal(
-            kra_blocks_t, 0, 6, kra_arcs, kra_radial_t, kra_arc_zoom)
+        if not a2_page:
+            kra_blocks_t = refit_below_centered(
+                kra_blocks_t, 4, kra_arcs, kra_radial_t, kra_arc_zoom)
+            kra_blocks_t = refit_above_centered(
+                kra_blocks_t, 0, kra_arcs, kra_radial_t, kra_arc_zoom)
+            kra_blocks_t = refit_above_centered(
+                kra_blocks_t, 6, kra_arcs, kra_radial_t, kra_arc_zoom)
+            kultur_pos, _kultur_txt = kra_verts[2]
+            kultur_half_w = text_w("Kultur/Geist", V_FONT_SIZE) / 2.0
+            kra_blocks_t = refit_below_right_of(
+                kra_blocks_t, 7, kra_arcs, kra_radial_t, kra_arc_zoom,
+                kultur_pos[0], kultur_half_w)
+            kra_blocks_t = equalize_block_pair_y(
+                kra_blocks_t, BASE_ARC_PAIR, skip={4})
+            kra_blocks_t = nudge_blocks(kra_blocks_t, BLOCK_FIT_NUDGE_KRANK)
+            kra_blocks_t = nudge_blocks_frac(
+                kra_blocks_t, BLOCK_FIT_NUDGE_FRAC_KRANK)
+            kra_blocks_t = mirror_above_horizontal(
+                kra_blocks_t, 0, 6, kra_arcs, kra_radial_t, kra_arc_zoom)
 
         ges_arc_zoom = panel_arc_zooms(
             ges_arcs, ges_labels_t, ges_radial_t, ges_inner_t, ARC_CLEAR_GESUND)
         equalize_arc_pair_shift(ges_arc_zoom, ges_arcs, BASE_ARC_PAIR)
         ges_blocks_t = fit_blocks_to_zoomed_arcs(
             ges_blocks_t, ges_arcs, ges_radial_t, ges_arc_zoom, BLOCK_PLACE_GESUND)
-        ges_blocks_t = refit_below_centered(
-            ges_blocks_t, 3, ges_arcs, ges_radial_t, ges_arc_zoom, extra_lh=3)
-        ges_blocks_t = refit_below_centered(
-            ges_blocks_t, 4, ges_arcs, ges_radial_t, ges_arc_zoom, extra_lh=3)
-        ges_blocks_t = match_block_y(ges_blocks_t, 3, 4)  # dm-02g = Höhe dm-06g
-        ges_blocks_t = nudge_blocks(ges_blocks_t, BLOCK_FIT_NUDGE_GESUND)
-        ges_blocks_t = nudge_blocks_frac(ges_blocks_t, BLOCK_FIT_NUDGE_FRAC_GESUND)
-        ges_blocks_t = nudge_blocks_lh(ges_blocks_t, BLOCK_FIT_NUDGE_LH_GESUND, BLOCK_LH)
+        if not a2_page:
+            ges_blocks_t = refit_below_centered(
+                ges_blocks_t, 3, ges_arcs, ges_radial_t, ges_arc_zoom,
+                extra_lh=3)
+            ges_blocks_t = refit_below_centered(
+                ges_blocks_t, 4, ges_arcs, ges_radial_t, ges_arc_zoom,
+                extra_lh=3)
+            ges_blocks_t = match_block_y(ges_blocks_t, 3, 4)  # dm-02g = Höhe dm-06g
+            ges_blocks_t = nudge_blocks(ges_blocks_t, BLOCK_FIT_NUDGE_GESUND)
+            ges_blocks_t = nudge_blocks_frac(
+                ges_blocks_t, BLOCK_FIT_NUDGE_FRAC_GESUND)
+            ges_blocks_t = nudge_blocks_lh(
+                ges_blocks_t, BLOCK_FIT_NUDGE_LH_GESUND, BLOCK_LH)
 
         # ---------------------------------------------------------------- SVG schreiben
         out = []
@@ -1731,8 +1967,11 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
 
         # Hauptueberschrift ueber dem oberen Dreieck (zwei Zeilen, ~90% Breite)
         main_title_y = PAGE_MARGIN + MAIN_TITLE_FONT * 0.55
+        title_draw_font = MAIN_TITLE_FONT + MAIN_TITLE_DRAW_BUMP
+        title_draw_lh = title_draw_font * 1.12
+        title_draw_y = main_title_y + MAIN_TITLE_DRAW_DY
         _title_spans = "".join(
-            f'<tspan x="{PAGE_W / 2:.2f}" dy="{0 if i == 0 else MAIN_TITLE_LINE_H:.2f}">{line}</tspan>'
+            f'<tspan x="{PAGE_W / 2:.2f}" dy="{0 if i == 0 else title_draw_lh:.2f}">{line}</tspan>'
             for i, line in enumerate(MAIN_TITLE_LINES))
 
         # Sektionsworte als Hintergrund (2× Titelgroesse; Farbe = BG − 5 %)
@@ -1762,9 +2001,9 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
         watermark("Krankheit", krank_wm_y, krank_wm_fill)
         watermark("Gesundheit", ges_wm_y, ges_wm_fill)
 
-        out.append(f'  <text x="{PAGE_W / 2:.2f}" y="{main_title_y:.2f}" '
-                   f'font-family="{FONT}" font-size="{MAIN_TITLE_FONT:.2f}" '
-                   f'font-weight="bold" fill="{TXT_COLOR}" text-anchor="middle" '
+        out.append(f'  <text x="{PAGE_W / 2:.2f}" y="{title_draw_y:.2f}" '
+                   f'font-family="{FONT_DERIVED}" font-size="{title_draw_font:.2f}" '
+                   f'fill="{TXT_COLOR}" text-anchor="middle" '
                    f'dominant-baseline="central" letter-spacing="2">'
                    f'{_title_spans}</text>')
 
@@ -1847,6 +2086,7 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
     finally:
         (R, FONT_SIZE, LINE_H, BLOCK_FONT, BLOCK_LH,
          RAD_FONT, RAD_GAP, V_FONT_SIZE, INNER_FONT) = _saved
+        BLOCK_WRAP_MAX_LINES = _saved_wrap
 
 
 def write_a2_jpg(svg, dpi=300):
