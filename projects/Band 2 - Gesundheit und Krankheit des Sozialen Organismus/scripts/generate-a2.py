@@ -230,6 +230,31 @@ ARC_CLEAR_PAD = 40.0         # Abstand Strahlen zu Vorrechte / Wettbewerb
 LABEL_SECTION_MARGIN_PX = 3.0
 A2_PX_PER_UNIT = (420.0 / 25.4 * 300.0) / PAGE_W
 
+# Fusszeile (nur A2): Philo-Avatar unten mittig, Name links, Kuratorenzeile rechts.
+# Der A0-Avatar misst ca. 700 px bei 9933 px Breite; auf A2 halb so gross (350 px).
+AVATAR_SRC = os.path.join(_DIR, "..", "..", "assets", "avatar.png")
+AVATAR_HREF = "avatar.png"
+FOOTER_AVATAR_D = 350.0 / A2_PX_PER_UNIT      # 350 px @ 300 dpi
+FOOTER_BOTTOM_MARGIN = 190.0 / A2_PX_PER_UNIT  # Unterkante Bild bis Seitenrand
+FOOTER_GAP = 70.0 / A2_PX_PER_UNIT             # Abstand Bild <-> Text
+FOOTER_NAME = "Philo von Freisinn"
+FOOTER_CURATED = "kuratiert von"
+FOOTER_CURATOR = "Michael Schmidt"
+FOOTER_URL = "https://michaelschmidt.berlin"
+FOOTER_FONT_BIG = 66.0 / A2_PX_PER_UNIT
+FOOTER_FONT_SMALL = 52.0 / A2_PX_PER_UNIT
+FOOTER_LH = 78.0 / A2_PX_PER_UNIT
+
+# QR-Code (wie A0) zwischen den Dreiecken, 45 Grad gekippt
+QR_SRC = os.path.join(_DIR, "assets", "qr-github.svg")
+QR_HREF = "qr-github.svg"
+QR_A2_SIZE = 280.0 / A2_PX_PER_UNIT
+QR_A2_LEFT = "Vertiefen"
+QR_A2_RIGHT = "Android/iOS"
+QR_A2_FONT = 60.0 / A2_PX_PER_UNIT
+# Mittelpunkt des QR = Mittelpunkt zwischen den Schwerpunkten beider Dreiecke
+QR_A2_ROT = 45
+
 
 def label_section_margin():
     """Abstand in SVG-Einheiten der gerenderten (skalierten) Labels."""
@@ -1205,6 +1230,69 @@ def render_panel(out, gid, a, b, c, arcs, verts,
     out.append('  </g>')
 
 
+def _tri_cy(a, b, c):
+    return (a[1] + b[1] + c[1]) / 3.0
+
+
+def qr_svg(cx, cy):
+    """QR-Code auf hellem, abgerundetem Feld, um QR_A2_ROT Grad gedreht."""
+    if not os.path.isfile(QR_SRC):
+        return []
+    q = QR_A2_SIZE
+    pad = q * 0.06
+    return [
+        f'  <g transform="rotate({QR_A2_ROT} {cx:.2f} {cy:.2f})">',
+        f'    <rect x="{cx - q / 2 - pad:.2f}" y="{cy - q / 2 - pad:.2f}" '
+        f'width="{q + 2 * pad:.2f}" height="{q + 2 * pad:.2f}" rx="{pad:.2f}" fill="{BG}"/>',
+        f'    <image href="{QR_HREF}" xlink:href="{QR_HREF}" x="{cx - q / 2:.2f}" '
+        f'y="{cy - q / 2:.2f}" width="{q:.2f}" height="{q:.2f}" '
+        f'preserveAspectRatio="xMidYMid meet"/>',
+        "  </g>",
+        f'  <text x="{cx - q * 0.7071 - pad - FOOTER_GAP:.2f}" y="{cy:.2f}" '
+        f'font-family="{FONT_DERIVED}" font-size="{QR_A2_FONT:.2f}" fill="{TXT_COLOR}" '
+        f'text-anchor="end" dominant-baseline="central">{xml.escape(QR_A2_LEFT)}</text>',
+        f'  <text x="{cx + q * 0.7071 + pad + FOOTER_GAP:.2f}" y="{cy:.2f}" '
+        f'font-family="{FONT_DERIVED}" font-size="{QR_A2_FONT:.2f}" fill="{TXT_COLOR}" '
+        f'dominant-baseline="central">{xml.escape(QR_A2_RIGHT)}</text>',
+    ]
+
+
+def footer_svg(cx=None):
+    """Avatar unten mittig; links der Name, rechts 'kuratiert von' + Name + URL.
+
+    Grundlinie von Name (links) und URL (rechts) = Unterkante des Bildes. cx = Bildmitte (Standard: Seitenmitte).
+    """
+    if not os.path.isfile(AVATAR_SRC):
+        return []
+    d = FOOTER_AVATAR_D
+    r = d / 2.0
+    cx = PAGE_W / 2.0 if cx is None else cx
+    bottom = PAGE_H - FOOTER_BOTTOM_MARGIN
+    cy = bottom - r
+    esc = xml.escape
+    x_right = cx + r + FOOTER_GAP
+    x_left = cx - r - FOOTER_GAP
+    return [
+        '  <defs><clipPath id="footer-avatar-clip">'
+        f'<circle cx="{cx:.2f}" cy="{cy:.2f}" r="{r:.2f}"/></clipPath></defs>',
+        f'  <image href="{AVATAR_HREF}" xlink:href="{AVATAR_HREF}" '
+        f'x="{cx - r:.2f}" y="{cy - r:.2f}" width="{d:.2f}" height="{d:.2f}" '
+        'clip-path="url(#footer-avatar-clip)" preserveAspectRatio="xMidYMid slice"/>',
+        f'  <text x="{x_left:.2f}" y="{bottom:.2f}" font-family="{FONT_DERIVED}" '
+        f'font-size="{FOOTER_FONT_BIG:.2f}" fill="{TXT_COLOR}" text-anchor="end">'
+        f'{esc(FOOTER_NAME)}</text>',
+        f'  <text x="{x_right:.2f}" y="{bottom - 2 * FOOTER_LH:.2f}" '
+        f'font-family="{FONT_DERIVED}" font-size="{FOOTER_FONT_SMALL:.2f}" '
+        f'fill="{TXT_COLOR}">{esc(FOOTER_CURATED)}</text>',
+        f'  <text x="{x_right:.2f}" y="{bottom - FOOTER_LH:.2f}" '
+        f'font-family="{FONT_DERIVED}" font-size="{FOOTER_FONT_BIG:.2f}" '
+        f'fill="{TXT_COLOR}">{esc(FOOTER_CURATOR)}</text>',
+        f'  <text x="{x_right:.2f}" y="{bottom:.2f}" font-family="{FONT_DERIVED}" '
+        f'font-size="{FOOTER_FONT_SMALL:.2f}" fill="{TXT_COLOR}">'
+        f'{esc(FOOTER_URL)}</text>',
+    ]
+
+
 def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
     """Baut den A2-Inhalt. Gibt Dict mit svg, inner, Bloecken, Massen zurueck.
 
@@ -2027,7 +2115,13 @@ def build_a2(write_files=False, a2_page=False, draw_seven_liners=True):
 
         out.append('</svg>')
 
-        svg = "\n".join(out)
+        # Fusszeile nur auf der A2-Seite; "inner" (A0-Bibliothek) bleibt ohne.
+        # Mitte der Gruppe = Mitte des Gesundheits-Dreiecks (Apex-x), nicht die Seitenmitte
+        print(f"Dreieck Krankheit Apex-x {kra_a[0]:.1f}  Gesundheit Apex-x {ges_a[0]:.1f}  Seite {PAGE_W/2:.1f}")
+        footer = (footer_svg(ges_a[0]) + qr_svg(
+            (kra_a[0] + ges_a[0]) / 2.0,
+            (_tri_cy(kra_a, kra_b, kra_c) + _tri_cy(ges_a, ges_b, ges_c)) / 2.0)) if a2_page else []
+        svg = "\n".join(out[:-1] + footer + [out[-1]])
 
         # Seite ohne <svg>-Rahmen, ohne Seiten-Rect/Hintergrund (A0 legt beides selbst)
         inner_start = 1
@@ -2114,6 +2208,12 @@ def write_a2_jpg(svg, dpi=300):
         if not os.path.exists(dst):
             shutil.copy2(src, dst)
             tmp_copies.append(dst)
+
+    if os.path.isfile(AVATAR_SRC):
+        av_dst = os.path.join(out_dir, AVATAR_HREF)
+        if not os.path.exists(av_dst):
+            shutil.copy2(AVATAR_SRC, av_dst)
+            tmp_copies.append(av_dst)
 
     out_pdf = os.path.join(
         out_dir, "gesundheit-und-krankheit-des-sozialen-organismus-a2.pdf")
