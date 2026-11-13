@@ -3,7 +3,7 @@
 
 ## Die KI als Problem und Lösung
 
-Vor fast 50 Jahren begann eine Revolution, die der heutigen ähnelt. 1977 kamen die ersten Computer auf den Markt, die sich einzelne Menschen kaufen konnten. Zum ersten Mal stand ein Computer nicht in einem Rechenzentrum, sondern im Arbeitszimmer oder im Wohnzimmer.
+Vor fast 50 Jahren begann eine Revolution, die der heutigen ähnelt. 1977 kamen die ersten Computer auf den Markt, die sich einzelne, wohlhabende Menschen kaufen konnten. Zum ersten Mal stand ein Computer nicht in einem Rechenzentrum, sondern im Arbeitszimmer oder im Wohnzimmer.
 
 Damals sagten viele: Computer bestehen einfach nur aus Nullen und Einsen. Das ist alles. Berge von Nullen und Einsen, Millionen über Millionen, irgendwann vielleicht Milliarden. Und da schaut keiner mehr so richtig durch.
 
@@ -75,9 +75,9 @@ Das braucht Zeit. Und genau die fehlt in unserer schnellen Zeit immer mehr.
 
 ## Was macht das Scrollen mit uns?
 
-Beim allgegenwärtigen Scrollen lesen wir eine Nachricht nach der anderen, und die Informationen kommen völlig durcheinander. Man kann zwar bei einem Thema bleiben. Aber meistens nimmt man einfach ein Thema nach dem anderen und weiß am Ende nicht, was davon wahr ist.
+Beim allgegenwärtigen Scrollen lesen wir eine kurze Nachricht nach der anderen. Es ploppt ein Thema nach dem anderen auf, die Informationen kommen völlig durcheinander, am Ende wissen wir nicht, was davon wahr ist und was nicht. Und selbst wenn uns eine wahre Information erreicht, ist diese oft völlig aus dem Kontext gerissen, sodass wir nicht wirklich etwas damit anfangen können. Lose Gedankenstränge, die dann als Grundlage für Gespräche mit anderen Menschen dienen. Hinter dem Scrollen steht nicht der Wunsch zu verstehen. Es dient der Unterhaltung und es geht darum berichten zu können, was man alles gesehen hat.
 
-Jetzt kommt durch die KI noch mehr hinzu: Deepfakes, also täuschend echte Bilder, Stimmen und Videos, die nie aufgenommen wurden. Und Texte, die in Massen produziert werden, ohne dass ein Mensch sie je gedacht hat. Dafür gibt es inzwischen einen eigenen Begriff: „Slop“, ursprünglich Schlamm oder Abfall. Das Wörterbuch Merriam-Webster hat es zum Wort des Jahres 2025 gewählt.
+Diese Schieflage wird durch die KI noch verstärkt, denn nun kommen Deepfakes hinzu, also täuschend echte Bilder, Stimmen und Videos, die nie aufgenommen wurden. Ebenso wie Texte, die in Massen produziert werden, ohne dass ein Mensch sie je gedacht hat. Dafür gibt es inzwischen einen eigenen Begriff: „Slop“, ursprünglich Schlamm oder Abfall. Das Wörterbuch Merriam-Webster hat es zum Wort des Jahres 2025 gewählt.
 
 ## Bekommt die Menschheit eine Art Demenz?
 
@@ -117,11 +117,11 @@ Doch es gibt noch etwas am Drachen, das auf ganz eigene Art gefährlich ist, auc
 
 ## Was kostet die KI die Natur?
 
-KI braucht Unmengen an Strom. Die Rechenzentren der Welt verbrauchten 2024 rund 415 Terawattstunden, etwa 1,5 Prozent des gesamten Stroms. Bis 2030 erwartet die Internationale Energieagentur eine Verdopplung auf rund 950 Terawattstunden. Das ist so viel, wie heute ganz Japan verbraucht.
+KI braucht Unmengen an Strom. Die Rechenzentren der Welt verbrauchten 2024 rund 415 Terawattstunden, etwa 1,5 Prozent des weltweit verbrauchten Stroms in diesem Jahr (hier stand nur des gesamten Stroms, stimmt es, dass es der weltweit verbrauchte Strom 2024 ist?). Bis 2030 erwartet die Internationale Energieagentur eine Verdopplung auf rund 950 Terawattstunden. Das ist so viel, wie heute ganz Japan verbraucht.
 
 Dazu kommt Wasser zum Kühlen. Schon heute verbrauchen Rechenzentren weltweit über 500 Milliarden Liter im Jahr, 2030 sollen es rund 1.200 Milliarden sein. Oft gerade dort, wo Wasser knapp ist.
 
-Und es braucht riesige Gebäude, Chips und Leitungen. Dafür werden seltene Stoffe überall auf der Erde abgebaut und zusammengetragen: Seltene Erden, Gallium, Kobalt, Kupfer. Millionen Menschen arbeiten daran, oft Kinder, in Minen, Chipfabriken, auf Baustellen und an Bildschirmen, und verwenden dabei wiederum die KI. Und überall nimmt die Natur Schaden. Das alles ergibt eine enorme Belastung der Erde.
+Und es braucht riesige Gebäude, Chips und Leitungen. Dafür werden seltene Stoffe überall auf der Erde abgebaut und zusammengetragen: Seltene Erden, Gallium, Kobalt, Kupfer. Millionen Menschen arbeiten daran, oft Kinder, in Minen, Chipfabriken, auf Baustellen und an Bildschirmen, und verwenden dabei wiederum die KI. Und überall nimmt die Natur Schaden. Das alles ergibt eine extreme Ausbeutung von den dort (gezwungenermaßen) arbeitenden Menschen und eine enorme Belastung der Erde.
 
 ## Ist die KI daran schuld?
 
@@ -135,7 +135,7 @@ Wer zögert, verliert. Wer spart, wird überholt. Wer nicht baut, ist morgen vom
 
 Ein paar Firmen stehen dabei an der Spitze: Microsoft, Google, Amazon, Meta, Apple, Nvidia und Oracle. Allein Microsoft, Google, Amazon und Meta wollen 2026 zusammen über 700 Milliarden Dollar investieren, vor allem in Rechenzentren. Je nach Rechnung tragen die KI-Investitionen inzwischen ein Viertel bis über die Hälfte des gesamten Wirtschaftswachstums der USA. Diese Firmen stehen damit weltweit an der Spitze der wirtschaftlichen Bedeutung.
 
-Zwischen ihnen tobt dieser Krieg am heftigsten. Und er sorgt dafür, dass viel zu viele Rechenzentren und viel zu viele Computer gebaut werden. Jeder baut, weil der andere baut.
+Zwischen ihnen tobt dieser Krieg am heftigsten. Und er sorgt dafür, dass viel zu viele Rechenzentren und viel zu viele Computer gebaut werden. Jeder baut, weil der andere baut. Jeder baut, weil er selbst mehr bekommen möchte, als die anderen. Mehr Gewinn, mehr Macht, mehr wirtschaftliches Wachstum.
 
 ## Woran erkennt man die Wucherung?
 
@@ -200,6 +200,15 @@ Was Menschen gedacht, erforscht und erlitten haben, ob vor Jahrhunderten oder ge
 Bisher war dieses Wissen schwer zu erreichen. Es lag verstreut, vergessen, überdeckt von der Flut des Neuen. Hier hilft uns die KI. Sie macht das Gedächtnis der Menschheit wieder zugänglich. Wir können die Gedanken früherer Zeiten und unserer Zeitgenossen aufsuchen, vergleichen und in unsere Gegenwart holen. Nicht als Ersatz für das eigene Lesen, sondern als Wegweiser zu den Quellen.
 
 So schließt sich der Kreis. Die KI, die uns mit ihrer Flut das Gedächtnis zu rauben droht, kann es uns auch zurückgeben. Und auch das, was wir wegen der Überflutung mit Informationen und der mangelnden Übung unseres Denkens aus den Augen verlieren. Deswegen ist das Erste, was passieren muss, die Befreiung der Bildung und der Kultur, des lebendigen Umgangs mit dem Geist.
+
+## Über die Relevanz, wie die Gewichte hängen und unsere Fähigkeit die richtigen Fragen zu stellen
+
+Die KI macht uns also das Gedächtnis der Menschheit zugänglich basierend auf den Gewichten des jeweiligen Modells. Das was mir die KI also zur Verfügung stellt, hängt ab von der Frage, die ich stelle, ebenso wie von den dem Modell innewohnenden Gewichten. Wir müssen also an diesen zwei Punkten ansetzen. Denn das was wir jetzt brauchen sind neue Fragen und neue Antworten auf die brennenden Fragen unserer Zeit. Wir brauchen Antworten, die über das Gängige hinausgehen, ob sie neu sind oder längst gefunden und vergessen.
+Erstens, an unserer Fähigkeit Fragen zu stellen. Diese Fähigkeit war immer schon wichtig, und ist nun wichtiger als eh und je. Die Fragen, die ich stelle, zeigen schon in die Richtung, in der ich Antworten finden werde.
+Zweitens, an den Gewichten. Häufigkeit ist einer dieser Gewichte. Häufigkeit wird nicht unbedingt neue Fragen und neue Antworten unterstützen, denn Popularität ist nicht gleich Relevanz. Gerade die vergessenen Stimmen benachteiligt die Häufigkeit. 
+Diese Tendenz wird noch weiter unterstützt durch das Nachtraining basierend auf den Bewertungen von Menschen. Das kann begünstigen, dass Modelle in Richtung Konsens, Ausgewogenheit und Vorsicht ziehen. Radikale oder randständige Personen und Positionen geraten dabei eher in den Hintergrund. 
+Außerdem kennt die KI Personen und Positionen am besten, die gut repräsentiert sind im Netz. Bei weniger repräsentierte Personen und Positionen neigt die KI dazu, Zitate zu erfinden und zu verwechseln. Sie erfindet Titel, die gar nicht existieren oder mischt Texte unter, die eigentlich von jemand anderem sind.  
+Daraus folgt, dass Archive, Nachlässe und nicht übersetzte Literatur digitalisiert werden müssen, sodass sie Eingang in den KI-Korpus finden. Außerdem gilt es Werkzeuge zu nutzen, die in echten Textkorpora suchen, statt das Modell aus seinen Gewichten antworten zu lassen.
 
 ## Wem gehört das Gedächtnis der Menschheit?
 
