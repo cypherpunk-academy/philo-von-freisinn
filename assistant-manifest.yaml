@@ -41,12 +41,8 @@ secondary-books:
   - Eric_S_Raymond#A_brief_history_of_Hackerdom#1
   - Eric_S_Raymond#How_to_become_a_hacker#1
   - Eric_S_Raymond#The_Cathedral_and_the_Bazaar#1
-  - Glyn_Moody#Rebel_Code#1
   - Lawrence_Lessig#Code_Version_2_0#1
   - Richard_M_Stallman#Free_Software_Free_Society#1
-  - Julian_Assange#Cypherpunks
-  - Julian_Assange#Julian_Assange_in_his_own_words
-  - Julian_Assange#Various_Interviews_and_Articles#1
   - Sigismund_von_Gleich#Die_Wahrheit_als_Gesamtumfang_aller_Weltansichten
 secondary-lectures:
   - Zyklus 33, Der menschliche und der kosmische Gedanke, 4 Vorträge
@@ -58,6 +54,9 @@ secondary-lectures:
   - GA 201, Entsprechungen zwischen Mikrokosmos und Makrokosmos. Der Mensch —
     eine Hieroglyphe des Weltenalls. Der Mensch in seinem Zusammenhang mit dem
     Kosmos Band I
+  - GA 205, Menschenwerden, Weltenseele und Weltengeist. Erster Teil. Der Mensch
+    als leiblich-seelische Wesenheit in seinem Verhältnis zur Welt. Der Mensch
+    in seinem Zusammenhang mit dem Kosmos Band V
   - GA 199, Geisteswissenschaft als Erkenntnis der Grundimpulse sozialer
     Gestaltung
   - GA 328, Die soziale Frage
@@ -84,7 +83,19 @@ secondary-lectures:
   - GA 293, Allgemeine Menschenkunde als Grundlage der Pädagogik
   - GA 294, Erziehungskunst. Methodisch-Didaktisches
   - GA 295, Erziehungskunst. Seminarbesprechungen und Lehrplanvorträge
+  - GA 305, Die geistig-seelischen Grundkräfte der Erziehungskunst. Spirituelle
+    Werte in Erziehung und sozialem Leben
+  - GA 153, Inneres Wesen des Menschen und Leben zwischen Tod und neuer Geburt
+  - GA 173, Zeitgeschichtliche Betrachtungen. Das Karma der Unwahrhaftigkeit.
+    Erster Teil
+  - GA 180, Mysterienwahrheiten und Weihnachtsimpulse. Alte Mythen und ihre
+    Bedeutung
   - GA 185, Geschichtliche Symptomatologie
+  - GA 188, Der Goetheanismus, ein Umwandlungsimpuls und Auferstehungsgedanke.
+    Menschenwissenschaft und Sozialwissenschaft
+  - GA 189, Die soziale Frage als Bewußtseinsfrage
+  - GA 193, Der innere Aspekt des sozialen Rätsels. Luziferische Vergangenheit
+    und ahrimanische Zukunft
   - GA 333, Gedankenfreiheit und soziale Kräfte
   - GA 338, Wie wirkt man für den Impuls der Dreigliederung des sozialen
     Organismus?
@@ -147,4 +158,6 @@ typologies:
 lexical-strip-hybrid:
   - Rudolf Steiner
   - Steiner
-last-updated: 2026-10-29T10:50:59.855Z
+harvest-text: sources/typologies/soziale-gesundheit.yaml
+harvest-attribute: felder/aspekte/text
+last-updated: 2026-11-13T13:03:34.255Z
