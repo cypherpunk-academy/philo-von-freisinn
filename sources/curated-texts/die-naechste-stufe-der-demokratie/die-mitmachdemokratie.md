@@ -202,3 +202,5 @@ Michael Schmidt · lavisrap@gmail.com
 Repository: [github.com/cypherpunk-academy/philo-von-freisinn](https://github.com/cypherpunk-academy/philo-von-freisinn)
 
 Dieser Text im Repository: [sources/curated-texts/die-naechste-stufe-der-demokratie](https://github.com/cypherpunk-academy/philo-von-freisinn/tree/main/sources/curated-texts/die-naechste-stufe-der-demokratie)
+
+Lizenz: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.de). Frei zum Teilen und Weiterentwickeln unter gleichen Bedingungen.
