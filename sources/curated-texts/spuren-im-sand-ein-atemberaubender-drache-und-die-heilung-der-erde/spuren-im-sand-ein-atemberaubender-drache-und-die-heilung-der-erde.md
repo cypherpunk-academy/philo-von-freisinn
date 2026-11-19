@@ -147,7 +147,7 @@ Da ist der Krieg der Konzerne. Rechenzentren entstehen nicht, weil Menschen sie 
 
 Da ist das Geld, das sich vom wirklichen Leben gelöst hat. Immer mehr Menschen verdienen Geld nicht mit Arbeit, sondern mit Geld. Allein an den Devisenmärkten werden jeden Tag 9,6 Billionen Dollar gehandelt. In zwölf Handelstagen kommt so mehr zusammen, als die ganze Welt in einem Jahr erwirtschaftet. Nur ein winziger Bruchteil davon bezahlt echte Waren.
 
-Da sind die Schieflagen an den Börsen. Alphabet, die Mutter von Google, war im Frühjahr 2026 an der Börse rund 4 Billionen Dollar wert. Das ist fast so viel, wie Deutschland in einem ganzen Jahr erwirtschaftet. Das ist eine kranke Blase, prall gefüllt wie eine Eiterblase. Und trotzdem suchen Millionen Menschen nach einem Weg, noch schnell ihren Anteil davon abzubekommen.
+Da sind die Schieflagen an den Börsen. Alphabet, die Mutter von Google, war im Frühjahr 2026 an der Börse rund 4 Billionen Dollar wert. Das ist fast so viel, wie Deutschland in einem ganzen Jahr erwirtschaftet. Das ist eine kranke Blase, prall gefüllt wie eine Eiterblase – aus Angst, Gier, Herzlosigkeit, Egoismus, Ehrgeiz, Neid und Größenwahn. Und trotzdem suchen Millionen Menschen nach einem Weg, noch schnell ihren Anteil davon abzubekommen.
 
 Und da sind die echten Kriege, mit Bomben geführt. Für 2025 zählen Friedensforscher 65 Konflikte mit Beteiligung von Staaten, so viele wie nie seit 1946. Die Kriege direkt zwischen Staaten haben sich innerhalb eines Jahres verdoppelt. Am 3. Januar 2026 griffen die USA Venezuela aus der Luft an, holten Präsident Nicolás Maduro mit Spezialkräften aus seinem Land und stellten ihn in New York vor Gericht. Die offizielle Erzählung lautet: Narkoterrorismus und Kokainhandel, dafür steht er dort wegen vier Anklagepunkten vor Gericht. Der Hintergrund: Die USA verkaufen seither das Öl Venezuelas und verwalten die Erlöse auf Konten, die sie selbst kontrollieren.
 
@@ -213,7 +213,7 @@ Was aus dem Gedächtnis aller entstanden ist, gehört in die Hände aller. Nicht
 
 Den Drachen reitet keiner allein. Entweder wir reiten ihn gemeinsam, offen und brüderlich, oder er reitet uns.
 
-Und du – fliehst du noch vor dem Drachen, oder sitzt du schon mit im Sattel?
+Und du – fliehst du noch vor dem Drachen oder lässt du dir bequem von ihm alles vordenken? Oder, sitzt du schon im Sattel und sagst ihm, wo es langgeht?
 
 ---
 
