@@ -390,18 +390,22 @@ FAN_TITLE_BODY_GAP = 0.0    # Überschrift → eigener Text (= normaler lh-Schri
 FAN_ASPECT_GAP = 1.0       # mindestens eine Leerzeile zwischen den Texten
 FAN_FIELD_HEADING_GAP = 1.0  # Feld-Titel → erster Aspekt-Titel
 KEYWORD_ABOVE = 1.05       # Schlagwort über der Titel-Grundlinie (draw_aspect_bare)
+ASPECT_TITLE_SCALE = 2.0   # Schlagsatz (fette Zeile je Aspekt) vs. Erklärtext
 
 
-def wrap_aspects(aspects, font, inner_w, *, split_keyword=False, body_key="kurztext"):
+def wrap_aspects(aspects, font, inner_w, *, split_keyword=False, body_key="kurztext",
+                 title_font=None):
     """Je Aspekt: Titelzeile(n) + Erklaertext.
 
     split_keyword: Schlagsatz als Titel, Schlagwort separat (A0-Fächer).
     body_key: A0 setzt kurztext; fehlt er, fällt auf text zurück.
+    title_font: Schlagsatz-Umbruch (default: font).
     """
+    tfont = title_font if title_font is not None else font
     out = []
     for a in aspects:
         if split_keyword:
-            title = wrap_text(a["schlagsatz"], font, inner_w)
+            title = A2.wrap_line(a["schlagsatz"], tfont, inner_w, bold=True)
             keyword = a["schlagwort"]
         else:
             title = wrap_text(f"{a['schlagwort']}: {a['schlagsatz']}", font, inner_w)
@@ -468,13 +472,17 @@ def draw_group(x, y, w, h, font, lh, blocks, fill):
 
 
 def draw_aspect_bare(x, y, w, font, lh, block, title_body_gap=TITLE_BODY_GAP,
-                     baseline_font=None, keyword=None, keyword_opacity=0.3):
+                     baseline_font=None, keyword=None, keyword_opacity=0.3,
+                     title_font=None, title_lh=None):
     """Einzelnen Aspekt ohne Karten-Rechteck zeichnen.
 
     keyword: Schlagwort über der Überschrift, ohne den Abstand nach oben zu ändern.
+    title_font / title_lh: Schlagsatz (fett), getrennt vom Erklärtext.
     """
     esc = xml.escape
-    base = baseline_font if baseline_font is not None else font
+    tfont = title_font if title_font is not None else font
+    tlh = title_lh if title_lh is not None else lh
+    base = baseline_font if baseline_font is not None else tfont
     ty = y + base * 0.45
     parts = []
     if keyword:
@@ -485,21 +493,26 @@ def draw_aspect_bare(x, y, w, font, lh, block, title_body_gap=TITLE_BODY_GAP,
             f'fill="{TXT_COLOR}" fill-opacity="{keyword_opacity:.2f}" '
             f'dominant-baseline="central">{esc(keyword)}</text>')
     parts.append(
-        f'    <text font-family="{FONT}" font-size="{font:.2f}" '
+        f'    <text font-family="{FONT}" font-size="{tfont:.2f}" '
         f'fill="{TXT_COLOR}" dominant-baseline="central">')
     cursor = ty
     for line in block["title"]:
         parts.append(
             f'      <tspan x="{x:.2f}" y="{cursor:.2f}" '
             f'font-weight="bold">{esc(line)}</tspan>')
-        cursor += lh
+        cursor += tlh
     cursor += lh * title_body_gap
-    for line in block["body"]:
-        parts.append(
-            f'      <tspan x="{x:.2f}" y="{cursor:.2f}">'
-            f'{esc(line)}</tspan>')
-        cursor += lh
     parts.append("    </text>")
+    if block["body"]:
+        parts.append(
+            f'    <text font-family="{FONT}" font-size="{font:.2f}" '
+            f'fill="{TXT_COLOR}" dominant-baseline="central">')
+        for line in block["body"]:
+            parts.append(
+                f'      <tspan x="{x:.2f}" y="{cursor:.2f}">'
+                f'{esc(line)}</tspan>')
+            cursor += lh
+        parts.append("    </text>")
     return "\n".join(parts)
 
 
@@ -634,20 +647,23 @@ def draw_philo_avatar(cx, cy, diameter, caption, font_size, intro_lines=None,
     return "\n".join(parts)
 
 
-def fan_block_height(block, font, lh):
+def fan_block_height(block, font, lh, *, title_font=None, title_lh=None):
     """Höhe eines Fächer-Aspekts passend zu draw_aspect_bare."""
+    tfont = title_font if title_font is not None else font
+    tlh = title_lh if title_lh is not None else lh
     n_title = len(block["title"])
     n_body = len(block["body"])
     return (
-        font
-        + max(0, n_title - 1) * lh
+        tfont
+        + max(0, n_title - 1) * tlh
         + lh  # normaler Schritt Titel → erster Body
         + FAN_TITLE_BODY_GAP * lh
         + max(0, n_body - 1) * lh
     )
 
 
-def estimate_aspect_fit(fan_items, font_draw, lh_draw):
+def estimate_aspect_fit(fan_items, font_draw, lh_draw, *,
+                        title_font=None, title_lh=None):
     """Wie stark die 84 Aspekt-Texte gekürzt werden müssten, um ohne Überlauf zu passen."""
     by_id = {}
     for p in fan_items:
@@ -666,7 +682,9 @@ def estimate_aspect_fit(fan_items, font_draw, lh_draw):
         items = sorted(items, key=lambda p: p["y"])
         for i, p in enumerate(items):
             db = p.get("draw_block") or p["block"]
-            drawn_h = fan_block_height(db, font_draw, lh_draw)
+            drawn_h = fan_block_height(
+                db, font_draw, lh_draw,
+                title_font=title_font, title_lh=title_lh)
             if i + 1 < len(items):
                 avail = items[i + 1]["y"] - p["y"]
             else:
@@ -994,6 +1012,8 @@ def main():
     FAN_FONT_BUMP = 2.0
     font_draw = a2.get("rad_font", font) * A2.ARC_ZOOM + FAN_FONT_BUMP
     lh_draw = font_draw * (lh / font) if font else lh
+    title_font_draw = font_draw * ASPECT_TITLE_SCALE
+    title_lh_draw = title_font_draw * 1.12
     heading_font = heading_font + FAN_FONT_BUMP
     gutter_w = shift_x - PAGE_MARGIN - 20
     col_w = (gutter_w - COL_GAP) / 2 * FAN_TEXT_WIDTH_SCALE
@@ -1109,10 +1129,13 @@ def main():
             for p in placed:
                 p["x"] += text_dx
         draw_blocks = wrap_aspects(
-            fg["aspects"], font_draw, inner_w, split_keyword=True)
+            fg["aspects"], font_draw, inner_w, split_keyword=True,
+            title_font=title_font_draw)
         for p, db in zip(placed, draw_blocks):
             p["draw_block"] = db
-            p["h"] = fan_block_height(db, font_draw, lh_draw)
+            p["h"] = fan_block_height(
+                db, font_draw, lh_draw,
+                title_font=title_font_draw, title_lh=title_lh_draw)
         if fan_side == "left":
             clamp_fan_margin(placed)
         else:
@@ -1477,7 +1500,8 @@ def main():
         out.append(draw_aspect_bare(
             fi["x"], fi["y"], fi["w"], font_draw, lh_draw, db,
             title_body_gap=FAN_TITLE_BODY_GAP,
-            keyword=db.get("keyword")))
+            keyword=db.get("keyword"),
+            title_font=title_font_draw, title_lh=title_lh_draw))
 
     for fh in fan_headings:
         out.append(draw_fan_heading(
@@ -1540,8 +1564,11 @@ def main():
           f"Faecher: {len(fan_headings)}")
     print(f"Ueberlauf unten: {len(overflow)}")
     print(f"Faecher-Font  {font:.1f} → {font_draw:.1f}  "
-          f"(Strahlen {a2.get('rad_font', 0):.1f} × {A2.ARC_ZOOM})")
-    fit = estimate_aspect_fit(fan_items, font_draw, lh_draw)
+          f"(Strahlen {a2.get('rad_font', 0):.1f} × {A2.ARC_ZOOM})  "
+          f"Schlagsatz × {ASPECT_TITLE_SCALE}")
+    fit = estimate_aspect_fit(
+        fan_items, font_draw, lh_draw,
+        title_font=title_font_draw, title_lh=title_lh_draw)
     print(
         f"Kuerzung  {fit['n']} Texte, {fit['n_over']} ueberlaufen: "
         f"ca. {fit['cut_pct']:.0f} % der Erklaertexte "
@@ -1573,26 +1600,49 @@ def main():
             shutil.copy2(AVATAR_SRC, dst)
             tmp_copies.append(dst)
 
+    def _svg_to_png():
+        try:
+            subprocess.run(
+                ["rsvg-convert", "-w", str(JPG_W), "-h", str(JPG_H),
+                 OUT_SVG, "-o", png_tmp],
+                check=True,
+            )
+            return
+        except (FileNotFoundError, subprocess.CalledProcessError):
+            import cairosvg
+            cairosvg.svg2png(
+                url=OUT_SVG, write_to=png_tmp,
+                output_width=JPG_W, output_height=JPG_H)
+
+    def _png_to_jpg_pdf():
+        try:
+            subprocess.run(
+                ["magick", png_tmp,
+                 "-density", str(DPI), "-units", "PixelsPerInch",
+                 "-quality", "92", OUT_JPG],
+                check=True,
+            )
+            subprocess.run(
+                ["magick", png_tmp,
+                 "-density", str(DPI), "-units", "PixelsPerInch",
+                 "-compress", "JPEG", "-quality", "92",
+                 OUT_PDF],
+                check=True,
+            )
+            return
+        except (FileNotFoundError, subprocess.CalledProcessError):
+            from PIL import Image
+            img = Image.open(png_tmp)
+            if img.mode in ("RGBA", "LA", "P"):
+                img = img.convert("RGB")
+            img.save(OUT_JPG, quality=92, dpi=(DPI, DPI))
+            img.save(
+                OUT_PDF, "PDF", resolution=DPI, save_all=True)
+
     png_tmp = os.path.join(out_dir, ".a0-render.png")
     try:
-        subprocess.run(
-            ["rsvg-convert", "-w", str(JPG_W), "-h", str(JPG_H),
-             OUT_SVG, "-o", png_tmp],
-            check=True,
-        )
-        subprocess.run(
-            ["magick", png_tmp,
-             "-density", str(DPI), "-units", "PixelsPerInch",
-             "-quality", "92", OUT_JPG],
-            check=True,
-        )
-        subprocess.run(
-            ["magick", png_tmp,
-             "-density", str(DPI), "-units", "PixelsPerInch",
-             "-compress", "JPEG", "-quality", "92",
-             OUT_PDF],
-            check=True,
-        )
+        _svg_to_png()
+        _png_to_jpg_pdf()
         print(f"wrote {OUT_JPG}  {JPG_W}×{JPG_H} @ {DPI} dpi")
         print(f"wrote {OUT_PDF}  DIN A0  841×1189 mm @ {DPI} dpi")
     finally:
