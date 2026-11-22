@@ -317,7 +317,7 @@ Die erste Annahme heißt: die Bibel wörtlich nehmen. Der Blick in den Urtext ha
 
 Die Apokalypse sagt selbst, wie sie gelesen werden will. Gleich im ersten Vers steht *esēmanen*: Sie ist „in Zeichen gesetzt“. Wer ihre Bilder als Nachrichten von morgen liest, macht nach Steiner einen alten Fehler. Er erwartet ein himmlisches Reich „auf dieser Welt im physischen Sinne“ und schiebt den Termin hinaus, wenn nichts geschieht. Von Brightman bis Whisenant ist es genau so gekommen.
 
-Steiner sieht darin Materialismus, der sich für Frömmigkeit hält. 1919 nennt er zwei Strömungen, die den Menschen im Äußeren festhalten: das nationale Prinzip, das die Menschheit in Gruppen spaltet, und das „wortwörtliche“ Festhalten an den Evangelien, das jede geistige Vertiefung abweist. Beide dienen für ihn derselben Macht, die er Ahriman nennt, der Kraft, die den Menschen an das bloß Materielle bindet. Im christlichen Zionismus kommen beide zusammen.
+Steiner sieht darin Materialismus, der sich für Frömmigkeit hält. 1919 beschreibt er Strömungen, die Ahriman braucht, die Kraft, die den Menschen an das bloß Materielle bindet. Die eine ist das nationale Prinzip, alles, was die Menschen „spalten kann in Menschengruppen“. Die andere: Man will sich „schlicht, das heißt bequem, in die Evangelien hineinfinden“, ohne sie geistig zu durchdringen. Am meisten arbeiten nach Steiner diejenigen Ahriman zu, die predigen: „Ihr braucht nichts weiter, als im Evangelium zu lesen!“ Im christlichen Zionismus kommen beide Strömungen zusammen.
 
 #### Wo liegt das heilige Land?
 
